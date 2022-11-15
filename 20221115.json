@@ -1,5 +1,5 @@
 {
-"spider":"https://gitee.com/xl04wy22/tvbox/raw/master/2925.jar",
+"spider":"https://gitee.com/xl04wy22/tvbox/raw/master/2925.jar;md5;bf5ca8b129156acde05229b5a831cd3c",
 
 "lives": [{"group": "redirect","channels": [{
 "name": "redirect","urls": [
