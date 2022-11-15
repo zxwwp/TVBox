@@ -3,7 +3,7 @@
 
 "lives": [{"group": "redirect","channels": [{
 "name": "redirect","urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd3dwMjIwMDF4L3R2L3Jhdy9tYXN0ZXIvVFYudHh0"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="
 ]}]}],
 
 
