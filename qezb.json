@@ -12,7 +12,7 @@
         "搏击":"directory/game/Fight",
         "网球排球":"directory/game/Tennis",
         "英文原声":"directory/game/English",
-        "台球":"directory/game/Billiards",
+        
         "棒球/橄榄球/冰球":"directory/game/MLB",
         "NBA":"directory/game/NBA",
         "CBA":"directory/game/CBA",
