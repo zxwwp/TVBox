@@ -1,4 +1,5 @@
 {
+"wallpaper": "https://www.yydsys.top/api.php",
 "spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/duov.jar;md5;89c9eaec380dc16ec274b772346270ba",
 
 "lives": [{"group": "redirect","channels": [{
