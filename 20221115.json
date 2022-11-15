@@ -67,7 +67,8 @@
 {"key":"csp_xBPQ_好看影视","name": "📺好看影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/好看影视.json"},
 
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/路漫漫动漫.json"},
-{"key":"美食","name":"👨‍🌾美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/软件教程.json"}
+{"key":"美食","name":"👨‍🌾美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/美食合集.json"},
+{"key":"软件","name":"👨‍🌾软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/软件教程.json"}
 ],
 
 "parses":[
