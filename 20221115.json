@@ -66,7 +66,7 @@
 {"key":"csp_xBPQ_追剧猫","name": "🍀追剧猫(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/追剧猫.json"},
 {"key":"csp_xBPQ_23影视","name":"🍀23影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/23影视.json"},
 {"key":"csp_xBPQ_e9视频","name":"🍀e9视频(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/e9视频.json"},
-{"key": "dr_闪影影院","name": "🍀闪影影院(drpy)","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/libs/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/admin/view/闪影影院.js"},
+{"key": "dr_闪影影院","name": "🍀闪影影院(drpy)","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/闪影影院.js"},
 {"key":"csp_xbb_稀饭影视","name":"🍀稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/稀饭影视.json"},
 
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/路漫漫动漫.json"},
