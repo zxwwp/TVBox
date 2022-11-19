@@ -1,48 +1,48 @@
 {
-    "author":"88看球",
-	"ua": "",
-    "homeUrl": "http://www.88kanqiu.cc/",
-    "cateManual": {"NBA":"1","CBA":"2","世界杯":"3","英超":"8","西甲":"9","意甲":"10","德甲":"14","法甲":"15","欧冠":"12","欧联":"13","欧国联":"16","足总杯":"27","国王杯":"33","中超":"7","亚冠":"11","综合":"23","网球":"29","斯诺克":"30"},
-	"homeVodNode": "//div[@class='row d-none d-lg-flex justify-content-between align-items-center vertical-center']",
-	"homeVodName": "concat(/div[@class='col-md-4 text-right']/span/text(),'vs',/div[@class='col-md-4 text-left']/span/text())",
-	"homeVodId": "/div[contains(@class,'pay-btn')]/a/@href",
-	"homeVodIdR": "/live/(\\d+)/play",
-	"homeVodImg": "/div[4]/img/@src",
-	"homeVodImgR": "\\S+(http\\S+)",
-	"homeVodMark": "concat(/div[contains(@class,'category-game-time')]/text(),'---',/div[contains(@class,'pay-btn')]/a/text())",
-	"cateUrl": "http://www.88kanqiu.cc/match/{cateId}/live",
-	"cateVodNode": "//div[@class='row d-none d-lg-flex justify-content-between align-items-center vertical-center']",
-	"cateVodName": "concat(/div[@class='col-md-4 text-right']/span/text(),'vs',/div[@class='col-md-4 text-left']/span/text())",
-	"cateVodId": "/div[contains(@class,'pay-btn')]/a/@href",
-	"cateVodIdR": "/live/(\\d+)/play",
-	"cateVodImg": "/div[4]/img/@src",
-	"cateVodImgR": "\\S+(http\\S+)",
-	"cateVodMark": "concat(/div[contains(@class,'category-game-time')]/text(),'---',/div[contains(@class,'pay-btn')]/a/text())",
+"author": "",
+"ua": "",
+"homeUrl": "http://www.88kanqiu.cc/",
+"cateManual": {
+"看球直播": "666"
+},
+
+"cateUrl": "http://www.88kanqiu.cc",
+"cateVodNode": "//div[@class='row d-none d-lg-flex justify-content-between align-items-center vertical-center']",
+"cateVodName": "concat(/div[@class='col-md-4 text-right']/span/text(),'vs',/div[@class='col-md-4 text-left']/span/text())",
+"cateVodId": "/div[contains(@class,'pay-btn')]/a/@href",
+"cateVodIdR": "/live/(\\d+)/play",
+"cateVodImg": "/div[4]/img/@src",
+"cateVodImgR": "\\S+(http\\S+)",
+"cateVodMark": "concat(/div[contains(@class,'category-game-time')]/text(),'-',/div[contains(@class,'pay-btn')]/a/text())",
+
+	// 详情页
 	"dtUrl": "http://www.88kanqiu.cc/live/{vid}/play",
-	"dtNode": "//body",
-	"dtName": "//div[contains(@class,'game-time')]/text()[2]",
-	"dtNameR": "",
-	"dtImg": "//div[contains(@class,'team-name text-center')][1]/img/@src",
-	"dtImgR": "\\S+(http\\S+)",
-    "dtCate": "//div[contains(@class,'game-time')]/text()[2]",
-    "dtActor":"concat(//div[@class='col-md-3 team-name text-center'][1]/span/text(),'-',//div[@class='col-md-3 team-name text-center'][2]/span/text())",
-    "dtArea": "",
-	"dtFromNode": "//li[contains(@class,'nav-active')]/a",
-    "dtFromName": "/text()",
-    "dtFromNameR": "",
-	"dtUrlNode": "//div[contains(@class,'game-videos-btn-container')]/div[1]",
-	"dtUrlSubNode": "/div/a",
-	"dtUrlId": "/@href",
-	"dtUrlIdR": "",
-	"dtUrlName": "/text()",
-	"dtUrlNameR": "",
-	"playUrl":"http://www.88kanqiu.cc{playUrl}",
-    "playUa": "",
-	"searchUrl": "",
-	"scVodNode": "",
-	"scVodName": "",
-	"scVodId": "",
-	"scVodIdR": "",
-	"scVodImg": "",
-	"scVodMark": ""
+	// 详情节点
+    "dtNode": "//head",
+	// 视频名
+    "dtName": "/title/text()",
+	// 视频图片
+    "dtImg": "'http://img2.3png.com/822d9cc2fb65cf2d60e19db4ed932934303f.png'",
+    // 视频简介
+    "dtDesc": "concat('')",
+	
+	// 播放源节点
+    "dtFromNode": "//body",
+	// 播放源名称
+    "dtFromName":  "'【推荐优先选择中文超清或中文高清直播源观看】'",
+	// 播放列表节点
+    "dtUrlNode": "//div[@class='game-videos-btn-container']",
+	// 播放地址节点
+    "dtUrlSubNode": "//a[@rel='nofollow']",
+	// 播放地址
+    "dtUrlId": "/@href",
+    "dtUrlIdR": "(\\S+)",
+	// 剧集名称
+    "dtUrlName": "/text()",
+	
+	//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+    "playUrl":"http://www.88kanqiu.cc{playUrl}"
+
+
+
 }
