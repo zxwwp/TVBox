@@ -36,7 +36,7 @@
   "cateVodMark": "",
     
 
-    //
+
     "dtUrl": "https://m.live.qq.com/{vid}",
     "dtNode": "//body",
     "dtName": "//p[contains(@class,'p-title')]/text()",
