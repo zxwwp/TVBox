@@ -419,22 +419,19 @@ CNC中文,http://39.137.49.76:8080/PLTV/88888888/224/3221225693/index.m3u8?
 贵州卫视,http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8
 湖北卫视,http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
 🏀篮球频道,#genre#
-11月19日08:00热火 VS 奇才,https://global.zkshuye.cn/live/sd-2-3674684.m3u8
-08:30黄蜂 VS 骑士,https://global.zkshuye.cn/live/sd-2-3674685.m3u8
-08:30雄鹿 VS 76人,https://global.zkshuye.cn/live/sd-2-3674686.m3u8
-09:00魔术 VS 公牛,https://global.zkshuye.cn/live/sd-2-3674687.m3u8
-09:00步行者 VS 火箭,https://global.zkshuye.cn/live/sd-2-3674688.m3u8
-09:00雷霆 VS 灰熊,https://global.zkshuye.cn/live/sd-2-3674689.m3u8
-09:30掘金 VS 独行侠,https://global.zkshuye.cn/live/sd-2-3674690.m3u8
-09:30 凯尔特人 VS 鹈鹕,https://global.zkshuye.cn/live/sd-2-3674691.m3u8
-10:00太阳 VS 爵士,https://global.zkshuye.cn/live/sd-2-3674692.m3u8
-11:00尼克斯 VS 勇士,https://global.zkshuye.cn/live/sd-2-3674693.m3u8
-11:30活塞 VS 湖人,https://global.zkshuye.cn/live/sd-2-3674694.m3u8
 11月20日07:00猛龙 VS 老鹰,https://global.zkshuye.cn/live/sd-2-3674695.m3u8
 08:00魔术 VS 步行者,https://global.zkshuye.cn/live/sd-2-3674696.m3u8
 08:30森林狼 VS 76人,https://global.zkshuye.cn/live/sd-2-3674697.m3u8
 11:00爵士 VS 开拓者,https://global.zkshuye.cn/live/sd-2-3674698.m3u8
 11:30马刺 VS 快船,https://global.zkshuye.cn/live/sd-2-3674699.m3u8
+11月21日04:30尼克斯 VS 太阳,https://global.zkshuye.cn/live/sd-2-3674700.m3u8
+07:00黄蜂 VS 奇才,https://global.zkshuye.cn/live/sd-2-3674701.m3u8
+07:00活塞 VS 国王,https://global.zkshuye.cn/live/sd-2-3674702.m3u8
+08:00灰熊 VS 篮网,https://global.zkshuye.cn/live/sd-2-3674703.m3u8
+08:00热火 VS 骑士,https://global.zkshuye.cn/live/sd-2-3674704.m3u8
+08:00勇士 VS 火箭,https://global.zkshuye.cn/live/sd-2-3674705.m3u8
+08:30掘金 VS 独行侠,https://global.zkshuye.cn/live/sd-2-3674706.m3u8
+10:30马刺 VS 湖人,https://global.zkshuye.cn/live/sd-2-3674707.m3u8
 🏀体育频道,#genre#
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 CCTV5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
