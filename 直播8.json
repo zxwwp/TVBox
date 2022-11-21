@@ -10,13 +10,13 @@
 "cateVodNode": "//div[@class='row d-none d-lg-flex justify-content-between align-items-center vertical-center']",
 "cateVodName": "concat(/div[@class='col-md-4 text-right']/span/text(),'vs',/div[@class='col-md-4 text-left']/span/text())",
 "cateVodId": "/div[contains(@class,'pay-btn')]/a/@href",
-"cateVodIdR": "/live/(\\d+)/play",
+"cateVodIdR": "/live_play_inner/(\\d+)/play",
 "cateVodImg": "/div[4]/img/@src",
 "cateVodImgR": "\\S+(http\\S+)",
 "cateVodMark": "concat(/div[contains(@class,'category-game-time')]/text(),'-',/div[contains(@class,'pay-btn')]/a/text())",
 
 	// 详情页
-	"dtUrl": "https://m.zhibo8.net/live/{vid}/play",
+	"dtUrl": "https://m.zhibo8.net/live_play_inner/{vid}/play",
 	// 详情节点
     "dtNode": "//head",
 	// 视频名
