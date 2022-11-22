@@ -8,6 +8,7 @@
 {"key": "全网直播","name": "🏀全网直播","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/直播8.json"},
 
 {"key": "csp_XBPQ极品影视","name": "📺极品影视","type": 3,"api": "csp_xBPQ","searchable":"1","quickSearch":"1","filterable":"1","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/极品影视.json"},
+{"key":"csp_xBPQ_奈落影院","name": "📺奈落影院(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": "0","filterable": "0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/奈落影院.json"},      
 {"key":"csp_xpath_农民影视","name":"📺农民影视","type":3,"api":"csp_XPathMacFilter","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/xl04wy22/tvbox/raw/master/农民影视.json"},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":"1","quickSearch":"1","filterable":"1"},
@@ -32,7 +33,6 @@
 {"key": "csp_Zjdr", "name": "🌊追剧达人", "type": 3, "api": "csp_Zjdr", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar": "","ext": ""},
 {"key": "Zxzj","name": "🐨在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": ""},
 
-{"key":"csp_xBPQ_奈落影院","name": "📺奈落影院(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/奈落影院.json"},      
 {"key": "csp_XYQBiu_影子工厂","name":"📺影子工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/xl04wy22/tvbox/raw/master/影视工厂.json"},
 {"key":"csp_biubiu_COKEMV","name":"📺COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/COKEMV.json"},
 {"key":"csp_xp_lezhutv","name":"📺乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/乐猪TV.json"},
