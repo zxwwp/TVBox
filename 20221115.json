@@ -1,11 +1,13 @@
 {
 "sites":[
-{"key": "dr_JRKAN直播","name": "🏀JRKAN直播","type": "3","api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpymin.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/JRKAN看球.js"},
-{"key":"JRS赛事直播","name":"🏀JRS赛事直播","type":"3","api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/JRS%E7%9C%8B%E7%9B%B4%E6%92%AD.json"},
-{"key":"csp_XYQBiu_17看球","name":"🏀17看球","type":"3","api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/17看球.json"},
-{"key":"csp_XYQBiu_310直播","name":"🏀310看球","type":"3","api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext" : "https://gitee.com/xl04wy22/tvbox/raw/master/310直播.json"},
-{"key": "csp_xpath_88kanqiu","name": "🏀88看球","type": "3","api": "XPath3","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/88看球.json"},
-{"key": "全网直播","name": "🏀全网直播","type":"3","api": "XPath3","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/直播8.json"},
+{"key": "dr_JRKAN直播","name": "🏀JRKAN直播","type":"3","api":"https://gitee.com/xl04wy22/tvbox/raw/master/drpymin.js","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/JRKAN看球.js"},
+{"key":"JRS赛事直播","name":"🏀JRS赛事直播","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext":"https://gitee.com/xl04wy22/tvbox/raw/master/JRS%E7%9C%8B%E7%9B%B4%E6%92%AD.json"},
+{"key":"csp_XYQBiu_17看球","name":"🏀17看球","type":"3","api":"csp_XYQBiu","searchable":"0","quickSearch":"0","filterable":"0","ext":"https://gitee.com/xl04wy22/tvbox/raw/master/17看球.json"},
+{"key":"csp_XYQBiu_310直播","name":"🏀310看球","type":"3","api":"csp_XYQBiu","searchable":"0","quickSearch":"0","filterable":"0","ext" : "https://gitee.com/xl04wy22/tvbox/raw/master/310直播.json"},
+{"key": "csp_xpath_88kanqiu","name": "🏀88看球","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/88看球.json"},
+{"key": "全网直播","name": "🏀全网直播","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/直播8.json"},
+
+{"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
 
 {"key":"csp_xpath_农民影视","name":"📺农民影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/农民影视.json"},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
