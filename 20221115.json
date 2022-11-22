@@ -26,7 +26,7 @@
 
 {"key":"csp_biubiu_555电影","name":"🍅555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/xingyuan/tv/raw/main/json/555%E7%94%B5%E5%BD%B1.json"},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"drpy_js_大师兄影视","name":"大师兄影视[DRPY]","type":3,"api":"https://notabug.org/xingyuan/tv/raw/main/drpy.js","ext":"https://notabug.org/xingyuan/tv/raw/main/js/大师兄影视.js"},
+{"key":"drpy_js_大师兄影视","name":"✨大师兄影视[DRPY]","type":3,"api":"https://notabug.org/xingyuan/tv/raw/main/drpy.js","ext":"https://notabug.org/xingyuan/tv/raw/main/js/大师兄影视.js"},
 {"key":"影图影视","name":"🥪影图影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"csp_SP360","name":"💫360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
