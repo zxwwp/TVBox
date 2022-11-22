@@ -7,6 +7,8 @@
 {"key": "csp_xpath_88kanqiu","name": "🏀88看球","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/88看球.json"},
 {"key": "全网直播","name": "🏀全网直播","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/直播8.json"},
 
+{"key":"csp_xpath_czspp","name":" ⏰厂长资源","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/zalman2022/mytv/raw/master/json/czspp.json"},
+
 {"key":"csp_xpath_农民影视","name":"📺农民影视","type":3,"api":"csp_XPathMacFilter","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/xl04wy22/tvbox/raw/master/农民影视.json"},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":"1","quickSearch":"1","filterable":"1"},
