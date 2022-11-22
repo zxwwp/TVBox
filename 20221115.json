@@ -11,11 +11,7 @@
 {"key":"csp_biubiu_555电影","name":"🍅555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/xingyuan/tv/raw/main/json/555%E7%94%B5%E5%BD%B1.json"},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_大师兄影视","name":"大师兄影视[DRPY]","type":3,"api":"https://notabug.org/xingyuan/tv/raw/main/drpy.js","ext":"https://notabug.org/xingyuan/tv/raw/main/js/大师兄影视.js"},
-{"key":"drpy_js_大师兄影视","name":"大师兄影视[DRPY]","type":3,"api":"https://notabug.org/xingyuan/tv/raw/main/drpy.js","ext":"https://notabug.org/xingyuan/tv/raw/main/js/大师兄影视.js"},
-{"key":"drpy_js_厂长资源","name":"厂长资源[DRPY]","type":3,"api":"https://notabug.org/xingyuan/tv/raw/main/drpy.js","ext":"https://notabug.org/xingyuan/tv/raw/main/js/厂长资源.js"},
-{"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"天天影视","name":"🥗天天影视","type":1,"api":"http://tttv.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},   
 {"key":"csp_xpath_农民影视","name":"📺农民影视","type":3,"api":"csp_XPathMacFilter","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/xl04wy22/tvbox/raw/master/农民影视.json"},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":"1","quickSearch":"1","filterable":"1"},
