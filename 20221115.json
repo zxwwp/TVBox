@@ -8,9 +8,15 @@
 {"key": "全网直播","name": "🏀全网直播","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/直播8.json"},
 {"key":"csp_XPath_鹅直播","name":"🐧直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/qezb.json"},
 
+{"key": "dr_88看球","name": "88看球(drpy)","type": 3,"api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/88%e7%9c%8b%e7%90%83.js"},
+{"key": "dr_JRKAN直播","name": "JRKAN直播(drpy)","type": 3,"api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN%e7%9b%b4%e6%92%ad.js"},
+
+
 {"key":"csp_biubiu_555电影","name":"🍅555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/xingyuan/tv/raw/main/json/555%E7%94%B5%E5%BD%B1.json"},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_大师兄影视","name":"大师兄影视[DRPY]","type":3,"api":"https://notabug.org/xingyuan/tv/raw/main/drpy.js","ext":"https://notabug.org/xingyuan/tv/raw/main/js/大师兄影视.js"},
+{"key":"csp_Dy555","name":"5️⃣️555影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_xBPQ_电视直播","name":"📺电视直播（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/dszb.json"},
 
 {"key":"csp_xpath_农民影视","name":"📺农民影视","type":3,"api":"csp_XPathMacFilter","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/xl04wy22/tvbox/raw/master/农民影视.json"},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":"1","quickSearch":"1","filterable":"1"},
