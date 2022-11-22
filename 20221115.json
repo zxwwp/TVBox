@@ -6,6 +6,7 @@
 {"key":"csp_XYQBiu_310直播","name":"🏀310看球","type":"3","api":"csp_XYQBiu","searchable":"0","quickSearch":"0","filterable":"0","ext" : "https://gitee.com/xl04wy22/tvbox/raw/master/310直播.json"},
 {"key": "csp_xpath_88kanqiu","name": "🏀88看球","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/88看球.json"},
 {"key": "全网直播","name": "🏀全网直播","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/直播8.json"},
+{"key":"csp_XPath_鹅直播","name":"🐧直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/qezb.json"},
 
 {"key":"csp_biubiu_555电影","name":"🍅555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/xingyuan/tv/raw/main/json/555%E7%94%B5%E5%BD%B1.json"},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
