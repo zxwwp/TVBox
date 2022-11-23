@@ -2,10 +2,11 @@
 "sites":[
 {"key": "dr_JRKAN直播","name": "🏀JRKAN直播","type":"3","api":"https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/JRKAN%E7%9B%B4%E6%92%AD.js"},
 {"key": "dr_310直播","name": "🏀310直播","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/310直播.js"},
+{"key": "dr_JRS看直播","name": "🏀JRS看直播","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/JRS看直播.js"},
 
 {"key":"JRS赛事直播","name":"🏀JRS赛事直播","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext":"https://gitee.com/xl04wy22/tvbox/raw/master/JRS%E7%9C%8B%E7%9B%B4%E6%92%AD.json"},
 {"key":"csp_XYQBiu_17看球","name":"🏀17看球","type":"3","api":"csp_XYQBiu","searchable":"0","quickSearch":"0","filterable":"0","ext":"https://gitee.com/xl04wy22/tvbox/raw/master/17看球.json"},
-"key": "csp_xpath_88kanqiu","name": "🏀88看球(NBA)","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/88看球NBA.json"},
+{"key": "csp_xpath_88kanqiu","name": "🏀88看球(NBA)","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/88看球NBA.json"},
 {"key": "dr_88看球","name": "🏀88看球","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/88看球.js"},
 {"key":"csp_XPath_鹅直播","name":"🐧直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/qezb.json"},
 
