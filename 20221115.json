@@ -14,7 +14,6 @@
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"Lezhu_spider","name":"🦉乐猪影视","api": "csp_Lezhu","type": 3,"searchable":"1","quickSearch":"1","filterable":"1"}, 
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":"1","quickSearch":"1","filterable":"1"},
-{"key":"csp_ZJMiao","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"csp_DiDuan" ,"name":"♻️低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"drpy_js_大师兄影视","name":"✨大师兄影视","type":3,"api":"https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","ext":"https://gitee.com/xl04wy22/tvbox/raw/master/大师兄影视.js"},
@@ -42,6 +41,9 @@
 {"key": "dr_188看","name": "✨188看","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/188看.js"},
 {"key": "dr_RP影视","name": "✨RP影视","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/RP影视.js"},
 {"key": "dr_来看点播","name": "✨来看点播","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/来看点播.js"},
+{"key": "dr_玄天","name": "✨玄天","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/玄天.js"},
+{"key": "dr_布雷蓝光","name": "✨布雷蓝光","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/布雷蓝光.js"},
+{"key": "dr_唐人街影视","name": "✨唐人街影视","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/唐人街影视.js"},
 
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"影图影视","name":"🥪影图影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":0,"quickSearch":0},
