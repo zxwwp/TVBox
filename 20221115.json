@@ -1,11 +1,4 @@
 {
-"lives": [
-    {
-      "name": "直播",
-      "type": 0,
-      "url": "https://gitee.com/xl04wy22/tvbox/raw/master/TV.txt"
-    }
-],
 "sites":[
 {
 	"key": "csp_视频",
