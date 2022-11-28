@@ -394,24 +394,21 @@ CNC中文,http://39.137.49.76:8080/PLTV/88888888/224/3221225693/index.m3u8?
 贵州卫视,http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8
 湖北卫视,http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
 🏀篮球直播,#genre#
-11月26日06:00 NBA 森林狼 VS 黄蜂,https://global.zkshuye.cn/live/sd-2-3674732.m3u8
-08:00 NBA 76人 VS 魔术,https://global.zkshuye.cn/live/sd-2-3674733.m3u8
-08:30 NBA 开拓者 VS 尼克斯,https://global.zkshuye.cn/live/sd-2-3674734.m3u8
-09:00 NBA 国王 VS 凯尔特人,https://global.zkshuye.cn/live/sd-2-3674735.m3u8
-09:00 NBA 篮网 VS 步行者,https://global.zkshuye.cn/live/sd-2-3674736.m3u8
-09:00 NBA 奇才 VS 热火,https://global.zkshuye.cn/live/sd-2-3674737.m3u8
-09:00 NBA 老鹰 VS 火箭,https://global.zkshuye.cn/live/sd-2-3674738.m3u8
-09:00 NBA 鹈鹕 VS 灰熊,https://global.zkshuye.cn/live/sd-2-3674739.m3u8
-09:00 NBA 鹈鹕 VS 灰熊,https://global.zkshuye.cn/live/sd-2-3674740.m3u8
-09:00 NBA 公牛 VS 雷霆,https://global.zkshuye.cn/live/sd-2-3674741.m3u8
-09:00 NBA 湖人 VS 马刺,https://global.zkshuye.cn/live/sd-2-3674742.m3u8
-10:00 NBA 活塞 VS 太阳,https://global.zkshuye.cn/live/sd-2-3674743.m3u8
-11:00 NBA 爵士 VS 勇士,https://global.zkshuye.cn/live/sd-2-3674744.m3u8
-11:30 NBA 掘金 VS 快船,https://global.zkshuye.cn/live/sd-2-3674745.m3u8
-11月27日06:00 NBA 独行侠 VS 猛龙,https://global.zkshuye.cn/live/sd-2-3674746.m3u8
-09:00 NBA 雷霆 VS 火箭,https://global.zkshuye.cn/live/sd-2-3674747.m3u8
-09:00 NBA 湖人 VS 马刺,https://global.zkshuye.cn/live/sd-2-3674748.m3u8
-10:00 NBA 爵士 VS 太阳,https://global.zkshuye.cn/live/sd-2-3674749.m3u8
+11月28日07:00 NBA 奇才 VS 凯尔特人,https://global.zkshuye.cn/live/sd-2-3674754.m3u8
+07:00 NBA 骑士 VS 活塞,https://global.zkshuye.cn/live/sd-2-3674755.m3u8
+07:00 NBA 灰熊 VS 尼克斯,https://global.zkshuye.cn/live/sd-2-3674756.m3u8
+07:00 NBA 76人 VS 魔术,https://global.zkshuye.cn/live/sd-2-3674757.m3u8
+09:00 NBA 独行侠 VS 雄鹿,https://global.zkshuye.cn/live/sd-2-3674758.m3u8
+11月29日08:00 NBA 森林狼 VS 奇才,https://global.zkshuye.cn/live/sd-2-3674759.m3u8
+08:00 NBA 老鹰 VS 76人,https://global.zkshuye.cn/live/sd-2-3674760.m3u8
+08:30 NBA 黄蜂 VS 凯尔特人,https://global.zkshuye.cn/live/sd-2-3674761.m3u8
+08:30 NBA 骑士 VS 猛龙,https://global.zkshuye.cn/live/sd-2-3674762.m3u8
+08:30 NBA 魔术 VS 篮网,https://global.zkshuye.cn/live/sd-2-3674763.m3u8
+09:00 NBA 雷霆 VS 鹈鹕,https://global.zkshuye.cn/live/sd-2-3674764.m3u8
+10:00 NBA 公牛 VS 爵士,https://global.zkshuye.cn/live/sd-2-3674765.m3u8
+10:00 NBA 火箭 VS 掘金,https://global.zkshuye.cn/live/sd-2-3674766.m3u8
+11:00 NBA 太阳 VS 国王,https://global.zkshuye.cn/live/sd-2-3674767.m3u8
+11:30 NBA 步行者 VS 湖人,https://global.zkshuye.cn/live/sd-2-3674768.m3u8
 🏀体育频道,#genre#
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 CCTV5,http://113.117.74.37:808/hls/5/index.m3u8
