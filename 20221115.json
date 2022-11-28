@@ -16,7 +16,7 @@
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"csp_DiDuan" ,"name":"♻️低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key": "小苹果","name": "🍎主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://45.125.46.61/xpg.jar"},
+{"key": "小苹果","name": "🍎主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/xl04wy22/tvbox/raw/maste/xpg.jar"},
 {"key":"drpy_js_大师兄影视","name":"✨大师兄影视","type":3,"api":"https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","ext":"https://gitee.com/xl04wy22/tvbox/raw/master/大师兄影视.js"},
 {"key": "dr_闪影影院","name": "✨闪影影院","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/闪影影院.js"},
 {"key": "dr_蚂蚁影视","name": "✨蚂蚁影视","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/蚂蚁影视.js"},
