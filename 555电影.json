@@ -1,0 +1,73 @@
+{
+	"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.o8tv.com/",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {"电影":"1","电视剧":"2","综艺":"3","港台剧":"15"},
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://www.o8tv.com/vodshow/{cateId}--------{catePg}---.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[@class='module-items module-poster-items-base ']/a",
+	"cateVodName": "/@title",
+	"cateVodId": "/@href",
+	"cateVodIdR": "/voddetail/(\\w+).html",
+	"cateVodImg": "/div/div[@class='module-item-pic']/img/@data-original",
+	"cateVodMark": "/div/div[@class='module-item-note']/text()",
+	 // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.o8tv.com/voddetail/{vid}.html",
+    // 详情节点
+	"dtNode": "//div[@class='module-main']",
+    // 视频名
+	"dtName": "//div[@class='module-info-heading']/h1/text()",
+	    // 视频图片
+	"dtImg": "//div[@class='module-item-pic']/img/@data-original",
+    // 视频分类
+	"dtCate": "",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "//span[contains(text(), '上映：')]/following-sibling::div/text()",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "//span[contains(text(), '主演：')]/following-sibling::div/a/text()",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "//span[contains(text(), '导演：')]/following-sibling::div/a/text()",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "//div[@class='module-info-introduction-content show-desc']/p/text()",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//div[@class='module-tab-items-box hisSwiper']/div",
+    // 播放源名称
+	"dtFromName": "/span/text()",
+    // 二次处理正则
+	"dtFromNameR": "",
+    // 播放列表节点  ///../../following-sibling::div/ul
+	"dtUrlNode": "//div[contains(@class,'module-play-list-content')]",
+    // 播放地址节点
+	"dtUrlSubNode": "/a",
+    // 播放地址
+	"dtUrlId": "@href",
+    // 二次处理正则
+	"dtUrlIdR": "",
+    // 剧集名称
+	"dtUrlName": "/span/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+	// 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "https://www.o8tv.com{playUrl}",
+	//搜索
+	"searchUrl": "https://www.o8tv.com/vodsearch/{wd}-------------.html",
+    "scVodNode": "//div[@class='module-items module-card-items']/div",
+    "scVodName": "/a/div/div[2]/img/@alt",
+    "scVodId": "/a/@href",
+    "scVodIdR": "/voddetail/(\\w+).html",
+    "scVodImg": "/a/div/div[2]/img/@data-original",
+    "scVodMark": ""
+}
