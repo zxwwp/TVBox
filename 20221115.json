@@ -1,5 +1,19 @@
 {
+"lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://gitee.com/xl04wy22/tvbox/raw/master/TV.txt"
+    }
+],
 "sites":[
+{
+	"key": "csp_视频",
+	"name": "视频[xBPQ]",
+	"type": 3,
+	"api": "csp_xBPQ",
+	"ext": "{\"分类url\":\"./TV/{cateId}\",\"分类\":\"MV$MV.html#直播$ds.html\",\"直接播放\":\"1\",\"数组\":\"<li>&&</li>\",\"图片\":\"./TV/1.jpg\",\"标题\":\">&&<\",\"链接\":\"href=\\\"&&\\\"\",\"链接前缀\":\"alt=\\\"&&\\\"\",\"嗅探词\":\".mkv#.m3u8#.mp4\"}"
+},
 {"key": "dr_JRKAN直播","name": "🏀JRKAN直播","type":"3","api":"https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/JRKAN%E7%9B%B4%E6%92%AD.js"},
 {"key": "dr_310直播","name": "🏀310直播","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/310直播.js"},
 {"key":"csp_xpath_qiumi","name":"🏀JRS看直播","type": 3,"api": "csp_XPath3","searchable": 0,"quickSearch": 0,"filterable":0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/JRS看直播.json"},
