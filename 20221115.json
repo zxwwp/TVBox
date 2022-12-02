@@ -111,6 +111,7 @@
 {"key":"csp_xBPQ_老电影","name":"🍀老电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/老电影.json"},
 {"key":"csp_xBPQ_看一看影视","name":"🍀看一看影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/看一看影视.json"},
 {"key":"csp_xBPQ_红领巾","name":"🍀红领巾","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/红领巾.json"},
+{"key":"csp_xBPQ_789影视","name":"🍀789影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/789影视.json"},
 
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/路漫漫动漫.json"},
 {"key":"美食","name":"👨‍🌾美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/美食合集.json"},
