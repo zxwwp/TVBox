@@ -14,7 +14,7 @@
 {"key": "csp_88kanqiu","name": "🏀88看球","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/88看球.json"},
 {"key": "dr_88看球","name": "🏀88看球✨","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/88看球.js"},
 {"key": "csp_XYQ_lu1","name": "️🖥️电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/电视直播.json"},
-{"key":"csp_XPath_鹅直播","name":"🐧企鹅体育","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/zxwwp/TVBox/raw/branch/master/企鹅直播.json"},
+{"key":"csp_XPath_鹅直播","name":"🐧企鹅体育","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/企鹅直播.json"},
 
 {"key":"Lgyy","name":"🦄蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar": "","ext": ""},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":"1","quickSearch":"1","filterable":"1"},
