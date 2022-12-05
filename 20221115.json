@@ -4,9 +4,9 @@
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
 
 "sites":[
-{"name": " 🎤哔哩哔哩","url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/哔哩哔哩.js"},
+{"key": "哔哩哔哩","name": " 🎤哔哩哔哩","type": 4,"api": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/哔哩哔哩.js","searchable": 1,"quickSearch": 0, "filterable": 1},
 
-{ "key": "2022世界杯","name": " ⚽2022世界杯 ⚽","type": 4, "api": "http://120.53.102.254/t4/sjb","searchable": 1,"quickSearch": 0, "filterable": 1},
+{"key": "2022世界杯","name": " ⚽2022世界杯 ⚽","type": 4, "api": "http://120.53.102.254/t4/sjb","searchable": 1,"quickSearch": 0, "filterable": 1},
 {"key":"csp_XYQBiu_17看","name":"🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/xl04wy22/tvbox/raw/master/17看球.json"},
 {"key": "dr_JRKAN直播","name": "🏀JRKAN直播✨","type":"3","api":"https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable":"0","quickSearch":"0","filterable":"0","ext": "https://gitee.com/xl04wy22/tvbox/raw/master/JRKAN%E7%9B%B4%E6%92%AD.js"},
 {"key": "dr_310直播","name": "🏀310直播✨","type": 3,"api": "https://gitee.com/xl04wy22/tvbox/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xl04wy22/tvbox/raw/master/310直播.js"},
