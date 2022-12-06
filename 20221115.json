@@ -123,6 +123,8 @@
 {"key":"csp_xBPQ_看一看影视","name":"🍀看一看影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./看一看影视.json"},
 {"key":"csp_xBPQ_红领巾","name":"🍀红领巾","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./红领巾.json"},
 {"key":"csp_xBPQ_789影视","name":"🍀789影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./789影视.json"},
+{"key":"csp_xBPQ_番茄影视","name":"🍀番茄影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./番茄影视.json"},
+{"key":"csp_xBPQ_口袋影院","name":"🍀口袋影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./口袋影院.json"},
 
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./路漫漫动漫.json"},
 {"key":"美食","name":"👨‍🌾美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./美食合集.json"},
