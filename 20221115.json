@@ -131,12 +131,6 @@
 ],
 
 "parses":[
-{"name":"txcgb","type":0,"url":"http://txcgb.intelyes.tk/jx/?url="},
-{"name":"小狼云","type":0,"url":"https://jx.xiaolangyun.com/?url="},
-{"name":"无名","type":0,"url":"https://www.administratorw.com/video.php?url="},
-{"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
-{"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
