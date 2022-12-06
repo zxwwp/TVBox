@@ -81,9 +81,8 @@
 {"key": "dr_腾云驾雾","name": "✨腾云驾雾","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./腾云驾雾.js"},
 {"key": "dr_乐猪TV","name": "✨乐猪TV","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./乐猪TV.js"},
 {"key": "dr_哔哩影视","name": "✨哔哩影视","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./哔哩影视.js"},
+{"key": "dr_豆瓣","name": "✨豆瓣","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./豆瓣.js"},
 
-{"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
-{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"csp_xBPQ_奈落影院","name": "📺奈落影院(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": "0","filterable": "0","ext": "./奈落影院.json"},      
 {"key": "csp_XYQBiu_影子工厂","name":"📺影子工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":"1","quickSearch":"1","filterable":"1","ext":"./影视工厂.json"},
 {"key":"csp_biubiu_COKEMV","name":"📺COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./COKEMV.json"},
