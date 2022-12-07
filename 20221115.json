@@ -87,6 +87,8 @@
 {"key": "dr_乐猪TV","name": "✨乐猪TV","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./乐猪TV.js"},
 {"key": "dr_哔哩影视","name": "✨哔哩影视","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./哔哩影视.js"},
 {"key": "dr_豆瓣","name": "✨豆瓣","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./豆瓣.js"},
+{"key":"dr_苹果爱微","name":"✨苹果爱微","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./苹果爱微.js"},
+{"key":"dr_跑TV","name":"✨跑TV","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./跑TV.js"},
 
 {"key":"csp_xBPQ_奈落影院","name": "📺奈落影院(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": "0","filterable": "0","ext": "./奈落影院.json"},      
 {"key": "csp_XYQBiu_影子工厂","name":"📺影子工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":"1","quickSearch":"1","filterable":"1","ext":"./影视工厂.json"},
@@ -130,8 +132,6 @@
 {"key":"csp_xBPQ_789影视","name":"🍀789影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./789影视.json"},
 {"key":"csp_xBPQ_番茄影视","name":"🍀番茄影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./番茄影视.json"},
 {"key":"csp_xBPQ_口袋影院","name":"🍀口袋影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./口袋影院.json"},
-{"key":"csp_xBPQ_苹果爱微","name":"🍀苹果爱微","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./苹果爱微.json"},
-{"key":"csp_xBPQ_跑TV","name":"🍀跑TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./跑TV.json"},
 
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./路漫漫动漫.json"},
 {"key":"美食","name":"👨‍🌾美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./美食合集.json"},
