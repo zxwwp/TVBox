@@ -12,7 +12,6 @@ CCTV11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
 CCTV12,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
-
 CCTV1,http://124.220.17.172/as.php?id=1
 CCTV2,http://124.220.17.172/as.php?id=2
 CCTV3,http://124.220.17.172/as.php?id=3
@@ -231,7 +230,6 @@ CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 凤凰资讯,http://113.117.74.37:808/hls/36/index.m3u8
 凤凰香港,http://113.117.74.37:808/hls/38/index.m3u8
 翡翠台,http://113.117.74.37:808/hls/67/index.m3u8
-
 江西卫视,http://124.220.17.172/as.php?id=34
 江苏卫视,http://124.220.17.172/as.php?id=22
 北京卫视,http://124.220.17.172/as.php?id=24
@@ -259,7 +257,6 @@ CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 宁夏卫视,http://124.220.17.172/as.php?id=44
 新疆卫视,http://124.220.17.172/as.php?id=46
 西藏卫视,http://124.220.17.172/as.php?id=47
-
 江西卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000294103.m3u8
 江苏卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000295603.m3u8
 北京卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000272103.m3u8
