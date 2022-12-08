@@ -1,6 +1,7 @@
 {
-"spider":"./duov.jar",
-"spider":"./Yoursmile.jar",
+//"spider":"./duov.jar",
+//"spider":"./Yoursmile.jar",
+"spider":"./xBPQ1107.jar",
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
 
