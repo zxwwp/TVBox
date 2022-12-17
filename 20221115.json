@@ -115,6 +115,11 @@
 {"key": "dr_js_吼吼[飞]","name": "✨吼吼[飞]","type": 3,"api": "./drpy.min.js","ext": "./js_吼吼[飞].js"},
 {"key": "dr_js_唐人街影视[飞]","name": "✨唐人街影视[飞]","type": 3,"api": "./drpy.min.js","ext": "./js_唐人街影视[飞].js"},
 {"key": "dr_js_小猫咪","name": "✨小猫咪","type": 3,"api": "./drpy.min.js","ext": "./js_小猫咪.js"},
+{"key": "dr_js_7喜影院","name": "✨7喜影院","type": 3,"api": "./drpy.min.js","ext": "./js_7喜影院.js"},
+{"key": "dr_js_豆芽影院","name": "✨豆芽影院","type": 3,"api": "./drpy.min.js","ext": "./js_豆芽影院.js"},
+{"key": "dr_js_首播影院","name": "✨首播影院","type": 3,"api": "./drpy.min.js","ext": "./js_首播影院.js"},
+{"key": "dr_js_诺讯影视","name": "✨诺讯影视","type": 3,"api": "./drpy.min.js","ext": "./js_诺讯影视.js"},
+{"key": "dr_js_楚门影院","name": "✨楚门影院","type": 3,"api": "./drpy.min.js","ext": "./js_楚门影院.js"},
 
 {"key":"drpy_js_兔小贝","name":"👨‍🌾兔小贝[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/兔小贝.js"},
 {"key":"drpy_js_AnFuns","name":"👨‍🌾AnFuns[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/AnFuns.js"},
