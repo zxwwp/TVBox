@@ -100,7 +100,7 @@
 {"key": "dr_腾云驾雾","name": "✨腾云驾雾","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./腾云驾雾.js"},
 {"key": "dr_哔哩影视","name": "✨哔哩影视","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./哔哩影视.js"},
 {"key": "dr_539影院","name": "✨539影院","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./539影院.js"},
-{"key": "dr_js_188看","name": "✨188看","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./js_188看.js"},
+{"key": "dr_js_188看","name": "✨188看","type": 3,"api": "./drpy.min.js","ext": "./js_188看.js"},
 {"key": "dr_js_69美剧","name": "✨69美剧","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./js_69美剧.js"},
 {"key": "dr_js_AB影院[飞]","name": "✨AB影院[飞]","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./js_AB影院[飞].js"},
 {"key": "dr_js_LIBVIO","name": "✨LIBVIO","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./js_LIBVIO.js"},
