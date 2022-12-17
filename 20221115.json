@@ -102,6 +102,7 @@
 {"key": "dr_奇优影院","name": "✨奇优影院","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./奇优影院.js"},
 {"key": "dr_腾云驾雾","name": "✨腾云驾雾","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./腾云驾雾.js"},
 {"key": "dr_哔哩影视","name": "✨哔哩影视","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./哔哩影视.js"},
+{"key": "dr_539影院","name": "✨539影院","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./539影院.js"},
 
 {"key":"drpy_js_兔小贝","name":"👨‍🌾兔小贝[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/兔小贝.js"},
 {"key":"drpy_js_AnFuns","name":"👨‍🌾AnFuns[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/AnFuns.js"},
