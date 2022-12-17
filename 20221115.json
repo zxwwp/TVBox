@@ -1,6 +1,6 @@
 {
-"spider":"./duov.jar",
-"spider":"./Yoursmile.jar",
+"spider":"./20221212.jar",
+//"spider":"./Yoursmile.jar",
 
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
@@ -16,6 +16,8 @@
 {"key": "csp_88kanqiu","name": "🏀88看球","type":"3","api":"XPath3","searchable":"0","quickSearch":"0","filterable":"0","ext": "./88看球.json"},
 {"key": "dr_88看球","name": "🏀88看球✨","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./88看球.js"},
 {"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./歌曲MV.json"},
+
+{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "./token.txt"},
 
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🐯新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
