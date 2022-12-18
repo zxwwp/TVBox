@@ -1,18 +1,23 @@
 {
+/*-----------------------JAR包接口-----------------------*/    
 "spider":"./20221212.jar",
 //"spider":"./Yoursmile.jar",
 
-
+//*--------------直播-----(tv.txt)-------------*/
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
 
+/*-----------------------配置数据源-----------------------*/
 "sites":[
 {"key": "2022世界杯","name": " ⚽2022世界杯 ⚽","type": 4, "api": "http://120.53.102.254/t4/sjb","searchable": 1,"quickSearch": 0, "filterable": 1},
 {"key": "dr_JRKAN直播","name": "🏀JRKAN直播✨","type":"3","api":"./drpy.min.js","searchable":"0","quickSearch":"0","filterable":"0","ext": "./JRKAN直播.js"},
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./drpy.min.js","ext":"./310直播.js"},
 {"key":"csp_XYQBiu_17看","name":"🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./17看球.json"},
 
-{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "55c39cb673654d2baf5929c1cbe59a95"},
+{"key": "纸条","name": "📜纸条","type": 3,"api": "csp_Paper","ext": "55c39cb673654d2baf5929c1cbe59a95"},
 {"key": "小苹果","name": "🍎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
+{"key":"360_spider","name": "️️👍360影视（SP官解）","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"./0830gg.jar"}, 
+{"key":"GitCafe","name":"📜阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Alist%28token%29.json","jar":"./ggtv.jar"},
+
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Xinsj","name":"🐯新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -20,6 +25,7 @@
 {"key":"drpy_js_腾云驾雾","name":"🎞腾讯[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"🎞芒果[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/百忙无果.js"},
 {"key":"drpy_js_菜狗","name":"🎞搜狗[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/菜狗.js"},
+
 {"key":"drpy_js_首播影院","name":"🎞首播影院[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/首播影院.js"},
 {"key":"drpy_js_TV云播","name":"🎞TV云播[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/TV云播.js"},
 {"key":"drpy_js_影渣渣","name":"🎞影渣渣[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/影渣渣.js"},
