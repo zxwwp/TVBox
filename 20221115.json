@@ -13,7 +13,7 @@
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./drpy.min.js","ext":"./310直播.js"},
 {"key":"csp_XYQBiu_17看","name":"🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./17看球.json"},
 
-{"key": "纸条","name": "📜纸条","type": 3,"api": "csp_Paper","ext": "55c39cb673654d2baf5929c1cbe59a95"},
+{"key": "纸条","name": "📜纸条","type": 3,"api": "csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext": "55c39cb673654d2baf5929c1cbe59a95","jar":"./ggtv.jar"},
 {"key": "小苹果","name": "🍎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
 {"key":"360_spider","name": "️️👍360影视（SP官解）","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"./0830gg.jar"}, 
 {"key":"GitCafe","name":"📜阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Alist%28token%29.json","jar":"./ggtv.jar"},
