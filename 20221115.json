@@ -9,20 +9,11 @@
 {"key": "2022世界杯","name": " ⚽2022世界杯 ⚽","type": 4, "api": "http://120.53.102.254/t4/sjb","searchable": 1,"quickSearch": 0, "filterable": 1},
 {"key":"drpy_js_310直播","name":"🏀310直播[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/310直播.js"},
 {"key":"csp_XYQBiu_17看","name":"🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./17看球.json"},
-	{
-			"key": "csp_xpath_球迷2",
-			"name": "⚽🏀球赛",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/json/%E7%90%83%E8%BF%B72.json"
-		},
-{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "./token.txt"},
+
+//{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "./token.txt"},
 {"key": "小苹果","name": "🍎主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Xinsj","name":"🐯新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Xinsj","name":"🐯新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"drpy_js_奇珍异兽","name":"🎞爱奇艺[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/奇珍异兽.js"},
 {"key":"drpy_js_腾云驾雾","name":"🎞腾讯[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/腾云驾雾.js"},
