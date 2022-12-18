@@ -138,7 +138,7 @@ CCTV14,http://218.29.55.44:808/hls/14/index.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
 🏀篮球直播,#genre#
-12月19日4：00凱爾特人 @ 魔術(NBA),http://global.zkshuye.cn/live/sd-2-3674905.m3u8
+12月19日4：00凱爾特人 @ 魔術,http://global.zkshuye.cn/live/sd-2-3674905.m3u8
 6：00尼克斯 @ 步行者,http://global.zkshuye.cn/live/sd-2-3674906.m3u8
 7：00篮网 @ 活塞,http://global.zkshuye.cn/live/sd-2-3674907.m3u8
 7：00勇士 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3674908.m3u8
@@ -146,6 +146,9 @@ CCTV14,http://218.29.55.44:808/hls/14/index.m3u8
 9：00黄蜂 @ 掘金,http://global.zkshuye.cn/live/sd-2-3674910.m3u8
 10：30奇才 @ 湖人,http://global.zkshuye.cn/live/sd-2-3674911.m3u8
 15:00CBA四川vs广东,
+15:00CBA青岛vs山西,
+19:35CBA广州vs江苏,
+19:35CBA上海vs广厦,
 🏀体育频道,#genre#
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
