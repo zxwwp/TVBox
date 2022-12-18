@@ -9,6 +9,8 @@
 {"key": "2022世界杯","name": " ⚽2022世界杯 ⚽","type": 4, "api": "http://120.53.102.254/t4/sjb","searchable": 1,"quickSearch": 0, "filterable": 1},
 {"key":"drpy_js_310直播","name":"🏀310直播[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/310直播.js"},
 {"key":"csp_XYQBiu_17看","name":"🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./17看球.json"},
+{"key":"csp_xpath_qiumi","name":"🏀JRS看直播","type": 3,"api": "csp_XPath3","searchable": 0,"quickSearch": 0,"filterable":0,"ext": "./JRS看直播.json"},
+{"key": "dr_JRKAN直播","name": "🏀JRKAN直播✨","type":"3","api":"./drpy.min.js","searchable":"0","quickSearch":"0","filterable":"0","ext": "./JRKAN直播.js"},
 
 {"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "55c39cb673654d2baf5929c1cbe59a95"},
 {"key": "小苹果","name": "🍎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
