@@ -10,8 +10,18 @@
 {"key":"drpy_js_310直播","name":"🏀310直播[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/310直播.js"},
 {"key":"csp_XYQBiu_17看","name":"🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./17看球.json"},
 
+{"key":"csp_xpath_qiumi","name":"⚽JRKAN直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dlj.bz/8zj1AA"},
+{"key":"mtv_xp_球迷直播","name":"切片┃球迷直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-球迷直播.json"},
+{"key":"mtv_xp_体育赛事","name":"哔哩┃体育赛事","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-体育赛事.json"}
+{"key":"drpy_js_88看球","name":"🎥88看球","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/88看球.js"},
+{"key":"drpy_js_JRS看直播","name":"🎥JRS看直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/JRS看直播.js"},
+{"key":"drpy_js_JRS看球网","name":"🎥JRS看球网","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/JRS看球网.js"},
+{"key":"drpy_js_JRKAN直播","name":"🎥JRKAN直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/JRKAN直播.js"},
+{"key":"drpy_js_JRS录像","name":"🎥JRS录像","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/JRS录像.js"},
+{"key":"drpy_js_310直播","name":"🎥310直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/310直播.js"},
+
 {"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "55c39cb673654d2baf5929c1cbe59a95"},
-{"key": "小苹果","name": "🍎主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
+{"key": "小苹果","name": "🍎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Xinsj","name":"🐯新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -126,7 +136,6 @@
 {"key":"drpy_js_AnFuns","name":"👨‍🌾AnFuns[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/AnFuns.js"},
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./路漫漫动漫.json"},
 
-{"key":"mtv_pc_小苹果源","name":"🍎小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
