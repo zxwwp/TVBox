@@ -1,5 +1,5 @@
 {
-"spider":"./2925.jar",
+"spider":"./20221212.jar",
 //"spider":"./Yoursmile.jar",
 
 
@@ -127,7 +127,6 @@
 {"key":"drpy_js_AnFuns","name":"👨‍🌾AnFuns[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/AnFuns.js"},
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./路漫漫动漫.json"},
 
-{"key":"Lgyy","name":"🦄蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar": "","ext": ""},
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
