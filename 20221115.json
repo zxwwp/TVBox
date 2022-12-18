@@ -130,6 +130,24 @@
 {"key": "dr_js_诺讯影视","name": "✨诺讯影视","type": 3,"api": "./drpy.min.js","ext": "./js_诺讯影视.js"},
 {"key": "dr_js_楚门影院","name": "✨楚门影院","type": 3,"api": "./drpy.min.js","ext": "./js_楚门影院.js"},
 
+ {
+      "key": "csp_Czsapp",
+      "name": " 恋影TV 2023极速版",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+      "key": "csp_apple",
+      "name": "恋影TV 2023极速版 线路2",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
@@ -159,6 +177,7 @@
 {"key":"mtv_pc_奇艺视频","name":"🪃奇艺视频","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 
 //三方聚合
+{"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"木子看剧","name":"🎲木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"爱兜视频","name":"🎲爱兜视频","type":1,"api":"http://id190.tpddns.cn:81/mogai_api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"热剧天堂","name":"🎲热剧天堂","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
