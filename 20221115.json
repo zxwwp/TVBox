@@ -6,6 +6,9 @@
 //*--------------直播-----(tv.txt)-------------*/
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
 
+ "drives": [
+{"name": "🐱新视觉","server": "https://xn--i0v44m.xyz","type": "alist"}],
+
 /*-----------------------配置数据源-----------------------*/
 "sites":[
 //体育频道
@@ -24,11 +27,6 @@
 {"key":"csp_Kunyu77","name":"👌酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"👌360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Voflix","name":" 👌Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-        {
-            "name": "🐱新视觉",
-            "server": "https://xn--i0v44m.xyz",
-            "type": "alist"
-        },
 //{"key":"csp_Xinsj","name":" 👌新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"👌饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "小苹果","name": "👌小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
