@@ -121,7 +121,6 @@
 {"key": "dr_js_voflix","name": "✨voflix","type": 3,"api": "./drpy.min.js","ext": "./js_voflix.js"},
 {"key": "dr_js_乐猪TV","name": "✨乐猪TV","type": 3,"api": "./drpy.min.js","ext": "./js_乐猪TV.js"},
 {"key": "dr_js_九酷","name": "✨九酷","type": 3,"api": "./drpy.min.js","ext": "./js_九酷.js"},
-{"key": "dr_js_冲TMTV[飞]","name": "✨冲TMTV[飞]","type": 3,"api": "./drpy.min.js","ext": "./js_冲TMTV[飞].js"},
 {"key": "dr_js_剧白白","name": "✨剧白白","type": 3,"api": "./drpy.min.js","ext": "./js_剧白白.js"},
 {"key": "dr_js_吼吼[飞]","name": "✨吼吼[飞]","type": 3,"api": "./drpy.min.js","ext": "./js_吼吼[飞].js"},
 {"key": "dr_js_小猫咪","name": "✨小猫咪","type": 3,"api": "./drpy.min.js","ext": "./js_小猫咪.js"},
