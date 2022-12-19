@@ -221,6 +221,7 @@
 {"key":"香瓜影视","name":" 🏆香瓜影视","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 //动漫频道
+{"key":"小鸟动漫","name":"🐦小鸟动漫(聚)💎","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"drpy_js_兔小贝","name":"👨‍🌾兔小贝[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/兔小贝.js"},
 {"key":"drpy_js_AnFuns","name":"👨‍🌾AnFuns[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/AnFuns.js"},
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./路漫漫动漫.json"},
