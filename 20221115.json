@@ -1,16 +1,10 @@
-{
-    "wallpaper": "http://101.34.67.237/pics",
-    "dr_count": 119,
-    "mode": 1,    
+{   
 /*-----------------------JAR包接口-----------------------*/    
 "spider":"./20221212.jar",
 "spider":"./Yoursmile.jar",
 
 //*--------------直播-----(tv.txt)-------------*/
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
-
- "drives": [
-{"name": "🐱新视觉","server": "https://xn--i0v44m.xyz","type": "alist"}],
 
 /*-----------------------配置数据源-----------------------*/
 "sites":[
