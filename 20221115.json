@@ -1,4 +1,7 @@
 {
+    "wallpaper": "http://101.34.67.237/pics",
+    "dr_count": 119,
+    "mode": 1,    
 /*-----------------------JAR包接口-----------------------*/    
 "spider":"./20221212.jar",
 "spider":"./Yoursmile.jar",
