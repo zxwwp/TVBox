@@ -247,7 +247,7 @@
 ],
 
 "rules":[
-{"host":"hdmoli.com","rule":[".m3u8"]},{"host":"https://api.live.bilibili.com","rule":["bilivideo.com","/index.m3u8"],"filter":["data.bilibili.com/log/web","i0.hdslb.com/bfs/live/"]}],
+{"host":"hdmoli.com","rule":[".m3u8"]},{"host":"*","rule":["default.365yg.com"]}],
 
 /*-----------------------解析-----------------------*/
 "parses":[
