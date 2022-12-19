@@ -14,6 +14,9 @@
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./drpy.min.js","ext":"./310直播.js"},
 {"key":"csp_XYQBiu_17看","name":"🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./17看球.json"},
 
+//电视频道
+{"key": "T4直播转点播","name": "📺︎电视点播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
+
 //影视频道
 {"key": "小苹果","name": "🍎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
 {"key":"360_spider","name": "️️👍360影视（SP官解）","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"./0830gg.jar"}, 
