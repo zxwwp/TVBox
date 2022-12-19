@@ -27,6 +27,7 @@
 //{"key":"csp_Xinsj","name":" 👌新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"👌饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "小苹果","name": "👌小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
+{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"},
 {"key":"GitCafe","name":" 👌阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Alist%28token%29.json","jar":"./ggtv.jar"},
 {"key":"csp_app_阿里","name":" 👌阿里影视","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
 
