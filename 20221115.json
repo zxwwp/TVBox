@@ -130,7 +130,6 @@
 {"key": "dr_js_追剧达人","name": "✨追剧达人","type": 3,"api": "./drpy.min.js","ext": "./js_追剧达人.js"},
 {"key": "dr_js_348电影网","name": "✨348电影网","type": 3,"api": "./drpy.min.js","ext": "./js_348电影网.js"},
 {"key": "dr_js_新思古影视","name": "✨新思古影视","type": 3,"api": "./drpy.min.js","ext": "./js_新思古影视.js"},
-{"key": "dr_js_AnFuns","name": "✨AnFuns","type": 3,"api": "./drpy.min.js","ext": "./js_AnFuns.js"},
 
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -224,7 +223,7 @@
 //动漫频道
 {"key":"小鸟动漫","name":"🐦小鸟动漫(聚)💎","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"drpy_js_兔小贝","name":"👨‍🌾兔小贝[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/兔小贝.js"},
-{"key":"drpy_js_AnFuns","name":"👨‍🌾AnFuns[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/AnFuns.js"},
+{"key": "dr_js_AnFuns","name": "✨AnFuns","type": 3,"api": "./drpy.min.js","ext": "./js_AnFuns.js"},
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./路漫漫动漫.json"},
 
 //音乐频道
