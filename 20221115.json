@@ -16,16 +16,16 @@
 {"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
 //优质影视
-{"key":"drpy_js_奇珍异兽","name":" 👌爱奇艺[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/奇珍异兽.js"},
-{"key":"drpy_js_腾云驾雾","name":" 👌腾讯[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":" 👌芒果[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/百忙无果.js"},
-{"key":"drpy_js_菜狗","name":" 👌搜狗[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/菜狗.js"},
+{"key":"GitCafe","name":" 👌阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Alist%28token%29.json","jar":"./ggtv.jar"},
+{"key":"drpy_js_菜狗","name":" 👌搜狗","type":3,"api":"./drpy.min.js","ext":"./20221217js/菜狗.js"},
+{"key":"drpy_js_奇珍异兽","name":" 👌爱奇艺","type":3,"api":"./drpy.min.js","ext":"./20221217js/奇珍异兽.js"},
+{"key":"drpy_js_腾云驾雾","name":" 👌腾讯","type":3,"api":"./drpy.min.js","ext":"./20221217js/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":" 👌芒果","type":3,"api":"./drpy.min.js","ext":"./20221217js/百忙无果.js"},
 {"key": "dr_js_voflix","name": "✨voflix","type": 3,"api": "./drpy.min.js","ext": "./js_voflix.js"},
 {"key":"csp_Kunyu77","name":"👌酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"👌360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_fant","name":"👌饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "小苹果","name": "👌小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
-{"key":"GitCafe","name":" 👌阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Alist%28token%29.json","jar":"./ggtv.jar"},
 
 //影视频道
 {"key":"drpy_js_秋霞影院","name":" 🦖秋霞影院","type":3,"api":"./drpy.min.js","ext":"./20221217js/秋霞.js"},
@@ -229,13 +229,8 @@
 //音乐频道
 {"key": "MV","name": "  🎙歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./歌曲MV.json"},
 {"key":"bili","name":"  🎙Bili[jar]","type":3,"api":"csp_Bili","ext":"./音乐演唱.json"},
-{"key":"drpy_js_蜻蜓FM","name":" 📻蜻蜓FM[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/蜻蜓FM.js","playerType":"2"},
+{"key":"drpy_js_蜻蜓FM","name":" 📻蜻蜓FM[js]","type":3,"api":"./drpy.min.js","ext":"./20221217js/蜻蜓FM.js","playerType":"2"}
 
-//美食频道
-{"key":"美食","name":" 🍜美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./美食合集.json"},
-
-//学习频道
-{"key":"软件","name":" 📀软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./软件教程.json"}
 ],
 
 "rules":[
