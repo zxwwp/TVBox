@@ -26,7 +26,6 @@
 {"key":"csp_fant","name":"👌饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "小苹果","name": "👌小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
 {"key":"GitCafe","name":" 👌阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Alist%28token%29.json","jar":"./ggtv.jar"},
-{"key":"csp_app_阿里","name":" 👌阿里影视","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
 
 //影视频道
 {"key":"drpy_js_秋霞影院","name":" 🦖秋霞影院","type":3,"api":"./drpy.min.js","ext":"./20221217js/秋霞.js"},
@@ -55,7 +54,6 @@
 {"key":"drpy_js_碟调影视","name":" 🦖碟调影视","type":3,"api":"./drpy.min.js","ext":"./20221217js/碟调影视.js"},
 {"key":"drpy_js_番茄影视","name":" 🦖番茄影视","type":3,"api":"./drpy.min.js","ext":"./20221217js/番茄影视.js"},
 {"key":"drpy_js_干饭影视","name":" 🦖干饭影视","type":3,"api":"./drpy.min.js","ext":"./20221217js/干饭影视.js"},
-{"key":"drpy_js_金曼影视","name":" 🦖金曼影视","type":3,"api":"./drpy.min.js","ext":"./20221217js/金曼影视.js"},
 {"key":"drpy_js_看BZ影视","name":" 🦖看BZ影视","type":3,"api":"./drpy.min.js","ext":"./20221217js/看BZ影视.js"},
 {"key":"drpy_js_看看电影","name":"v看看电影","type":3,"api":"./drpy.min.js","ext":"./20221217js/看看电影.js"},
 {"key":"drpy_js_看了么","name":" 🦖看了么","type":3,"api":"./drpy.min.js","ext":"./20221217js/看了么.js"},
@@ -70,7 +68,6 @@
 {"key":"drpy_js_霹雳影视","name":" 🦖霹雳影视","type":3,"api":"./drpy.min.js","ext":"./20221217js/霹雳影视.js"},
 {"key":"drpy_js_七时影院","name":" 🦖七时影院","type":3,"api":"./drpy.min.js","ext":"./20221217js/七小时影院.js"},
 {"key":"drpy_js_人人影视","name":" 🦖人人影视","type":3,"api":"./drpy.min.js","ext":"./20221217js/人人影视.js"},
-{"key":"drpy_js_盛世电影","name":" 🦖盛世电影","type":3,"api":"./drpy.min.js","ext":"./20221217js/盛世电影网.js"},
 {"key":"drpy_js_视觉影院","name":" 🦖视觉影院","type":3,"api":"./drpy.min.js","ext":"./20221217js/视觉影院.js"},
 {"key":"drpy_js_视中影视","name":" 🦖视中影视","type":3,"api":"./drpy.min.js","ext":"./20221217js/视中心影视.js"},
 {"key":"drpy_js_思乐影视","name":" 🦖思乐影视","type":3,"api":"./drpy.min.js","ext":"./20221217js/思乐影视.js"},
@@ -127,6 +124,13 @@
 {"key": "dr_js_诺讯影视","name": "✨诺讯影视","type": 3,"api": "./drpy.min.js","ext": "./js_诺讯影视.js"},
 {"key": "dr_js_楚门影院","name": "✨楚门影院","type": 3,"api": "./drpy.min.js","ext": "./js_楚门影院.js"},
 {"key": "dr_js_美剧网","name": "✨美剧网","type": 3,"api": "./drpy.min.js","ext": "./js_美剧网.js"},
+{"key": "dr_js_盛世电影网","name": "✨盛世电影网","type": 3,"api": "./drpy.min.js","ext": "./js_盛世电影网.js"},
+{"key": "dr_js_蜥蜴影视","name": "✨蜥蜴影视","type": 3,"api": "./drpy.min.js","ext": "./js_蜥蜴影视.js"},
+{"key": "dr_js_金曼影视","name": "✨金曼影视","type": 3,"api": "./drpy.min.js","ext": "./js_金曼影视.js"},
+{"key": "dr_js_追剧达人","name": "✨追剧达人","type": 3,"api": "./drpy.min.js","ext": "./js_追剧达人.js"},
+{"key": "dr_js_348电影网","name": "✨348电影网","type": 3,"api": "./drpy.min.js","ext": "./js_348电影网.js"},
+{"key": "dr_js_新思古影视","name": "✨新思古影视","type": 3,"api": "./drpy.min.js","ext": "./js_新思古影视.js"},
+{"key": "dr_js_AnFuns","name": "✨AnFuns","type": 3,"api": "./drpy.min.js","ext": "./js_AnFuns.js"},
 
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
