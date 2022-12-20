@@ -16,16 +16,12 @@
 "caijizhan": [
 {"name":"鲲娱","url":"http://api.kunyu77.com/api.php"},
 {"name":"无尽","url":"https://api.wujinapi.com/api.php"},
-{"name":"红牛","url":"https://www.hongniuzy2.com/api.php"},
+{"name":"快播","url":"http://www.kuaibozy.com/api.php"},
+{"name":"39看","url":"https://www.39kan.com/api.php"},
 {"name":"乐活","url":"https://lehootv.com/api.php"},
 {"name":"百度","url":"https://api.apibdzy.com/api.php"},
-{"name":"快播","url":"http://www.kuaibozy.com/api.php"},
 {"name":"飘花","url":"http://www.zzrhgg.com/api.php"},
-{"name":"忆梦","url":"http://anltv.cn/api.php"},
-{"name":"猫咪","url":"http://zy.xiaomaomi.cc/api.php"},
-{"name":"酷点","url":"http://kudianzy.com/api.php"},
-{"name":"天堂","url":"http://vipmv.cc/api.php"},
-{"name":"39看","url":"https://www.39kan.com/api.php"}
+{"name":"酷点","url":"http://kudianzy.com/api.php"}
 ],
 
 "zhujiexi":[
