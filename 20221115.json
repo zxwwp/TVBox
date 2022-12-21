@@ -10,8 +10,7 @@
 //体育频道
 {"key": "dr_JRKAN直播","name": "🏀JRKAN直播✨","type":"3","api":"./drpy.min.js","searchable":"0","quickSearch":"0","filterable":"0","ext": "./JRKAN直播.js"},
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./drpy.min.js","ext":"./310直播.js"},
-{"key": "drpy_js_全网直播8","name": "🏀全网直播8✨","type":3,"api":"","ext": "./直播8.json"},
-{"key": "自选网页","title": "🏀全网直播8","pic": "https://pic.imgdb.cn/item/63984d60b1fccdcd364c6e5d.png","custom": "eyJuYW1lIjogIiDwn4+A5YWo572R55u05pKtOCIsCiJ1cmwiOiAiaHR0cHM6Ly93d3cuemhpYm84Lm5ldCIsCiJ1YSI6ICJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODguMC40MzI0LjE1MCBTYWZhcmkvNTM3LjM2IiwKIlVzZXIiOiAi56m6IiwKIuebtOaOpeaSreaUviI6ICIxIiwKIuWIl+ihqOaYvuekuiI6ICIxIiwKIuaoquWbvuaYvuekuiI6ICIwIiwKImZlbmxlaSI6ICLkvZPogrIk56m6IiwKImhvdXpodWkiOiAiIiwKInFpc2hpeWUiOiAiMCIsCiJzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJqaWVxdXFpYW4iOiAi56m6IiwKImppZXF1aG91IjogIuepuiIsCiJqaWVxdXNodXp1cWlhbiI6ICJjbGFzcz1cIm1hdGNoLWl0ZW1cIiIsCiJqaWVxdXNodXp1aG91IjogIjwvYT4iLAoidHVwaWFucWlhbiI6ICJodHRwczovL2ltZzAuYmFpZHUuY29tL2l0L3U9OTU5NjA3MDQzLDEwNTQyMzc1MjAmZm09MjUzJmZtdD1hdXRvJmFwcD0xMzgmZj1KUEVHP3c9NDE3Jmg9NTAwIiwKInR1cGlhbmhvdSI6ICJcIiIsCiJiaWFvdGlxaWFuIjogImNsYXNzPVwiY29sLWhvbWUgZmxleFwiPiIsCiJiaWFvdGlob3UiOiAiPC9kaXY+IiwKInR1cGlhbnFpYW56aHVpIjogIuepuiIsICAKImxpYW5qaWVxaWFuIjogImhyZWY9XCIiLAoibGlhbmppZWhvdSI6ICJcIiIsCiJsanFpYW56aHVpIjogIuepuiIsIAoiZnViaWFvdGlxaWFuIjogImNsYXNzPVwiY29sLXRpbWVcIj4iLAoiZnViaWFvdGlob3UiOiAiPC9kaXY+In0="},
+
  //电视频道
 {"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
