@@ -96,27 +96,6 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
 🏀NBA直播,#genre#
-12月19日 4：00 魔术 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3674904.m3u8
-6：00尼克斯 @ 步行者,http://global.zkshuye.cn/live/sd-2-3674905.m3u8
-7：00篮网 @ 活塞,http://global.zkshuye.cn/live/sd-2-3674906.m3u8
-7：00勇士 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3674907.m3u8
-8：00公牛 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3674908.m3u8
-9：00黄蜂 @ 掘金,http://global.zkshuye.cn/live/sd-2-3674909.m3u8
-10：30奇才 @ 湖人,http://global.zkshuye.cn/live/sd-2-3674910.m3u8
-12月20日 08:00 爵士 @ 骑士,http://global.zkshuye.cn/live/sd-2-3674912.m3u8
-08:00猛龙 @ 76人,http://global.zkshuye.cn/live/sd-2-3674913.m3u8
-08:30魔术@老鹰,http://global.zkshuye.cn/live/sd-2-3674914.m3u8
-09:00马刺@火箭,http://global.zkshuye.cn/live/sd-2-3674915.m3u8
-09:00独行侠@森林狼,http://global.zkshuye.cn/live/sd-2-3674916.m3u8
-09:00雄鹿@鹈鹕,http://global.zkshuye.cn/live/sd-2-3674917.m3u8
-09:00开拓者v雷霆,http://global.zkshuye.cn/live/sd-2-3674918.m3u8
-10:00湖人@太阳,http://global.zkshuye.cn/live/sd-2-3674919.m3u8
-11:00黄蜂v国王,http://global.zkshuye.cn/live/sd-2-3674920.m3u8
-12月21日 08:00爵士@活塞,http://global.zkshuye.cn/live/sd-2-3674921.m3u8
-08:30公牛@热火,http://global.zkshuye.cn/live/sd-2-3674922.m3u8
-08:30勇士@尼克斯,http://global.zkshuye.cn/live/sd-2-3674923.m3u8
-10:00奇才@太阳,http://global.zkshuye.cn/live/sd-2-3674924.m3u8
-11:00灰熊v掘金,http://global.zkshuye.cn/live/sd-2-3674925.m3u8
 12月22日 8：00雄鹿 @ 骑士,http://global.zkshuye.cn/live/sd-2-3674926.m3u8
 8：00活塞 @ 76人,http://global.zkshuye.cn/live/sd-2-3674927.m3u8
 8：30公牛 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3674928.m3u8
@@ -144,6 +123,28 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 11：00灰熊 @ 太阳,http://global.zkshuye.cn/live/sd-2-3674950.m3u8
 11：00奇才 @ 国王,http://global.zkshuye.cn/live/sd-2-3674951.m3u8
 11：30黄蜂 @ 湖人,http://global.zkshuye.cn/live/sd-2-3674952.m3u8
+12月26日 1：00 76人 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3674953.m3u8
+3：30湖人 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3674954.m3u8
+6：00雄鹿 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3674955.m3u8
+9：00灰熊 @ 勇士,http://global.zkshuye.cn/live/sd-2-3674956.m3u8
+11：30太阳 @ 掘金,http://global.zkshuye.cn/live/sd-2-3674957.m3u8
+12月27日 8：00篮网 @ 骑士,http://global.zkshuye.cn/live/sd-2-3674958.m3u8
+08:00快船 @ 活塞,http://global.zkshuye.cn/live/sd-2-3674959.m3u8
+08:30森林狼 @ 热火,http://global.zkshuye.cn/live/sd-2-3674960.m3u8
+09:00火箭 @ 公牛,http://global.zkshuye.cn/live/sd-2-3674961.m3u8
+09:00步行者 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3674962.m3u8
+09:00爵士 @ 马刺,http://global.zkshuye.cn/live/sd-2-3674963.m3u8
+11:00黄蜂 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3674964.m3u8
+12月28日 8：00湖人 @ 魔术,http://global.zkshuye.cn/live/sd-2-3674965.m3u8
+08:0076人 @ 奇才,http://global.zkshuye.cn/live/sd-2-3674966.m3u8
+08：30火箭 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3674967.m3u8
+08：30老鹰 @ 步行者,http://global.zkshuye.cn/live/sd-2-3674968.m3u8
+08：30快船 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3674969.m3u8
+09：00太阳 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3674970.m3u8
+09：00马刺 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3674971.m3u8
+09：30尼克斯 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3674972.m3u8
+11:00黄蜂 @ 勇士,http://global.zkshuye.cn/live/sd-2-3674973.m3u8
+11:00掘金 @ 国王,http://global.zkshuye.cn/live/sd-2-3674974.m3u8
 🏀体育频道,#genre#
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
