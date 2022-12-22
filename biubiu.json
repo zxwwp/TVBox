@@ -350,7 +350,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
 
-{"name": "奇优影院",
+{"name": " 💫奇优影院",
 "url": "http://www.qiyoudy2.com/",
 //访问请求头
 "ua": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
@@ -461,7 +461,7 @@
 "bfhouzhui": "空"},
 
 {
-  "name": "搜狗影院(官)",
+  "name": " 🐶搜狗影院(官)",
   "url": "http://sogouyy.cn", 
   "tihuan": "cnzz.com",
   "User": "空",
@@ -522,7 +522,7 @@
 "bflianjiehou": "\""
 },
 
-{"name": "奈菲影院",
+{"name": " 🌬奈菲影院",
 "url": "https://www.1985.one/",
 //"User": "User-Agent:Dart/2.14 (dart:io)",
 "shouye": "1",
@@ -582,7 +582,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
 
-{"name": "子子影视",
+{"name": " 🐇子子影视",
 "url": "https://www.ziziys.com",
 "ua": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
 "shouye": "1",
@@ -649,7 +649,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
 
-{"name": "酷客影院",
+{"name": " 🍁酷客影院",
 "url": "http://696m.com",
 "User": "User-Agent$123",
 "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
@@ -712,7 +712,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
 
-{"name": "饭团影视",
+{"name": " 🧶饭团影视",
 "url": "https://www.fantuanhd.com",
 "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
 "User": "User-Agent$123",
@@ -792,7 +792,7 @@
 "bfhouzhui": "空",
 "bfjiexi": "空" },
 
-{"name": "神马影院",
+{"name": " 🐎神马影院",
 "url": "https://www.6080x.cc",
 "fenlei": "电影$/show/1--------#电视剧$/show/2--------#动漫$/show/4--------#动作片$/show/6--hits------#喜剧片$/show/7--hits------#爱情片$/show/8--time------#科幻片$/show/9--score------#剧情片$/show/11--hits------#战争片$/show/12--------#纪录片$/show/26--------#动画片$/show/27--score------#国产剧$/show/13--------#港台剧$/show/14--------#日韩剧$/show/15--------#欧美剧$/show/16--------#泰剧$/show/28--------#国漫$/show/4-国产-score------#日漫$/show/4-日本-score------#欧美漫$/show/4-欧美-time------",
 "houzhui": "---.html",
@@ -855,7 +855,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
 
-{"name": "蓝光影院",
+{"name": " 📀蓝光影院",
 "url": "https://www.lgyy.cc",
 "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
 "User": "空",
