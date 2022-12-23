@@ -47,6 +47,7 @@
 ],
 
 "caijizhan": [
+{"name":"苹果采集","url":"http://107.150.5.146:39000/maccms10-main/api.php"},
 {"name":" 🌩快播资源","url":"http://www.kuaibozy.com/api.php"},
 {"name":" 🌩飘花","url":"http://www.zzrhgg.com/api.php"},
 {"name":" 🌩酷点","url":"http://kudianzy.com/api.php"},
