@@ -15,7 +15,6 @@
 {"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
 //优质影视
-{"key":"csp_GitCafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_新视觉","name": "👌新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./新视觉.jar"},   
 {"key":"Gitcafe","name":"👌小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"./ali.jar"},
 {"key":"drpy_js_菜狗","name":" 👌搜狗","type":3,"api":"./drpy.min.js","ext":"./20221217js/菜狗.js"},
