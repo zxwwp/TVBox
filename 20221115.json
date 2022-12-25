@@ -1,7 +1,7 @@
 {   
 /*-----------------------JAR包接口-----------------------*/    
 "spider":"./20221212.jar",
-
+"spider":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372",
 //*--------------直播-----(tv.txt)-------------*/
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
 
