@@ -12,7 +12,8 @@
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./drpy.min.js","ext":"./310直播.js"},
 
  //电视频道
-{"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
+{"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "aHR0cDovLzEyMC41My4xMDIuMjU0L2xpdmU/dXJsPWh0dHBzOi8vZ2l0ZWUuY29tL3hsMDR3eTIyL3R2Ym94L3Jhdy9tYXN0ZXIvVFYudHh0","searchable": 1,"quickSearch": 1,"filterable": 1}, 
+{"key": "T4直播转点播","name": " 📺NBA直播","type": 4,"api": "aHR0cDovLzEyMC41My4xMDIuMjU0L2xpdmU/dXJsPWh0dHBzOi8vZ2l0ZWUuY29tL3hsMDR3eTIyL3R2Ym94L3Jhdy9tYXN0ZXIvTkJBVFYudHh0","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
 //优质影视
 {"key": "csp_新视觉","name": "👌新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./新视觉.jar"},   
