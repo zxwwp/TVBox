@@ -25,7 +25,7 @@
 {"key":"drpy_js_百忙无果","name":" 👌芒果","type":3,"api":"./drpy.min.js","ext":"./20221217js/百忙无果.js"},
 {"key": "dr_js_voflix","name": "✨voflix","type": 3,"api": "./drpy.min.js","ext": "./js_voflix.js"},
 {"key":"csp_Kunyu77","name":"👌酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP360","name":"👌360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_SP360","name":"👌360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext": ""},
 {"key":"csp_fant","name":"👌饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "小苹果","name": "👌小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
 
