@@ -16,18 +16,18 @@
 //{"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
 //优质影视
-{"key": "csp_新视觉","name": "👌新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./新视觉.jar"},   
-{"key":"Gitcafe","name":"👌小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"./ali.jar"},
+{"key": "csp_新视觉","name": "💎新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./新视觉.jar"},   
+{"key":"Gitcafe","name":"💎小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"./ali.jar"},
 
-{"key":"drpy_js_菜狗","name":" 👌搜狗","type":3,"api":"./drpy.min.js","ext":"./20221217js/菜狗.js"},
-{"key":"drpy_js_奇珍异兽","name":" 👌爱奇艺","type":3,"api":"./drpy.min.js","ext":"./20221217js/奇珍异兽.js"},
-{"key":"drpy_js_腾云驾雾","name":" 👌腾讯","type":3,"api":"./drpy.min.js","ext":"./20221217js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":" 👌芒果","type":3,"api":"./drpy.min.js","ext":"./20221217js/百忙无果.js"},
-{"key": "dr_js_voflix","name": "✨voflix","type": 3,"api": "./drpy.min.js","ext": "./js_voflix.js"},
-{"key":"csp_Kunyu77","name":"👌酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP360","name":"💢360(SP)💎","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./360.jar"},
-{"key":"csp_fant","name":"👌饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key": "小苹果","name": "👌小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
+{"key":"drpy_js_菜狗","name":"💎搜狗","type":3,"api":"./drpy.min.js","ext":"./20221217js/菜狗.js"},
+{"key":"drpy_js_奇珍异兽","name":"💎爱奇艺","type":3,"api":"./drpy.min.js","ext":"./20221217js/奇珍异兽.js"},
+{"key":"drpy_js_腾云驾雾","name":"💎腾讯","type":3,"api":"./drpy.min.js","ext":"./20221217js/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"💎芒果","type":3,"api":"./drpy.min.js","ext":"./20221217js/百忙无果.js"},
+{"key": "dr_js_voflix","name":"💎voflix","type": 3,"api": "./drpy.min.js","ext": "./js_voflix.js"},
+{"key":"csp_Kunyu77","name":"💎酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP360","name":"💎360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./360.jar"},
+{"key":"csp_fant","name":"💎饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key": "小苹果","name":"💎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
 
 //影视频道
 {"key":"drpy_js_秋霞影院","name":" 🦖秋霞影院","type":3,"api":"./drpy.min.js","ext":"./20221217js/秋霞.js"},
