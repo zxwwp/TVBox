@@ -10,13 +10,21 @@
 //体育频道
 {"key": "dr_JRKAN直播","name": "🏀JRKAN直播✨","type":"3","api":"./drpy.min.js","searchable":"0","quickSearch":"0","filterable":"0","ext": "./JRKAN直播.js"},
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./drpy.min.js","ext":"./310直播.js"},
-
+{
+		"key": "py_freezb",
+		"name": "体育直播（PY）",
+		"type": 3,
+		"api": "py_freezb",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_freezb.py"
+	},
  //电视频道
 //{"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key": "T4直播","name": " 📺NBA直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
 //优质影视
-{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_新视觉","name": "👌新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./新视觉.jar"},   
 {"key":"Gitcafe","name":"👌小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"./ali.jar"},
 
