@@ -15,6 +15,43 @@
  //电视频道
 //{"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
+
+{
+      "key": "紙條",
+      "name": "紙條",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "http://ali.饭太硬.ml/tok"
+    },
+    {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
+    },
+    {
+      "key": "盤搜",
+      "name": "盤搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
+    },
+    {
+      "key": "UP雲搜",
+      "name": "UP雲搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
+    },
 //优质影视
 {"key": "csp_新视觉","name": "💎新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./新视觉.jar"},   
 {"key":"Gitcafe","name":"💎小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"./ali.jar"},
@@ -29,9 +66,40 @@
 //{"key":"csp_fant","name":"💎饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "小苹果","name":"💎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./xpg.jar"},
 
+{"key": "IQIYI","name": "🥝奇异果(解析)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "QQ","name": "🍅企鹅(解析)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "MGTV","name": "🍋芒果(解析)","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "360","name": "💫360(解析)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key":"蓝光影院","name":"📺蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"ext":"./lukjpl4f.json"},
 {"key": "csp_xpath_fantuan","name":"️📺饭团影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./饭团影视.json"},
 {"key":"csp_xpath_农民影视","name":"📺农民影视","type":3,"api":"csp_XPathMacFilter","searchable":"1","quickSearch":"1","filterable":"1","ext":"./农民影视.json"},
+
+//三方聚合
+{"key":"csp_xml_39影视","name":"🐝3 9影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},       
+{"key":"csp_xml_量子资源","name":"🐝量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_天猫资源","name":"🐝天猫资源","type":1,"api":"https://www.tianmaozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_金鹰资源","name":"🐝金鹰资源","type":1,"api":"https://jyzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_新浪资源","name":"🐝新浪资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"木子看剧","name":" 🏆木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"热剧天堂","name":" 🏆热剧天堂","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"贵宾影院","name":" 🏆贵宾影院","type":1,"api":"http://vipdytv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"飘花电影","name":" 🏆飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"映迷","name":" 🏆映迷","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"百淘影视","name":" 🏆百淘影视","type":1,"api":"http://ys.58g8.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"艾旦影视","name":" 🏆艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"乐活影视","name":"  🏆乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"快车资源","name":" 🏆快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"光速资源","name":" 🏆光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"天堂资源","name":" 🏆天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"影图影视","name":" 🏆影图影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"鱼乐资源","name":" 🏆鱼乐资源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"百度资源","name":" 🏆百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"U酷资源","name":" 🏆U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"飘零影院","name":" 🏆飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"FOX资源","name":" 🏆FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"77韩剧","name":" 🏆77韩剧","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"香瓜影视","name":" 🏆香瓜影视","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 //影视频道
 {"key": "dr_蚂蚁影视","name": "✨蚂蚁影视","type": 3,"api": "./drpy.min.js","ext": "./蚂蚁影视.js"},
@@ -132,27 +200,6 @@
 {"key":"drpy_js_云播影院","name":" 🦖云播影院","type":3,"api":"./drpy.min.js","ext":"./20221217js/云播.js"},
 {"key":"drpy_js_追剧啦儿","name":" 🦖追剧啦儿","type":3,"api":"./drpy.min.js","ext":"./20221217js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":" 🦖子子影视","type":3,"api":"./drpy.min.js","ext":"./20221217js/子子影视.js"},
-
-//三方聚合
-{"key":"木子看剧","name":" 🏆木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"热剧天堂","name":" 🏆热剧天堂","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"贵宾影院","name":" 🏆贵宾影院","type":1,"api":"http://vipdytv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"飘花电影","name":" 🏆飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"映迷","name":" 🏆映迷","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"百淘影视","name":" 🏆百淘影视","type":1,"api":"http://ys.58g8.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"艾旦影视","name":" 🏆艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"乐活影视","name":"  🏆乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"快车资源","name":" 🏆快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"光速资源","name":" 🏆光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"天堂资源","name":" 🏆天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"影图影视","name":" 🏆影图影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"鱼乐资源","name":" 🏆鱼乐资源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"百度资源","name":" 🏆百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"U酷资源","name":" 🏆U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"飘零影院","name":" 🏆飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"FOX资源","name":" 🏆FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"77韩剧","name":" 🏆77韩剧","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"香瓜影视","name":" 🏆香瓜影视","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 //动漫频道
 {"key":"小鸟动漫","name":"🐦小鸟动漫(聚)💎","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
