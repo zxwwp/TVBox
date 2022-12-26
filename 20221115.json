@@ -3,7 +3,13 @@
 "spider":"./20221212.jar",
 
 //*--------------直播-----(tv.txt)-------------*/
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
+"lives": [{
+      "name": "直播",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
 
 /*-----------------------配置数据源-----------------------*/
 "sites":[
@@ -14,7 +20,7 @@
 
  //电视频道
 //{"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"57a6d0febcba41c480eb14be6cfcb6f7"},
 //优质影视
 {"key": "csp_新视觉","name": "💎新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./新视觉.jar"},   
 {"key": "紙條","name": "💎紙條","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok"},
