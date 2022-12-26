@@ -49,3 +49,13 @@
 10:00热火 @ 掘金,http://global.zkshuye.cn/live/sd-2-3674995.m3u8
 11:00开拓者 @ 勇士,http://global.zkshuye.cn/live/sd-2-3674996.m3u8
 11:00爵士 @ 国王,http://global.zkshuye.cn/live/sd-2-3674997.m3u8
+🏀1月 01日,#genre#
+4：00快船 @ 步行者,http://global.zkshuye.cn/live/sd-2-3674998.m3u8
+8：00篮网 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3674999.m3u8
+8：00骑士 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675000.m3u8
+8：00尼克斯 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675001.m3u8
+8：00独行侠 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675002.m3u8
+9：00鹈鹕 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675003.m3u8
+9：00活塞 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675004.m3u8
+9：0076人 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675005.m3u8
+10：00热火 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675006.m3u8
