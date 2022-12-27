@@ -96,11 +96,6 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
 🏀NBA直播,#genre#
-12月26日 1：00 76人 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3674953.m3u8
-3：30湖人 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3674954.m3u8
-6：00雄鹿 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3674955.m3u8
-9：00灰熊 @ 勇士,http://global.zkshuye.cn/live/sd-2-3674956.m3u8
-11：30太阳 @ 掘金,http://global.zkshuye.cn/live/sd-2-3674957.m3u8
 12月27日 8：00篮网 @ 骑士,http://global.zkshuye.cn/live/sd-2-3674958.m3u8
 8:00快船 @ 活塞,http://global.zkshuye.cn/live/sd-2-3674959.m3u8
 8:30森林狼 @ 热火,http://global.zkshuye.cn/live/sd-2-3674960.m3u8
@@ -150,6 +145,9 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 9：00活塞 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675004.m3u8
 9：0076人 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675005.m3u8
 10：00热火 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675006.m3u8
+1月02日9：00国王 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675007.m3u8
+9：00奇才 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675008.m3u8
+9：000凯尔特人 @ 掘金人,http://global.zkshuye.cn/live/sd-2-3675009.m3u8
 🏀体育频道,#genre#
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
