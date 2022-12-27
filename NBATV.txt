@@ -1,6 +1,3 @@
-🏀12月26日,#genre#
-9：00灰熊 @ 勇士,http://global.zkshuye.cn/live/sd-2-3674956.m3u8
-11：30太阳 @ 掘金,http://global.zkshuye.cn/live/sd-2-3674957.m3u8
 🏀12月27日,#genre#
 8：00篮网 @ 骑士,http://global.zkshuye.cn/live/sd-2-3674958.m3u8
 08:00快船 @ 活塞,http://global.zkshuye.cn/live/sd-2-3674959.m3u8
@@ -56,3 +53,7 @@
 9：00活塞 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675004.m3u8
 9：0076人 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675005.m3u8
 10：00热火 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675006.m3u8
+🏀1月 02日,#genre#
+9：00国王 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675007.m3u8
+9：00奇才 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675008.m3u8
+9：000凯尔特人 @ 掘金人,http://global.zkshuye.cn/live/sd-2-3675009.m3u8
