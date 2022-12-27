@@ -1,11 +1,3 @@
-🏀12月27日,#genre#
-8：00篮网 @ 骑士,http://global.zkshuye.cn/live/sd-2-3674958.m3u8
-08:00快船 @ 活塞,http://global.zkshuye.cn/live/sd-2-3674959.m3u8
-08:30森林狼 @ 热火,http://global.zkshuye.cn/live/sd-2-3674960.m3u8
-09:00火箭 @ 公牛,http://global.zkshuye.cn/live/sd-2-3674961.m3u8
-09:00步行者 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3674962.m3u8
-09:00爵士 @ 马刺,http://global.zkshuye.cn/live/sd-2-3674963.m3u8
-11:00黄蜂 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3674964.m3u8
 🏀12月28日,#genre#
 8：00湖人 @ 魔术,http://global.zkshuye.cn/live/sd-2-3674965.m3u8
 08:0076人 @ 奇才,http://global.zkshuye.cn/live/sd-2-3674966.m3u8
@@ -57,3 +49,11 @@
 9：00国王 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675007.m3u8
 9：00奇才 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675008.m3u8
 9：000凯尔特人 @ 掘金人,http://global.zkshuye.cn/live/sd-2-3675009.m3u8
+🏀1月03日,#genre#
+8：00篮网 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675010.m3u8
+08:00快船 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675011.m3u8
+08:30森林狼 @ 热火,http://global.zkshuye.cn/live/sd-2-3675012.m3u8
+09:00火箭 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675013.m3u8
+09:00步行者 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3675014.m3u8
+09:00爵士 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675015.m3u8
+11:00黄蜂 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675016.m3u8
