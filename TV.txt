@@ -135,14 +135,6 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
 🏀NBA直播,#genre#
-12月29日 8：00魔术 @ 活塞,http://global.zkshuye.cn/live/sd-2-3674975.m3u8
-8：00太阳 @ 奇才,http://global.zkshuye.cn/live/sd-2-3674976.m3u8
-8：30篮网 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3674977.m3u8
-8：30湖人 @ 热火,http://global.zkshuye.cn/live/sd-2-3674978.m3u8
-9：00雄鹿 @ 公牛,http://global.zkshuye.cn/live/sd-2-3674979.m3u8
-9：00森林狼 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3674980.m3u8
-11：00爵士 @ 勇士,http://global.zkshuye.cn/live/sd-2-3674981.m3u8
-11：30掘金 @ 国王,http://global.zkshuye.cn/live/sd-2-3674982.m3u8
 12月30日8:00雷霆 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3674983.m3u8
 8:00骑士 @ 步行者,http://global.zkshuye.cn/live/sd-2-3674984.m3u8
 8:30快船 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3674985.m3u8
@@ -184,6 +176,19 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 1月04日 9：00奇才 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675021.m3u8
 9：00凯尔特人 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675022.m3u8
 10：00国王 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675023.m3u8
+1月05日8：00 灰熊 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675024.m3u8
+8：00 太阳 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675025.m3u8
+8：00 雷霆 @ 魔术,http://global.zkshuye.cn/live/sd-2-3675026.m3u8
+8：00 步行者 @ 76人,http://global.zkshuye.cn/live/sd-2-3675027.m3u8
+8：30 马刺 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675028.m3u8
+8：30 雄鹿 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675029.m3u8
+9：00 篮网 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675030.m3u8
+9：00 开拓者 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675031.m3u8
+9：00 火箭 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3675032.m3u8
+11：00 活塞 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675033.m3u8
+11：00 热火 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675034.m3u8
+11：00 老鹰 @ 国王,http://global.zkshuye.cn/live/sd-2-3675035.m3u8
+
 🏀体育频道,#genre#
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
