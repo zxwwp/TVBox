@@ -50,24 +50,6 @@
 {"name":"👌小猫咪","url":"http://zy.xiaomaomi.cc/api.php"},
 {"name":"👌百度","url":"https://api.apibdzy.com/api.php"}
 ],
-//填写轮播接口，翻页链接和播放前缀的格式是base64编码
-"lunbo": [
-{"name":"斗鱼一起看","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
-{"name":"斗鱼舞蹈","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTAwOC8=","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
-{"name":"斗鱼颜值","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMzExLw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
-{"name":"斗鱼音乐","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTc1Lw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
-{"name":"斗鱼户外","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTI0Lw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
-{"name":"斗鱼二次元","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTc0Lw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
-{"name":"DY王者荣耀","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTgxLw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
-{"name":"DY趣生活","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTA5Ny8=","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
-{"name":"虎牙一起看","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxMzUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
-{"name":"虎牙星秀","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTE2NjMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
-{"name":"虎牙颜值","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxNjgmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
-{"name":"虎牙二次元","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTI2MzMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
-{"name":"虎牙户外","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxNjUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
-{"name":"虎牙体育","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIzNTYmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
-{"name":"HY王者荣耀","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIzMzYmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
-{"name":"yy轮播","fanye":"aHR0cHM6Ly93d3cueXkuY29tL21vcmUvcGFnZS5hY3Rpb24/Yml6PXNpbmcmc3ViQml6PWlkeCZwYWdlPQ==","qianzhui":"aHR0cHM6Ly93d3cueXkuY29t"}],
 
 //主解析是JSON直链的，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
 "zhujiexi": "https://humaosp.com/json.php?url=#http://81.70.242.138:8089/GetVideoJson?url=#https://json.5lp.net/json.php?url=",
