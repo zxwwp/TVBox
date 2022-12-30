@@ -96,12 +96,6 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
 🏀NBA直播,#genre#
-12月30日8:00雷霆 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3674983.m3u8
-8:00骑士 @ 步行者,http://global.zkshuye.cn/live/sd-2-3674984.m3u8
-8:30快船 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3674985.m3u8
-8:30灰熊 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3674986.m3u8
-9:00尼克斯 @ 马刺,http://global.zkshuye.cn/live/sd-2-3674987.m3u8
-9:30火箭 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3674988.m3u8
 12月31日8：00奇才 @ 魔术,http://global.zkshuye.cn/live/sd-2-3674989.m3u8
 8：30湖人 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3674990.m3u8
 8：30太阳 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3674991.m3u8
