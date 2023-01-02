@@ -20,7 +20,8 @@
 
 //优质影视
 {"key": "csp_新视觉","name": "💎新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./新视觉.jar"},   
-{"key":"csp_Paper","name":"💎小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch ":1,"filterable":1,"ext":"./ali.txt"},
+//{"key":"csp_Paper","name":"💎小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch ":1,"filterable":1,"ext":"./ali.txt"},
+{"key": "csp_Paper","name": "小纸条(新)","type": 3,"api": "csp_Gitcafe","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext": "token;desc"},
 {"key":"Gitcafe","name":"💎小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"./ali.jar"},
 {"key":"drpy_js_菜狗","name":"💎搜狗","type":3,"api":"./drpy.min.js","ext":"./20221217js/菜狗.js"},
 {"key":"drpy_js_奇珍异兽","name":"💎爱奇艺","type":3,"api":"./drpy.min.js","ext":"./20221217js/奇珍异兽.js"},
