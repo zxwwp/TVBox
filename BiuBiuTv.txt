@@ -96,9 +96,6 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
 🏀NBA直播,#genre#
-1月02日9：00国王 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675007.m3u8
-9：00奇才 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675008.m3u8
-9：000凯尔特人 @ 掘金人,http://global.zkshuye.cn/live/sd-2-3675009.m3u8
 1月03日 4：00太阳 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675010.m3u8
 8：00湖人 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675011.m3u8
 8：00公牛 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675012.m3u8
