@@ -1,4 +1,5 @@
 {
+//填写电影电视剧综艺动漫的接口
 "zhuyejiekou":[
 {"name":" 🌩极速影视","url":"http://ysappcms.hwzczx.cn/api.php/v1.vod"},
 {"name":" 🌩鑫总资源","url":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
@@ -74,7 +75,6 @@
 "reci":"https://v.sogou.com",
 "gongju":"aHR0cHM6Ly9na2Q4LmNmL3p6L3h6Lw==",
 
-"wuqu":"aHR0cDovL3d3dy5kanV1LmNvbQ==",
 //填写播放地址过滤规则，中间用#号分割，不用填太多，默认的基本够用，主要是针对自定义的网站过滤的。
 "guolvdizhi": "player.css#url=#cnzz.com#51.la",
 
