@@ -50,3 +50,13 @@
 9：00 鹈鹕 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675053.m3u8
 9：30 魔术 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675054.m3u8
 11：00 湖人 @ 国王,http://global.zkshuye.cn/live/sd-2-3675055.m3u8
+🏀1月09日,#genre#
+4：00 76人 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675056.m3u8
+4：30 开拓者 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675057.m3u8
+6：00 黄蜂 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675058.m3u8
+7：00 篮网 @ 热火,http://global.zkshuye.cn/live/sd-2-3675059.m3u8
+7：00 爵士 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675060.m3u8
+8：00 森林狼 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675061.m3u8
+8：00 独行侠 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675062.m3u8
+9：00 骑士 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675063.m3u8
+10：00 老鹰 @ 快船,http://global.zkshuye.cn/live/sd-2-3675064.m3u8
