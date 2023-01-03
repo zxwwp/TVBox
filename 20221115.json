@@ -12,7 +12,7 @@
 //体育频道
 {"key": "dr_JRKAN直播","name": "🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","searchable":"0","quickSearch":"0","filterable":"0","ext": "./js/JRKAN直播.js"},
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/310直播.js"},
-{"key":"drpy_js_88看球","name":"🏀88看球✨","type":3,"api":"./2js/drpy.min.js","ext":"./js/88看球.js"}, 
+{"key":"drpy_js_88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy.min.js","ext":"./js/88看球.js"}, 
 {"key": "T4直播","name": " 🏀NBA直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
 //电视频道
