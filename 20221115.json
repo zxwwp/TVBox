@@ -165,6 +165,7 @@
 {"key":"drpy_js_云播影院","name":" 🦖云播影院","type":3,"api":"./20221217js/drpy.min.js","ext":"./20221217js/云播.js"},
 {"key":"drpy_js_追剧啦儿","name":" 🦖追剧啦儿","type":3,"api":"./20221217js/drpy.min.js","ext":"./20221217js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":" 🦖子子影视","type":3,"api":"./20221217js/drpy.min.js","ext":"./20221217js/子子影视.js"},
+{"key":"drpy_js_l0l影视","name":" 🦖l0l影视","type":3,"api":"./20221217js/drpy.min.js","ext":"./20221217js/js_l0l.js"},
 
 //动漫频道
 {"key":"小鸟动漫","name":"👨‍🌾小鸟动漫(聚)💎","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -173,8 +174,10 @@
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./路漫漫动漫.json"},
 
 //音乐频道
-{"key":"bili","name":"  🎙Bili[jar]","type":3,"api":"csp_Bili","ext":"./音乐演唱.json"},
-{"key":"drpy_js_蜻蜓FM","name":" 📻蜻蜓FM[js]","type":3,"api":"./20221217js/drpy.min.js","ext":"./20221217js/蜻蜓FM.js","playerType":"2"}
+{"key":"bili","name":"🎙Bili[jar]","type":3,"api":"csp_Bili","ext":"./音乐演唱.json"},
+{"key":"drpy_js_种子音乐.js","name":"🎙种子音乐","type":3,"api":"./20221217js/drpy.min.js","ext":"./20221217js/js_种子音乐.js"},
+{"key":"drpy_js_海洋听书.js","name":"📻海洋听书","type":3,"api":"./20221217js/drpy.min.js","ext":"./20221217js/js_海洋听书.js"},
+{"key":"drpy_js_蜻蜓FM","name":"📻蜻蜓FM[js]","type":3,"api":"./20221217js/drpy.min.js","ext":"./20221217js/蜻蜓FM.js","playerType":"2"}
 
 ],
 
