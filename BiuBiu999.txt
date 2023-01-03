@@ -77,7 +77,7 @@
       "name": "HY体育",
       "fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIzNTYmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9",
       "qianzhui": "aHR0cDovLzEyNC4yMjMuMjEyLjM4OjgzL2h1eWEv"
-    },
+    }
 ],
 
 //主解析是JSON直链的，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
