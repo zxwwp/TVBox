@@ -11,8 +11,8 @@ var rule = {
         'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
-     play_parse:true,
-    //play_parse:false,
+    // play_parse:true,
+    play_parse:false,
     lazy:'',
     limit:6,
     double:false,
