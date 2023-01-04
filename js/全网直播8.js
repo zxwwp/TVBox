@@ -1,7 +1,7 @@
 var rule = {
     title:'全网直播8',
-    host:'https://www.zhibo8.net',
-    url:'/?s=0&t=1&a=fyclass&g=fypage',
+    host:'https://www.zhibo8.net/match-list.html',
+    url:'fyclas',
     searchUrl:'',
     searchable:0,
     quickSearch:0,
