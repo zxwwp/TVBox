@@ -1,6 +1,6 @@
 var rule = {
     title:'88看球',
-    host:'http://www.88kanqiu.vip',
+    host:'http://www.888kanqiu.tv',
     url:'/match/fyclass/live',
     searchUrl:'',
     searchable:0,
