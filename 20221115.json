@@ -106,7 +106,7 @@
 {"key": "dr_js_金曼影视","name": "✨金曼影视","type": 3,"api": "./js/drpy.min.js","ext": "./js/js_金曼影视.js"},
 {"key": "dr_js_追剧达人","name": "✨追剧达人","type": 3,"api": "./js/drpy.min.js","ext": "./js/js_追剧达人.js"},
 {"key": "dr_js_348电影网","name": "✨348电影网","type": 3,"api": "./js/drpy.min.js","ext": "./js/js_348电影网.js"},
-{"key": "dr_js_新思古影视","name": "✨新思古影视","type": 3,"api": "./js/drpy.min.js","ext": "./js/js_新思古影视.js"},
+//{"key": "dr_js_新思古影视","name": "✨新思古影视","type": 3,"api": "./js/drpy.min.js","ext": "./js/js_新思古影视.js"},
 {"key":"drpy_js_秋霞影院","name":" 🦖秋霞影院","type":3,"api":"./js/drpy.min.js","ext":"./js/秋霞.js"},
 {"key":"drpy_js_首播影院","name":" 🦖首播影院","type":3,"api":"./js/drpy.min.js","ext":"./js/首播影院.js"},
 {"key":"drpy_js_TV云播","name":" 🦖TV云播","type":3,"api":"./js/drpy.min.js","ext":"./js/TV云播.js"},
@@ -166,6 +166,8 @@
 {"key":"drpy_js_追剧啦儿","name":" 🦖追剧啦儿","type":3,"api":"./js/drpy.min.js","ext":"./js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":" 🦖子子影视","type":3,"api":"./js/drpy.min.js","ext":"./js/子子影视.js"},
 {"key":"drpy_js_l0l影视","name":" 🦖l0l影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_l0l.js"},
+{"key":"drpy_js_欧帝影院","name":" 🦖欧帝影院","type":3,"api":"./js/drpy.min.js","ext":"./js/js_欧帝影院.js"},
+{"key":"drpy_js_万博剧院","name":" 🦖万博剧院","type":3,"api":"./js/drpy.min.js","ext":"./js/js_万博剧院.js"},
 
 //动漫频道
 {"key":"小鸟动漫","name":"👨‍🌾小鸟动漫(聚)💎","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
