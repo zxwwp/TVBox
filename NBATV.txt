@@ -49,3 +49,9 @@
 9：00 骑士 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675063.m3u8
 10：00 老鹰 @ 快船,http://global.zkshuye.cn/live/sd-2-3675064.m3u8
 🏀1月10日,#genre#
+8：00 鹈鹕 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675065.m3u8
+8：30 公牛 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675066.m3u8
+8：30 雄鹿 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675067.m3u8
+9：00 马刺 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675068.m3u8
+10：00 湖人 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675069.m3u8
+11：00 魔术 @ 国王,http://global.zkshuye.cn/live/sd-2-3675070.m3u8
