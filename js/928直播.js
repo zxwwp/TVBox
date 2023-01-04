@@ -1,13 +1,12 @@
 var rule = {
     title:'928直播',
     host:'http://www.928.tv/',
-      url:'/fyclass',
-    //url:'/?s=0&t=1&a=fyclass&g=fypage',
+    url:'/?s=0&t=1&a=fyclass&g=fypage',
     searchUrl:'',
     searchable:0,
     quickSearch:0,
-    class_name:'热门&足球&篮球',
-    class_url:'0&1&2', 
+   class_name:'热门&足球&篮球',
+   class_url:'0&1&2', 
     headers:{
         'User-Agent':'MOBILE_UA'
     },
