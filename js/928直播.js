@@ -5,10 +5,8 @@ var rule = {
     searchUrl:'',
     searchable:0,
     quickSearch:0,
-    //class_name:'热门&足球&篮球',
-    //class_url:'0&1&2',        
-    class_name:'热门',
-    class_url:'0',
+    class_name:'热门&足球&篮球',
+    class_url:'0&1&2', 
     headers:{
         'User-Agent':'MOBILE_UA'
     },
