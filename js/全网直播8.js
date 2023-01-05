@@ -1,11 +1,12 @@
 var rule = {
     title:'全网直播8',
     host:'https://www.zhibo8.net',
-    url:'/match/fyclass/live',
+    url:'/fyclass',
     searchUrl:'',
     searchable:0,
     quickSearch:0,
-    class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',
+    class_name:'全部',
+    class_url:'/',
     headers:{
         'User-Agent':'PC_UA'
     },
@@ -15,14 +16,7 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-    一级:'.list-group .group-game-item;.d-none&&Text;img&&src;.btn&&Text;a&&href',
-    二级:{
-	    "title":".game-info-container&&Text;.customer-navbar-nav li&&Text",
-	    "img":"img&&src",
-	    "desc":";;;div.team-name:eq(0)&&Text;div.team-name:eq(1)&&Text",
-	    "content":"div.game-time&&Text",
-	    "tabs":"js:TABS=['直播信号']",
-	    "lists":"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)});"
-	},
+   一级:'.todayMatch .contenTab;.myList div:gt(0)&&Text;img&&src;.status&&Text;a&&href',
+    二级:{title:'.msg ul&&Text;.msg ul&&Text',img:'img:eq(2)&&src',desc:';;;.nameOne&&Text;.nameTwo&&Text',content:'._t&&Text',tabs:'.checkChannel li:eq(0)',tab_text:'p&&Text',lists:'.checkChannel li:gt(0)',list_text:'a&&Text',list_url:'a&&data-url'},
     搜索:'',
 }
