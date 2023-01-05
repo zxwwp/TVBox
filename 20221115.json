@@ -16,7 +16,7 @@
 {"key":"drpy_JRS看直播","name":"🏀JRS看直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/JRS看直播.js"}, 
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/310直播.js"},
 {"key":"drpy_js_928直播","name":"🏀928直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/928直播.js"},
- 
+{"key":"全网直播8","name":"🏀全网直播8","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/全网直播8.json"},
 
 //电视频道
 //{"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
@@ -28,6 +28,7 @@
 {"key":"drpy_js_奇珍异兽","name":"💎爱奇艺","type":3,"api":"./js/drpy.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_腾云驾雾","name":"💎腾讯","type":3,"api":"./js/drpy.min.js","ext":"./js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"💎芒果","type":3,"api":"./js/drpy.min.js","ext":"./js/百忙无果.js"},
+{"key":"youku","name":"💎优酷","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
 {"key":"csp_77","name":"💎酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"💎360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./json/360.jar"},
 {"key":"csp_fant","name":"💎饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
