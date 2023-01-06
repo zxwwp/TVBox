@@ -1,7 +1,8 @@
 {   
 /*-----------------------JAR包接口-----------------------*/    
 //"spider":"./20221212.jar",
-"spider":"./Yoursmile.jar", 
+//"spider":"./Yoursmile.jar", 
+"spider":"https://agit.ai/Doudou/TVbox/raw/branch/master/jar/XBiubiuLA4.jar",
 
 //*--------------直播-----(tv.txt)-------------*/
 "lives": [
