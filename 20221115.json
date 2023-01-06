@@ -18,32 +18,11 @@
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/310直播.js"},
 {"key":"drpy_js_928直播","name":"🏀928直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/928直播.js"},
 //{"key":"drpy_js_全网直播8","name":"🏀全网直播8✨","type":3,"api":"./js/drpy.min.js","ext":"./js/全网直播8.js"},
-{
-      "key": "csp_xpath_huyam",
-      "name": "🐻虎牙",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cn.kstore.space/download/2998/1/json/huya.json"
-    },
-    {
-      "key": "csp_biubiu_斗鱼",
-      "name": "🦈斗鱼",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cn.kstore.space/download/2998/1/json/斗鱼.json"
-    },
     
  //电视频道
 //{"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
 //优质影视
-{"key":"Ying","name":"🌸樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_新视觉","name": "💎新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./json/新视觉.jar"},   
 {"key": "dr_js_voflix","name":"💎voflix","type": 3,"api": "./js/drpy.min.js","ext": "./js/js_voflix.js"},
 {"key":"drpy_js_菜狗","name":"💎搜狗","type":3,"api":"./js/drpy.min.js","ext":"./js/菜狗.js"},
@@ -184,6 +163,7 @@
 {"key":"drpy_js_万博剧院","name":" 🦖万博剧院","type":3,"api":"./js/drpy.min.js","ext":"./js/js_万博剧院.js"},
 
 //动漫频道
+{"key":"Ying","name":"👨‍🌾樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小鸟动漫","name":"👨‍🌾小鸟动漫(聚)💎","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"drpy_js_兔小贝","name":"👨‍🌾兔小贝[js]","type":3,"api":"./js/drpy.min.js","ext":"./js/兔小贝.js"},
 {"key": "dr_js_AnFuns","name": "👨‍🌾AnFuns","type": 3,"api": "./js/drpy.min.js","ext": "./js/AnFuns.js"},
