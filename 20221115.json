@@ -21,7 +21,8 @@
 //{"key":"csp_xp_全网直播8","name":"🏀全网直播8","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/全网直播8.json"},   
  //电视频道
 //{"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-
+{"key":"csp_biubiu_电视猫","name":"🎤电视猫(XP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Doudou/TVbox/raw/branch/master/res/%e7%94%b5%e8%a7%86%e7%8c%ab%e6%8e%92%e8%a1%8c%e6%a6%9c.json"},
+		
 //优质影视
 {"key": "csp_新视觉","name": "💎新视觉","type": 3,"api": "csp_Xinsj","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_新视觉","name": "💎新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./json/新视觉.jar"},   
