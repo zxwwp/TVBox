@@ -223,10 +223,6 @@ CCTV17,http://121.24.98.36:8090/hls/24/index.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
 ##🏀NBA直播##
-1月06日8：00 灰熊 @ 魔术,http://global.zkshuye.cn/live/sd-2-3675036.m3u8
-8:30 凯尔特人 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675037.m3u8	
-9:00 爵士 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675038.m3u8		
-11:00 快船 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675039.m3u8
 1月07日8:00 开拓 者 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675040.m3u8
 8:00 公牛 @ 76人,http://global.zkshuye.cn/live/sd-2-3675041.m3u8
 8:30 尼克斯 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675042.m3u8
