@@ -2,19 +2,18 @@
     "author": "全网直播8",
     "homeUrl": "https://www.zhibo8.net/",
     "ua":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+    "cateManual": {"全网直播8":"1"},
 
-    "cateManual": {"全网直播8":""},
-
-    // 首页
-    "cateUrl": "https://www.zhibo8.net/",
 	// 首页推荐视频的节点
-	"cateVodNode": "//div [@class='listBox']",
-       //"cateVodNode": "//div[@class='txtdiv']/parent::li",
+	//"cateVodNode": "//div [@class='listBox']",
+       "cateVodNode": "//div[@class='txtdiv']/parent::li",
     // 首页推荐视频的名称
     "cateVodName": "concat(/div[@class='myList']/div[@class='timer']/text(),':',/div[@class='myList']/div[@class='matchType']/text())",
     // 首页推荐视频的id
-    "cateVodId": "/div[@class='download']/div[@class='status']/a/@href",
-    "cateVodIdR": "/live_play_inner/(\\d+).html",
+    //"cateVodId": "/div[@class='download']/div[@class='status']/a/@href",
+       "homeVodIdR": "https://www.zhibo8.net/live_play_inner/(\\d+).html",
+    //"cateVodIdR": "/live_play_inner/(\\d+).html",
+    "homeVodIdR": "https://www.zhibo8.net/live_play_inner/(\\d+).html",
     // 首页推荐视频的图片
     "cateVodImg": "/div[@class='myList']/div[@class='team']/p[1]/img/@src",
     // 首页推荐视频的简介
