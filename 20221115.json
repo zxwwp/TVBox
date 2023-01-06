@@ -9,6 +9,7 @@
 
 /*-----------------------配置数据源-----------------------*/
 "sites":[
+    {"key":"更新","name":"2023/01/06更新","type":0,"api":"","searchable":0,"quickSearch":0},
 //体育频道
 {"key": "T4直播","name": " 🏀NBA直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key": "dr_JRKAN直播","name": "🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","searchable":"0","quickSearch":"0","filterable":"0","ext": "./js/JRKAN直播.js"},
