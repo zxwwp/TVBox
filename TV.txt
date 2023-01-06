@@ -17,9 +17,6 @@ CCTV1,rtsp://115.153.212.72/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2,rtsp://115.153.212.72/PLTV/88888888/224/3221226825/59814584.smil
 CCTV3,rtsp://115.153.212.72/PLTV/88888888/224/3221226841/63329606.smil
 CCTV4,rtsp://115.153.212.72/PLTV/88888888/224/3221226838/59814684.smil
-CCTV5,rtsp://115.153.212.72/PLTV/88888888/224/3221226852/63329574.smil
-CCTV5,rtsp://115.153.212.72/PLTV/88888888/224/3221226907/65396401.smil
-CCTV5+,rtsp://115.153.212.72/PLTV/88888888/224/3221226976/85722488.smil
 CCTV6,rtsp://115.153.212.72/PLTV/88888888/224/3221226843/63329570.smil
 CCTV7,rtsp://115.153.212.72/PLTV/88888888/224/3221226827/59814693.smil
 CCTV8,rtsp://115.153.212.72/PLTV/88888888/224/3221226854/63329578.smil
@@ -35,8 +32,6 @@ CCTV1,http://39.134.116.30/PLTV/88888888/224/3221225630/index.m3u8
 CCTV2,http://39.134.116.30/PLTV/88888888/224/3221225643/index.m3u8
 CCTV3,http://39.134.116.30/PLTV/88888888/224/3221225634/index.m3u8
 CCTV4,http://39.134.116.30/PLTV/88888888/224/3221225621/index.m3u8
-CCTV5,http://39.134.116.30/PLTV/88888888/224/3221225751/index.m3u8
-CCTV5+,http://39.134.116.30/PLTV/88888888/224/3221225706/index.m3u8
 CCTV6,http://39.134.116.30/PLTV/88888888/224/3221225650/index.m3u8
 CCTV7,http://39.134.116.30/PLTV/88888888/224/3221225644/index.m3u8
 CCTV8,http://39.134.116.30/PLTV/88888888/224/3221225635/index.m3u8
@@ -74,6 +69,38 @@ CCTV11,http://218.29.55.44:808/hls/11/index.m3u8
 CCTV12,http://218.29.55.44:808/hls/12/index.m3u8
 CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
 CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
+CCTV1,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV2,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV3,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV4,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV6,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV7,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV8,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV9,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV10,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV11,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV12,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV13,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV14,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+CCTV15,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV16,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV17,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
+CCTV1,http://121.24.98.36:8090/hls/9/index.m3u8
+CCTV2,http://121.24.98.36:8090/hls/10/index.m3u8
+CCTV3,http://121.24.98.36:8090/hls/11/index.m3u8
+CCTV4,http://121.24.98.36:8090/hls/12/index.m3u8
+CCTV6,http://121.24.98.36:8090/hls/14/index.m3u8
+CCTV7,http://121.24.98.36:8090/hls/15/index.m3u8
+CCTV8,http://121.24.98.36:8090/hls/16/index.m3u8
+CCTV9,http://121.24.98.36:8090/hls/17/index.m3u8
+CCTV10,http://121.24.98.36:8090/hls/18/index.m3u8
+CCTV11,http://121.24.98.36:8090/hls/19/index.m3u8
+CCTV12,http://121.24.98.36:8090/hls/20/index.m3u8
+CCTV13,http://121.24.98.36:8090/hls/21/index.m3u8
+CCTV14,http://121.24.98.36:8090/hls/22/index.m3u8
+CCTV15,http://121.24.98.36:8090/hls/23/index.m3u8
+CCTV17,http://121.24.98.36:8090/hls/24/index.m3u8
 📺卫视频道,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -182,11 +209,6 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 安徽卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
 山东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
 江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
-深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
-天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
-辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
-重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
-黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
 江苏卫视,http://39.134.116.30:8080/PLTV/88888888/224/3221225743/index.m3u8
 北京卫视,http://39.134.116.30:8080/PLTV/88888888/224/3221225674/index.m3u8
 东方卫视,http://39.134.116.30:8080/PLTV/88888888/224/3221225659/index.m3u8
@@ -195,6 +217,11 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 深圳卫视,http://39.134.116.30:8080/PLTV/88888888/224/3221225741/index.m3u8
 湖南卫视,http://39.134.116.30:8080/PLTV/88888888/224/3221225704/index.m3u8
 湖北卫视,http://39.134.116.30:8080/PLTV/88888888/224/3221225699/index.m3u8
+深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
 重庆卫视,http://39.134.116.30:8080/PLTV/88888910/224/3221225692/index.m3u8
 纯享4K,http://39.134.116.30:8080/PLTV/88888888/224/3221225786/index.m3u8
 江西卫视,http://218.29.55.44:808/hls/38/index.m3u8
@@ -218,6 +245,31 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 重庆卫视,http://218.29.55.44:808/hls/44/index.m3u8
 吉林卫视,http://218.29.55.44:808/hls/45/index.m3u8
 东南卫视,http://218.29.55.44:808/hls/49/index.m3u8
+江西卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8
+江苏卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
+北京卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
+东方卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
+浙江卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
+广东卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
+深圳卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
+湖南卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+湖北卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hubeiws8m/8000000/mnf.m3u8
+山东卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8
+河北卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8
+辽宁卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/lnwshd8m/8000000/mnf.m3u8
+黑龙江卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hljwshd8m/8000000/mnf.m3u8
+安徽卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8
+天津卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
+重庆卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cqws8m/8000000/mnf.m3u8
+东南卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dnwshd8m/8000000/mnf.m3u8
+四川卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
+贵州卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gzwshd8m/8000000/mnf.m3u8
+吉林卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jlwshd8m/8000000/mnf.m3u8
+河南卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
+广西卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
+云南卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
+甘肃卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
+海南卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 江西卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-jiangxistv/1.m3u8
 江苏卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-jiangsustv/.m3u8
 北京卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-beijingstv/.m3u8
@@ -227,18 +279,6 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
 🏀NBA直播,#genre#
-1月05日8：00 灰熊 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675024.m3u8
-8：00 太阳 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675025.m3u8
-8：00 雷霆 @ 魔术,http://global.zkshuye.cn/live/sd-2-3675026.m3u8
-8：00 步行者 @ 76人,http://global.zkshuye.cn/live/sd-2-3675027.m3u8
-8：30 马刺 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675028.m3u8
-8：30 雄鹿 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675029.m3u8
-9：00 篮网 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675030.m3u8
-9：00 开拓者 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675031.m3u8
-9：00 火箭 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3675032.m3u8
-11：00 活塞 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675033.m3u8
-11：00 热火 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675034.m3u8
-11：00 老鹰 @ 国王,http://global.zkshuye.cn/live/sd-2-3675035.m3u8
 1月06日8：00 灰熊 @ 魔术,http://global.zkshuye.cn/live/sd-2-3675036.m3u8
 8:30 凯尔特人 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675037.m3u8	
 9:00 爵士 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675038.m3u8		
@@ -274,10 +314,33 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 9：00 马刺 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675068.m3u8
 10：00 湖人 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675069.m3u8
 11：00 魔术 @ 国王,http://global.zkshuye.cn/live/sd-2-3675070.m3u8
+1月11日8：00 活塞 @ 76人,http://global.zkshuye.cn/live/sd-2-3675071.m3u8
+8：30 雷霆 @ 热火,http://global.zkshuye.cn/live/sd-2-3675072.m3u8
+8：30 黄蜂 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675073.m3u8
+10：00 骑士 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675074.m3u8
+11：00 太阳 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675075.m3u8
+11：00 魔术 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675076.m3u8
+11：30 独行侠 @ 快船,http://global.zkshuye.cn/live/sd-2-3675077.m3u8
+1月12日8：00 森林狼 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675078.m3u8
+8：00 公牛 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675079.m3u8
+8：30 雄鹿 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3675080.m3u8
+8：30 鹈鹕 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675081.m3u8
+8：30步行者 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675082.m3u8
+9：00 马刺 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675083.m3u8
+11：00 太阳 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675084.m3u8
+11：00 火箭 @ 国王,http://global.zkshuye.cn/live/sd-2-3675085.m3u8
 🏀体育频道,#genre#
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
 CCTV5⁺,rtsp://115.153.233.154/PLTV/88888888/224/3221226976/85722488.smil
+CCTV5,rtsp://115.153.212.72/PLTV/88888888/224/3221226907/65396401.smil
+CCTV5+,rtsp://115.153.212.72/PLTV/88888888/224/3221226976/85722488.smil
+CCTV5,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV5+,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV5,http://39.134.116.30/PLTV/88888888/224/3221225751/index.m3u8
+CCTV5+,http://39.134.116.30/PLTV/88888888/224/3221225706/index.m3u8
+CCTV5,http://121.24.98.36:8090/hls/13/index.m3u8
+CCTV5+,http://121.24.98.36:8090/hls/5/index.m3u8
 CCTV5,http://218.29.55.44:808/hls/5/index.m3u8
 CCTV5,http://218.29.55.44:808/hls/5/index.m3u8
 CCTV5,http://113.117.74.37:808/hls/5/index.m3u8
