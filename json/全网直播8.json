@@ -11,7 +11,7 @@
     "cateVodName": "concat(/div[@class='myList']/div[@class='timer']/text(),':',/div[@class='myList']/div[@class='matchType']/text())",
     // 首页推荐视频的id
     //"cateVodId": "/div[@class='download']/div[@class='status']/a/@href",
-       "homeVodIdR": "https://www.zhibo8.net/live_play_inner/(\\d+).html",
+        "homeVodId": "/li[@class='lab_channel']/a[1]/@href",
     //"cateVodIdR": "/live_play_inner/(\\d+).html",
     "homeVodIdR": "https://www.zhibo8.net/live_play_inner/(\\d+).html",
     // 首页推荐视频的图片
