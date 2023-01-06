@@ -18,6 +18,7 @@
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/310直播.js"},
 {"key":"drpy_js_928直播","name":"🏀928直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/928直播.js"},
 {"key":"drpy_js_全网直播8","name":"🏀全网直播8✨","type":3,"api":"./js/drpy.min.js","ext":"./js/全网直播8.js"},
+{"key":"t4public", "name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", "searchable":1, "quickSearch":1,"filterable":0},
 
 //电视频道
 //{"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
@@ -31,11 +32,30 @@
 {"key":"drpy_js_百忙无果","name":"💎芒果","type":3,"api":"./js/drpy.min.js","ext":"./js/百忙无果.js"},
 {"key":"youku","name":"💎优酷","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
 {"key":"csp_77","name":"💎酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"💎图图影视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788/"},
 {"key":"csp_SP360","name":"💎360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./json/360.jar"},
 {"key":"csp_fant","name":"💎饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "小苹果","name":"💎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./json/xpg.jar"},
 { "key":"csp_app_阿里","name":"💎阿里影视","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
+{"key":"csp_AppTT","name":"💎图图影视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788/"},
+
+    {
+      "key": "Lezhu_spider",
+      "name": "🐷乐猪(SP)",
+      "type": 3,
+      "api": "csp_Lezhu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_panghu",
+      "name":"🐯胖虎(SP)",
+      "type": 3,
+      "api": "csp_Panghu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"蓝光影院","name":"💎蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"ext":"./json/lukjpl4f.json"},
 {"key":"csp_xpath_农民影视","name":"💎农民影视","type":3,"api":"csp_XPathMacFilter","searchable":"1","quickSearch":"1","filterable":"1","ext":"./json/农民影视.json"},
 {"key":"csp_Nkdy","name":"💎南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
