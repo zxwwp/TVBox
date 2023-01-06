@@ -34,6 +34,7 @@
 {"key":"csp_SP360","name":"💎360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./json/360.jar"},
 {"key":"csp_fant","name":"💎饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "小苹果","name":"💎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./json/xpg.jar"},
+{ "key":"csp_app_阿里","name":"💎阿里影视","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
 {"key":"蓝光影院","name":"💎蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"ext":"./json/lukjpl4f.json"},
 {"key":"csp_xpath_农民影视","name":"💎农民影视","type":3,"api":"csp_XPathMacFilter","searchable":"1","quickSearch":"1","filterable":"1","ext":"./json/农民影视.json"},
 {"key":"csp_Nkdy","name":"💎南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
