@@ -46,8 +46,37 @@
 {"key":"BuLei","name":"💎布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Zjdr","name":"💎追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lib","name": "💎Libvio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
+{
+            "key": "Tkys",
+            "name": "天空影视(爬虫)",
+            "type": 3,
+            "api": "csp_Tkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "3EDY", 
+            "name": "3EDY(爬虫)", 
+            "type": 3, 
+            "api": "csp_EEEDY", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "playerType": 2
+        }, 
+        {
+            "key": "Gitcafe", 
+            "name": "小纸条(网盘)", 
+            "type": 3, 
+            "api": "csp_Gitcafe", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "jar": "http://home.jundie.top:81/jar/top97_1.jar"
+        }, 
 {"key": "csp_Paper","name": "小纸条(新)","type": 3,"api": "csp_Gitcafe","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext": "token;desc"},
-{"key":"Gitcafe","name":"💎小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"./ali.jar"},
+//{"key":"Gitcafe","name":"💎小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"./ali.jar"},
 
 //三方聚合
 {"key":"csp_xml_39影视","name":"🏆3 9影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},       
