@@ -168,26 +168,9 @@
 {"key": "dr_js_AnFuns","name": "👨‍🌾AnFuns","type": 3,"api": "./js/drpy.min.js","ext": "./js/AnFuns.js"},
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/路漫漫动漫.json"},
 
-{
-			"key": "软件",
-			"name": "📚软件教程",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
-		},
-		{
-			"key": "美食",
-			"name": "🍔美食合集",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
-		},
+//美食教程
+{"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
+{"key": "美食","name": "🍔美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
 
 //音乐频道
 {"key":"bili","name":"🎙Bili[jar]","type":3,"api":"csp_Bili","ext":"./json/音乐演唱.json"},
