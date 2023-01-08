@@ -1,15 +1,3 @@
-🏀1月07日,#genre#
-8:00 开拓 者 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675040.m3u8
-8:00 公牛 @ 76人,http://global.zkshuye.cn/live/sd-2-3675041.m3u8
-8:30 尼克斯 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675042.m3u8
-8:30 篮网 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3675043.m3u8
-9:00 黄蜂 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675044.m3u8
-9:00 奇才 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675045.m3u8
-9:00 活塞 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675046.m3u8
-10:00 快船 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675047.m3u8
-10:00 骑士 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675048.m3u8
-11:00 热火 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675049.m3u8
-11:30 老鹰 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675050.m3u8
 🏀1月08日,#genre#
 7：00 凯尔特人 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675051.m3u8
 9：00 爵士 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675052.m3u8
@@ -50,3 +38,20 @@
 9：00 马刺 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675083.m3u8
 11：00 太阳 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675084.m3u8
 11：00 火箭 @ 国王,http://global.zkshuye.cn/live/sd-2-3675085.m3u8
+🏀1月13日,#genre#
+8:00 雷霆 @ 76人,http://global.zkshuye.cn/live/sd-2-3675086.m3u8
+8:30 凯尔特人 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675087.m3u8
+8:30 雄鹿 @ 热火,http://global.zkshuye.cn/live/sd-2-3675088.m3u8
+8:30 黄蜂 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675089.m3u8
+11:00 独行侠 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675090.m3u8
+11:00 骑士 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675091.m3u8
+🏀1月14日,#genre#
+8:00 鹈鹕 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675092.m3u8
+8:00 老鹰 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675093.m3u8
+8:00 尼克斯 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675094.m3u8
+8:30 勇士 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675095.m3u8
+9:00 雷霆 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675096.m3u8
+9:00 太阳 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675097.m3u8
+10:00 魔术 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675098.m3u8
+11:00 掘金 @ 快船,http://global.zkshuye.cn/live/sd-2-3675099.m3u8
+11:00 火箭 @ 国王,http://global.zkshuye.cn/live/sd-2-3675100.m3u8
