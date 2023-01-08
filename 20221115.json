@@ -25,6 +25,7 @@
 {"key":"drpy_js_哔哩直播","name":"📺哔哩直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/js_哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"📺斗鱼直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/js_斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":"📺虎牙直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/js_虎牙直播.js"},
+{"key":"csp_XYQBiu_网易CC直播","name":"📺网易CC直播✨","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/网易CC直播.json"},
 //{"key": "T4直播转点播","name": " 📺电视直播✨","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
  	
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
