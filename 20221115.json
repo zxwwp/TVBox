@@ -29,6 +29,7 @@
 //{"key": "T4直播转点播","name": " 📺电视直播✨","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
  	
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
+{"key": "drpy_胖虎影视","name":"💎胖虎影视","type": 3,"api": "./js/drpy.min.js","ext": "./js/胖虎影视.js"},
 {"key":"csp_Xinsj","name":"💎新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "csp_新视觉","name": "💎新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./json/新视觉.jar"},   
 {"key": "dr_js_voflix","name":"💎voflix","type": 3,"api": "./js/drpy.min.js","ext": "./js/js_voflix.js"},
