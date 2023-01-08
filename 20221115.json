@@ -13,7 +13,7 @@
 "sites":[
 //体育频道
 {"key": "T4直播","name": " 🏀NBA直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-{"key": "dr_JRKAN直播","name": "🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","searchable":"0","quickSearch":"0","filterable":"0","ext": "./js/JRKAN直播.js"},
+{"key": "dr_JRKAN直播","name": "🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","ext": "./js/JRKAN直播.js"},
 {"key":"drpy_js_88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy.min.js","ext":"./js/88看球.js"},
 {"key":"drpy_JRS看直播","name":"🏀JRS看直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/JRS看直播.js"},
 {"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./js/JRS看球网.js"}, 
@@ -25,13 +25,14 @@
 //{"key": "T4直播转点播","name": " 📺电视直播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
  	
 //优质影视
+//“searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 //{"key": "csp_新视觉","name": "💎新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./json/新视觉.jar"},   
 {"key": "dr_js_voflix","name":"💎voflix","type": 3,"api": "./js/drpy.min.js","ext": "./js/js_voflix.js"},
 {"key":"drpy_js_菜狗","name":"💎搜狗","type":3,"api":"./js/drpy.min.js","ext":"./js/菜狗.js"},
 {"key":"drpy_js_奇珍异兽","name":"💎爱奇艺","type":3,"api":"./js/drpy.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_腾云驾雾","name":"💎腾讯","type":3,"api":"./js/drpy.min.js","ext":"./js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"💎芒果","type":3,"api":"./js/drpy.min.js","ext":"./js/百忙无果.js"},
-{"key":"youku","name":"💎优酷","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
+{"key":"youku","name":"💎优酷","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
 {"key":"csp_77","name":"💎酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"💎360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./json/360.jar"},
 {"key":"csp_fant","name":"💎饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -65,7 +66,7 @@
 {"key":"快车资源","name":" 🏆快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":" 🏆光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"天堂资源","name":" 🏆天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"影图影视","name":" 🏆影图影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"影图影视","name":" 🏆影图影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"鱼乐资源","name":" 🏆鱼乐资源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"百度资源","name":" 🏆百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":" 🏆U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
