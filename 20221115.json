@@ -2,8 +2,8 @@
 "wallpaper":"./jpg/06.jpg",
 /*-----------------------JAR包接口-----------------------*/    
 //"spider":"./20221212.jar",
-"spider":"./Yoursmile.jar", 
-
+//"spider":"./Yoursmile.jar", 
+"spider":"https://agit.ai/ihymn/tvbox/raw/branch/master/tangs.jar",
 
 //*--------------直播-----(tv.txt)-------------*/
 "lives": [
