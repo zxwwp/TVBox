@@ -17,7 +17,7 @@
 	// 首页推荐视频的id
     "homeVodId": "/li[@class='lab_channel']/a[1]/@href",
 	// 二次处理正则
-    "homeVodIdR": "http://play.sportsteam333.com/play/steam(\\d+).html",
+    "homeVodIdR": "http://play.sportsteam268.com/play/steam(\\d+).html",
 	//"cateVodIdR": "\\S+/(\\d+).html",
 	// 首页推荐视频的图片
     "homeVodImg": "/li[@class='lab_team_home']/span/img/@src",  
