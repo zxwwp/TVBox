@@ -1,12 +1,12 @@
 var rule = {
     title:'全网直播8',
-    host:'https://www.zhibo8.net',
+    host:'https://www.zhibo8.net/match-list.html',
     url:'/fyclass',
     searchUrl:'',
     searchable:0,
     quickSearch:0,
     class_name:'全部比赛',
-    class_url:'/match-list.html',
+    class_url:'/',
     headers:{
         'User-Agent':'PC_UA'
     },
