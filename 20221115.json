@@ -2,8 +2,8 @@
 "wallpaper":"./jpg/06.jpg",
 /*-----------------------JAR包接口-----------------------*/    
 //"spider":"./20221212.jar",
-"spider":"./Yoursmile.jar", 
-
+//"spider":"./Yoursmile.jar", 
+ "spider":"./jar/duov.jar;md5;97FBB873452D83D35427663089E3B4A3"
 
 //*--------------电视直播-----(tv.txt)-------------*/
 "lives": [
