@@ -31,7 +31,7 @@
     //"cateVodName": "/li[@class='lab_events']/span/text()",
     "cateVodName": "concat(/li[@class='lab_time']/text(),'-',/li[@class='lab_events']/span/text(),'dj')",
     "cateVodId": "/li[@class='lab_channel']/a[1]/@href",
-    "cateVodIdR": "http://play.sportsteam333.com/play/steam(\\d+).html",
+    "cateVodIdR": "http://play.sportsteam268.com/play/steam(\\d+).html",
 	//"cateVodIdR": "\\S+/(\\d+).html",
     "cateVodImg": "/li[@class='lab_team_home']/span/img/@src",
     "cateVodMark": "concat(//li[@class='lab_team_home']/strong/text(),'-',//li[@class='lab_team_away']/strong/text())",
