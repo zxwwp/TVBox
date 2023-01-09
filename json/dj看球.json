@@ -39,7 +39,7 @@
 	"cate": "dj",
 	// 详情页地址 用于获取详情页信息 及 播放列表和地址
     //"dtUrl": "{vid}",
-	"dtUrl": "http://play.sportsteam268.com/play/steam{vid}.html",
+	"dtUrl": "http://play.sportsteam333.com/play/steam{vid}.html",
 	// 详情节点
     "dtNode": "//ul[@data-stype='zqlq']",
 	// 视频名
