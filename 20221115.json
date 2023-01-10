@@ -166,7 +166,6 @@
 {"key":"drpy_js_万博剧院","name":"🏠万博剧院","type":3,"api":"./js/drpy.min.js","ext":"./js/js_万博剧院.js"},
 
  //网站直播
-{"key":"drpy_js_我的哔哩","name":"📺我的哔哩✨","type":3,"api":"./js/drpy.min.js","ext":"./js/js_我的哔哩.js"},
 {"key":"drpy_js_哔哩直播","name":"📺哔哩直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/js_哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"📺斗鱼直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/js_斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":"📺虎牙直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/js_虎牙直播.js"},
