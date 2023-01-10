@@ -266,6 +266,14 @@ CCTV17,http://121.24.98.36:8090/hls/24/index.m3u8
 9：00 骑士 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675105.m3u8
 10：00 76人 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675106.m3u8
 11：00 独行侠 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675107.m3u8
+1月16日2：00 尼克斯 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675108.m3u8
+4：00 火箭 @ 快船,http://global.zkshuye.cn/live/sd-2-3675109.m3u8
+4：30 勇士 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675110.m3u8
+7：00 雷霆 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675111.m3u8
+8：00 国王 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675112.m3u8
+9：00 魔术 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675113.m3u8
+10：00 独行侠 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675114.m3u8
+10：30 76 人 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675115.m3u8
 ##🏀体育频道##
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
