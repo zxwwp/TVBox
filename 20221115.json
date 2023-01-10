@@ -18,8 +18,6 @@
 //{"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./js/JRS看球网.js"}, 
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/310直播.js"},
 {"key":"drpy_js_928直播","name":"🏀928直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/928直播.js"},
-{"key":"csp_xp_球迷直播","name":"🏀dj看球","type":3,"api":"csp_XPathFilter","ext":"./json/dj看球.json"},
-
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 
@@ -168,6 +166,7 @@
 {"key":"drpy_js_万博剧院","name":"🏠万博剧院","type":3,"api":"./js/drpy.min.js","ext":"./js/js_万博剧院.js"},
 
  //网站直播
+{"key":"drpy_js_我的哔哩","name":"📺我的哔哩✨","type":3,"api":"./js/drpy.min.js","ext":"./js/js_我的哔哩.js"},
 {"key":"drpy_js_哔哩直播","name":"📺哔哩直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/js_哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"📺斗鱼直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/js_斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":"📺虎牙直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/js_虎牙直播.js"},
