@@ -25,8 +25,6 @@ var rule = {
 	    "title":".play-info-soccer&&Text",
 	    "desc":";;;div.col-home:eq(0)&&Text;div.col-home:eq(1)&&Text",
 	    "content":"div.col-time&&Text",
-	    "tabs":"js:TABS=['全网直播8']",
-	    "lists":"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)});"
 	},
     搜索:'',
 }
