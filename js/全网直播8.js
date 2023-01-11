@@ -7,10 +7,8 @@ var rule = {
     quickSearch:0,
     //class_name:'热门&足球&篮球',
     //class_url:'0&1&2',        
-    //class_name:'热门',
-    //class_url:'0',
-
-    class_parse:'.nav li;a&&Text;a&&href;/live_/(\\d+)/html?project=/(\\d+)/&game=/(\\d+)',
+    class_name:'全网直播8',
+    class_url:'0',
     headers:{
 'User-Agent':'MOBILE_UA'
     },
