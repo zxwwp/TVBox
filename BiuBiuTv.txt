@@ -59,21 +59,6 @@ CCTV15,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8
 CCTV16,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 CCTV17,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 CCTV4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
-CCTV1,http://121.24.98.36:8090/hls/9/index.m3u8
-CCTV2,http://121.24.98.36:8090/hls/10/index.m3u8
-CCTV3,http://121.24.98.36:8090/hls/11/index.m3u8
-CCTV4,http://121.24.98.36:8090/hls/12/index.m3u8
-CCTV6,http://121.24.98.36:8090/hls/14/index.m3u8
-CCTV7,http://121.24.98.36:8090/hls/15/index.m3u8
-CCTV8,http://121.24.98.36:8090/hls/16/index.m3u8
-CCTV9,http://121.24.98.36:8090/hls/17/index.m3u8
-CCTV10,http://121.24.98.36:8090/hls/18/index.m3u8
-CCTV11,http://121.24.98.36:8090/hls/19/index.m3u8
-CCTV12,http://121.24.98.36:8090/hls/20/index.m3u8
-CCTV13,http://121.24.98.36:8090/hls/21/index.m3u8
-CCTV14,http://121.24.98.36:8090/hls/22/index.m3u8
-CCTV15,http://121.24.98.36:8090/hls/23/index.m3u8
-CCTV17,http://121.24.98.36:8090/hls/24/index.m3u8
 ##📺卫视频道##
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -193,27 +178,6 @@ CCTV17,http://121.24.98.36:8090/hls/24/index.m3u8
 云南卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
 甘肃卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
 海南卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-江西卫视,http://121.24.98.36:8090/hls/55/index.m3u8
-江苏卫视,http://121.24.98.36:8090/hls/38/index.m3u8
-北京卫视,http://121.24.98.36:8090/hls/32/index.m3u8
-东方卫视,http://121.24.98.36:8090/hls/77/index.m3u8
-浙江卫视,http://121.24.98.36:8090/hls/79/index.m3u8
-广东卫视,http://121.24.98.36:8090/hls/82/index.m3u8
-深圳卫视,http://121.24.98.36:8090/hls/84/index.m3u8
-湖南卫视,http://121.24.98.36:8090/hls/56/index.m3u8
-湖北卫视,http://121.24.98.36:8090/hls/57/index.m3u8
-山东卫视,http://121.24.98.36:8090/hls/39/index.m3u8
-辽宁卫视,http://121.24.98.36:8090/hls/59/index.m3u8
-黑龙江卫视,http://121.24.98.36:8090/hls/42/index.m3u8
-安徽卫视,http://121.24.98.36:8090/hls/81/index.m3u8
-天津卫视,http://121.24.98.36:8090/hls/33/index.m3u8
-重庆卫视,http://121.24.98.36:8090/hls/78/index.m3u8
-东南卫视,http://121.24.98.36:8090/hls/36/index.m3u8
-四川卫视,http://121.24.98.36:8090/hls/58/index.m3u8
-贵州卫视,http://121.24.98.36:8090/hls/40/index.m3u8
-吉林卫视,http://121.24.98.36:8090/hls/37/index.m3u8
-河南卫视,http://121.24.98.36:8090/hls/34/index.m3u8
-陕西卫视,http://121.24.98.36:8090/hls/86/index.m3u8
 江西卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-jiangxistv/1.m3u8
 江苏卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-jiangsustv/.m3u8
 北京卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-beijingstv/.m3u8
@@ -223,12 +187,6 @@ CCTV17,http://121.24.98.36:8090/hls/24/index.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
 ##🏀NBA直播##
-1月10日8：00 鹈鹕 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675065.m3u8
-8：30 公牛 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675066.m3u8
-8：30 雄鹿 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675067.m3u8
-9：00 马刺 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675068.m3u8
-10：00 湖人 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675069.m3u8
-11：00 魔术 @ 国王,http://global.zkshuye.cn/live/sd-2-3675070.m3u8
 1月11日8：00 活塞 @ 76人,http://global.zkshuye.cn/live/sd-2-3675071.m3u8
 8：30 雷霆 @ 热火,http://global.zkshuye.cn/live/sd-2-3675072.m3u8
 8：30 黄蜂 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675073.m3u8
@@ -274,6 +232,15 @@ CCTV17,http://121.24.98.36:8090/hls/24/index.m3u8
 9：00 魔术 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675113.m3u8
 10：00 独行侠 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675114.m3u8
 10：30 76 人 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675115.m3u8
+1月17日 2：00凯尔特人 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675116.m3u8
+3：30 步行者 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675117.m3u8
+4：00 鹈鹕 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675118.m3u8
+4：00 猛龙 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675119.m3u8
+4：00 勇士 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675120.m3u8
+4：30 热火 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3675121.m3u8
+5：00 爵士 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675122.m3u8
+7：00 太阳 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675123.m3u8
+11：30 火箭 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675124.m3u8
 ##🏀体育频道##
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
