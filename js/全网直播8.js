@@ -1,12 +1,11 @@
 var rule = {
     title:'全网直播8',
     host:'https://www.zhibo8.net',
-    url:'/fyclass',
+    url:'/match/fyclass/live',
     searchUrl:'',
     searchable:0,
     quickSearch:0,
-    class_name:'全部',
-    class_url:'/match-list.html',
+    class_parse:'.nav li;a&&Text;a&&href;/live_/(\\d+)/html?project=/(\\d+)/&game=/(\\d+)',
     headers:{
         'User-Agent':'PC_UA'
     },
@@ -16,7 +15,13 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-   一级:'.match-list li;.myList div:gt(0)&&Text;img&&src;.status&&Text;a&&href',
-    二级:{title:'.msg ul&&Text;.msg ul&&Text',img:'img:eq(2)&&src',desc:';;;.nameOne&&Text;.nameTwo&&Text',content:'._t&&Text',tabs:'.checkChannel li:eq(0)',tab_text:'p&&Text',lists:'.checkChannel li:gt(0)',list_text:'a&&Text',list_url:'a&&data-url'},
+    一级:'.main-left .main-itme;.col-home;.btn&&Text;a&&href',
+    二级:{
+	    "title":".play-info-soccer&&Text",
+	    "desc":";;;div.col-home:eq(0)&&Text;div.col-home:eq(1)&&Text",
+	    "content":"div.col-time&&Text",
+	    "tabs":"js:TABS=['全网直播8']",
+	    "lists":"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)});"
+	},
     搜索:'',
 }
