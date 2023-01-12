@@ -264,21 +264,6 @@ CCTV4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
 🏀NBA直播,#genre#
-1月11日8：00 活塞 @ 76人,http://global.zkshuye.cn/live/sd-2-3675071.m3u8
-8：30 雷霆 @ 热火,http://global.zkshuye.cn/live/sd-2-3675072.m3u8
-8：30 黄蜂 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675073.m3u8
-10：00 骑士 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675074.m3u8
-11：00 太阳 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675075.m3u8
-11：00 魔术 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675076.m3u8
-11：30 独行侠 @ 快船,http://global.zkshuye.cn/live/sd-2-3675077.m3u8
-1月12日8：00 森林狼 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675078.m3u8
-8：00 公牛 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675079.m3u8
-8：30 雄鹿 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3675080.m3u8
-8：30 鹈鹕 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675081.m3u8
-8：30步行者 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675082.m3u8
-9：00 马刺 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675083.m3u8
-11：00 太阳 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675084.m3u8
-11：00 火箭 @ 国王,http://global.zkshuye.cn/live/sd-2-3675085.m3u8
 1月13日 8:00 雷霆 @ 76人,http://global.zkshuye.cn/live/sd-2-3675086.m3u8
 8:30 凯尔特人 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675087.m3u8
 8:30 雄鹿 @ 热火,http://global.zkshuye.cn/live/sd-2-3675088.m3u8
@@ -318,6 +303,10 @@ CCTV4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000
 5：00 爵士 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675122.m3u8
 7：00 太阳 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675123.m3u8
 11：30 火箭 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675124.m3u8
+1月18日 8：30 猛龙 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675125.m3u8
+9：00 篮网 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675126.m3u8
+10：00 开拓者 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675127.m3u8
+11：00 76人 @ 快船,http://global.zkshuye.cn/live/sd-2-3675128.m3u8
 🏀体育频道,#genre#
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
