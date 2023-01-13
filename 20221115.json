@@ -18,8 +18,6 @@
 //{"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./js/JRS看球网.js"}, 
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/310直播.js"},
 {"key":"drpy_js_928直播8","name":"🏀928直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/928直播.js"},
-{"key": "自选网页","name": "🏀全网直播8","type":3,"api":"http://120.53.102.254/live?url=eyJuYW1lIjogIuWFqOe9keebtOaSrTgiLAoidXJsIjogImh0dHBzOi8vd3d3LnpoaWJvOC5uZXQiLAoiVXNlciI6ICLnqboiLAoi5piv5ZCm6K6w5b2V5Y6G5Y+yIjogIjEiLAoi55u05o6l5pKt5pS+IjogIjEiLAoi5YiX6KGo5pi+56S6IjogIjAiLAoiZmVubGVpIjogIuS9k+iCsiTnqboiLAoiaG91emh1aSI6ICIiLAoic2hpZm91ZXJjaWppZXF1IjogIjAiLAoiamllcXVxaWFuIjogIuepuiIsCiJqaWVxdWhvdSI6ICLnqboiLAoiamllcXVzaHV6dXFpYW4iOiAiY2xhc3M9XCJtYXRjaC1pdGVtXCIiLAoiamllcXVzaHV6dWhvdSI6ICI8L2E+IiwKInR1cGlhbnFpYW4iOiAiaHR0cHM6Ly9naXRsYWIuY29tL2R1b212L2R1by8tL3Jhdy9tYWluL3R4dC9kdW90di5wbmciLAoidHVwaWFuaG91IjogIlwiIiwKImJpYW90aXFpYW4iOiAiY2xhc3M9XCJjb2wtaG9tZSBmbGV4XCI+IiwKImJpYW90aWhvdSI6ICI8L2Rpdj4iLAoidHVwaWFucWlhbnpodWkiOiAi56m6IiwKImxpYW5qaWVxaWFuIjogImhyZWY9XCIiLAoibGlhbmppZWhvdSI6ICJcIiIsCiJsanFpYW56aHVpIjogIuepuiIsCiJmdWJpYW90aXFpYW4iOiAiY2xhc3M9XCJjb2wtdGltZVwiPiIsCiJmdWJpYW90aWhvdSI6ICIgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+In0s"
-},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"💎豆瓣热播","type":3,"api":"./js/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/豆瓣.js"},
