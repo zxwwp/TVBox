@@ -20,6 +20,10 @@
 {"key":"drpy_js_928直播8","name":"🏀928直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/928直播.js"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
+{"key":"csp_xBPQ_test测试","name":" 🍂测试 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/3afpkb22.json"},
+
+
+
 {"key":"csp_77","name":"💎酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "dr_js_voflix","name":"💎voflix","type": 3,"api": "./js/drpy.min.js","ext": "./js/js_voflix.js"},
 {"key":"csp_Xinsj","name":"💎新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
