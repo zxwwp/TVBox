@@ -1,11 +1,11 @@
 🏀1月15日,#genre#
 2：00 雄鹿 @ 热火,http://global.zkshuye.cn/live/sd-2-3675101.m3u8
-8：00 凯尔特人 @ 黄蜂,https://global.zkshuye.cn/live/sd-2-3675102.m3u8
-8：00 灰熊 @ 步行者,https://global.zkshuye.cn/live/sd-2-3675103.m3u8
-8：30 老鹰 @ 猛龙,https://global.zkshuye.cn/live/sd-2-3675104.m3u8
-9：00 骑士 @ 森林狼,https://global.zkshuye.cn/live/sd-2-3675105.m3u8
-10：00 76人 @ 爵士,https://global.zkshuye.cn/live/sd-2-3675106.m3u8
-11：00 独行侠 @ 开拓者,https://global.zkshuye.cn/live/sd-2-3675107.m3u8
+8：00 凯尔特人 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675102.m3u8
+8：00 灰熊 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675103.m3u8
+8：30 老鹰 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675104.m3u8
+9：00 骑士 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675105.m3u8
+10：00 76人 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675106.m3u8
+11：00 独行侠 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675107.m3u8
 🏀1月16日,#genre#
 2：00 尼克斯 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675108.m3u8
 4：00 火箭 @ 快船,http://global.zkshuye.cn/live/sd-2-3675109.m3u8
