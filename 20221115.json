@@ -1,9 +1,8 @@
 {   
 "wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
-//"spider":"./20221212.jar",
-//"spider":"./Yoursmile.jar", 
-"spider":"./duov.jar",
+"spider":"./Yoursmile.jar", 
+
 
 //*--------------电视直播-----(tv.txt)-------------*/
 "lives": [
@@ -19,7 +18,7 @@
 {"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./js/JRS看球网.js"}, 
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/310直播.js"},
 {"key":"drpy_js_928直播8","name":"🏀928直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/928直播.js"},
-{"key":"drpy_js_抓饭体育","name":"🏀抓饭体育✨","type":3,"api":"./js/drpymin.js","ext":"./js/抓饭体育.js"},
+{"key":"drpy_js_抓饭体育","name":"🏀抓饭体育✨","type":3,"api":"./js/drpy.min.js","ext":"./js/抓饭体育.js"},
 {"key" : "17kan","name" : "🏀17看球","type" : 3,"api" : "csp_XYQBiu","ext" : "./json/17看球.json"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
