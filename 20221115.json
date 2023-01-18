@@ -2,7 +2,6 @@
 "wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
 "spider":"./Yoursmile.jar", 
-//"spider":"http://home.jundie.top:81/jar/top98_1.jar",
 
 //*--------------电视直播-----(tv.txt)-------------*/
 "lives": [
@@ -21,32 +20,7 @@
 {"key":"drpy_js_抓饭体育","name":"🏀抓饭体育✨","type":3,"api":"./js/drpy.min.js","ext":"./js/抓饭体育.js"},
 {"key" : "17kan","name" : "🏀17看球","type" : 3,"api" : "csp_XYQBiu","ext" : "./json/17看球.json"},
 
-    {
-      "key": "csp_Alist",
-      "name": "Alist(SP)",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 0,
-      "playerType": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "💢小雅":"http://alistxy.ganggang.live:5678",
-        "🌤晴园的宝藏库": "https://alist.52qy.repl.co",
-        "🐭米奇妙妙屋": "https://anime.mqmmw.ga",
-        "🐋一只鱼": "https://alist.youte.ml",
-        "🌊七米蓝": "https://al.chirmyram.com",
-        "🥼帅盘": "https://hi.shuaipeng.wang",
-        "🐉神族九帝": "https://alist.shenzjd.com",
-        "☃️姬路白雪": "https://pan.jlbx.xyz",
-        "💾DISK": "http://124.222.140.243:8080",
-        "🌨云播放": "https://quanzi.laoxianghuijia.cn",
-        "✨星梦": "https://pan.bashroot.top",
-        "💫触光": "https://pan.ichuguang.com",
-        "💢repl": "https://ali.liucn.repl.co",
-        "💦讯维云盘": "https://pan.xwbeta.com"
-      }
-    },
+
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"💎豆瓣热播","type":3,"api":"./js/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/豆瓣.js"},
 {"key":"360","name":"💎360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
