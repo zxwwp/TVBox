@@ -26,6 +26,7 @@
 //{"key": "云上高中","name": "📝云上高中","type": 3,"api": "csp_Bili","ext": "./json/云上高中.json"},
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"💎豆瓣热播","type":3,"api":"./js/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/豆瓣.js"},
+{"key": "dr_tva云播","name": "💎3tva云播","type": 3,"api": "./js/drpy.min.js","searchable": 2,"quickSearch":1,"filterable":1,"ext": "./js/tva云播.js"},
 {"key":"360","name":"💎360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"💎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_xb_lgyys","name": "💎蓝光影院(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
