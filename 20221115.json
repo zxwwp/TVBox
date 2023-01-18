@@ -2,7 +2,7 @@
 "wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
 //"spider":"./Yoursmile.jar", 
-"spider":"http://home.jundie.top:81/top98.jsonr",
+"spider":"http://home.jundie.top:81/jar/top98_1.jar",
 
 //*--------------电视直播-----(tv.txt)-------------*/
 "lives": [
