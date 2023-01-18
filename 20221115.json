@@ -15,7 +15,7 @@
 {"key": "dr_JRKAN直播","name": "🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","ext": "./js/JRKAN直播.js"},
 {"key":"drpy_js_88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy.min.js","ext":"./js/88看球.js"},
 {"key":"drpy_JRS看直播","name":"🏀JRS看直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/JRS看直播.js"},
-//{"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./js/JRS看球网.js"}, 
+{"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./js/JRS看球网.js"}, 
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/310直播.js"},
 {"key":"drpy_js_928直播8","name":"🏀928直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/928直播.js"},
 {"key" : "17kan","name" : "🏀17看球","type" : 3,"api" : "csp_XYQBiu","searchable" : 0,"quickSearch" : 0,"filterable" : 0,"ext" : "./json/17看球.json"},
