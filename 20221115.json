@@ -21,6 +21,7 @@
 {"key" : "17kan","name" : "🏀17看球","type" : 3,"api" : "csp_XYQBiu","ext" : "./json/17看球.json"},
 
 
+{"key": "春节","name": "吾爱春节","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/晨龙春节.json","spider":"./晨龙.jar"},
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"💎豆瓣热播","type":3,"api":"./js/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/豆瓣.js"},
 {"key":"360","name":"💎360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
