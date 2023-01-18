@@ -328,7 +328,7 @@ CCTV17,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m
 9：30篮网 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675164.m3u8
 10：00 湖人 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675165.m3u8
 🏀体育频道,#genre#
-NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
+纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
 CCTV5⁺,rtsp://115.153.233.154/PLTV/88888888/224/3221226976/85722488.smil
 CCTV5,rtsp://115.153.212.72/PLTV/88888888/224/3221226907/65396401.smil
@@ -343,10 +343,17 @@ CCTV5,http://218.29.55.44:808/hls/5/index.m3u8
 CCTV5,http://218.29.55.44:808/hls/5/index.m3u8
 CCTV5,http://113.117.74.37:808/hls/5/index.m3u8
 CCTV5+,http://113.117.74.37:808/hls/16/index.m3u8
+广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
+广东体育,http://ct.whosayssowhat.top:4022/udp/239.77.0.112:5146
+广东体育,http://ct.whosayssowhat.top:4022/udp/239.77.0.6:5146
+劲爆体育,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+NewTV超级体育,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+足球频道,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
 广东体育,http://113.117.74.37:808/hls/1/index.m3u8
 CCTV5,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
 CCTV5+,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 CCTV16,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+魅力足球,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 魅力足球,http://113.117.74.37:808/hls/65/index.m3u8
 深圳体育健康,http://113.117.74.37:808/hls/70/index.m3u8
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
@@ -453,6 +460,11 @@ CCTV14,http://218.29.55.44:808/hls/14/index.m3u8
 CCTV14,http://39.135.138.59:18890/PLTV/88888888/224/3221225640/index.m3u8
 CCTV14,http://182.151.211.171:808/hls/14/index.m3u8
 CCTV14,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+卡酷少儿,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u
+炫动卡通,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+动漫秀场,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
+青春动漫,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
+宝宝动画,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 CCTV14,http://218.17.216.102:9901/tsfile/live/1024_1.m3u8
 广东少儿,http://218.17.216.102:9901/tsfile/live/1009_1.m3u8
 黑莓动画,http://183.207.248.15/PLTV/3/224/3221225555/index.m3u8
