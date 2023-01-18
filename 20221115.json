@@ -1,8 +1,8 @@
 {   
 "wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
-"spider":"./Yoursmile.jar", 
-
+//"spider":"./Yoursmile.jar", 
+"spider":"http://home.jundie.top:81/top98.jsonr",
 
 //*--------------电视直播-----(tv.txt)-------------*/
 "lives": [
