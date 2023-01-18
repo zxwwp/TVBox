@@ -26,7 +26,6 @@
 //{"key": "云上高中","name": "📝云上高中","type": 3,"api": "csp_Bili","ext": "./json/云上高中.json"},
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"💎豆瓣热播","type":3,"api":"./js/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/豆瓣.js"},
-{"key": "dr_tva云播","name": "💎3tva云播","type": 3,"api": "./js/drpy.min.js","searchable": 2,"quickSearch":1,"filterable":1,"ext": "./js/tva云播.js"},
 {"key":"360","name":"💎360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"💎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_xb_lgyys","name": "💎蓝光影院(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
@@ -40,6 +39,8 @@
 {"key":"Gitcafe_ts","name":"💎小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/token.txt","jar":"./json/cs.jar"},
 //{"key": "csp_新视觉","name": "💎新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./json/新视觉.jar"},   
 //{"key": "小苹果","name":"💎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./json/xpg.jar"},
+{"key": "dr_tva云播","name": "💎tva云播","type": 3,"api": "./js/drpy.min.js","searchable": 2,"quickSearch":1,"filterable":1,"ext": "./js/tva云播.js"},
+{"key": "dr_vidhub","name": "💎vidhub","type": 3,"api": "./js/drpy.min.js","searchable": 2,"quickSearch":1,"filterable":1,"ext": "./js/vidhub.js"},
 
 {"key":"PPTV(官源)","name":"💎PPTV","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["剧情片","战争片","国产剧","港台剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
 {"key":"搜狐(官源)","name":"💎搜狐","type":0,"api":"http://vipmv.cc/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["剧情片","战争片","国产剧","港台剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
