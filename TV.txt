@@ -286,10 +286,6 @@ CCTV17,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m
 贵州卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
 海南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 🏀NBA直播,#genre#
-1月18日 8：30 猛龙 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675125.m3u8
-9：00 篮网 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675126.m3u8
-10：00 开拓者 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675127.m3u8
-11：00 76人 @ 快船,http://global.zkshuye.cn/live/sd-2-3675128.m3u8
 1月19日 8:30 奇才 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675129.m3u8
 8:30 老鹰 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675130.m3u8
 9:00 黄蜂 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675131.m3u8
@@ -327,6 +323,20 @@ CCTV17,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m
 9：00 灰熊 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675163.m3u8
 9：30篮网 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675164.m3u8
 10：00 湖人 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675165.m3u8
+1月24日 8：00 雄鹿 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675166.m3u8
+8：00 凯尔特人 @ 魔术,http://global.zkshuye.cn/live/sd-2-3675167.m3u8
+9：00 老鹰 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675168.m3u8
+9：00 森林狼 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675169.m3u8
+10：00 黄蜂 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675170.m3u8
+11：00 马刺 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675171.m3u8
+11：30 灰熊 @ 国王,http://global.zkshuye.cn/live/sd-2-3675172.m3u8
+1月25日 8：00 公牛 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675173.m3u8
+8：30 凯尔特人 @ 热火,http://global.zkshuye.cn/live/sd-2-3675174.m3u8
+8：30 骑士 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675175.m3u8
+9：00 掘金 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3675176.m3u8
+9：30 奇才 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675177.m3u8
+10：00 黄蜂 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675178.m3u8
+11：00 快船 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675179.m3u8
 🏀体育频道,#genre#
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
