@@ -170,15 +170,6 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
 ##🏀NBA直播##
-1月19日 8:30 奇才 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675129.m3u8
-8:30 老鹰 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675130.m3u8
-9:00 黄蜂 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675131.m3u8
-9:00 骑士 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675132.m3u8
-9:00 热火 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3675133.m3u8
-9:00 步行者 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675134.m3u8
-10:00 快船 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675135.m3u8
-11:00 森林狼 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675136.m3u8
-11:30 国王 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675137.m3u8
 1月20日 4:00 公牛 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675138.m3u8
 8:30 勇士 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675139.m3u8
 9:00 猛龙 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675140.m3u8
