@@ -20,12 +20,12 @@
 {"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./js/JRS看球网.js"}, 
 {"key":"drpy_js_928直播8","name":"🏀928直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/928直播.js"},
 
-{"key":"春节","name":" 🎈晨龙春节","type":3,"api":"csp_Bili","ext":"./json/晨龙春节.json","spider":"./晨龙.jar"},
-
 //云上网课
 {"key":"云上小学","name": "📗云上小学","type":3,"api":"csp_Bili","ext":"./json/云上小学.json"},
 {"key":"云上中学","name": "📘云上中学","type":3,"api":"csp_Bili","ext":"./json/云上中学.json"},
 {"key":"云上高中","name": "📙云上高中","type":3,"api":"csp_Bili","ext":"./json/云上高中.json"},
+
+{"key":"春节","name":" 🎈晨龙春节","type":3,"api":"csp_Bili","ext":"./json/晨龙春节.json","spider":"./晨龙.jar"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"💎豆瓣热播","type":3,"api":"./js/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/豆瓣.js"},
