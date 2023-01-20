@@ -46,3 +46,14 @@
 9：30 奇才 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675177.m3u8
 10：00 黄蜂 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675178.m3u8
 11：00 快船 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675179.m3u8
+🏀1月26日,#genre#
+8：00 步行者 @ 魔术,http://global.zkshuye.cn/live/sd-2-3675180.m3u8
+8：30 篮网 @ 76人,http://global.zkshuye.cn/live/sd-2-3675181.m3u8
+9：00 奇才 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675182.m3u8
+9：00 掘金 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675183.m3u8
+9：00 森林狼 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3675184.m3u8
+9：00 老鹰 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675185.m3u8
+11：00 灰熊 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675186.m3u8
+11：00 爵士 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675187.m3u8
+11：00 猛龙 @ 国王,http://global.zkshuye.cn/live/sd-2-3675188.m3u8
+11：30 马刺 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675189.m3u8
