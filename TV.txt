@@ -13,6 +13,21 @@ CCTV12,rtsp://115.153.233.154/PLTV/88888888/224/3221226829/59814709.smil
 CCTV13,rtsp://115.153.233.154/PLTV/88888888/224/3221227037/87447722.smil
 CCTV15,rtsp://115.153.233.154/PLTV/88888888/224/3221226988/85722541.smil
 CCTV17,rtsp://115.153.233.154/PLTV/88888888/224/3221226846/61397282.smil
+CCTV1,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV2,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV3,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV4,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV6,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV7,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV8,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV9,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV10,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV11,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV12,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV13,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV15,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV17,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV-4K,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV1,rtsp://115.153.212.72/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2,rtsp://115.153.212.72/PLTV/88888888/224/3221226825/59814584.smil
 CCTV3,rtsp://115.153.212.72/PLTV/88888888/224/3221226841/63329606.smil
@@ -69,26 +84,15 @@ CCTV11,http://218.29.55.44:808/hls/11/index.m3u8
 CCTV12,http://218.29.55.44:808/hls/12/index.m3u8
 CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
 CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
-CCTV1,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV6,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV15,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV17,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 📺卫视频道,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://123.51.230.108:18580/.m3u8
 凤凰资讯,http://117.169.124.146:8080/live/fhchinese/index.m3u8/live/fhzixun/index.m3u8
 凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
+凤凰资讯,http://jydx.jdshipin.com:8081/hls/36/index.m3u8
+凤凰中文,http://jydx.jdshipin.com:8081/hls/37/index.m3u8
+翡翠台,http://jydx.jdshipin.com:8081/hls/67/index.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 江西卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226656/46275837.smil
 江苏卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225766/10000100000000060000000000913517_0.smil
@@ -257,6 +261,7 @@ CCTV17,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m
 云南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
 贵州卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
 海南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+全纪实 8M,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 🏀NBA直播,#genre#
 1月20日 4:00 公牛 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675138.m3u8
 8:30 勇士 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675139.m3u8
@@ -311,7 +316,24 @@ CCTV17,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m
 11：00 猛龙 @ 国王,http://global.zkshuye.cn/live/sd-2-3675188.m3u8
 11：30 马刺 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675189.m3u8
 🏀体育频道,#genre#
+NBA,http://line.premiumpowers.net:80/Manuel/1234567/1011633
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
+纬来体育,http://38.60.38.65:5588/wm2268.php?id=videolandsport
+ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
+ELTA体育1台,http://38.60.38.65:5588/wm2268.php?id=eltasport1_twn
+BEINSPORTS1,http://line.premiumpowers.net:80/Manuel/1234567/596928
+BEINSPORTS5,http://line.premiumpowers.net:80/Manuel/1234567/596924
+BEINSPORTS6,http://line.premiumpowers.net:80/Manuel/1234567/596923
+CCTV5,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV5+,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV16,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV16-4K,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+五星体育频道,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+魅力足球,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+足球高清,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
+超级体育,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+新视觉,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
 CCTV5⁺,rtsp://115.153.233.154/PLTV/88888888/224/3221226976/85722488.smil
 CCTV5,rtsp://115.153.212.72/PLTV/88888888/224/3221226907/65396401.smil
@@ -322,13 +344,11 @@ CCTV5,http://121.24.98.36:8090/hls/13/index.m3u8
 CCTV5+,http://121.24.98.36:8090/hls/5/index.m3u8
 CCTV5,http://218.29.55.44:808/hls/5/index.m3u8
 CCTV5,http://218.29.55.44:808/hls/5/index.m3u8
+广东体育,http://jydx.jdshipin.com:8081/hls/1/index.m3u8
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
-劲爆体育,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+五星体育频道,http://183.207.255.200/live/program/live/ssty/4000000/mnf.m3u8
 NewTV超级体育,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 足球频道,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
-CCTV5,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV5+,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV16,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 魅力足球,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
@@ -354,7 +374,6 @@ CCTV16,http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
 NewTV超级体育,http://39.134.116.30:8080/PLTV/88888910/224/3221225648/index.m3u8
 NewTV精品体育,http://39.134.116.30:8080/PLTV/88888888/224/3221225709/index.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-五星体育频道,http://183.207.255.200/live/program/live/ssty/4000000/mnf.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 新视觉HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 CCTV16,https://epg.pm/stream/d979d4643331cc4484686f7ab58d4fecf9a4d58348a78f88394b49f1aef80572.m3u8
@@ -386,6 +405,24 @@ CCTV5+,http://183.207.248.15/PLTV/3/224/3221225604/index.m3u8
 江西影视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 江西影视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 江西新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
+上海第一财经 8M,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+上视新闻,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海都市,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海纪实,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+东方影视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
+上视外语,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
+七彩戏剧,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+上海教育,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
+生活时尚,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
+游戏风云,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
+热门综艺,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
+健康养生,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
+纪实科教,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
+茶频道,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+东方财经,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+都市剧场,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
+法治天地,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
+金色学堂,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
 欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
