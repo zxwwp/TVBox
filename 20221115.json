@@ -20,6 +20,12 @@
 {"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./js/JRS看球网.js"}, 
 {"key":"drpy_js_928直播8","name":"🏀928直播✨","type":3,"api":"./js/drpy.min.js","ext":"./js/928直播.js"},
 
+     {
+      "key": "取名真恼火",
+      "name": "取名真恼火",
+      "type": 4,
+      "api": "aHR0cHM6Ly93d3cuYWxpeXVuZHJpdmUuY29tL3MvN0Z2UUJIazlqSkYvZm9sZGVyLzYxODBiZWM0OGNkNzE0YzJkOWYxNGYyYTljODVjNTBlNzRlNTAwODU="},
+
 //云上网课
 {"key":"云上小学","name": "📗云上小学","type":3,"api":"csp_Bili","ext":"./json/云上小学.json"},
 {"key":"云上中学","name": "📘云上中学","type":3,"api":"csp_Bili","ext":"./json/云上中学.json"},
