@@ -1,14 +1,15 @@
-{   
+{
+// 壁纸 
 "wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
 "spider":"./Yoursmile.jar", 
 
 
-//*--------------电视直播-----(tv.txt)-------------*/
+// 配置直播地址，地址需base64位转码"urls":["proxy://do=live&type=txt&ext=粘贴base64位转码地址"]
 "lives": [
 {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
 
-/*-----------------------配置数据源-----------------------*/
+/*-----------------------配置数据接口源-----------------------*/
 "sites":[
 //体育直播
 {"key":"T4直播","name":"🏀NBA直播","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
@@ -27,7 +28,7 @@
 {"key":"云上高中","name": "📙云上高中","type":3,"api":"csp_Bili","ext":"./json/云上高中.json"},
 
 {"key":"春节","name":" 🎈晨龙春节","type":3,"api":"csp_Bili","ext":"./json/晨龙春节.json","spider":"./晨龙.jar"},
-
+{"key":"csp_biubiu_电视猫","name":"🎤电视猫(XP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/电视猫.json"},
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"💎豆瓣热播","type":3,"api":"./js/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/豆瓣.js"},
 {"key":"360","name":"💎360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
