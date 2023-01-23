@@ -1,11 +1,3 @@
-🏀1月23日,#genre#
-4：30 鹈鹕 @ 热火,http://global.zkshuye.cn/live/sd-2-3675159.m3u8
-7：00 尼克斯 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675160.m3u8
-8：30 快船 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675161.m3u8
-9：00雷霆 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675162.m3u8
-9：00 灰熊 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675163.m3u8
-9：30篮网 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675164.m3u8
-10：00 湖人 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675165.m3u8
 🏀1月24日,#genre#
 8：00 雄鹿 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675166.m3u8
 8：00 凯尔特人 @ 魔术,http://global.zkshuye.cn/live/sd-2-3675167.m3u8
@@ -58,3 +50,8 @@
 9:30 湖 人 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675209.m3u8
 10:00 独行侠 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675210.m3u8
 11:00 猛龙 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675211.m3u8
+🏀1月30日,#genre#
+2：00 热火 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675212.m3u8
+7：00 步行者 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675213.m3u8
+8：00 快船 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675214.m3u8
+9：00 鹈鹕 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675215.m3u8
