@@ -36,7 +36,7 @@
     //分类数组截取后
     "cat_arr_suf": "data-role=\"footer",
     //分类截取片单图片，截取前缀&&截取后缀
-    "cat_pic": "https://pic.imgdb.cn/item/63984d60b1fccdcd364c6e5d.png",
+    "cat_pic": "https://gitlab.com/duomv/duo/-/raw/main/txt/duotv.png",
     //分类截取片单标题，截取前缀&&截取后缀
     "cat_title": "class=\"link\">&&<a",
     //分类截取片单副标题，截取前缀&&截取后缀
