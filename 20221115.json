@@ -24,8 +24,8 @@
  
  //云上网课
 {"key":"云上小学","name": "📗云上小学","type":3,"api":"csp_Bili","ext":"./json/云上小学.json"},
-{"key":"云上中学","name": "📘云上中学","type":3,"api":"csp_Bili","ext":"./json/云上中学.json"},
-{"key":"云上高中","name": "📙云上高中","type":3,"api":"csp_Bili","ext":"./json/云上高中.json"},
+//{"key":"云上中学","name": "📘云上中学","type":3,"api":"csp_Bili","ext":"./json/云上中学.json"},
+//{"key":"云上高中","name": "📙云上高中","type":3,"api":"csp_Bili","ext":"./json/云上高中.json"},
 
 {"key":"春节","name":" 🎈晨龙春节","type":3,"api":"csp_Bili","ext":"./json/晨龙春节.json","spider":"./晨龙.jar"},
 
@@ -71,8 +71,8 @@
 
 //动漫频道
 {"key":"Ying","name":"👨‍🌾樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"小鸟动漫","name":"👨‍🌾小鸟动漫(聚)💎","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"drpy_js_兔小贝","name":"👨‍🌾兔小贝[js]","type":3,"api":"./js/drpy.min.js","ext":"./js/兔小贝.js"},
+{"key":"小鸟动漫","name":"👨‍🌾小鸟动漫","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"drpy_js_兔小贝","name":"👨‍🌾兔小贝","type":3,"api":"./js/drpy.min.js","ext":"./js/兔小贝.js"},
 {"key": "dr_js_AnFuns","name": "👨‍🌾AnFuns","type": 3,"api": "./js/drpy.min.js","ext": "./js/AnFuns.js"},
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/路漫漫动漫.json"},
 
@@ -85,12 +85,12 @@
 {"key":"bili","name":"🎙Bili[jar]","type":3,"api":"csp_Bili","ext":"./json/音乐演唱.json"},
 {"key":"drpy_js_种子音乐.js","name":"🎙种子音乐","type":3,"api":"./js/drpy.min.js","ext":"./js/js_种子音乐.js"},
 {"key":"drpy_js_海洋听书.js","name":"📻海洋听书","type":3,"api":"./js/drpy.min.js","ext":"./js/js_海洋听书.js"},
-{"key":"drpy_js_蜻蜓FM","name":"📻蜻蜓FM[js]","type":3,"api":"./js/drpy.min.js","ext":"./js/蜻蜓FM.js","playerType":"2"}
+{"key":"drpy_js_蜻蜓FM","name":"📻蜻蜓FM","type":3,"api":"./js/drpy.min.js","ext":"./js/蜻蜓FM.js","playerType":"2"}
 
 ],
 
-"rules": [
-{"host":"hdmoli.com","rule":[".m3u8"]}],
+//"rules": [
+//{"host":"hdmoli.com","rule":[".m3u8"]}],
 
 /*-----------------------解析-----------------------*/
 "parses":[{"name":"解析聚合","type":3,"url":"Demo"},
