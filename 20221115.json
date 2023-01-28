@@ -68,7 +68,6 @@
 {"key":"Gitcafe","name":"💎小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"./ali.jar"},
 {"key":"drpy_js_干饭影视","name":"💎干饭影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_干饭影视.js"},
 {"key":"drpy_jjs_饭团影","name":"💎饭团影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_饭团影视.js"},
-{"key":"电视家","name":"💎电视家","type":1,"api":"http://mytvhome.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 //动漫频道
 {"key":"Ying","name":"👨‍🌾樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
