@@ -263,12 +263,6 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 海南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 全纪实 8M,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 🏀NBA直播,#genre#
-1月27日 8:30 尼克斯 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675190.m3u8
-8:30 活塞 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675191.m3u8
-8:30 公牛 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675192.m3u8
-9:00 骑士 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675193.m3u8
-11:00 独行侠 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675194.m3u8
-11:30 马刺 @ 快船,http://global.zkshuye.cn/live/sd-2-3675195.m3u8
 1月28日 8:00 雄鹿 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675196.m3u8
 8:30 灰熊 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675197.m3u8
 9:00 魔术 @ 热火,http://global.zkshuye.cn/live/sd-2-3675198.m3u8
@@ -311,6 +305,7 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 9:00 国王 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675235.m3u8
 10:00 猛龙 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675236.m3u8
 11:00 老鹰 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675237.m3u8
+
 🏀体育频道,#genre#
 NBA,http://line.premiumpowers.net:80/Manuel/1234567/1011633
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
