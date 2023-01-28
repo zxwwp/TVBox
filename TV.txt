@@ -305,7 +305,13 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 9:00 国王 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675235.m3u8
 10:00 猛龙 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675236.m3u8
 11:00 老鹰 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675237.m3u8
-
+2月3日 8：00 湖人 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675238.m3u8
+8：30 灰熊 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675239.m3u8
+8：30n热火 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675240.m3u8
+9：00 黄蜂 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675241.m3u8
+9：30 鹈鹕 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675242.m3u8
+10：00 勇士 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675243.m3u8
+11：00 快船 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675244.m3u8
 🏀体育频道,#genre#
 NBA,http://line.premiumpowers.net:80/Manuel/1234567/1011633
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
