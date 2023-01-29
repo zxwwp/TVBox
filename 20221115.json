@@ -54,7 +54,7 @@
 {"key":"csp_Cokemv","name":"💎Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 {"key": "dr_js_voflix","name":"💎voflix","type": 3,"api": "./js/drpy.min.js","ext": "./js/js_voflix.js"},
 {"key": "dr_tva云播","name": "💎tva云播","type": 3,"api": "./js/drpy.min.js","searchable": 2,"quickSearch":1,"filterable":1,"ext": "./js/tva云播.js"},
-{"key": "dr_vidhub","name": "💎vidhub","type": 3,"api": "./js/drpy.min.js","searchable": 2,"quickSearch":1,"filterable":1,"ext": "./js/vidhub.js"},
+{"key": "dr_vidhub","name": "💎vidhub","type": 3,"api": "./js/drpy.min.js","ext": "./js/vidhub.js"},
 {"key":"BuLei","name":"💎布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"💎影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_胖虎","name":"💎胖虎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/panghu.json"},   
