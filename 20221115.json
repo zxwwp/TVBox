@@ -74,8 +74,9 @@
 //动漫频道
 {"key":"Ying","name":"👨‍🌾樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小鸟动漫","name":"👨‍🌾小鸟动漫","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"drpy_js_妮可动漫","name":"👨‍🌾妮可动漫","type":3,"api":"./js/drpy.min.js","ext":"./js/妮可动漫.js"},
 {"key":"drpy_js_兔小贝","name":"👨‍🌾兔小贝","type":3,"api":"./js/drpy.min.js","ext":"./js/兔小贝.js"},
-{"key": "dr_js_AnFuns","name": "👨‍🌾AnFuns","type": 3,"api": "./js/drpy.min.js","ext": "./js/AnFuns.js"},
+{"key": "dr_js_AnFuns","name": "👨‍🌾动漫AnFuns","type": 3,"api": "./js/drpy.min.js","ext": "./js/AnFuns.js"},
 {"key":"csp_xpath_17skr","name":"👨‍🌾路漫漫动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/路漫漫动漫.json"},
 
 //美食教程
