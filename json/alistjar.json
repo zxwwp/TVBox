@@ -45,16 +45,52 @@
       "server": "https://alist.shenzjd.com"
     },
     {
-      "name": "資源小站",
+      "name": "资源小站",
       "server": "https://960303.xyz"
     },
     {
       "name": "讯维云盘",
       "server": "https://pan.xwbeta.com"
     },
+        {
+            "name": "嗨翻",
+            "server": "https://pan.hikerfans.com",
+            "type": "alist",
+            "password": "5"
+        },
+        {
+            "name": "小光盘",
+            "server": "https://alist.xiaoguanxiaocheng.life",
+            "type": "alist"
+        },
+        {
+            "name": "帅盘",
+            "server": "https://hi.shuaipeng.wang",
+            "type": "alist"
+        },
+        {
+            "name": "小江",
+            "server": "https://dyj.me",
+            "type": "alist"
+        },
+        {
+            "name": "AUNEY",
+            "server": "http://121.227.25.116:8008",
+            "type": "alist"
+        },
     {
       "name": "repl",
       "server": "https://ali.liucn.repl.co"
-     }
+     },
+        {
+            "name": "🏝fenwe",
+            "server": "http://www.fenwe.tk:5244",
+            "type": "alist"
+        },
+        {
+            "name": "🎢轻弹浅唱",
+            "server": "https://g.xiang.lol",
+            "type": "alist"
+        }
   ]
 }
