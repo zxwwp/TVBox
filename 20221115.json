@@ -34,7 +34,7 @@
 {"key":"AList","name":"💎网盘Alist","type":3,"api":"csp_AList","ext":"./json/alistjar.json"},
 {"key":"360","name":"💎360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_SP360","name":"💎360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./json/360.jar"},
-{"key":"drpy_js_360影视","name":"💎360","type":3,"api":"./js/drpy.min.js","ext":"./js/360影视.js"},
+//{"key":"drpy_js_360影视","name":"💎360","type":3,"api":"./js/drpy.min.js","ext":"./js/360影视.js"},
 {"key":"小苹果","name":"💎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "小苹果","name":"💎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./json/xpg.jar"},
 {"key":"csp_77","name":"💎酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
