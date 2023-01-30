@@ -50,6 +50,7 @@
 {"key":"csp_Nkdy","name":"💎南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"💎双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"BuLei","name":"💎布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lgyy","name":"💎蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "csp_xb_lgyys","name": "💎蓝光影院","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"蓝光影院","name":"💎蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"ext":"./json/lukjpl4f.json"},
 {"key":"csp_Cokemv","name":"💎Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
