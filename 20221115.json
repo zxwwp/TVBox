@@ -71,30 +71,8 @@
 {"key":"Gitcafe","name":"💎小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"./ali.jar"},
 {"key":"drpy_js_干饭影视","name":"💎干饭影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_干饭影视.js"},
 {"key":"drpy_jjs_饭团影","name":"💎饭团影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_饭团影视.js"},
-{
-      "key": "快播",
-      "name": "🍁快播",
-      "type": 1,
-      "api": "https://www.kuaibozy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "国产剧",
-        "日韩剧",
-        "港台剧",
-        "欧美剧",
-        "泰剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "综艺"
-      ]
-    },
+{"key": "快播","name": "💎快播","type": 1,"api": "https://www.kuaibozy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片", "喜剧片","爱情片","科幻片","剧情片","战争片","纪录片","综艺"]},
+
 //动漫频道
 {"key":"Ying","name":"👨‍🌾樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小鸟动漫","name":"👨‍🌾小鸟动漫","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
