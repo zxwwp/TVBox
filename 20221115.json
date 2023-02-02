@@ -54,7 +54,6 @@
 //{"key":"蓝光影院","name":"💎蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"ext":"./json/lukjpl4f.json"},
 {"key":"csp_Cokemv","name":"💎Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 {"key": "dr_vidhub","name": "💎vidhub","type": 3,"api": "./js/drpy.min.js","ext": "./js/vidhub.js"},
-{"key":"BuLei","name":"💎布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"💎影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_胖虎","name":"💎胖虎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/panghu.json"},   
 {"key":"搜狐(官源)","name":"💎搜狐","type":0,"api":"http://vipmv.cc/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["剧情片","战争片","国产剧","港台剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
