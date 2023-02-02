@@ -5,7 +5,7 @@ var rule = {
     searchUrl:'',
     searchable:0,
     quickSearch:0,
-    class_parse:'.top_nav_nr li;a;a&&href;http://www.wg365.com/lanqiuzhibo',
+    class_parse:'top_nav_nr li;a&&Text;a&&href;http://www.wg365.com/lanqiuzhibo',
     headers:{
         'User-Agent':'PC_UA'
     },
