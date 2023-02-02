@@ -289,20 +289,6 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 海南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 全纪实 8M,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 🏀NBA直播,#genre#
-2月1日 8:00 热火 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675224.m3u8
-8:30 湖人 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675225.m3u8
-9:00 快船 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675226.m3u8
-9:00 黄蜂 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675227.m3u8
-11:00 鹈鹕 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675228.m3u8	
-2月2日 8:00 奇才 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675229.m3u8
-8:00 魔术 @ 76人,http://global.zkshuye.cn/live/sd-2-3675230.m3u8
-8:00 开拓者 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675231.m3u8
-8:30 篮网 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675232.m3u8
-9:00 雷霆 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675233.m3u8
-9:00 勇士 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675234.m3u8
-9:00 国王 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675235.m3u8
-10:00 猛龙 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675236.m3u8
-11:00 老鹰 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675237.m3u8
 2月3日 8：00 湖人 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675238.m3u8
 8：30 灰熊 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675239.m3u8
 8：30n热火 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675240.m3u8
@@ -341,6 +327,12 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 10：00 独行侠 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675273.m3u8
 11：00 雷霆 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675274.m3u8
 11：00 雄鹿 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675275.m3u8
+2月8日 8：00 尼克斯 @ 魔术,http://global.zkshuye.cn/live/sd-2-3675276.m3u8
+8：30 太阳 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675277.m3u8
+8：30 老鹰 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3675278.m3u8
+9：00 公牛 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675279.m3u8
+11：00 森林狼 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675280.m3u8
+11：30 雷霆 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675281.m3u8
 🏀体育频道,#genre#
 CCTV16-4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 咪咕体育-4K-SDR源,http://120.234.220.107:9000/udp/239.20.0.66:3136
