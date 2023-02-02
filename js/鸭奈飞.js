@@ -2,7 +2,7 @@ muban.mxpro.二级.desc = ';;;.module-info-item-content:eq(1)&&Text;.module-info
 var rule = {
 	title:'鸭奈飞',
 	模板:'mxpro',
-	host:'https://yanetflix.com',
+	host:'https://yanetflix.tv/',
 	// url:'/vodshow/fyclass--------fypage---.html',
 	url:'/vodshow/fyfilter.html',
     filterable:1,//是否启用分类筛选,
