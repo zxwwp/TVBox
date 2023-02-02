@@ -1,7 +1,7 @@
 var rule = {
     title:'wg365直播',//规则标题,没有实际作用,但是可以作为cms类名称依据
     host:'http://www.wg365.com/',//规则标题,没有实际作用,但是可以作为cms类名称依据
-     url:'/zuqiuzhibo/lanqiuzhibo',//网站的分类页面链接
+     url:'http://www.wg365.com/lanqiuzhibo',//网站的分类页面链接
     searchUrl:'',//搜索链接 可以是完整路径或者相对路径,用于分类获取和推荐获取 **代表搜索词 fypage代表页数
     searchable:0,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
