@@ -1,7 +1,7 @@
 var rule = {
     title:'全网直播8',//规则标题,没有实际作用,但是可以作为cms类名称依据
     host:'https://www.zhibo8.net',//规则标题,没有实际作用,但是可以作为cms类名称依据
-     url:'/?s=0&t=1&a=fyclass&g=fypage',//网站的分类页面链接
+     url:' ',//网站的分类页面链接
     searchUrl:'',//搜索链接 可以是完整路径或者相对路径,用于分类获取和推荐获取 **代表搜索词 fypage代表页数
     searchable:0,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
@@ -12,9 +12,9 @@ var rule = {
     },//网站的请求头,完整支持所有的,常带ua和cookies
 timeout:5000,//网站的全局请求超时,默认是3000毫秒
     class_name:'篮球直播&足球直播',//静态分类名称拼接
-    class_url:'/live_1.html?project=1&game=0&/yczb.html',//静态分类标识拼接
+    class_url:'0&1',//静态分类标识拼接
     //动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
-class_parse:'#side-menu:lt(1) li;a&&Text;a&&href;com/(.*?)/',
+class_parse:'/live_1.html?project=1&game=0;/yczb.html',
     // 除开全局过滤之外还需要过滤哪些标题不视为分类
     cate_exclude:'',
     // 除开全局动态线路名过滤之外还需要过滤哪些线路名标题不视为线路
