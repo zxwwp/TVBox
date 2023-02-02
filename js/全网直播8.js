@@ -12,7 +12,7 @@ var rule = {
     },//网站的请求头,完整支持所有的,常带ua和cookies
 timeout:5000,//网站的全局请求超时,默认是3000毫秒
     class_name:'篮球直播&足球直播',//静态分类名称拼接
-    class_url:'1&2',//静态分类标识拼接
+    class_url:'/live_1.html?project=1&game=0&/yczb.html',//静态分类标识拼接
     //动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
 class_parse:'#side-menu:lt(1) li;a&&Text;a&&href;com/(.*?)/',
     // 除开全局过滤之外还需要过滤哪些标题不视为分类
