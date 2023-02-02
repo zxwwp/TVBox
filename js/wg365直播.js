@@ -1,11 +1,11 @@
 var rule = {
     title:'wg365直播',//规则标题,没有实际作用,但是可以作为cms类名称依据
     host:'http://www.wg365.com/',//规则标题,没有实际作用,但是可以作为cms类名称依据
-     url:'http://www.wg365.com/lanqiuzhibo',//网站的分类页面链接
+     url:'javascript:void(0);',//网站的分类页面链接
     searchUrl:'',
     searchable:0,
     quickSearch:0,
-    class_parse:'top_nav_nr li;a&&Text;a&&href;http://www.wg365.com/lanqiuzhibo', //动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
+    class_parse:'second_nav li;a&&Text;a&&href;http://www.wg365.com/(\\d+)', //动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
     headers:{
         'User-Agent':'PC_UA',
         'User-Agent':'MOBILE_UA',
