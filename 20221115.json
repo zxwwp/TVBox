@@ -30,6 +30,8 @@
 //{"key":"春节","name":" 🎈晨龙春节","type":3,"api":"csp_Bili","ext":"./json/晨龙春节.json","spider":"./晨龙.jar"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
+{"key":"csp_XBPQ_6080","name":"💎新视觉影院","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","ext":"./json/新视觉影院.json"},
+
 //{"key":"dr_豆瓣","name":"💎豆瓣热播","type":3,"api":"./js/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/豆瓣.js"},
 {"key": "Kuaikan","name": "💎快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_CZSPP","name":"💎厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
