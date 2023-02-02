@@ -38,7 +38,7 @@ class_parse:'#side-menu:lt(1) li;a&&Text;a&&href;com/(.*?)/',
     limit:6,
     double:true,//是否双层列表定位,默认false
     // 对图片加了referer验证的有效,海阔专用,普通规则请勿填写此键值
-    图片来源:'@Referer=http://www.jianpianapp.com@User-Agent=jianpian-version350',
+    图片来源:'@Referer=https://gitlab.com/duomv/duo/-/raw/main/txt/duotv.png',
     
     // js写法，仅js模式1有效.可以用于代码动态获取全局cookie之类的
     // 可操作变量有 rule_fetch_params,rule,以及基础的网页访问request,post等操作
