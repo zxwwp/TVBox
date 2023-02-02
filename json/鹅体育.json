@@ -50,7 +50,7 @@
     "dtDescR": "",
     "dtFromNode": "//p[contains(@class,'p-title')]",
     "dtFromName": "/text()",
-    "dtFromNameR": "(\\企鹅体育)",
+    "dtFromNameR": "(\\鹅体育)",
     "dtUrlNode": "//div[contains(@class,'wenzi')]",
     "dtUrlSubNode": "/a",
     "dtUrlId": "/text()",
