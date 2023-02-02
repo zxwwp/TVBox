@@ -2,18 +2,10 @@ var rule = {
     title:'wg365直播',//规则标题,没有实际作用,但是可以作为cms类名称依据
     host:'http://www.wg365.com/',//规则标题,没有实际作用,但是可以作为cms类名称依据
      url:'http://www.wg365.com/lanqiuzhibo',//网站的分类页面链接
-    searchUrl:'',//搜索链接 可以是完整路径或者相对路径,用于分类获取和推荐获取 **代表搜索词 fypage代表页数
-    searchable:0,//是否启用全局搜索,
-    quickSearch:0,//是否启用快速搜索,
-    filterable:0,//是否启用筛选,
-    headers:{
-        'User-Agent':'MOBILE_UA',
-        "Cookie": "searchneed=ok"
-    },//网站的请求头,完整支持所有的,常带ua和cookies
     searchUrl:'',
     searchable:0,
     quickSearch:0,
-    class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',
+    class_parse:'.top_nav_nr li;a;a&&href;http://www.wg365.com/lanqiuzhibo',
     headers:{
         'User-Agent':'PC_UA'
     },
