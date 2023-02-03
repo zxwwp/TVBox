@@ -2,7 +2,8 @@
 // 壁纸 
 //"wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
-"spider":"./Yoursmile.jar", 
+//"spider":"./Yoursmile.jar", 
+"spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/cc.jar",
 
 
 // 配置直播地址，地址需base64位转码"urls":["proxy://do=live&type=txt&ext=粘贴base64位转码地址"]
