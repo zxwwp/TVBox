@@ -43,7 +43,7 @@
 //{"key": "小苹果","name":"💎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./json/xpg.jar"},
 {"key":"sp_Ae","name":"🍎影视┃小苹果","type" : 3,"api" : "csp_Dora", "jar": "http://8.210.220.114:8888/down/7Oy94pL2e9Sk.jar;md5;4da8597cb30a855eda0a3539e5b645a0","ext":"6deed4548c44b18d268a5d828f04d86e","playerType":1},
 {"key":"Sp_Tu","name":"🐰影视┃Tutu","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://8.210.220.114:8888/down/7Oy94pL2e9Sk.jar;md5;4da8597cb30a855eda0a3539e5b645a0"}, 
-{"key":"js_if","name":"🌹影视┃爱妃","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/艾菲影视.js"},
+{"key":"js_if","name":"🌹影视┃爱妃","type":3,"api":"./js/drpy.min.js","ext":"./js/艾菲影视.js"},
 {"key":"Sp_cj","name":"👑影视┃速优","type": 1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","大陆综艺","国产动漫"]},
 {"key": "csp_BBB","name": "🅱️哔哩哔哩","type": 3,"api": "csp_Bili","ext": "./json/哔哩套餐.json"},
 {"key":"csp_77","name":"💎酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
