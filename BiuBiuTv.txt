@@ -142,13 +142,6 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
 ##🏀NBA直播##
-2月3日 8：00 湖人 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675238.m3u8
-8：30 灰熊 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675239.m3u8
-8：30n热火 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675240.m3u8
-9：00 黄蜂 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675241.m3u8
-9：30 鹈鹕 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675242.m3u8
-10：00 勇士 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675243.m3u8
-11：00 快船 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675244.m3u8
 2月4日 8:00 黄蜂 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675245.m3u8
 8:00 国王 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675246.m3u8
 8:00 开拓者 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675247.m3u8
@@ -186,6 +179,15 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 9：00 公牛 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675279.m3u8
 11：00 森林狼 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675280.m3u8
 11：30 雷霆 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675281.m3u8
+2月9日 8：00 活塞 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675282.m3u8
+8：00 黄蜂 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675283.m3u8
+8：30 76 人 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675284.m3u8
+8：30 步行者 @ 热火,http://global.zkshuye.cn/live/sd-2-3675285.m3u8
+8：30 马刺 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675286.m3u8
+9：00 国王 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675287.m3u8
+10：00 森林狼 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675288.m3u8
+11：00 独行侠 @ 快船,http://global.zkshuye.cn/live/sd-2-3675289.m3u8
+11：00 勇士 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675290.m3u8
 ##🏀体育频道##
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
 CCTV5⁺,rtsp://115.153.233.154/PLTV/88888888/224/3221226976/85722488.smil
