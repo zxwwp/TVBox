@@ -28,6 +28,10 @@
 {"key":"学而思","name": " 📚学而思","type":3,"api":"csp_Bili","ext":"./json/学而思.json"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
+{"key": "IQIYI","name": "🥝奇异果(解析)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "QQ","name": "🍅企鹅(解析)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "MGTV","name": "🍋芒果(解析)","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key": "Kuaikan","name": "👀快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"360","name":"💘360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -51,7 +55,7 @@
 {"key": "dr_vidhub","name": "💎vidhub","type": 3,"api": "./js/drpy.min.js","ext": "./js/vidhub.js"},
 {"key":"csp_xBPQ_胖虎","name":"🐯胖虎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/panghu.json"},   
 {"key":"搜狐(官源)","name":"💎搜狐","type":0,"api":"http://vipmv.cc/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["剧情片","战争片","国产剧","港台剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
-{"key":"drpy_js_菜狗","name":"💎搜狗","type":3,"api":"./js/drpy.min.js","ext":"./js/菜狗.js"},
+{"key":"drpy_js_菜狗","name":"🐌搜狗","type":3,"api":"./js/drpy.min.js","ext":"./js/菜狗.js"},
 {"key":"drpy_js_奇珍异兽","name":"🐨爱奇艺","type":3,"api":"./js/drpy.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_腾云驾雾","name":"🐧腾讯","type":3,"api":"./js/drpy.min.js","ext":"./js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"🍋芒果","type":3,"api":"./js/drpy.min.js","ext":"./js/百忙无果.js"},
