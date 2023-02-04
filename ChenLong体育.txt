@@ -1,12 +1,4 @@
 ##🏀NBA直播##
-2月4日 8:00 黄蜂 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675245.m3u8
-8:00 国王 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675246.m3u8
-8:00 开拓者 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675247.m3u8
-8:30 太阳 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675248.m3u8
-9:00 猛龙 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675249.m3u8
-9:00 魔术 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675250.m3u8
-9:00 76人 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675251.m3u8
-10:00 老鹰 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675252.m3u8
 2月5日 7:00 奇才 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675253.m3u8
 8:00 太阳 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675254.m3u8
 8:00 快船 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675255.m3u8
