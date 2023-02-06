@@ -1,12 +1,12 @@
 var rule = {
     title:'全网直播吧',
     host:'https://www.zhibo8.net/',
-    url:'nav-item active',
+    url:'./',
     searchUrl:'',
     searchable:0,
     quickSearch:0,
     class_name:'首页',
-    class_url:'a href',        
+    class_url:'nav-item active a',        
     headers:{
         'User-Agent':'MOBILE_UA'
     },
