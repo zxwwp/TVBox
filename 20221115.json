@@ -63,6 +63,8 @@
 {"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
 {"key": "美食","name": "🍔美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"}
 
+],
+
 //{"key":"云上中学","name": "📘云上中学","type":3,"api":"csp_Bili","ext":"./json/云上中学.json"},
 //{"key":"云上高中","name": "📙云上高中","type":3,"api":"csp_Bili","ext":"./json/云上高中.json"},
 //{"key":"春节","name":" 🎈晨龙春节","type":3,"api":"csp_Bili","ext":"./json/晨龙春节.json","spider":"./晨龙.jar"},
@@ -89,8 +91,6 @@
 //{"key":"drpy_js_种子音乐.js","name":"🎙种子音乐","type":3,"api":"./js/drpy.min.js","ext":"./js/js_种子音乐.js"},
 //{"key":"drpy_js_海洋听书.js","name":"📻海洋听书","type":3,"api":"./js/drpy.min.js","ext":"./js/js_海洋听书.js"},
 //{"key":"drpy_js_蜻蜓FM","name":"📻蜻蜓FM","type":3,"api":"./js/drpy.min.js","ext":"./js/蜻蜓FM.js","playerType":"2"}
-
-],
 
 /*-----------------------解析-----------------------*/
 "parses":[{"name":"解析聚合","type":3,"url":"Demo"},
