@@ -60,8 +60,8 @@
 {"key":"drpy_js_干饭影视","name":"💎干饭影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_干饭影视.js"},
 
 //美食教程
-{"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
-{"key": "美食","name": "🍔美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"}
+{"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","ext": "./json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
+{"key": "美食","name": "🍔美食合集","type": 3,"api": "csp_Bili","ext": "./json/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"}
 
 ],
 
