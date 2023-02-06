@@ -1,7 +1,7 @@
 var rule = {
     title:'全网直播吧',
     host:'https://www.zhibo8.net/',
-    url:'',
+    url:'/',
     searchUrl:'',
     searchable:0,
     quickSearch:0,
