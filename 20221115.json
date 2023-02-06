@@ -23,6 +23,7 @@
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"🌈豆瓣热播","type":3,"api":"./js/drpy.min.js","ext":"./js/豆瓣.js"},
+{"key": "dr_007影视","name": "✨007影视","type": 3,"api": "./js/drpy.min.js","ext": "./js/007影视.js"},
 {"key": "IQIYI","name": "🥝奇异果(解析)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "QQ","name": "🍅企鹅(解析)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "MGTV","name": "🍋芒果(解析)","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
