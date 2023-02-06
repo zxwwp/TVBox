@@ -6,7 +6,7 @@ var rule = {
     searchable:0,
     quickSearch:0,
     class_name:'首页',
-    class_url:'.href',        
+    class_url:'a href',        
     headers:{
         'User-Agent':'MOBILE_UA'
     },
