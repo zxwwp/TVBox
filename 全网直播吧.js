@@ -1,12 +1,12 @@
 var rule = {
     title:'全网直播吧',
     host:'https://www.zhibo8.net/',
-    url:'fyclass&g=fypage',
+    url:'',
     searchUrl:'',
     searchable:0,
     quickSearch:0,
-    class_name:'热门比赛',
-    class_url:'img&&alt',        
+    class_name:'首页',
+    class_url:'mdui-loaded',        
     headers:{
         'User-Agent':'MOBILE_UA'
     },
