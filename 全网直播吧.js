@@ -5,8 +5,8 @@ var rule = {
     searchUrl:'',
     searchable:0,
     quickSearch:0,
-    class_name:'首页',
-    class_url:'nav-item active a',        
+    //class_name:'首页',
+    //class_url:'nav-item active a',        
     headers:{
         'User-Agent':'MOBILE_UA'
     },
@@ -17,6 +17,6 @@ var rule = {
     double:false,
     推荐:'*',
    一级:'.match-list li;.col-home flex&&span;.feleimg img&&src;.col-time;a&&href',
-   二级:'*', 
+   二级:{"tabs":"js:TABS=['全网直播吧']"}, 
     搜索:'',
 }
