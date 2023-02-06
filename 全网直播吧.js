@@ -6,7 +6,7 @@ var rule = {
     searchable:0,
     quickSearch:0,
     class_name:'热门比赛',
-    class_url:'alt',        
+    class_url:'img&&alt',        
     headers:{
         'User-Agent':'MOBILE_UA'
     },
