@@ -8,7 +8,7 @@ var rule = {
     //quickSearch:0,//是否启用快速搜索
     //filterable:0,//是否启用筛选,
     class_name:'首页',//静态分类名称拼接
-    class_url:'nav-item active href',    //静态分类标识拼接    
+    class_url:'0',    //静态分类标识拼接    
     headers:{'User-Agent':'MOBILE_UA'},//网站的请求头,完整支持所有的,常带ua和cookies
     timeout:5000,//网站的全局请求超时,默认是3000毫秒
     play_parse:false,// 服务器解析播放
