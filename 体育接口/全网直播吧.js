@@ -2,8 +2,7 @@ var rule = {
     title:'全网直播吧',//规则标题,没有实际作用,但是可以作为cms类名称依据
     //编码:'',//不填就默认utf-8
     host:'https://www.zhibo8.net',//网页的域名根,包含http头如 https://www,baidu.com
-    homeUrl:'https://www.zhibo8.net',//网站的首页链接,可以是完整路径或者相对路径,用于分类获取和推荐获取 fyclass是分类标签 fypage是页数
-    url:'',//网站的分类页面链接
+    url:'/?s=0&t=1&a=fyclass&g=fypage',//网站的分类页面链接, fyclass是分类标签 fypage是页数
     //searchUrl:'',//搜索链接 可以是完整路径或者相对路径,用于分类获取和推荐获取 **代表搜索词 fypage代表页数
     //searchable:0,//是否启用全局搜索
     //quickSearch:0,//是否启用快速搜索
