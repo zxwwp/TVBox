@@ -1,7 +1,7 @@
 var rule = {
     title:'全网直播吧',//规则标题,没有实际作用,但是可以作为cms类名称依据
     host:'https://www.zhibo8.net',//网页的域名根,包含http头如 https://www,baidu.com
-    url:'/live_1.html?project=1&game=0;a&&href',//网站的分类页面链接, fyclass是分类标签 fypage是页数
+    url:'/live_1.html?project=1&game=0',//网站的分类页面链接, fyclass是分类标签 fypage是页数
     class_parse:'.nav-item li;a&&Text;a&&href',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
     headers:{
         'User-Agent':'PC_UA'
@@ -14,7 +14,7 @@ var rule = {
     // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
     // 如果是双层定位的话,推荐的第2段分号代码也是第2层定位列表代码
     推荐:'*',
-    一级:'.main-left .match-item;.col&&flex;img&&src;.btn&&Text;a&&href',
+    一级:'.main-left .match-item;.col-home flex;img&&src;.btn&&Text;a&&href',
    //一级:'.list-group .group-game-item;.d-none&&Text;img&&src;.btn&&Text;a&&href',// 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
  // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
     // 二级 title: 片名;类型
