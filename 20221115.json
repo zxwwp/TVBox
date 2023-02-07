@@ -21,7 +21,7 @@
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./体育接口/310直播.js"},
 {"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./体育接口/JRS看球网.js"}, 
 {"key":"drpy_全网直播吧","name":"🏀全网直播吧✨","type":3,"api":"./js/drpy.min.js","ext":"./体育接口/全网直播吧.js"}, 
-{"key":"dj看球","name":"🏀dj看球","type": 3,"api":"csp_XYQBiu","ext":"./体育接口/dj看球.json"},
+
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"🌈豆瓣热播","type":3,"api":"./js/drpy.min.js","ext":"./js/豆瓣.js"},
 {"key": "dr_007影视","name": "✨007影视","type": 3,"api": "./js/drpy.min.js","ext": "./js/007影视.js"},
