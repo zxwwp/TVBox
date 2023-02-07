@@ -1,6 +1,7 @@
 var rule = {
     title:'310直播',
-    host:'http://www.310.tv',
+    homeUrl:'http://www.310.tv',
+    //host:'http://www.310.tv',
     //备用网址：http://www.928.tv，http://www.926.tv
     url:'/?s=0&t=1&a=fyclass&g=fypage',
     class_name:'篮球&足球',
