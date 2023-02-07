@@ -16,11 +16,12 @@ var rule = {
     lazy:'', // 自定义免嗅 
     limit:6,    // 首页推荐显示数量
     double:false,//是否双层列表定位,默认false
-    图片来源:'@Referer=http://www.jianpianapp.com@User-Agent=jianpian-version350',// 对图片加了referer验证的有效,海阔专用,普通规则请勿填写此键值
+    图片来源:'@Referer=https://gitlab.com/duomv/duo/-/raw/main/txt/duotv.png',// 对图片加了referer验证的有效,海阔专用,普通规则请勿填写此键值
     // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
     // 如果是双层定位的话,推荐的第2段分号代码也是第2层定位列表代码
     推荐:'*',
-   一级:'.match-list li;.col-home flex&&span;.feleimg img&&src;.col-time;a&&href',// 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
+    一级:'.match-list li;.col-home flex&&span',
+   //一级:'.match-list li;.col-home flex&&span;.feleimg img&&src;.col-time;a&&href',// 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
  // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
     // 二级 title: 片名;类型
     // 二级 desc: 主要信息;年代;地区;演员;导演
