@@ -21,7 +21,7 @@ var rule = {
     // 二级 desc: 主要信息;年代;地区;演员;导演
     // 或者 {title:'',img:'',desc:'',content:'',tabs:'',lists:'',tab_text:'body&&Text',list_text:'body&&Text',list_url:'a&&href'} 同海阔dr二级
     二级:{
-	    "title":".game-info-container&&Text;.customer-navbar-nav li&&Text",
+	    "title":".play-info play-info-soccer&&Text;.customer-navbar-nav li&&Text",
 	    "img":"img&&src",
 	    "desc":";;;div.team-name:eq(0)&&Text;div.team-name:eq(1)&&Text",
 	    "content":"div.game-time&&Text",
