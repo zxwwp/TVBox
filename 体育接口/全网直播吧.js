@@ -14,7 +14,7 @@ var rule = {
     // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
     // 如果是双层定位的话,推荐的第2段分号代码也是第2层定位列表代码
     推荐:'*',
-    一级:'main-left .match-list;.col .flex;img&&src;.btn&&Text;a&&href',
+    一级:'main-left .match-list;.col .flex&&Text;img&&src;.btn&&Text;a&&href',
    //一级:'.list-group .group-game-item;.d-none&&Text;img&&src;.btn&&Text;a&&href',// 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
  // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
     // 二级 title: 片名;类型
