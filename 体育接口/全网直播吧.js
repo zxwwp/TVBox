@@ -23,7 +23,7 @@ var rule = {
 	    "img":"img&&src",
 	    "desc":";;;div.team-name:eq(0)&&Text;div.team-name:eq(1)&&Text",
 	    "content":"div.game-time&&Text",
-	    "tabs":"js:TABS=['88看球']",
+	    "tabs":"js:TABS=['全网直播吧']",
 	    "lists":"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)});"
 	},
     // 搜索可以是*,集成一级，或者跟一级一样的写法 列表;标题;图片;描述;链接;详情
