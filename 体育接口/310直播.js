@@ -3,8 +3,8 @@ var rule = {
     host:'http://www.310.tv',
     //备用网址：http://www.928.tv，http://www.926.tv
     url:'/?s=0&t=1&a=fyclass&g=fypage',
-    class_name:'热门&足球&篮球',
-    class_url:'0&1&2',        
+    class_name:'足球&篮球',
+    class_url:'1&2',        
     headers:{
         'User-Agent':'MOBILE_UA'
     },
