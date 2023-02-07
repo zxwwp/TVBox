@@ -14,17 +14,16 @@ var rule = {
     // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
     // 如果是双层定位的话,推荐的第2段分号代码也是第2层定位列表代码
     推荐:'*',
-    一级:'.main-left.match-list;.col.flex&&Text;img&&src;.btn&&Text;a&&href',
+    一级:'.main-left.match-list;.col-home;.btn&&Text;a&&href',
    //一级:'.list-group .group-game-item;.d-none&&Text;img&&src;.btn&&Text;a&&href',// 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
  // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
     // 二级 title: 片名;类型
     // 二级 desc: 主要信息;年代;地区;演员;导演
     // 或者 {title:'',img:'',desc:'',content:'',tabs:'',lists:'',tab_text:'body&&Text',list_text:'body&&Text',list_url:'a&&href'} 同海阔dr二级
     二级:{
-	    "title":".play-info play-info-soccer&&Text;.customer-navbar-nav li&&Text",
-	    "img":"img&&src",
-	    "desc":";;;div.team-name:eq(0)&&Text;div.team-name:eq(1)&&Text",
-	    "content":"div.game-time&&Text",
+	    "title":".play-info play-info-soccer&&Text",
+	   "desc":";;;div.col-home:eq(0)&&Text;div.col-home:eq(1)&&Text",
+	    "content":"div.col-time&&Text",
 	    "tabs":"js:TABS=['全网直播吧']",
 	    "lists":"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)});"
 	},
