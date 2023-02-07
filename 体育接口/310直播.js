@@ -13,6 +13,7 @@ var rule = {
     lazy:'',
     limit:6,
     double:false,
+    图片来源:'@Referer=http://www.jianpianapp.com@User-Agent=jianpian-version350',// 对图片加了referer验证的有效,海阔专用,普通规则请勿填写此键值
     推荐:'*',
    一级:'.list_content a;.jiabifeng&&p:lt(5)&&Text;.feleimg img&&src;a&&t-nzf-o;a&&href',
    二级:'*', 
