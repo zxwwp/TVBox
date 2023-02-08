@@ -38,7 +38,7 @@ var rule = {
 		"img":"img&&src",
 		"desc":";;;.lab_team_home&&Text;.lab_team_away&&Text",
 		"content":".sub_list ul&&Text",
-		"tabs":"js:TABS=['JRKAN直播']",
+		"tabs":"js:TABS=['直播源']",
 		"lists":"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.sub_playlist&&a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'strong&&Text');let url=pd(it,'a&&data-play');return name+'$'+url});LISTS.push(d)});",
 	},
     搜索:'',
