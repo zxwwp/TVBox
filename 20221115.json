@@ -20,7 +20,7 @@
 {"key":"17kan","name":"🏀17看球","type": 3,"api":"csp_XYQBiu","ext":"./体育接口/17看球.json"},
 {"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./体育接口/310直播.js"},
 {"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./体育接口/JRS看球网.js"}, 
-//{"key":"drpy_全网直播吧","name":"🏀全网直播吧✨","type":3,"api":"./js/drpy.min.js","ext":"./体育接口/全网直播吧.js"}, 
+{"key":"drpy_看比赛","name":"🏀看比赛✨","type":3,"api":"./js/drpy.min.js","ext":"./体育接口/看比赛.js"}, 
 
  
 {"key":"js_FreeOK","name":"🌹FreeOK","type":3,"api":"./js/drpy.min.js","ext":"./js/FreeOK.js"},
