@@ -22,7 +22,7 @@
 {"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./体育接口/JRS看球网.js"}, 
 {"key":"drpy_看比赛","name":"🏀看比赛✨","type":3,"api":"./js/drpy.min.js","ext":"./体育接口/看比赛.js"}, 
 
- 
+{"key":"csp_Bttoo","name":"🐠▎③急速秒播 ▎","type":3,"api":"csp_Bttoo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js_FreeOK","name":"🌹FreeOK","type":3,"api":"./js/drpy.min.js","ext":"./js/FreeOK.js"},
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"🌈豆瓣热播","type":3,"api":"./js/drpy.min.js","ext":"./js/豆瓣.js"},
