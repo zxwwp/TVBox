@@ -1,11 +1,11 @@
 var rule={     
     title:'看比赛',
     host:'https://sports.qq.com/kbsweb/',
-     url:'/fyclass',
+    url:'/vodshow/fyclass--------fypage---.html',
+    searchUrl:'/vodsearch/**----------fypage---.html',
+    // url:'/fyclass',
     class_name:'全部',
     class_url:'/',
-    //url:'/vodshow/fyclass--------fypage---.html',
-    //searchUrl:'/vodsearch/**----------fypage---.html',
      headers:{
         'User-Agent':'MOBILE_UA'
     },
