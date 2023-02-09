@@ -437,21 +437,6 @@ CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//ind
 新疆卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
 西藏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
 🏀NBA直播,#genre#
-2月8日 8：00 尼克斯 @ 魔术,http://global.zkshuye.cn/live/sd-2-3675276.m3u8
-8：30 太阳 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675277.m3u8
-8：30 老鹰 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3675278.m3u8
-9：00 公牛 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675279.m3u8
-11：00 森林狼 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675280.m3u8
-11：30 雷霆 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675281.m3u8
-2月9日 8：00 活塞 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675282.m3u8
-8：00 黄蜂 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675283.m3u8
-8：30 76 人 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675284.m3u8
-8：30 步行者 @ 热火,http://global.zkshuye.cn/live/sd-2-3675285.m3u8
-8：30 马刺 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675286.m3u8
-9：00 国王 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675287.m3u8
-10：00 森林狼 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675288.m3u8
-11：00 独行侠 @ 快船,http://global.zkshuye.cn/live/sd-2-3675289.m3u8
-11：00 勇士 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675290.m3u8
 2月10日 8：00 掘金 @ 魔术,http://global.zkshuye.cn/live/sd-2-3675291.m3u8
 8：30 太阳 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3675292.m3u8
 8：30 公牛 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675293.m3u8
@@ -478,6 +463,22 @@ CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//ind
 11：00 独行侠 @ 国王,http://global.zkshuye.cn/live/sd-2-3675314.m3u8
 2月13日 3：00 灰熊 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675315.m3u8
 4：00 活塞 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675316.m3u8
+2月14日 8:00 老鹰 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675317.m3u8
+8:00 马刺 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675318.m3u8
+8:00 爵士 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675319.m3u8
+8:00 火箭 @ 76人,http://global.zkshuye.cn/live/sd-2-3675320.m3u8
+8:30 掘金 @ 热火,http://global.zkshuye.cn/live/sd-2-3675321.m3u8
+8:30 篮网 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675322.m3u8
+9:00 魔术 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675323.m3u8
+9:00 鹈鹕 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675324.m3u8
+9:30 森林狼 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675325.m3u8
+11:00 奇才 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675326.m3u8
+11:00 湖人 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675327.m3u8
+2月15日 8:30 魔术 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675328.m3u8
+8:30 凯尔特人 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675329.m3u8
+10:00 国王 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675330.m3u8
+11:00 勇士 @ 快船,http://global.zkshuye.cn/live/sd-2-3675331.m3u8
+11:00 奇才 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675332.m3u8
 🏀体育频道,#genre#
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
