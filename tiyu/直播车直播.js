@@ -1,6 +1,6 @@
 var rule = {
-    title:'wg365直播',
-    host:'http://www.wg365.com/',
+    title:'直播车直播',
+    host:'http://www.zhiboche.tv/',
     url:'/?s=0&t=1&a=fyclass&g=fypage',
     class_name:'篮球&足球&综合体育',
     class_url:'2&1&3',         
