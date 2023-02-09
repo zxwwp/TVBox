@@ -22,7 +22,7 @@
 {"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/JRS看球网.js"}, 
 {"key":"drpy_js_抓饭体育","name":"🏀抓饭体育✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/抓饭体育.js"},
 {"key":"drpy_926直播","name":"🏀926直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/926直播.js"}, 
-
+{"key":"drpy_直播车直播","name":"🏀直播车直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/直播车直播.js"}, 
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"🌈豆瓣荐片","type":3,"api":"./js/drpy.min.js","ext":"./js/豆瓣.js"},
