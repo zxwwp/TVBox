@@ -1,14 +1,17 @@
 var rule={     
     title:'看比赛',
     host:'https://sports.qq.com/kbsweb/',
-    url:'/vodshow/fyclass--------fypage---.html',
-    searchUrl:'/vodsearch/**----------fypage---.html',
+     url:'/fyclass',
+    class_name:'全部',
+    class_url:'/',
+    //url:'/vodshow/fyclass--------fypage---.html',
+    //searchUrl:'/vodsearch/**----------fypage---.html',
      headers:{
         'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
-       class_name:'NBA&CBA&FIBA&女篮世界杯&男篮世界杯&WNBA&NCAA&篮球其他&欧冠&德甲&英超&#西甲&意甲&法甲&中超',
-    class_url:'#nba&#cba&#160000&#160004&#160001&#100020&#ncaa&#100340&#ucl&#bundesliga&#laliga&#seriea&#ll&#csl', 
+       //class_name:'NBA&CBA&FIBA&女篮世界杯&男篮世界杯&WNBA&NCAA&篮球其他&欧冠&德甲&英超&#西甲&意甲&法甲&中超',
+    //class_url:'#nba&#cba&#160000&#160004&#160001&#100020&#ncaa&#100340&#ucl&#bundesliga&#laliga&#seriea&#ll&#csl', 
     
     play_parse:true,
     lazy:"",
