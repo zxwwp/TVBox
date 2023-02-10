@@ -21,7 +21,7 @@
 {"key":"17kan","name":"🏀17看球","type": 3,"api":"csp_XYQBiu","ext":"./tiyu/17看球.json"},
 {"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/JRS看球网.js"}, 
 {"key":"drpy_js_抓饭体育","name":"🏀抓饭体育✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/抓饭体育.js"},
-{"key":"drpy_全网直播8","name":"🏀全网直播8✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/全网直播8.js"}, 
+{"key":"drpy_zhibo8","name":"🏀全网直播8✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/zhibo8.js"}, 
 
 //{"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/310直播.js"},
 //{"key":"drpy_直播车直播","name":"🏀直播车直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/直播车直播.js"}, 
