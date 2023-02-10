@@ -23,8 +23,8 @@
 {"key":"drpy_js_抓饭体育","name":"🏀抓饭体育✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/抓饭体育.js"},
 {"key":"drpy_zhibo8","name":"🏀全网直播8✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/zhibo8.js"}, 
 
-{"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/310直播.js"},
-{"key":"drpy_直播车直播","name":"🏀直播车直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/直播车直播.js"}, 
+//{"key":"drpy_js_310直播","name":"🏀310直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/310直播.js"},
+//{"key":"drpy_直播车直播","name":"🏀直播车直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/直播车直播.js"}, 
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"🌈豆瓣荐片","type":3,"api":"./js/drpy.min.js","ext":"./js/豆瓣.js"},
