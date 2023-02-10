@@ -1,9 +1,9 @@
 var rule = {
     title:'直播车直播',
     host:'https://www.zhibo8.net/',
-    url:'/?s=0&t=1&a=fyclass&g=fypage',
+    url:'/fypage',
     class_name:'全部',
-    class_url:'',         
+    class_url:'/',         
     headers:{
         'User-Agent':'MOBILE_UA'
     },
