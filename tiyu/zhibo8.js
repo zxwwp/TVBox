@@ -13,7 +13,7 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-   一级:'.main-left li;.jiabifeng&&span:lt(2)&&Text;img&&src;div&&col-time;a&&href',
+   一级:'.match-list li;.jiabifeng&&span:lt(2)&&Text;img&&src;div&&col-time;a&&href',
    二级:'*', 
     搜索:'',
 }
