@@ -12,8 +12,9 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-    一级:'.list-group .group-game-item;.d-none&&Text;img&&src;.btn&&Text;a&&href',
-
+    一级:'.list-group .group-game-item;.justify-content-between&&Text;img&&src;.btn&&Text;a&&href',
+    //一级:'.list-group .group-game-item;.d-none&&Text;img&&src;.btn&&Text;a&&href',
+//justify-content-between align-items-center
     二级:{
 	    "title":".game-info-container&&Text;.customer-navbar-nav li&&Text",
 	    "img":"img&&src",
