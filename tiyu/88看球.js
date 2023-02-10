@@ -13,6 +13,7 @@ var rule = {
     double:false,
     推荐:'*',
     一级:'.list-group .group-game-item;.d-none&&Text;img&&src;.btn&&Text;a&&href',
+    .jiabifeng&&p:lt(2)&&Text;
     二级:{
 	    "title":".game-info-container&&Text;.customer-navbar-nav li&&Text",
 	    "img":"img&&src",
