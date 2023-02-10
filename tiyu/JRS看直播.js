@@ -1,6 +1,7 @@
 var rule = {
     title:'JRS看直播',
-    host:'http://www.jrskan.net',
+    host:'http://www.jrskanqiu.com',
+    //host:'http://www.jrskan.net',
     url:'/fyclass',
     searchUrl:'',
     searchable:0,
