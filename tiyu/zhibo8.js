@@ -1,7 +1,7 @@
 var rule = {
     title:'直播8',
     host:'https://www.zhibo8.net/',
-    url:'/fypage',
+    url:'/?s=0&t=1&a=fyclass&g=fypage',
     class_name:'全部',
     class_url:'/',         
     headers:{
