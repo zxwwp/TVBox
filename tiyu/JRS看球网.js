@@ -1,6 +1,7 @@
 var rule = {
     title:'JRS看球网',
-    host:'http://www.jrskanqiu.com',
+    host:'http://www.jrskan.net',
+    //host:'http://www.jrskanqiu.com',
     url:'/fyclass',
     searchUrl:'',
     searchable:0,
