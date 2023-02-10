@@ -1,5 +1,5 @@
 var rule = {
-    title:'直播8',
+    title:'全网直播8',
     host:'https://www.zhibo8.net/',
     url:'/?s=0&t=1&a=fyclass&g=fypage',
     class_name:'全部',
@@ -13,7 +13,7 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-   一级:'.list-unstyled .   basketball;;.jiabifeng&&span:lt(2)&&Text;img&&src;div&&col-time;a&&href',
+   一级:'.match-list .match-item;.jiabifeng&&span:lt(2)&&Text;img&&src;div&&col-time;a&&href',
    二级:'*', 
     搜索:'',
 }
