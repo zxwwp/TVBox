@@ -13,7 +13,7 @@ var rule = {
     double:false,
     推荐:'*',
     一级:'.list-group .group-game-item;div div:gt(1):lt(6)&&Text;img&&src;.btn&&Text;a&&href',
-    二级:{},
+    二级:'*',
     //二级:{
 	    "title":".game-info-container&&Text;.customer-navbar-nav li&&Text",
 	    "img":"img&&src",
