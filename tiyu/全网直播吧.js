@@ -1,13 +1,11 @@
 var rule = {
     title:'全网直播吧',//规则标题,没有实际作用,但是可以作为cms类名称依据
     host:'https://www.zhibo8.net',//网页的域名根,包含http头如 https://www,baidu.com
-    //url:'/live_1.html?project=1&game=0',//网站的分类页面链接, fyclass是分类标签 fypage是页数
-    //class_parse:'.nav-item li;a&&Text;a&&href',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
-    url:'/?s=0&t=1&a=fyclass&g=fypage',
-    class_name:'篮球&足球&综合体育',
-    class_url:'2&1&3',         
+    url:'/live_1.html?project=1&game=fypage;fyclass.html',//网站的分类页面链接, fyclass是分类标签 fypage是页数
+    class_parse:'.nav-item li;a&&Text;a&&href',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
+        
     headers:{
-        'User-Agent':'PC_UA'
+         'User-Agent':'MOBILE_UA','User-Agent':'PC_UA'
     },//网站的请求头,完整支持所有的,常带ua和cookies
     timeout:5000,//网站的全局请求超时,默认是3000毫秒
     play_parse:false,// 服务器解析播放
