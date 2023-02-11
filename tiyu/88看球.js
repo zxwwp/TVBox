@@ -12,7 +12,7 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-    一级:'.list-group .group-game-item;.game-type+.d-none+.team-name&&Text;img&&src;.btn&&Text;a&&href',
+    一级:'.list-group .group-game-item;.span&&Text;img&&src;.btn&&Text;a&&href',
     二级:{
 	    "title":".game-info-container&&Text;.customer-navbar-nav li&&Text",
 	    "img":"img&&src",
