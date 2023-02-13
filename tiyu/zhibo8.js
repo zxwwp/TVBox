@@ -14,7 +14,7 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-    一级:'.main-left:eq(1) li;.col-home flex&&Text;img&&src;div&&col-time;a&&href',
+    一级:'.main-left:eq(0) li;.col-home flex&&Text;img&&src;div&&col-time;a&&href',
     二级:{title:'.match-list div:lt(1)&&Text;.match-list div:eq(0)&&Text',img:'img&&src',desc:';;;.col-home flex&&Text',content:'.match-list li&&Text',tabs:'',tab_text:'',lists:'.sub_channel a',list_text:'a&&Text',list_url:'a&&data-play'},
     搜索:'',
 }
