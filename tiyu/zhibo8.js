@@ -16,7 +16,7 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-    一级:'.main-left ul;li div:gt(1):lt(3)&&Text;img&&src;.col&&Text;a&&href',
+    一级:'.match-list li;div:gt(1):lt(3)&&Text;img&&src;.col&&Text;a&&href',
     二级:{title:'.live-title&&Text;.live-title&&Text',img:'img:eq(1)&&src',desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',content:'.live-info&&Text',tabs:'',tab_text:'',lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'},
     搜索:'',
 }
