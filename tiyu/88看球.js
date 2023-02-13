@@ -20,7 +20,7 @@ var rule = {
 	    "content":"div.game-time&&Text",
         "tabs":"js:TABS=['直播信号源']",
 	    "lists":"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)});"
-	},
+
         //"desc":";;;.text-right&&Text;.text-left&&Text",
 		//"content":"div.game-time&&Text",
 		//"tabs":"js:TABS=['直播信号源']",
