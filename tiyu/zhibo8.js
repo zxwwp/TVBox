@@ -6,7 +6,7 @@ var rule = {
     class_url:'/',         
     headers:{
         'User-Agent':'MOBILE_UA'
-        ,'User-Agent':'PC_UA'
+        //'User-Agent':'PC_UA'
     },
     timeout:5000,
     play_parse:false,
