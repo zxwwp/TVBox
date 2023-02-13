@@ -14,7 +14,7 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-    一级:'.main-left:eq(2) li;div:gt(1):lt(4)&&Text;img&&src;div&&col-time;a&&href',
-    二级:{title:'.match-list div:lt(1)&&Text;.match-list div:eq(0)&&Text',img:'img&&src',desc:';;;.col-home flex&&Text',content:'.match-list li&&Text',tabs:'',tab_text:'',lists:'.sub_channel a',list_text:'a&&Text',list_url:'a&&data-play'},
+    一级:'.main-left:eq(2) ul;li:gt(1):lt(4)&&Text;img&&src;div&&col-time;a&&href',
+    二级:{title:'.match-list li:lt(1)&&Text;.match-list li:eq(0)&&Text',img:'img&&src',desc:';;;.col-home flex&&Text',content:'.match-list li&&Text',tabs:'',tab_text:'',lists:'.sub_channel a',list_text:'a&&Text',list_url:'a&&data-play'},
     搜索:'',
 }
