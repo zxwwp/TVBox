@@ -21,7 +21,6 @@
 {"key":"csp_XPath_企鹅体育","name":"🏀企鹅体育✨","type":3,"api":"csp_XPath","ext":"https://agit.ai/zxwwp/TVBox/raw/branch/master/%e4%bc%81%e9%b9%85%e7%9b%b4%e6%92%ad.json"},
 {"key":"17kan","name":"🏀17看球","type": 3,"api":"csp_XYQBiu","ext":"./tiyu/17看球.json"},
 {"key":"drpy_抓饭体育","name":"🏀抓饭体育✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/抓饭体育.js"},
-{"key":"zhibo8","name":"zhibo8","type":3,"api":"csp_zhibo8","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.zhibo8.net/"}, 
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"🌈豆瓣荐片","type":3,"api":"./js/drpy.min.js","ext":"./js/豆瓣.js"},
@@ -45,7 +44,6 @@
 {"key":"Sp_cj","name":"👑速优","type": 1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","大陆综艺","国产动漫"]},
 {"key": "csp_BBB","name": "🅱️哔哩哔哩","type": 3,"api": "csp_Bili","ext": "./json/哔哩套餐.json"},
 {"key":"Gitcafe_ts","name":"📜小纸条|网盘1","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/token.txt","jar":"./json/cs.jar"},
-//{"key":"Gitcafe","name":"📜小纸条|网盘2","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"./ali.jar"},
 {"key":"drpy_jjs_饭团影","name":"🍙饭团影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_饭团影视.js"},
 {"key":"drpy_js_乐猪TV","name":"🐖乐猪TV","type":3,"api":"./js/drpy.min.js","ext":"./js/js_乐猪TV.js"},
 {"key":"csp_xpath_农民影视","name":"👨‍🌾农民影视","type":3,"api":"csp_XPathMacFilter","searchable":"1","quickSearch":"1","filterable":"1","ext":"./json/农民影视.json"},
