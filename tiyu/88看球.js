@@ -16,6 +16,7 @@ var rule = {
 
     二级:{
         "title":".game-info-container&&Text",
+        "content":"li.list-group-item&&Text",
         "tabs":"js:TABS=['直播信号源']",
 	    "lists":"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)});"
 
