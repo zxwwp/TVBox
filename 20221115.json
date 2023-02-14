@@ -34,7 +34,7 @@
 {"key":"csp_Xinsj","name":"🍁新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "dr_新视觉影院","name": "🍁新视觉影院","type": 3,"api": "./js/drpy.min.js","ext": "./js/新视觉影院.js"},
 {"key":"csp_Dy1010","name":"💎双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"BuLei","name":"🎑布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.bulei.cc"},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"💎影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🐠急速秒播","type":3,"api":"csp_Bttoo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
