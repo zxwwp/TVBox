@@ -14,7 +14,8 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-   一级:'.list_content a;.jiabifeng&&p:lt(2)&&Text;img&&op-zfr-a-g;a&&t-nzf-o;a&&href',
-   二级:'*', 
+   //一级:'.list_content a;.jiabifeng&&p:lt(2)&&Text;img&&op-zfr-a-g;a&&t-nzf-o;a&&href',
+   //二级:'*', 
+   
     搜索:'',
 }
