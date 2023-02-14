@@ -14,7 +14,8 @@ var rule = {
     推荐:'*',
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.list-group-item');tabs.forEach(function(it){var pz=pdfh(it,'.text-right&&Text');var ps=pdfh(it,'.game-type&&Text');var pk=pdfh(it,'.text-left&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'.category-game-time&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
     二级:{
-		"title":".list-group div:lt(2)&&Text;.list-group div:game-type&&Text",
+		"title":".game-info-container&&Text;.customer-navbar-nav li&&Text",
+        //"title":".list-group div:lt(2)&&Text;.list-group div:game-type&&Text",
 		"img":"img&&src",
 		"desc":";;;div.team-name:eq(0)&&Text;div.team-name:eq(1)&&Text",
 	    "content":"div.game-time&&Text",
