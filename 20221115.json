@@ -77,7 +77,6 @@
 //{"key": "小苹果","name":"🍎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./json/xpg.jar"},
 //{"key": "csp_新视觉","name": "🍁新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./json/新视觉.jar"},
 //{"key": "dr_新视觉影院","name": "🍁新视觉影院","type": 3,"api": "./js/drpy.min.js","ext": "./js/新视觉影院.js"},
-//{"key": "csp_xb_lgyys","name": "💧蓝光影院","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 //{"key":"蓝光影院","name":"💧蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"ext":"./json/lukjpl4f.json"},
 //{"key":"csp_XYQHiker_FREEOK","name":" 🍔Free追剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/FREEOK.json","jar":"./json/homespiders-xpath.jar"},
 
