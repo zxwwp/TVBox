@@ -22,7 +22,7 @@
 {"key":"drpy_抓饭体育","name":"🏀抓饭体育✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/抓饭体育.js"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
-{"key":"csp_aisi","name":"💘艾斯影院","type":3,"api":"csp_aisi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_aisi","name":"💘艾斯影院","type":3,"api":"csp_aisi","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.acedyy.com"},
 {"key":"dr_豆瓣","name":"🌈豆瓣荐片","type":3,"api":"./js/drpy.min.js","ext":"./js/豆瓣.js"},
 {"key": "Kuaikan","name": "👀快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"360","name":"💘360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
