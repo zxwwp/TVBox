@@ -1,12 +1,12 @@
 var rule = {
     title:'JRS看球网',
     host:'http://www.jrskanqiu.com',
-    url:'/fyclass',
-    searchUrl:'',
-    searchable:0,
-    quickSearch:0,
-    class_name:'全部',
-    class_url:'/',
+   // url:'/fyclass',
+ url:'/?s=0&t=1&a=fyclass&g=fypage',
+    class_name:'篮球&足球',
+    class_url:'17&1&18',  
+   // class_name:'全部',
+   // class_url:'/',
     headers:{
         'User-Agent':'PC_UA'
     },
