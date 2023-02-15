@@ -1,6 +1,6 @@
 var rule = {
     title:'zhibo8',
-    host:'https://www.zhibo8.net/',
+    host:'https://www.zhibo8.net/live_1.html?project=1&game=0',
     url:'/fyclass',
     class_name:'全部',
     class_url:'/',
