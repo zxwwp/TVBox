@@ -13,21 +13,6 @@ CCTV12,rtsp://115.153.233.154/PLTV/88888888/224/3221226829/59814709.smil
 CCTV13,rtsp://115.153.233.154/PLTV/88888888/224/3221227037/87447722.smil
 CCTV15,rtsp://115.153.233.154/PLTV/88888888/224/3221226988/85722541.smil
 CCTV17,rtsp://115.153.233.154/PLTV/88888888/224/3221226846/61397282.smil
-CCTV1,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV6,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV15,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV17,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-CCTV-4K,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
 CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
@@ -97,34 +82,6 @@ CCTV11,http://218.29.55.44:808/hls/11/index.m3u8
 CCTV12,http://218.29.55.44:808/hls/12/index.m3u8
 CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
 CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
-CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
-CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
-CCTV3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
-CCTV4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
-CCTV6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
-CCTV7,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
-CCTV8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
-CCTV9,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
-CCTV10,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
-CCTV11,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
-CCTV12,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
-CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV15,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
-CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
-CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
-CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
-CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
-CCTV4,https://live.v1.mk/api/ghyx.php?id=CCTV4HD_6000
-CCTV6,https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000
-CCTV7,https://live.v1.mk/api/ghyx.php?id=CCTV7HD_6000
-CCTV8,https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000
-CCTV9,https://live.v1.mk/api/ghyx.php?id=CCTV9HD_6000
-CCTV10,https://live.v1.mk/api/ghyx.php?id=CCTV10HD_6000
-CCTV11,https://live.v1.mk/api/ghyx.php?id=CCTV11HD_2000
-CCTV12,https://live.v1.mk/api/ghyx.php?id=CCTV12HD_6000
-CCTV13,https://live.v1.mk/api/ghyx.php?id=CCTV13HD_2000
-CCTV15,https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000
-CCTV17,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000
 CCTV4K,http://cfss.cc/ds/bst.php?id=Cf0
 CCTV1,http://cfss.cc/ds/bst.php?id=Cf1
 CCTV2,http://cfss.cc/ds/bst.php?id=Cf2
@@ -328,58 +285,6 @@ CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//ind
 广东卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-guangdongstv/.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
-江西卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
-江苏卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
-北京卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
-东方卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
-浙江卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
-广东卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
-深圳卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
-湖南卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-湖北卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
-河北卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
-天津卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
-重庆卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
-河南卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
-山东卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
-辽宁卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
-吉林卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
-黑龙江卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
-安徽卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
-广西卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
-四川卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
-甘肃卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
-东南卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
-云南卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
-贵州卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
-海南卫视,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-全纪实 8M,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
-江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
-广西卫视,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
-四川卫视,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
-湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
-湖北卫视,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
-浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
-东方卫视,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
-北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
-天津卫视,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
-辽宁卫视,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
-安徽卫视,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
-黑龙江卫视,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
-广东卫视,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
-深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
-河南卫视,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
-河北卫视,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
-江西卫视,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
-天津卫视,https://live.v1.mk/api/ghyx.php?id=TianJinHD_6000
-重庆卫视,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
-黑龙江卫视,https://live.v1.mk/api/ghyx.php?id=HeiLongJiangHD_6000
-吉林卫视,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
-海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
-甘肃卫视,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
-东南卫视,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
-云南卫视,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
-贵州卫视,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 江苏卫视,http://cfss.cc/ds/bst.php?id=Cf20
 广西卫视,http://cfss.cc/ds/bst.php?id=Cf21
 四川卫视,http://cfss.cc/ds/bst.php?id=Cf22
@@ -437,17 +342,6 @@ CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//ind
 新疆卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
 西藏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
 🏀NBA直播,#genre#
-2月14日 8:00 老鹰 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675317.m3u8
-8:00 马刺 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675318.m3u8
-8:00 爵士 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675319.m3u8
-8:00 火箭 @ 76人,http://global.zkshuye.cn/live/sd-2-3675320.m3u8
-8:30 掘金 @ 热火,http://global.zkshuye.cn/live/sd-2-3675321.m3u8
-8:30 篮网 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675322.m3u8
-9:00 魔术 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675323.m3u8
-9:00 鹈鹕 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675324.m3u8
-9:30 森林狼 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675325.m3u8
-11:00 奇才 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675326.m3u8
-11:00 湖人 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675327.m3u8
 2月15日 8:30 魔术 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675328.m3u8
 8:30 凯尔特人 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675329.m3u8
 10:00 国王 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675330.m3u8
@@ -466,6 +360,23 @@ CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//ind
 2月17日 8：30 雄鹿 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675343.m3u8
 9：00 奇才 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675344.m3u8
 11：00 快船 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675345.m3u8
+🏀2月16日,#genre#
+8：00 马刺 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675333.m3u8
+8：00 公牛 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675334.m3u8
+8：30 骑士 @ 76人,http://global.zkshuye.cn/live/sd-2-3675335.m3u8
+8：30 尼克斯 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3675336.m3u8
+8：30 活塞 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675337.m3u8
+8：30 热火 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675338.m3u8
+9：00 爵士 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675339.m3u8
+9：00 火箭 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675340.m3u8
+10：00 独行侠 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675341.m3u8
+11：00 鹈鹕 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675342.m3u8
+🏀2月17日,#genre#
+8：30 雄鹿 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675343.m3u8
+9：00 奇才 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675344.m3u8
+11：00 快船 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675345.m3u8
+🏀2月20日,#genre#
+8：30 字母哥 队 @ 勒布朗队,http://global.zkshuye.cn/live/sd-2-3675346.m3u8
 🏀体育频道,#genre#
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
