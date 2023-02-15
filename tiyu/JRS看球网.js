@@ -1,8 +1,8 @@
 var rule = {
     title:'JRS看球网',
     host:'http://www.jrskanqiu.com',
-   // url:'/fyclass',
- url:'/?s=0&t=1&a=fyclass&g=fypage',
+    url:'/fyclass',
+
     class_name:'篮球&足球',
     class_url:'17&18',  
    // class_name:'全部',
