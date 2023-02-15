@@ -17,6 +17,7 @@ var rule = {
     double:false,
     推荐:'*',
     一级:'.todayMatch .contenTab;.myList div:gt(0)&&Text;img&&src;.status&&Text;a&&href',
-    二级:{title:'.msg ul&&Text;.msg ul&&Text',img:'img:eq(2)&&src',desc:';;;.nameOne&&Text;.nameTwo&&Text',content:'._t&&Text',tabs:'.checkChannel li:eq(0)',tab_text:'p&&Text',lists:'.checkChannel li:gt(0)',list_text:'a&&Text',list_url:'a&&data-url'},
+    二级:{title:'.msg ul&&Text;.msg ul&&Text',img:'img:eq(2)&&src',desc:';;;.nameOne&&Text;.nameTwo&&Text',content:'._t&&Text',tabs:"js:TABS=['直播信号源']",tab_text:'p&&Text',lists:'.checkChannel li:gt(0)',list_text:'a&&Text',list_url:'a&&data-url'},
+    //tabs:'.checkChannel li:eq(0)',
     搜索:'',
 }
