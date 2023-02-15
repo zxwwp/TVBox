@@ -4,7 +4,7 @@ var rule = {
    // url:'/fyclass',
  url:'/?s=0&t=1&a=fyclass&g=fypage',
     class_name:'篮球&足球',
-    class_url:'17&1&18',  
+    class_url:'17&18',  
    // class_name:'全部',
    // class_url:'/',
     headers:{
