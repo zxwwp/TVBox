@@ -20,7 +20,7 @@ var rule = {
    一级:'.list_content a;.jiabifeng&&p:lt(2)&&Text;img&&op-zfr-a-g;a&&t-nzf-o;a&&href',
    //二级:'*', 
     //一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.wuyd');tabs.forEach(function(it){var pz=pdfh(it,'.team zhudui&&Text');var ps=pdfh(it,'.feleimg&&Text');var pk=pdfh(it,'.team kedui&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'.eventtime_wuy eventtime&&i');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
-     二级:{title:'.live-title&&Text;.live-title&&Text',img:'img:eq(1)&&src',desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',content:'.live-info&&Text',tabs:"js:TABS=['直播信号:']",lists:'.nz-g-cd',list_text:'a&&Text',list_url:'a&&data-url'},
+     二级:{title:'.live-title&&Text;.live-title&&Text',img:'img:eq(1)&&src',desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',content:'.live-info&&Text',tabs:"js:TABS=['直播信号:']",lists:'.nz-g-c',list_text:'a&&Text',list_url:'a&&data-url'},
    
     //二级:{
 		//"title":".sub_list li:lt(2)&&Text;.sub_list li:eq(0)&&Text",//类型 时间
