@@ -375,7 +375,7 @@ CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//ind
 8：30 雄鹿 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675343.m3u8
 9：00 奇才 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675344.m3u8
 11：00 快船 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675345.m3u8
-🏀2月20日,#genre#
+🏀20日全明星赛,#genre#
 8：30 字母哥 队 @ 勒布朗队,http://global.zkshuye.cn/live/sd-2-3675346.m3u8
 🏀体育频道,#genre#
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
