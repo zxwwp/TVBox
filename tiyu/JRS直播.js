@@ -2,9 +2,6 @@ var rule = {
     title:'JRS直播',
     host:'http://www.jrskan.net',
     url:'/fyclass',
-    searchUrl:'',
-    searchable:0,
-    quickSearch:0,
     class_name:'全部',
     class_url:'/',
     headers:{
