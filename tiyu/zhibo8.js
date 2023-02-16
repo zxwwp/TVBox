@@ -1,7 +1,7 @@
 var rule = {
     title:'zhibo8',
     host:'https://www.zhibo8.net',
-    url:'',
+    url:'/fyclass',
     class_name:'全部',
     class_url:'/',
     headers:{
