@@ -619,16 +619,34 @@ CCTV14,http://cfss.cc/ds/bst.php?id=Cf15
 Hit FM FM88.7,http://sk.cri.cn/887.m3u8
 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
 经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+北京新闻广播,https://lhttp.qingting.fm/live/339/64k.mp3
+北京体育广播,https://lhttp.qingting.fm/live/335/64k.mp3
+北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
+怀旧音乐广播895,https://lhttp.qingting.fm/live/20211619/64k.mp3
+经典调频北京FM969,https://lhttp.qingting.fm/live/20462/64k.mp3
+天津TIKIFM100.5,https://lhttp.qingting.fm/live/20003/64k.mp3
+上海动感101,https://lhttp.qingting.fm/live/274/64k.mp3
+上海动感101,http://ls.qingting.fm/live/274.m3u8
+上海KFM981,https://lhttp.qingting.fm/live/5022023/64k.
+上海沸点100音乐广播,https://lhttp.qingting.fm/live/5022023/64k.mp3
+江西新闻广播,https://lhttp.qingting.fm/live/1809/64k.mp3
+江西音乐广播,https://lhttp.qingting.fm/live/1802/64k.mp3
+江西都市广播,https://lhttp.qingting.fm/live/1810/64k.mp3
+南昌交通广播,https://lhttp.qingting.fm/live/1804/64k.mp3
+清晨音乐台,https://lhttp.qingting.fm/live/4915/64k.mp3
+清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
+959年代音乐怀旧好声音,https://lhttp.qingting.fm/live/5021381/64k.mp3
+怀旧好声音,https://lhttp.qingting.fm/live/1223/64k.mp3
+广西音乐广播,https://lhttp.qingting.fm/live/4875/64k.mp3
+汽车音乐台,https://lhttp.qingting.fm/live/5021743/64k.mp3
+欧美音乐88.7,https://lhttp.qingting.fm/live/15318703/64k.mp3
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
 高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
-清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
 老歌音乐台,http://live.xmcdn.com:80/live/2628/64.m3u8
 亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8
-上海动感101,http://ls.qingting.fm/live/274.m3u8
 厦门音乐广播,http://ls.qingting.fm/live/1739.m3u8
 浙江动听,http://ls.qingting.fm/live/4866.m3u8
 四川岷江音乐广播,http://ls.qingting.fm/live/1110.m3u8
-北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
 广东音乐广播,http://ls.qingting.fm/live/1260.m3u8
 深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
