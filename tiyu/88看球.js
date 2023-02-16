@@ -1,8 +1,10 @@
 var rule = {
     title:'88看球',
     host:'http://www.88kanqiu.live',
-    url:'/match/fyclass/live',
-    class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
+    //url:'/match/fyclass/live',
+    url:'/fyclass',
+    
+   // class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
     headers:{
         'User-Agent':'PC_UA'
     },
@@ -16,7 +18,7 @@ var rule = {
 //li div:gt(2):lt(6)&&Text
     二级:{
         "title":".game-info-container&&Text",
-        "tabs":"js:TABS=['直播信号源']",
+        "tabs":"js:TABS=['直播信号:']",
 	    "lists":"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)});"
 
 	},
