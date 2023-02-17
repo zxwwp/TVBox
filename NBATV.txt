@@ -1,24 +1,3 @@
-🏀2月15日,#genre#
-8:30 魔术 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675328.m3u8
-8:30 凯尔特人 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675329.m3u8
-10:00 国王 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675330.m3u8
-11:00 勇士 @ 快船,http://global.zkshuye.cn/live/sd-2-3675331.m3u8
-11:00 奇才 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675332.m3u8
-🏀2月16日,#genre#
-8：00 马刺 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675333.m3u8
-8：00 公牛 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675334.m3u8
-8：30 骑士 @ 76人,http://global.zkshuye.cn/live/sd-2-3675335.m3u8
-8：30 尼克斯 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3675336.m3u8
-8：30 活塞 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675337.m3u8
-8：30 热火 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675338.m3u8
-9：00 爵士 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675339.m3u8
-9：00 火箭 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675340.m3u8
-10：00 独行侠 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675341.m3u8
-11：00 鹈鹕 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675342.m3u8
-🏀2月17日,#genre#
-8：30 雄鹿 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675343.m3u8
-9：00 奇才 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675344.m3u8
-11：00 快船 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675345.m3u8
 🏀20日全明星赛,#genre#
 8：30 字母哥 队 @ 勒布朗队,http://global.zkshuye.cn/live/sd-2-3675346.m3u8
 🏀2月24日,#genre#
