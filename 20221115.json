@@ -34,52 +34,7 @@
 {"key":"*狼友资源","name":"*狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 { "key": "(18+)JAV名优", "name": "(18+)JAV名优", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key":"夜夜撸资源","name":"夜夜撸资源(切)","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml","searchable":1,"quickSearch":1},
-{
-      "key": "zp116",
-      "name": "*泡芙资源",
-      "type": 0,
-      "api": "http://zmcj88.com/api?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
 
-    {
-      "key": "*美少女",
-      "name": "*美少女",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
- {
-      "key": "*饮水机",
-      "name": "*饮水机",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "*奶插",
-      "name": "*奶插",
-      "type": 1,
-      "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "*大MM",
-      "name": "*大MM",
-      "type": 0,
-      "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
      {
       "key": "*9号资源",
       "name": "*9号资源",
@@ -113,8 +68,7 @@
   { "key": "(18+)SS资源", "name": "(18+)SS资源", "type": 0, "api": "http://secj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
  { "key": "(18+)大地资源", "name": "(18+)大地资源", "type": 0, "api": "https://dadiapi.com/api.php/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 { "key": "(18+)乐播", "name": "(18+)乐播", "type": 0, "api": "https://lbapi9.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key":"色窝资源","name":"色窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
- {
+{
       "key": "*白嫖",
       "name": "*白嫖",
       "type": 0,
