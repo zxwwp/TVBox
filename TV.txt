@@ -119,24 +119,8 @@ CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//ind
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://117.169.124.146:8080/live/fhchinese/index.m3u8/live/fhzixun/index.m3u8
 凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
-凤凰资讯,http://jydx.jdshipin.com:8081/hls/36/index.m3u8
-凤凰中文,http://jydx.jdshipin.com:8081/hls/37/index.m3u8
-翡翠台,http://jydx.jdshipin.com:8081/hls/67/index.m3u8
-凤凰中文,http://jyjxy.7766.org:8811/hls/32/index.m3u8
-凤凰资讯,http://jyjxy.7766.org:8811/hls/33/index.m3u8
-凤凰香港,http://jyjxy.7766.org:8811/hls/34/index.m3u8
-翡翠台1,https://pull-l3-cny.douyincdn.com/live/881a6dcfd81d56122fca82f42a130889.flv
-翡翠台2,https://pull-l3-cny.douyincdn.com/live/904fa03ea8ac0b274e0a3c778ad8dbc7.flv?time=1676594274
-无线新聞台,https://pull-l3-cny.douyincdn.com/live/2f5042f1941fc54f9dfeeb0adb8fecb6.flv
-无线新聞台,https://pull-l3-cny.douyincdn.com/live/22198fa175fed21f1777b502f89dbb3e.flv?time=1676595759
-有线新闻台,https://pull-l3-cny.douyincdn.com/live/9759d6d51fba0e30a4bacc00ec0a7172.flv
-有线新闻台,https://pull-l3-cny.douyincdn.com/live/b8e043283037cbf2801017f570276365.flv?time=1676595123
-HOY资讯台,https://pull-l3-cny.douyincdn.com/live/c240e08e13cdaa12a09316ed3624b569.flv
-HOY资讯台,https://pull-l3-cny.douyincdn.com/live/3db80a20609503957be7362411899b11.flv?time=1676595601
-NOW新闻台,https://pull-l3-cny.douyincdn.com/live/cd1f299ae0cd03783c0829a985d2ce12.flv?time=1676595681
-NOW新闻台,https://pull-l3-cny.douyincdn.com/live/dd4b8250d73a8315499ea62b3292194e.flv
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
-翡翠台,http://2022.stream-link.org/playlist/tvb_jade
+翡翠台2,http://2022.stream-link.org/playlist/tvb_jade
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://23.237.10.66:16106
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
@@ -359,11 +343,6 @@ NOW新闻台,https://pull-l3-cny.douyincdn.com/live/dd4b8250d73a8315499ea62b3292
 11：00 快船 @ 太阳,http://global.zkshuye.cn/live/sd-2-3675345.m3u8
 20日全明星赛 8：30 字母哥 队 @ 勒布朗队,http://global.zkshuye.cn/live/sd-2-3675346.m3u8
 🏀体育频道,#genre#
-纬来体育,https://pull-l3-cny.douyincdn.com/live/2dedd2d7655d07a4600fd2d08223c8c9.flv
-纬来体育,https://pull-l3-cny.douyincdn.com/live/6a7ad72df0decf3f33bee8426ba24d3c.flv?time=1676596024
-有线体育台,https://pull-l3-cny.douyincdn.com/live/e8d82d01b683c12c4fdc63ed76b55e64.flv?time=1676595617
-ELEVEN1,https://pull-l3-cny.douyincdn.com/live/d1a28bb6ea601c8e818267c200e0d471.flv?time=1676595647
-ELEVEN2,https://pull-l3-cny.douyincdn.com/live/487fa9e8c1be2a4dff5199e4aa062a99.flv?time=1676595642
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
 ELTA体育2台,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
