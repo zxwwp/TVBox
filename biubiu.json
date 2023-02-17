@@ -26,7 +26,6 @@
 ],
 
 "zhuyejiekou": [
-    {"name":" 🌩苍天","url":"http://cj.cangtiancj.com/api.php/Seacms/vod/"},
 {"name":" 🌩极速影视","url":"http://ysappcms.hwzczx.cn/api.php/v1.vod"},
 {"name":" 🌩鑫总资源","url":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
 {"name":" 🌩创艺","url":"http://www.30dian.cn/api.php/v1.vod"},
@@ -59,19 +58,6 @@
 ],
 
 "caijizhan": [
-    {"name":"🌩小黄瓜资源","url":"http://cj.xhgcjym.com/inc/api.php"},
-    {"name":"🌩热热资源","url":"http://api.rereapi.com/inc/api.php"},
-    {"name":"🌩环亚资源","url":"http://wmcj8.com/inc/sapi.php"},
-    {"name":"🌩辣椒资源","url":"http://api.11bat.com/mac10.php"},
-    {"name":"🌩大地资源","url":"https://dadiapi.com/api.php"},
-    {"name":"🌩IXX 资源","url":"http://api.iixxzyapi.com/inc/api.php"},
-    {"name":"🌩玉米资源","url":"http://api.cj644.com/inc/zyapimac.php"},
-    {"name":"🌩色色","url":"http://m.7777688.com/inc/api.php"},
-    {"name":"🌩云霸资源","url":"http://cj.1234567bt.com/inc/ldg_sea.php"},
-    {"name":"🌩七七资源","url":"https://www.77zyw.xyz/inc/api.php"},
-    {"name":"🌩35资源","url":"http://cj.35zycj.com/inc/zyapimac.php"},
-    {"name":"🌩av88资源","url":"http://m.7777688.com/inc/api.php"},
-    {"name":"🌩77资源","url":"https://www.77zyw.xyz/inc/seacmsapi.php"},
 {"name":"🌩量子资源","url":"http://cj.lziapi.com/api.php"},
 {"name":" 🌩快播资源","url":"http://www.kuaibozy.com/api.php"},
 {"name":" 🌩飘花","url":"http://www.zzrhgg.com/api.php"},
