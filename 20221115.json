@@ -22,33 +22,7 @@
 {"key":"drpy_抓饭体育","name":"🏀抓饭体育✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/抓饭体育.js"},
 {"key":"drpy_zhibo8","name":"🏀zhibo8✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/zhibo8.js"},
 
-{
-      "key": "*玖玖",
-      "name": "*玖玖",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist"
-    },
-    {
-      "key": "*环亚",
-      "name": "*环亚",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist"
-    },
-   {
-      "key": "*佳丽",
-      "name": "*佳丽",
-      "type": 0,
-      "api": "https://jializyzapi.com/api.php/provide/vod/at/xml/"
-    },
-    {
-      "key": "*富二代",
-      "name": "*富二代（仅支持搜索）",
-      "type": 0,
-      "api": "http://f2dcj6.com/sapi/?ac=videolist",
-	  "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
 {"key":"*酷豆","name":"*酷豆","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"酷豆2","name":"酷豆2(切)","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"酷伦理","name":"酷伦理(切)","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
@@ -69,14 +43,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{
-          "key": "*影库资源",
-          "name": "*影库资源",
-          "type": 1,
-          "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
-          "tag": "qb,tj",
-          "categories": []
-         }, 
+
     {
       "key": "*美少女",
       "name": "*美少女",
