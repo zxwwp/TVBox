@@ -48,6 +48,7 @@
 {"key":"Gitcafe_ts","name":"📜小纸条|网盘1","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/token.txt","jar":"./json/cs.jar"},
 {"key":"drpy_jjs_饭团影","name":"🍙饭团影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_饭团影视.js"},
 {"key":"drpy_js_乐猪TV","name":"🐖乐猪TV","type":3,"api":"./js/drpy.min.js","ext":"./js/js_乐猪TV.js"},
+{"key": "dr_多多影视","name": "✨多多影视","type": 3,"api": "./js/drpy.min.js","ext": "./js/多多影视.js"},
 {"key": "dr_奇优影院","name": "✨奇优影院","type": 3,"api": "./js/drpy.min.js","ext": "./js/奇优影院.js"},
 {"key":"drpy_js_城市影视","name":"🏠城市影视","type":3,"api":"./js/drpy.min.js","ext":"./js/城市影视.js"},
 {"key":"drpy_js_大米星球","name":"🏠大米星球","type":3,"api":"./js/drpy.min.js","ext":"./js/大米星球.js"},
