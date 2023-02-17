@@ -23,7 +23,7 @@
 {"key":"drpy_zhibo8","name":"🏀zhibo8✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/zhibo8.js"},
 
 
-{"key":"量子资源","name":"量子资源(切)","type":1,"api":"https://agit.ai/65012833/Json/raw/branch/master/lianzhi.json","searchable":1,"quickSearch":1},
+{"key":"csp_appysv2_阿里影视","name":"阿里影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"🌈豆瓣荐片","type":3,"api":"./js/drpy.min.js","ext":"./js/豆瓣.js"},
 {"key": "Kuaikan","name": "👀快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
