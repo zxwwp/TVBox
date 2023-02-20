@@ -338,10 +338,8 @@ CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//ind
 新疆卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
 西藏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
 🏀NBA直播,#genre#
-20日全明星赛,
-8：30 字母哥 队 @ 勒布朗队,https://bdb2844d53cb50164d75842582ef3bcc.v.smtcdns.net/txycdn.video.qq.com/1756842802.m3u8?from=player&time=1676853202&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&HLSP2P=1&vkey=C8FB2B0C6A269335740FA1ACD7B518A083A6BE6FF13D85F4B0962AEF831F9C317E1D67EF7BDD4C4573F7248394D3ED312BF5DD24D58815891E7FFEBB81E7176CFDBBDE22E54067E5358A0FEB13BA764AFFF55CB5ECB2BD7EF28CB8CC17EF4F84745ABC72422390B8A1814A4C1538701282959C7561528844&drmtype=0
+20日全明星赛 8：30 字母哥 队 @ 勒布朗队,https://bdb2844d53cb50164d75842582ef3bcc.v.smtcdns.net/txycdn.video.qq.com/1756842802.m3u8?from=player&time=1676853202&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&HLSP2P=1&vkey=C8FB2B0C6A269335740FA1ACD7B518A083A6BE6FF13D85F4B0962AEF831F9C317E1D67EF7BDD4C4573F7248394D3ED312BF5DD24D58815891E7FFEBB81E7176CFDBBDE22E54067E5358A0FEB13BA764AFFF55CB5ECB2BD7EF28CB8CC17EF4F84745ABC72422390B8A1814A4C1538701282959C7561528844&drmtype=0
 8：30 字母哥 队 @ 勒布朗队,http://hls.luziedu.com/livestream/ch11/playlist.m3u8?t=1676822763&a=162.158.166.82&u=e8b0cfa17c3b545b2db6d5869e218e63&k=b3c4d06b8bcf96337f417002015e42e5
-8：30 字母哥 队 @ 勒布朗队,http://hls.szsummer.cn/live/973242/playlist.m3u8?k=cf3243f4cee5d95f0b79b373aa1c5164&t=1819702363
 🏀体育频道,#genre#
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
