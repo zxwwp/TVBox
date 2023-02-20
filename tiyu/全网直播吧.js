@@ -8,7 +8,7 @@ var rule = {
          'User-Agent':'MOBILE_UA','User-Agent':'PC_UA'
     },//网站的请求头,完整支持所有的,常带ua和cookies
     timeout:5000,//网站的全局请求超时,默认是3000毫秒
-    play_parse:false,// 服务器解析播放
+    play_parse:true,  // 服务器解析播放
     lazy:'', // 自定义免嗅 
     limit:6, // 首页推荐显示数量
     double:false,//是否双层列表定位,默认false
