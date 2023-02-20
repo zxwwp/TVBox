@@ -2,9 +2,9 @@
 // 壁纸 
 //"wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
-//"spider":"./Yoursmile.jar",
+"spider":"./Yoursmile.jar",
 
-"spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/cc.jar",
+
 // 配置直播地址，地址需base64位转码"urls":["proxy://do=live&type=txt&ext=粘贴base64位转码地址"]
 "lives": [
 {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
@@ -24,9 +24,6 @@
 {"key":"drpy_zhibo8","name":"🏀zhibo8✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/全网直播吧.js"},
 
 
-{"key":"niketv_spider","name":"耐客TV","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"新浪资源","name":"新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"🌈豆瓣荐片","type":3,"api":"./js/drpy.min.js","ext":"./js/豆瓣.js"},
 {"key": "Kuaikan","name": "👀快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -68,6 +65,12 @@
 {"key":"drpy_js_菜狗","name":"🐌搜狗","type":3,"api":"./js/drpy.min.js","ext":"./js/菜狗.js"},
 {"key":"drpy_js_奇珍异兽","name":"🐨爱奇艺","type":3,"api":"./js/drpy.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_腾云驾雾","name":"🐧腾讯","type":3,"api":"./js/drpy.min.js","ext":"./js/腾云驾雾.js"},
+{"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"新浪资源","name":"新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"三级2号","name":"三级2号","type":1,"api":"http://phoebe.cf/api.php/iptv/vod/","searchable":1,"quickSearch":1},
+{"key":"天空TV","name":"天空TV","type":1,"api":"http://tv.tkys.tv/api.php/iptv/vod/","searchable":1,"quickSearch":1},
+{"key":"柚子TV","name":"柚子TV","type":1,"api":"http://tvht.lanrentk.cc/api.php/iptv/vod/","searchable":1,"quickSearch":1},
+{"key":"云玺TV","name":"云玺TV","type":1,"api":"http://43.138.193.213:8181//api.php/Miguo/vod/","searchable":1,"quickSearch":1},
 
 //美食教程
 {"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","ext": "./json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
