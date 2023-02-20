@@ -2,6 +2,7 @@
 8：30 字母哥 队 @ 勒布朗队,https://bdb2844d53cb50164d75842582ef3bcc.v.smtcdns.net/txycdn.video.qq.com/1756842802.m3u8?from=player&time=1676853202&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&HLSP2P=1&vkey=C8FB2B0C6A269335740FA1ACD7B518A083A6BE6FF13D85F4B0962AEF831F9C317E1D67EF7BDD4C4573F7248394D3ED312BF5DD24D58815891E7FFEBB81E7176CFDBBDE22E54067E5358A0FEB13BA764AFFF55CB5ECB2BD7EF28CB8CC17EF4F84745ABC72422390B8A1814A4C1538701282959C7561528844&drmtype=0
 8：30 字母哥 队 @ 勒布朗队,http://hls.luziedu.com/livestream/ch11/playlist.m3u8?t=1676822763&a=162.158.166.82&u=e8b0cfa17c3b545b2db6d5869e218e63&k=b3c4d06b8bcf96337f417002015e42e5
 8：30 勒布朗队 @ 扬尼斯队,https://global.zkshuye.cn/live/sd-2-3709254.m3u8
+8：30 勒布朗队 @ 扬尼斯队,https://pull.13cskppe.com/live/201_320197_46951.m3u8?wsSecret=16521b8fd36998a113c04fef1d84374a&wsABSTime=63f30594
 🏀2月24日,#genre#
 08:00 凯尔特人 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675346.m3u8
 08:00 活塞 @ 魔术,http://global.zkshuye.cn/live/sd-2-3675347.m3u8
