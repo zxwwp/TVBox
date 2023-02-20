@@ -2,8 +2,9 @@
 // 壁纸 
 //"wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
-"spider":"./Yoursmile.jar",
+//"spider":"./Yoursmile.jar",
 
+"spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/cc.jar",
 // 配置直播地址，地址需base64位转码"urls":["proxy://do=live&type=txt&ext=粘贴base64位转码地址"]
 "lives": [
 {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
