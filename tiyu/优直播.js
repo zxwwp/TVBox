@@ -23,7 +23,7 @@ var rule = {
          desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',  //// 演员;导演
          content:'.live-info&&Text',  ////主要信息
          tabs:"js:TABS=['直播信号:']",
-         lists:'.div[@class=sig-list a ncp',list_text:'a&&nofollow',list_url:'a&&href'
+         lists:'#sig-list a ncp a',list_text:'a&&nofollow',list_url:'a&&href'
          //lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'
          },
     
