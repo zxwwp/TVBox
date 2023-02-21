@@ -18,12 +18,13 @@ var rule = {
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.item');tabs.forEach(function(it){var  pz=pdfh(it,'.name:eq(0)&&Text');var ps=pdfh(it,'.league&&Text');var pk=pdfh(it,'.name:eq(1)&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'.time&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
-         title:'.live-title&&Text;.live-title&&Text',
+         title:'.live-title&&Text;.live-title&&Text',  //片名;类型 时间
          img:'img:eq(1)&&src',
-         desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',
-         content:'.live-info&&Text',
+         desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',  //// 演员;导演
+         content:'.live-info&&Text',  ////主要信息
          tabs:"js:TABS=['直播信号:']",
-         lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'
+         lists:'.sig-list a ncp a',list_text:'a&&Text',list_url:'a&&data-url'
+         //lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'
          },
     
     搜索:'',  
