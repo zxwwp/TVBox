@@ -20,9 +20,8 @@ var rule = {
    二级:{
         title:'.live-title&&Text;.live-title&&Text',
         desc:';;;.zhudui_wuyd&&Text;.team.kedui&&Text',
-        content:'.live-info&&Text',
         tabs:"js:TABS=['【直播源】']",
-        lists:'.singldl dd',
+        lists:'.singldl',
         list_text:'dd&&Text',
         list_url:'a&&data-url'
         },
