@@ -2,11 +2,9 @@ var rule = {
     title:'优直播',
     host:'https://www.yoozhibo.net/',
     url:'/fyclass',     //网站的分类页面链接
-    //class_name:'全部',      //静态分类名称拼接
-    //class_url:'/',     //静态分类标识拼接
-    class_name:'全部&足球&篮球&综合',
-    class_url:'/&zuqiu&lanqiu&zonghe',
-    //homeUrl:'/',//网站的首页链接,用于分类获取和推荐获取
+    class_name:'全部&足球&篮球&综合',       //静态分类名称拼接
+    class_url:'/&zuqiu&lanqiu&zonghe',    //静态分类标识拼接
+    homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
     headers:{
         'User-Agent':'MOBILE_UA',
         "Cookie": "searchneed=ok"
@@ -20,16 +18,15 @@ var rule = {
       // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.item');tabs.forEach(function(it){var  pz=pdfh(it,'.name:eq(0)&&Text');var ps=pdfh(it,'.league&&Text');var pk=pdfh(it,'.name:eq(1)&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'.time&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
-     //二级:{
-         //title:'.live-title&&Text;.live-title&&Text',  //片名;类型 时间
-        // img:'img:eq(1)&&src',
-       //  desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',  //// 演员;导演
-       //  content:'.live-info&&Text',  ////主要信息
-       //  tabs:"js:TABS=['直播信号:']",
-       //  lists:'#sig-list a ncp a',list_text:'a&&nofollow',list_url:'a&&href'
-         //lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'
-      //   },
-        二级:'*',
-    搜索:'json:cObj.cList;*;*;*;_id',
-    //搜索:'',  
+     二级:{
+          title:'.live-title&&Text;.live-title&&Text',  //片名;类型 时间
+          img:'img:eq(1)&&src',
+          desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',  //// 演员;导演
+          content:'.live-info&&Text',  ////主要信息
+          tabs:"js:TABS=['直播信号:']",
+          lists:'.sig-list a ncp',list_text:'a&&nofollow',list_url:'a&&href'
+          //lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'
+         },
+
+     搜索:'',  
     }
