@@ -18,6 +18,16 @@ var rule = {
      //一级:'.match-list li;li div:ge(1):lt(3)&&Text;img&&src;div&&col-time;a&&href',
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.title');tabs.forEach(function(it){var  pz=pdfh(it,'.col-home flex&&Text');var ps=pdfh(it,'.col-name&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'.col-time&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
-    二级:{title:'.msg ul&&Text;.msg ul&&Text',img:'img:eq(2)&&src',desc:';;;.nameOne&&Text;.nameTwo&&Text',content:'._t&&Text',tabs:"js:TABS=['直播信号源']",lists:'.checkChannel li:gt(0)',lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'},
+    二级:{
+        title:'.msg ul&&Text;.msg ul&&Text',
+        img:'img:eq(2)&&src',
+        desc:';;;.nameOne&&Text;.nameTwo&&Text',
+        content:'._t&&Text',
+        tabs:"js:TABS=['直播信号源']",
+        lists:'.checkChannel li:gt(0)',
+        lists:'#item-source a',
+        list_text:'a&&Text',
+        list_url:'a&&data-url'
+        },
     搜索:'',
 } 
