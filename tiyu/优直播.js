@@ -2,8 +2,11 @@ var rule = {
     title:'优直播',
     host:'https://www.yoozhibo.net/',
     url:'/fyclass',     //网站的分类页面链接
-    class_name:'全部',      //静态分类名称拼接
-    class_url:'/',     //静态分类标识拼接
+    //class_name:'全部',      //静态分类名称拼接
+    //class_url:'/',     //静态分类标识拼接
+    class_name:'全部&足球&篮球&综合',
+    class_url:'/&zuqiu&lanqiu&zonghe',
+    homeUrl:'/',//网站的首页链接,用于分类获取和推荐获取
     headers:{
         'User-Agent':'MOBILE_UA',
         "Cookie": "searchneed=ok"
