@@ -28,5 +28,5 @@ var rule = {
           //lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'
          },
 
-     搜索:'json:cObj.cList;*;*;*;_id',  
+     搜索:'js:cObj.cList;*;*;*;_id',  
     }
