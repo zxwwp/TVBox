@@ -19,6 +19,9 @@ var rule = {
     desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',
     content:'.live-info&&Text',
     tabs:"js:TABS=['【直播源】']",
-    lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'},
+    lists:'#item-source a',
+    list_text:'data-url&&Text',
+    list_url:'a&&data-url'
+    },
     搜索:'',
 }
