@@ -21,7 +21,7 @@ var rule = {
         title:'.zhudui_wuyd&&Text;.eventtime_wuy.eventtime&&Text',
         desc:';;;.zhudui_wuyd&&Text;.team.kedui&&Text',
         tabs:"js:TABS=['【直播源】']",
-        lists:'#singldl dd',
+        lists:'#singldl dd:gt(0)',
         list_text:'dd&&Text',
         list_url:'a&&href'
         },
