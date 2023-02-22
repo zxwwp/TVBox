@@ -24,7 +24,7 @@ var rule = {
           tabs:"js:TABS=['【直播源】']",
           lists:'.sig-list.a.ncp a',
           list_text:'sig-list.a.ncp&&a',
-          list_url:'a&&href'
+          list_url:'http{playUrl}'
           //lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'
          },
 
