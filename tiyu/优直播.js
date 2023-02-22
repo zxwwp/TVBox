@@ -25,8 +25,6 @@ var rule = {
           lists:'.sig-list.a.ncp a',
           list_text:'a&&Text',
           list_url:'a&&href'
-          //lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'
          },
-
      搜索:'',  
     }
