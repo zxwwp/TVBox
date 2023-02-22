@@ -11,7 +11,7 @@ var rule = {
     },
     timeout:5000,
     //play_parse:true,
-    play_parse:false,
+    play_parse:true,    // 服务器解析播放
     lazy:'',
     limit:6,
     double:false,
