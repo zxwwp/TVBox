@@ -35,7 +35,7 @@
 	// 播放源名称
     "dtFromName":  "'【直播源】'",
 	// 播放列表节点
-    "dtUrlNode": "//div[@class='sig-list a ncp']",
+   // "dtUrlNode": "//div[@class='sig-list a ncp']",
 	// 播放地址节点
     "dtUrlSubNode": "/a",
 	// 播放地址
