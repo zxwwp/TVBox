@@ -20,7 +20,7 @@ var rule = {
     content:'.live-info&&Text',
     tabs:"js:TABS=['【直播源】']",
     lists:'#item-source a',
-    list_text:'icon1&&Text',
+    list_text:'a&&Text',
     list_url:'a&&data-url'
     },
     搜索:'',
