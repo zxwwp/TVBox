@@ -21,9 +21,9 @@ var rule = {
      二级:{
           title:'.title&&Text',  //片名;类型 时间
           desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',  //// 演员;导演
-          content:'a&&title',  ////主要信息
+          content:'.a&&title',  ////主要信息
           tabs:"js:TABS=['【直播源】']",
-          lists:'div.sig-list a ncp',
+          lists:'div.sig-list.a.ncp',
           list_text:'a&&nofollow',
           list_url:'a&&href'
           //lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'
