@@ -20,10 +20,9 @@ var rule = {
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
           title:'.live-title&&Text;.live-title&&Text',  //片名;类型 时间
-          img:'img:eq(1)&&src',
           desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',  //// 演员;导演
           content:'.live-info&&Text',  ////主要信息
-          tabs:"js:TABS=['直播信号:']",
+          tabs:"js:TABS=['【直播源】']",
           lists:'.sig-list a ncp',list_text:'a&&nofollow',list_url:'a&&href'
           //lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'
          },
