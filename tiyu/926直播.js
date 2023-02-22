@@ -21,9 +21,9 @@ var rule = {
         title:'.data-matchtime&&Text;.eventtime_wuy.eventtime&&Text',
         desc:';;;.zhudui_wuyd&&Text;.team.kedui&&Text',
         tabs:"js:TABS=['【直播源】']",
-        lists:'.singldl dd:gt(0)',
+        lists:'dl.singldl',
         list_text:'span&&Text',
-        list_url:'span&&href'
+        list_url:'a&&href'
         },
   //一级:'.list_content a;.jiabifeng&&p:lt(2)&&Text;img&&op-zfr-a-g;a&&t-nzf-o;a&&href', 
   //二级:'*', 
