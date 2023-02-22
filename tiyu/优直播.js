@@ -5,8 +5,8 @@ var rule = {
     class_name:'全部&足球&篮球&综合',       //静态分类名称拼接
     class_url:'/&zuqiu&lanqiu&zonghe',    //静态分类标识拼接
     homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
-    detailUrl:'https://m.zhuafan.tech/fyid',//二级详情拼接链接(json格式用)
-    searchUrl:'/live-search/search/query/data?keyword=**&page=fypage&num=&searchType=all&uid=null&from=pc',
+    //detailUrl:'https://m.zhuafan.tech/fyid',//二级详情拼接链接(json格式用)
+    //searchUrl:'/live-search/search/query/data?keyword=**&page=fypage&num=&searchType=all&uid=null&from=pc',
     headers:{
         'User-Agent':'MOBILE_UA',
         "Cookie": "searchneed=ok"
