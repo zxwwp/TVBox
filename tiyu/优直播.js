@@ -22,8 +22,8 @@ var rule = {
           title:'.date&&Text;.league&&Text',  //片名;类型 时间
           desc:';;;.name:eq(0)&&Text;.name:eq(1)&&Text',  //// 演员;导演
           tabs:"js:TABS=['【直播源】']",
-          lists:'#sig-list.a.ncp a',
-          list_text:'a&&Text',
+          lists:'.sig-list.a.ncp a',
+          list_text:'nofollow&&Text',
           list_url:'a&&href'
           //lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'
          },
