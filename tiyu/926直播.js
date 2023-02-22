@@ -5,7 +5,7 @@ var rule = {
     url:'/?s=0&t=1&a=fyclass&g=fypage',
     class_name:'热门&篮球&足球&体育',
     class_url:'/&2&1&3', 
-    homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
+    //homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
     headers:{
         'User-Agent':'MOBILE_UA'
     },
