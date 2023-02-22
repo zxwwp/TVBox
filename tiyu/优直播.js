@@ -23,10 +23,10 @@ var rule = {
           desc:';;;.name:eq(0)&&Text;.name:eq(1)&&Text',  //// 演员;导演
           tabs:"js:TABS=['【直播源】']",
           lists:'.sig-list.a.ncp a',
-          list_text:'sig-list.a.ncp&&a',
-          list_url:'http{playUrl}'
+          list_text:'a&&Text',
+          list_url:'a&&href'
           //lists:'#item-source a',list_text:'a&&Text',list_url:'a&&data-url'
          },
 
-     搜索:'js:cObj.cList;*;*;*;_id',  
+     搜索:'',  
     }
