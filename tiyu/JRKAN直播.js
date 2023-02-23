@@ -17,7 +17,6 @@ var rule = {
     url:'/fyclass',
     class_name:'全部&足球&篮球&其他',
     class_url:'all&football&basketball&other', 
-    homeUrl:'/', 
     //class_name:'全部',
     //class_url:'/',
     headers:{
