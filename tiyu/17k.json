@@ -14,10 +14,10 @@
     "cateVodId": "/td[8]/@id",
     "cateVodIdR": "",
     // 首页推荐视频的图片
-    //"cateVodImg":"'https://gitlab.com/duomv/duo/-/raw/main/txt/duotv.png'",
+    "cateVodImg":"'https://gitlab.com/duomv/duo/-/raw/main/txt/duotv.png'",
     //"cateVodImg":"'https://pics1.baidu.com/feed/2cf5e0fe9925bc31829ccbf36b1a05b9c91370e2.jpeg'",
      //"cateVodImg": "/div[@class='myList']/div[@class='team']/p[1]/img/@src",
-     "cateVodImg": "/tr[@class='against']/td[1]/img/@src",
+    // "cateVodImg": "/tr[@class='against']/td[1]/img/@src",
     // 首页推荐视频的简介-副标题
     "cateVodMark":"concat(/td[2]/a/text(),/td[3]/text(),/td[4]/div/text())",
  
