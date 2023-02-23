@@ -15,8 +15,8 @@ var rule = {
 	// JRKAN备用域名:www.jrkankan.com / www.jrkan365.com / jrsyyds.com / www.jryyds.com / jrskan.com / jrsbxj.com
 	// JRKAN网址发布:qiumi1314.com
     url:'/fyclass',
-    //class_name:'全部&篮球&足球',
-    //class_url:'0&18&17', 
+    class_name:'全部&足球&篮球&其他',
+    class_url:'0&18&17', 
     //class_name:'全部',
     class_url:'/',
     headers:{
