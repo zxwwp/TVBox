@@ -5,7 +5,7 @@ var rule = {
     //url:'/fyclass',
     class_name:'直播&NBA&CBA&英超&',
     class_url:'/', 
-   // class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
+    class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
     headers:{
         'User-Agent':'PC_UA'
     },
@@ -19,6 +19,8 @@ var rule = {
 //li div:gt(2):lt(6)&&Text
     二级:{
         title:".game-info-container&&Text",
+        "desc":";;;div.team-name:eq(0)&&Text;div.team-name:eq(1)&&Text",
+	    "content":"div.game-time&&Text",
         tabs:"js:TABS=['【直播源】']",
 	    lists:"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)})"
 
