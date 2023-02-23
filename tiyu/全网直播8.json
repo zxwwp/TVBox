@@ -4,10 +4,10 @@
 	"直接播放": "1",
 	"fenlei":  "全部$空",  //分类
 //"分类": "全部$空",
-          //"houzhui": "",
+          "houzhui": "",
 	"jiequshuzuqian": "class=\"match-item\"",
-          "jiequshuzuhou": "</a>",
-	//"jiequshuzuhou": "</li>",
+          //"jiequshuzuhou": "</a>",
+	"jiequshuzuhou": "</li>",
 	"tupianqian": "https://gitlab.com/duomv/duo/-/raw/main/txt/duotv.png",
 //"tupianhou": "\"",
 	"biaotiqian": "class=\"col-home flex\">",
