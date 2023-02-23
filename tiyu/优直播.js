@@ -22,7 +22,7 @@ var rule = {
           title:'.arrow:it(2)&&Text;.league&&Text',  //片名;类型 时间
           desc:';;;.name:eq(0)&&Text;.name:eq(1)&&Text',  //// 演员;导演
           tabs:"js:TABS=['【直播源】']",
-          lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.sub_playlist&&a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'strong&&Text');let url=pd(it,'a&&data-play');return name+'$'+url});LISTS.push(d)});"
+          lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.sig-list.a.ncp&&a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'.nofollow&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"
           //lists:'.sig-list.a.ncp a',
           //list_text:'a&&Text',
           //list_url:'a&&href'
