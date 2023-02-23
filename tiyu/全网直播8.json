@@ -1,16 +1,19 @@
 {
-	"站名": "全网直播8",  //站名
-	"分类url": "https://www.zhibo8.net",  //网址
+	"站名": "全网直播8",
+	"分类url": "https://www.zhibo8.net",//https://m.zhibo8.net/
 	"直接播放": "1",
-	"fenlei":  "全部$空",  //分类
+	"分类": "全部$空",
 	"jiequshuzuqian": "class=\"match-item\"",
 	"jiequshuzuhou": "</li>",
 	"tupianqian": "https://gitlab.com/duomv/duo/-/raw/main/txt/duotv.png",
+//"tupianqian": "https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?w=417&h=500",
+	//"tupianhou": "\"",
 	"biaotiqian": "class=\"col-home flex\">",
 	"biaotihou": "</div>",
 	"tupianqianzhui": "空",
 	"lianjieqian": "href=\"",
 	"lianjiehou": "\"",
+	//"ljqianzhui": "空",
 	"fubiaotiqian": "class=\"col-time\">",
 	"fubiaotihou": "</div>"
 }
