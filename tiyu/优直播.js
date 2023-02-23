@@ -21,7 +21,7 @@ var rule = {
      二级:{
           title:'.item.cd li:lt(4)&&Text;.league&&Text',  //片名;类型 时间
           desc:';;;.name:eq(0)&&Text;.name:eq(1)&&Text',  //// 演员;导演
-          content:".play&&Text", //主要信息
+          content:".play&&title", //主要信息
           tabs:"js:TABS=['【直播源】']",
           lists:'.sig-list.a.ncp&&a',
           list_text:'a&&Text',
