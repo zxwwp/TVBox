@@ -2,7 +2,7 @@
     "author": "dj22.12.10",
     //"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
     "homeUrl": "http://www.zuqiuzhibo.live/",//http://www.17klive.com:8866/
-    "cateManual": {"DJ-一起看-体育直播": "666"},
+    "cateManual": {"全部": "666"},
 
     // 首页
     "cateUrl": "http://www.zuqiuzhibo.live/",
@@ -14,7 +14,7 @@
     "cateVodId": "/td[8]/@id",
     "cateVodIdR": "",
     // 首页推荐视频的图片
-    //"cateVodImg":"'http://ys-f.ysepan.com/621545016/119101634/h485U2V3523QLJkfsqlj8a/%E5%B0%81%E9%9D%A2.jpg'",
+    //"cateVodImg":"'https://gitlab.com/duomv/duo/-/raw/main/txt/duotv.png'",
     "cateVodImg":"'https://pics1.baidu.com/feed/2cf5e0fe9925bc31829ccbf36b1a05b9c91370e2.jpeg'",
     
     // 首页推荐视频的简介-副标题
