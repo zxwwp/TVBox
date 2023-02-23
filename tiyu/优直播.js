@@ -25,7 +25,7 @@ var rule = {
           tabs:"js:TABS=['【直播源】']",
           lists:'.sig-list.a.ncp a',
           list_text:'a&&Text',
-          list_url:'a&&target'
+          list_url:'a&&href'
          },
      搜索:'',  
     }
