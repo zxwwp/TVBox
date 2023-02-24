@@ -17,12 +17,12 @@
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/JRKAN直播.js"},
 {"key":"drpy_88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/88看球.js"},
 {"key":"drpy_926直播","name":"🏀926直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/926直播.js"}, 
-//{"key":"全网直播8","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
+{"key":"全网直播8","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
 {"key":"drpy_JRS直播","name":"🏀JRS直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/JRS直播.js"},
 {"key":"drpy_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/JRS看球网.js"}, 
 {"key":"csp_XPath_企鹅体育","name":"🏀企鹅体育✨","type":3,"api":"csp_XPath","ext":"https://agit.ai/zxwwp/TVBox/raw/branch/master/%e4%bc%81%e9%b9%85%e7%9b%b4%e6%92%ad.json"},
 {"key":"drpy_抓饭体育","name":"🏀抓饭体育✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/抓饭体育.js"},
-{"key":"全网直播8","name":"🏀全网直播8✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/zhibo8.js"},
+//{"key":"全网直播8","name":"🏀全网直播8✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/zhibo8.js"},
 {"key":"优直播","name":"🏀优直播","type": 3,"api":"csp_XPath","ext":"./tiyu/优直播.json"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
