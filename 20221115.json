@@ -68,7 +68,7 @@
 {"key":"DJ-xBPQ-秋霞影视","name":"🐠秋霞┃P","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/秋霞影视.json"},
 {"key":"DJ-xBPQ-热播库","name":"热播┃P","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播库.json"},
 {"key":"DJ-xBPQ-F7好看剧","name":"F7剧┃P","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/F7好看剧.json"},
-
+{"key":"drpy_js_干饭影视","name":"💎干饭影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_干饭影视.js"},
 //美食教程
 {"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","ext": "./json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
 {"key": "美食","name": "🍔美食合集","type": 3,"api": "csp_Bili","ext": "./json/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"}
@@ -86,7 +86,6 @@
 //{"key": "dr_新视觉影院","name": "🍁新视觉影院","type": 3,"api": "./js/drpy.min.js","ext": "./js/新视觉影院.js"},
 //{"key":"蓝光影院","name":"💧蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"ext":"./json/lukjpl4f.json"},
 //{"key":"csp_XYQHiker_FREEOK","name":" 🍔Free追剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/FREEOK.json","jar":"./json/homespiders-xpath.jar"},
-//{"key":"drpy_js_干饭影视","name":"💎干饭影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_干饭影视.js"},
 
  //云上网课
 //{"key":"云上小学","name": "📗云上小学","type":3,"api":"csp_Bili","ext":"./json/云上小学.json"},
