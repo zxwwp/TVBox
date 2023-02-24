@@ -51,6 +51,7 @@
 {"key":"drpy_js_城市影视","name":"🏠城市影视","type":3,"api":"./js/drpy.min.js","ext":"./js/城市影视.js"},
 {"key":"drpy_js_大米星球","name":" 🍚大米星球","type":3,"api":"./js/drpy.min.js","ext":"./js/大米星球.js"},
 {"key":"drpy_多多影视","name":"🐖多多影视","type":3,"api":"./js/drpy.min.js","ext":"./js/多多影视.js"},
+{"key":"drpy_js_91free","name":"🐖91影院","type":3,"api":"./js/drpy.min.js","ext":"./js/js_91free"},
 {"key":"csp_xpath_农民影视","name":"👨‍🌾农民影视","type":3,"api":"csp_XPathMacFilter","searchable":"1","quickSearch":"1","filterable":"1","ext":"./json/农民影视.json"},
 {"key":"csp_Cokemv","name":"🍻Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 {"key": "dr_vidhub","name": "💎vidhub","type": 3,"api": "./js/drpy.min.js","ext": "./js/vidhub.js"},
