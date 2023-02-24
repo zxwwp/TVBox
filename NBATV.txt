@@ -1,9 +1,9 @@
 🏀2月24日,#genre#
 08:00 凯尔特人 @ 步行者,http://livehdl2.ltjuq.top/ofmatch/HD1156947.m3u8
 08:00 掘金 @ 骑士,http://livehdl2.ltjuq.top/ofmatch/HD1156948.m3u8
-08:00 活塞 @ 魔术,http://livehdl2.ltjuq.top/ofmatch/HD1156949.m3u8
-08:30 灰熊 @ 76人,http://livehdl2.ltjuq.top/ofmatch/HD1157001.m3u8
-08:30 鹈鹕 @ 猛龙,http://livehdl2.ltjuq.top/ofmatch/HD1156950.m3u8
+08:00 活塞 @ 魔术,https://hls.phlw.net/live/55992747/playlist.m3u8?k=776e748ac0fc522052083d6e94a9a54f&t=1677199102
+08:30 灰熊 @ 76人,https://9a89d81085a9557f651fa03024b4cb6b.v.smtcdns.net/txycdn.video.qq.com/1371687702.m3u8?from=player&time=1677199131&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&HLSP2P=1&vkey=F2D320C88791D0531D3035BCC3F8EF87083924A11CE5E2F354D3FEA6DB9D8ABED1E6156D42A3DD807F9403EA031FABBE4622A493DC3D959C3F72C8CB9DF194E8A5C66236F1EFE69DCD587398B1E4823A9A4C03DB184177EA2EC2AC5C2AD08CA5E7155771F90A74FFFCCDC541CE1966A7E0F122819A1AE7C0&drmtype=0
+08:30 鹈鹕 @ 猛龙,https://hls.phlw.net/live/55992749/playlist.m3u8?k=bbff24d86e3985a78a9d16c9b3a4321c&t=1677199156
 09:30 马刺 @ 独行侠,http://livehdl2.ltjuq.top/ofmatch/HD1156951.m3u8
 10:00 雷霆 @ 爵士,http://livehdl2.ltjuq.top/ofmatch/HD1156952.m3u8
 11:00 勇士 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675353.m3u8
