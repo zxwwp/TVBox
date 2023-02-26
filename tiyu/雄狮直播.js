@@ -19,7 +19,10 @@ var rule = {
         desc:";;;.teamName.nameOne&&Text;.teamName.nameTwo&&Text",
         content:".timer&&Text",
         tabs:"js:TABS=['【直播源】']",
-        lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.down-site&&a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'rel&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"},
+        lists:'#down-site a',
+        list_text:'rel&&Text',
+        list_url:'a&&href'},
+        //lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.down-site&&a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'rel&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"},
    
    搜索:'',
 }
