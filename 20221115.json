@@ -69,7 +69,7 @@
 {"key":"DJ-xBPQ-秋霞影视","name":"🐠秋霞┃P","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/秋霞影视.json"},
 {"key":"DJ-xBPQ-热播库","name":"热播┃P","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播库.json"},
 {"key":"DJ-xBPQ-F7好看剧","name":"F7剧┃P","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/F7好看剧.json"},
-{"key":"drpy_js_看看电影","name":"👁︎看看电影","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/看看电影.js"},
+{"key":"drpy_js_看看电影","name":"👁︎看看电影","type":3,"api":"./js/drpy.min.js","ext":"./js/看看电影.js"},
 
 {"key":"drpy_js_干饭影视","name":"💎干饭影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_干饭影视.js"},
 //美食教程
