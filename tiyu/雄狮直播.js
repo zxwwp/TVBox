@@ -2,8 +2,8 @@ var rule = {
     title:'雄狮直播',
     host:'https://www.xszhibo.com/', 
     url:'/fyclass',
-    class_name:'NBA篮球&CBA篮球&足球&乒乓球&羽毛球&斯诺克&网球',
-    class_url:'lanqiu/nba/&lanqiu/cba/&zuqiu&zonghe/pingpangqiu/&zonghe/yumaoqiu/&zonghe/sinuoke/&zonghe/wangqiu/', 
+    class_name:'篮球&足球&乒乓球&羽毛球&斯诺克&网球',
+    class_url:'lanqiu&zuqiu&zonghe/pingpangqiu/&zonghe/yumaoqiu/&zonghe/sinuoke/&zonghe/wangqiu/', 
     headers:{
         'User-Agent':'MOBILE_UA'
     },
