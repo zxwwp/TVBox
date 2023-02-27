@@ -18,6 +18,6 @@ var rule = {
    desc:";;;.sbtsw022&&Text;.sbtsw023&&Text",
    content:"div.downinfo-detail:ep(2)&&Text",
    tabs:"js:TABS=['【直播源】']",
-   lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.downinfo-detail&&a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'rel&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"},
+   lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'#down-site:lt(1) li');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'.list&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"},
    搜索:'',
 }
