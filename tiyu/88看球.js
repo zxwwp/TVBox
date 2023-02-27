@@ -6,7 +6,7 @@ var rule = {
     class_url:'/', 
     //class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
     headers:{
-        'User-Agent':'MOBILE_UA'
+        'User-Agent':'PC_UA'
     },
     timeout:5000,
     play_parse:true,
