@@ -35,7 +35,7 @@ var rule = {
 		desc:";;;.lab_team_home&&Text;.lab_team_away&&Text",  //演员;导演
 		content:".sub_list ul&&Text",  // 主要信息
 		tabs:"js:TABS=['【直播源】']",
-		lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.sub_playlist&&a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'strong&&Text');let url=pd(it,'a&&data-play');return name+'$'+url});LISTS.push(d)});"
+		lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'strong&&Text');let url=pd(it,'a&&data-play');return name+'$'+url});LISTS.push(d)});"
 	},
    搜索:'',
 }
