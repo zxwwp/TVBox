@@ -5,11 +5,10 @@ var rule = {
     class_name:'篮球&足球&乒乓球&羽毛球&斯诺克&网球',
     class_url:'lanqiu&zuqiu&zonghe/pingpangqiu/&zonghe/yumaoqiu/&zonghe/sinuoke/&zonghe/wangqiu/', 
     headers:{
-        'User-Agent':'MOBILE_UA',
-        "Cookie": "searchneed=ok"
+        'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
-    play_parse:false,
+    play_parse:true,
     lazy:"",
     limit:6,
     double:false,
