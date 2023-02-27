@@ -18,7 +18,7 @@ var rule = {
 //li div:gt(2):lt(6)&&Text
     二级:{
         title:".col-md-1&&Text",
-        "desc":";;;div.col-md-4.text-right:eq(0)&&Text;div.col-md-4.text-right:eq(1)&&Text",
+        "desc":";;;.col-md-4 text-right&&Text;.col-md-4 text-left&&Text",
 	    "content":"div.game-time&&Text",
         tabs:"js:TABS=['【直播源】']",
 	    lists:"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)})"
