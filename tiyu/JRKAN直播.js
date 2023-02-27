@@ -23,7 +23,14 @@ var rule = {
         'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
-    //play_parse:true,
+    play_parse:true,
+     play_json:[{
+        re:'*',
+        json:{
+            jx:1,
+            parse:1,
+        },
+    }],
     lazy:"",
     //limit:6,
     //double:false,
