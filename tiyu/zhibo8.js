@@ -2,7 +2,7 @@ var rule = {
     title:'zhibo8',     //规则标题,没有实际作用,但是可以作为cms类名称依据
     host:'https://www.zhibo8.net',     //网页的域名根,包含http头如 https://www,baidu.com
     url:'/fyclass',     //网站的分类页面链接
-    class_name:'全部',      //静态分类名称拼接
+    class_name:'赛事直播',      //静态分类名称拼接
     class_url:'/',     //静态分类标识拼接
     headers:{
         'User-Agent':'MOBILE_UA',
