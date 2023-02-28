@@ -20,7 +20,7 @@
 	//"class_url": "https://live.qq.com/api/live/vlist?page_size=60&page={catePg}",
     "class_url": "https://www.zhuafan.tech/sports-home/category/all#{catePg}",
     //分类名，分类1&分类2&分类3
-	"class_name":"全部直播",
+	"class_name":"赛事直播",
 	"class_value":"1",
 
     "filterdata":{},
