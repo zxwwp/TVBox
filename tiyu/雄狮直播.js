@@ -18,8 +18,8 @@ var rule = {
    desc:";;;.sbtsw022&&Text;.sbtsw023&&Text",
    content:"#list_1 li div:gt(0):lt(2)&&Text",
    tabs:"js:TABS=['【直播源】']",
-   //lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.down-site:eq(#id) a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'.list&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"},
-   lists:".play-div-oa:eq(#id) a"},
+   lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'p.down-site a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'.list&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"},
+   //lists:".play-div-oa:eq(#id) a"},
    搜索:'',
 
 }
