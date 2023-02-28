@@ -71,12 +71,12 @@
 {"key":"DJ-xBPQ-秋霞影视","name":"🐠秋霞┃P","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/秋霞影视.json"},
 {"key":"DJ-xBPQ-热播库","name":"热播┃P","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播库.json"},
 {"key":"DJ-xBPQ-F7好看剧","name":"F7剧┃P","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/F7好看剧.json"},
-{"key":"drpy_js_看看电影","name":"👁︎看看电影","type":3,"api":"./js/drpy.min.js","ext":"./js/看看电影.js"},
-{"key":"drpy_js_蛋蛋赞","name":"🐖蛋蛋赞","type":3,"api":"./js/drpy.min.js","ext":"./js/js_蛋蛋赞.js"},
-{"key":"drpy_js_歪片星球","name":"🐖歪片星球","type":3,"api":"./js/drpy.min.js","ext":"./js/js_歪片星球.js"},
-{"key":"drpy_js_凌云影视","name":"🐖凌云影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_凌云影视.js"},
-{"key":"drpy_js_Fun4K","name":"🐖Fun4K","type":3,"api":"./js/drpy.min.js","ext":"./js/js_Fun4K.js"},
-{"key":"drpy_js_Auete","name":"💎Auete","type":3,"api":"./js/drpy.min.js","ext":"./js/js_Auete.js"},
+{"key":"drpy_js_看看电影","name":"👁︎看看电影","type":3,"api":"./js/drpy2.min.js","ext":"./js/看看电影.js"},
+{"key":"drpy_js_蛋蛋赞","name":"🐖蛋蛋赞","type":3,"api":"./js/drpy2.min.js","ext":"./js/js_蛋蛋赞.js"},
+{"key":"drpy_js_歪片星球","name":"🐖歪片星球","type":3,"api":"./js/drpy2.min.js","ext":"./js/js_歪片星球.js"},
+{"key":"drpy_js_凌云影视","name":"🐖凌云影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/js_凌云影视.js"},
+{"key":"drpy_js_Fun4K","name":"🐖Fun4K","type":3,"api":"./js/drpy2.min.js","ext":"./js/js_Fun4K.js"},
+{"key":"drpy_js_Auete","name":"💎Auete","type":3,"api":"./js/drpy2.min.js","ext":"./js/js_Auete.js"},
 //美食教程
 {"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","ext": "./json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
 {"key": "美食","name": "🍔美食合集","type": 3,"api": "csp_Bili","ext": "./json/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"}
