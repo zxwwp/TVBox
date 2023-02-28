@@ -3,9 +3,9 @@ var rule = {
     host:'http://www.926.tv',
     //备用网址：http://www.928.tv，http://www.310.tv
     url:'/fyclass',
-    class_name:'热门&篮球&足球&体育',
-    class_url:'i-cbd-d$0&i-cbd-d$2&i-cbd-d$1&i-cbd-d$3', 
-    //homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
+    //class_name:'热门&篮球&足球&体育',
+    class_name:'热门赛事',
+    class_url:'/', 
     headers:{
         'User-Agent':'MOBILE_UA'
     },
