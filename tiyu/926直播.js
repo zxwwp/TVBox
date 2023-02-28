@@ -17,7 +17,7 @@ var rule = {
     推荐:'*',
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.clearfix.jiabifeng');tabs.forEach(function(it){var pz=pdfh(it,'.zhudui_wuyd&&Text');var ps=pdfh(it,'p.eventtime&&Text');var pk=pdfh(it,'.team.kedui&&Text');var img=pd(it,'img&&op-zfr-a-g');var timer=pdfh(it,'p.eventtime&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
    二级:{ 
-       title:'.bs_bt_title&&Text;span.bs_bt_title&&Text',
+       title:'p.weikan&&Text;span&&Text',
        desc:';;;.zhudui_wuyd&&Text;.team.kedui&&Text',
        tabs:"js:TABS=['【直播源】']",
        lists:'dl.singldl',
