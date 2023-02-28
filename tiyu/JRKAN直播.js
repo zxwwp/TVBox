@@ -17,7 +17,7 @@ var rule = {
     url:'/fyclass',
     //class_name:'全部&足球&篮球&其他',
     //class_url:'nav-item&1&nav-item.active&111', 
-    class_name:'全部',
+    class_name:'赛事直播',
     class_url:'/',
     headers:{
         'User-Agent':'MOBILE_UA'
