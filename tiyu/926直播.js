@@ -21,7 +21,7 @@ var rule = {
        desc:";;;.team.zhudui.zhudui_wuyd&&Text;.team kedui&&Text",  // 演员;导演
 	   content:"h2&&Text", //主要信息
        tabs:"js:TABS=['【直播源】']",
-       lists:'dl.singldl',
+       lists:'dl.singldl dd',
        list_text:'zr-zfr-y&&Text',
        list_url:'zr-zfr-y&&href'
        },
