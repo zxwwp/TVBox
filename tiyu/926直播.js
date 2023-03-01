@@ -4,7 +4,7 @@ var rule = {
     //备用网址：http://www.928.tv，http://www.310.tv
     url:'/fyclass',
     //class_name:'热门&篮球&足球&体育',
-    class_name:'热门赛事',
+    class_name:'赛事直播✨注意时间',
     class_url:'/', 
     headers:{
         'User-Agent':'MOBILE_UA'
