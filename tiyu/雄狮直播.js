@@ -15,10 +15,14 @@ var rule = {
     推荐:'*',
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.tit ');tabs.forEach(function(it){var pz=pdfh(it,'.sbtsw022&&Text');var ps=pdfh(it,'.sbtsw spna&&Text');var pk=pdfh(it,'.sbtsw023&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'.sbtsw&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
    二级:{
-        title:"#list_1 li div:gt(2):lt(1)&&Text",
-        desc:";;;.sbtsw022&&Text;.sbtsw023&&Text",
-        content:"#list_1 li div:gt(0):lt(2)&&Text",
-        tabs:"js:TABS=['【直播源】']",
-        lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'#downinfo-detail:eq(#p) a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'a&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"},
-    搜索:'.card-body .media;.text-danger&&Text;;.data&&Text;a&&href',
+       title:'.live-title&&Text;.live-title&&Text',
+       img:'img:eq(1)&&src',
+       desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',
+       content:'.live-info&&Text',
+       tabs:"js:TABS=['【直播源】']",
+       lists:'#down-site a',
+       list_text:'a&&Text',
+       list_url:'a&&data-url'
+    },
+  搜索:'.card-body .media;.text-danger&&Text;;.data&&Text;a&&href',
 }
