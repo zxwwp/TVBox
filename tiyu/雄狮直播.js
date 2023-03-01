@@ -20,9 +20,9 @@ var rule = {
        desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',
        content:'.live-info&&Text',
        tabs:"js:TABS=['【直播源】']",
-       lists:'#down-site a',
+       lists:'#downinfo-detail:eq(#down-site) a',
        list_text:'a&&Text',
        list_url:'a&&data-url'
     },
-  搜索:'.card-body .media;.text-danger&&Text;;.data&&Text;a&&href',
+  搜索:'*',
 }
