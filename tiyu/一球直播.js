@@ -2,7 +2,7 @@ var rule = {
     title:'一球直播',
     host:'https://yiqiulive.com/',
     url:'/fyclass',     //网站的分类页面链接
-    class_name:'足球',       //静态分类名称拼接
+    class_name:'赛事直播✨注意时间',       //静态分类名称拼接
     class_url:'/',    //静态分类标识拼接
     homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
     headers:{
