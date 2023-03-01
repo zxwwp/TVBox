@@ -20,13 +20,5 @@ var rule = {
         content:"#list_1 li div:gt(0):lt(2)&&Text",
         tabs:"js:TABS=['【直播源】']",
         lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'#downinfo-detail:eq(#p) a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'a&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"},
-      //title:".cover a&&title;.message p:eq(7)&&Text",
-      //desc:".w-100&&Text;.message p:eq(10)&&Text;.message p:eq(9)&&Text;.message p:eq(6)&&Text;.message p:eq(4)&&Text",
-      //content:".message p:eq(-1)&&Text",
-      //tabs:"#player_list h2",
-      //tab_text:"h2--span&&Text",
-      //lists:"#downinfo-detail:eq(#p) a"
-      //},
-   //搜索:'',
     搜索:'.card-body .media;.text-danger&&Text;;.data&&Text;a&&href',
 }
