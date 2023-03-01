@@ -2,7 +2,7 @@ var rule = {
     title:'看比赛',
     host:'https://sports.qq.com/kbsweb/',
     url:'/fyclass',
-    class_name:'赛事直播',
+    class_name:'赛事直播✨注意时间',
     class_url:'/',
     headers:{
         'User-Agent':'MOBILE_UA'
