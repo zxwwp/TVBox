@@ -2,7 +2,7 @@ var rule = {
     title:'JRS直播',
     host:'http://www.jrskan.net',
     url:'/fyclass',
-    class_name:'赛事直播',
+    class_name:'赛事直播✨注意时间',
     class_url:'/',
     headers:{
         'User-Agent':'MOBILE_UA'
