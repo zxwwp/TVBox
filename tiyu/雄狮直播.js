@@ -20,7 +20,7 @@ var rule = {
        desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',
        content:'.live-info&&Text',
        tabs:"js:TABS=['【直播源】']",
-       lists:'div.downinfo-detail p.down-site a',
+       lists:'div.v-video-l p.down-site a',
        list_text:'a&&Text',
        list_url:'a&&data-url'
     },
