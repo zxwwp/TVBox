@@ -25,7 +25,7 @@ var rule = {
           content:'.live-info&&Text',
           tabs:"dl.singldl dt&&Text",
           //tabs:"js:TABS=['【直播源】']",
-          lists:'.box .singldl dd',
+          lists:'span.diss',
           list_text:'a&&Text',
           list_url:'a&&data-url'
          },
