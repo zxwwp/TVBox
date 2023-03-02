@@ -12,7 +12,7 @@
 /*-----------------------配置数据接口源-----------------------*/
 "sites":[
 //体育直播
-//{"key":"T4直播","name":"🏀NBA直播","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ="}, 
+{"key":"T4直播","name":"📡广播频道","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ="}, 
 {"key":"高清直播网","name":"🏀高清直播网","type": 3,"api":"csp_XPath","ext":"./tiyu/17k.json"},
 {"key":"全网直播8","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy2.min.js","ext":"./tiyu/JRKAN直播.js"},
