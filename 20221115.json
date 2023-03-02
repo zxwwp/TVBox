@@ -58,7 +58,7 @@
 {"key":"drpy_js_大米星球","name":" 🍚大米星球","type":3,"api":"./js/drpy.min.js","ext":"./js/大米星球.js"},
 {"key":"drpy_js_六度TV","name":"🐖六度TV","type":3,"api":"./js/drpy.min.js","ext":"./js/js_六度TV.js"},
 {"key":"drpy_js_91free","name":"🐖91影院","type":3,"api":"./js/drpy.min.js","ext":"./js/js_91free.js"},
-{"key":"drpy_9u电影","name":"🐖9u电影","type":3,"api":"./js/drpy.min.js","ext":"./js/9u电影.js"},
+{"key":"drpy_9U电影","name":"🐖9U电影","type":3,"api":"./js/drpy.min.js","ext":"./js/9U电影.js"},
 {"key":"csp_Cokemv","name":"🍻Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 {"key": "dr_vidhub","name": "💎vidhub","type": 3,"api": "./js/drpy.min.js","ext": "./js/vidhub.js"},
 {"key":"搜狐(官源)","name":"💎搜狐","type":0,"api":"http://vipmv.cc/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["剧情片","战争片","国产剧","港台剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
