@@ -1,24 +1,19 @@
-🏀2月27日,#genre#
-02:00 太阳 @ 雄鹿,http://livehdl2.ltjuq.top/ofmatch/HD1167121.m3u8
-04:00 篮网 @ 老鹰,http://livehdl2.ltjuq.top/ofmatch/HD1167122.m3u8
-04:30 奇才 @ 公牛,http://livehdl2.ltjuq.top/ofmatch/HD1167123.m3u8
-04:30 湖人 @ 独行侠,http://livehdl2.ltjuq.top/ofmatch/HD1167124.m3u8
-07:00 猛龙 @ 骑士,http://livehdl2.ltjuq.top/ofmatch/HD1168890.m3u8
-08:00 国王 @ 雷霆,http://livehdl2.ltjuq.top/ofmatch/HD1170380.m3u8
-08:30 森林狼 @ 勇士,http://livehdl2.ltjuq.top/ofmatch/HD1167127.m3u8
-🏀2月28日,#genre#
-8：00 活塞 @ 黄蜂,http://livehdl2.ltjuq.top/ofmatch/HD1167128.m3u8
-8：00 热火 @ 76人,http://livehdl2.ltjuq.top/ofmatch/HD1167129.m3u8
-8：30 凯尔特人 @ 尼克斯,http://livehdl2.ltjuq.top/ofmatch/HD1167130.m3u8
-9：00 魔术 @ 鹈鹕,http://livehdl2.ltjuq.top/ofmatch/HD1167131.m3u8
-🏀3月01日,#genre#
-8：30 奇才 @ 老鹰,http://livehdl2.ltjuq.top/ofmatch/HD1167132.m3u8
-8：30 雄鹿 @ 篮网,http://livehdl2.ltjuq.top/ofmatch/HD1167133.m3u8
-8：30 公牛 @ 猛龙,http://livehdl2.ltjuq.top/ofmatch/HD1167134.m3u8
-8：30 湖人 @ 灰熊,http://livehdl2.ltjuq.top/ofmatch/HD1167135.m3u8
-9：00 掘金 @ 火箭,http://livehdl2.ltjuq.top/ofmatch/HD1167136.m3u8
-9：00 国王 @ 雷霆,http://livehdl2.ltjuq.top/ofmatch/HD1167137.m3u8
-9：30 步行者 @ 独行侠,http://livehdl2.ltjuq.top/ofmatch/HD1167138.m3u8	
-10：00 马刺 @ 爵士,http://livehdl2.ltjuq.top/ofmatch/HD1167139.m3u8
-11：00 开拓者 @ 勇士,http://livehdl2.ltjuq.top/ofmatch/HD1167140.m3u8	
-11：00 森林狼 @ 快船,http://livehdl2.ltjuq.top/ofmatch/HD1167141.m3u8
+中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+环球资讯,http://sk.cri.cn/905.m3u8
+经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
+上海动感101,http://ls.qingting.fm/live/274.m3u8
+清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
+怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
+高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
+老歌音乐台,http://live.xmcdn.com:80/live/2628/64.m3u8
+亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8
+厦门音乐广播,http://ls.qingting.fm/live/1739.m3u8
+浙江动听,http://ls.qingting.fm/live/4866.m3u8
+四川岷江音乐广播,http://ls.qingting.fm/live/1110.m3u8
+广东音乐广播,http://ls.qingting.fm/live/1260.m3u8
+深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+动感音乐,http://cnlive.cnr.cn/hls/dongganyyt.m3u8
+华语金曲500首,http://ls.qingting.fm/live/3412131.m3u8
