@@ -23,7 +23,7 @@ var rule = {
           desc:';;;.name:eq(0)&&Text;.name:eq(1)&&Text',  //// 演员;导演
           content:".play&&a", //主要信息
           tabs:"js:TABS=['【直播源】']",
-          lists:'.a.ncp a',
+          lists:'.sig-vs .sig-list.a.ncp a',
           list_text:'a&&Text',
           list_url:'a&&href'
          },
