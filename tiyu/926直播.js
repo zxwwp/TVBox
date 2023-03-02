@@ -23,7 +23,7 @@ var rule = {
           img:'img:eq(1)&&src',
           desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',
           content:'.live-info&&Text',
-          tabs:"dl.singldl dt",
+          tabs:"dl.singldl dt&&Text",
           //tabs:"js:TABS=['【直播源】']",
           lists:'#item-source a',
           list_text:'a&&Text',
