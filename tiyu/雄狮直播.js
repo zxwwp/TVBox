@@ -7,7 +7,8 @@ var rule = {
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
     headers:{
-        'User-Agent':'MOBILE_UA'
+        //'User-Agent':'MOBILE_UA'
+         'User-Agent':'PC_UA',
     },
     //timeout:5000,
     play_parse:true,
