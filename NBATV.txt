@@ -1,5 +1,4 @@
 📡广播频道,#genre#
-中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 环球资讯,http://sk.cri.cn/905.m3u8
 经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
@@ -16,5 +15,4 @@
 深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-动感音乐,http://cnlive.cnr.cn/hls/dongganyyt.m3u8
 华语金曲500首,http://ls.qingting.fm/live/3412131.m3u8
