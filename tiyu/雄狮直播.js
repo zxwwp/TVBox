@@ -20,7 +20,8 @@ var rule = {
        desc:'.teamName nameOne&&a;.teamName nameTwo a&&Text',
        content:'.live-info&&Text',
        tabs:"js:TABS=['【直播源】']",
-       lists:'p.down-site a',
+       //lists:'p.down-site a',
+       lists:".down-site:eq(#id)&&a",
        list_text:'a&&Text',
        list_url:'a&&data-url'
     },
