@@ -14,17 +14,3 @@
 深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 华语金曲500首,http://ls.qingting.fm/live/3412131.m3u8
-📡电影解说,#genre#
-易中天品三国,https://epg.112114.xyz/huya/11602032
-木子李说故事,https://epg.112114.xyz/huya/24030276
-呆瓜侃电影,https://epg.112114.xyz/huya/26714197
-小片片说大片,http://epg.112114.xyz/douyu/4258555
-科幻fans,http://epg.112114.xyz/douyu/3508304
-科幻梦工厂,https://epg.112114.xyz/huya/15152155
-小乔讲电影,http://epg.112114.xyz/douyu/8413908
-小导讲电影,http://epg.112114.xyz/douyu/9390955
-牛叔说电影,http://epg.112114.xyz/douyu/2758565
-大蓝雀,http://epg.112114.xyz/douyu/8656759
-末日说电影,http://epg.112114.xyz/douyu/9431125
-博然讲电影,http://epg.112114.xyz/douyu/9561992
-宇哥讲电影,http://epg.112114.xyz/douyu/2104744
