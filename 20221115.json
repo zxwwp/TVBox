@@ -13,7 +13,7 @@
 "sites":[
 //体育直播
 {"key":"T4直播","name":"📡广播频道","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ="}, 
-{"key":"高清直播网","name":"🏀高清直播网","type": 3,"api":"csp_XPath","ext":"./tiyu/17k.json"},
+{"key":"体育","name":"🏀高清直播网","type": 3,"api":"csp_XPath","ext":"./tiyu/17k.json"},
 {"key":"drpy_88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/88看球.js"},
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy2.min.js","ext":"./tiyu/JRKAN直播.js"},
 {"key":"全网直播8","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
@@ -26,14 +26,6 @@
 //{"key":"优直播","name":"🏀优直播✨","type": 3,"api":"./js/drpy2.min.js","ext":"./tiyu/优直播.js"},
 //{"key":"咪咕体育","name":"🏀咪咕体育✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/咪咕体育.js"},
 //{"key":"一球直播","name":"🏀一球直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/一球直播.js"},
-
-{"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/js/alistjar.json"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/alist.min.js","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/js/alist.json"},
-{"key":"纸条","name":"📜阿里 | 纸条","type":3,"api":"csp_Paper","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/token1.txt"},
-{"key":"易搜","name":"🔍阿里 | 易搜","type":3,"api":"csp_YiSo","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/token1.txt"},
-{"key":"盘搜","name":"💿阿里 | 盘搜","type":3,"api":"csp_PanSou","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/token1.txt"},
-{"key":"UP云搜","name":"☁️阿里 | UP云搜","type":3,"api":"csp_UpYun","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/token1.txt"},
-{"key":"找資源","name":"💡阿里 | 找資源","type":3,"api":"csp_Zhaozy","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/token1.txt"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"🌈豆瓣荐片","type":3,"api":"./js/drpy.min.js","ext":"./js/豆瓣.js"},
@@ -53,7 +45,6 @@
 {"key":"sp_pa","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://lgyy.tv"},
 {"key":"csp_Ysgc","name":"💎影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"纽约影院","name":"🔥纽约影院","type":3,"api":"./js/drpy2.min.js","ext":"./js/纽约影院.js"},
 {"key":"js_FreeOK","name":"🔥FreeOK","type":3,"api":"./js/drpy2.min.js","ext":"./js/FreeOK.js"},
 {"key":"js_if","name":"🌹爱妃","type":3,"api":"./js/drpy.min.js","ext":"./js/艾菲影视.js"},
 {"key":"Sp_cj","name":"👑速优","type": 1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","大陆综艺","国产动漫"]},
