@@ -4,7 +4,7 @@ var rule = {
     url:'/fyclass',
     class_name:'赛事直播✨注意时间',
     class_url:'/', 
-    //class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
+    class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
     headers:{
         'User-Agent':'PC_UA'
     },
