@@ -1,6 +1,6 @@
 var rule={     
     title:'FreeOK',
-    host:'https://www.freeok.vip/e',
+    host:'https://www.freeok.vip',
     url:'/vodshow/fyclass--------fypage---.html',
     searchUrl:'/vodsearch/**----------fypage---.html',
     searchable:2,//是否启用全局搜索,
