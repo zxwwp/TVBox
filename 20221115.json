@@ -16,7 +16,7 @@
 {"key":"csp_体育","name":"🏀高清直播网","type": 3,"api":"csp_XPath","ext":"./tiyu/17k.json"},
 {"key":"dr_体育","name":"🏀88看球✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/88看球.js"},
 {"key":"dr_体育","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy2.min.js","ext":"./tiyu/JRKAN直播.js"},
-{"key":"dr_体育","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
+{"key":"csp_体育","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
 {"key":"dr_体育","name":"🏀926直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/926直播.js"}, 
 {"key":"dr_体育","name":"🏀JRS直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/JRS直播.js"},
 //{"key":"dr_体育","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/JRS看球网.js"}, 
