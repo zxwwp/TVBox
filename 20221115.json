@@ -27,7 +27,7 @@
 //{"key":"dr_咪咕体育","name":"🏀咪咕体育✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/咪咕体育.js"},
 //{"key":"dr_一球直播","name":"🏀一球直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/一球直播.js"},
 
-
+{"key":"宝仙HD","name":"宝仙HD","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/宝仙HD.json"},
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"🌈豆瓣荐片","type":3,"api":"./js/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
