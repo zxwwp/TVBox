@@ -14,7 +14,7 @@
     "cateVodId": "/li[last()]/a/@href",
     "cateVodIdR": "",
     // 首页推荐视频的图片
-    "cateVodImg":"'https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_football-player-631531677974313.png'",
+    "cateVodImg":"'https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_football-player-631371677974290.png'",
     // 首页推荐视频的简介
     "cateVodMark":"concat(/li[@class='team ht']/strong/text(),/li[@class='team ht']/strong/a/text(),'-',/li[@class='team gt']/strong/text(),/li[@class='team gt']/strong/a/text())",//concat(/li[3]/strong/text(),'vs',/li[5]/strong/text())
  
@@ -26,7 +26,7 @@
 	// 视频名
     "dtName": "/title/text()",
 	// 视频图片
-    "dtImg": "'https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_football-player-631531677974313.png'",
+    "dtImg": "'https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_football-player-631371677974290.png'",
     // 视频简介
     "dtDesc": "concat('DJ - ','Never underestimate the heart of a champion! ','篮球迷588741862')",
 	
