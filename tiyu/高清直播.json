@@ -14,8 +14,7 @@
     "cateVodId": "/td[8]/@id",
     "cateVodIdR": "",
     // 首页推荐视频的图片
-    "cateVodImg":"'https://gitlab.com/duomv/duo/-/raw/main/txt/duotv.png'",
-   // "cateVodImg":"https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_basketball-613501677974169.png",
+    "cateVodImg":"https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_basketball-613501677974169.png",
      //"cateVodImg": "/div[@class='myList']/div[@class='team']/p[1]/img/@src",
     // 首页推荐视频的简介-副标题
     "cateVodMark":"concat(/td[2]/a/text(),/td[3]/text(),/td[4]/div/text())",
