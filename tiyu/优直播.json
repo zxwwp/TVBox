@@ -15,7 +15,6 @@
     "cateVodIdR": "",
     // 首页推荐视频的图片
     "cateVodImg":"'https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_football-player-631531677974313.png'",
-    //"cateVodImg":"'http://ys-f.ysepan.com/621545016/119101634/h485U2V3523QLJkfsqlj8a/%E5%B0%81%E9%9D%A2.jpg'",
     // 首页推荐视频的简介
     "cateVodMark":"concat(/li[@class='team ht']/strong/text(),/li[@class='team ht']/strong/a/text(),'-',/li[@class='team gt']/strong/text(),/li[@class='team gt']/strong/a/text())",//concat(/li[3]/strong/text(),'vs',/li[5]/strong/text())
  
