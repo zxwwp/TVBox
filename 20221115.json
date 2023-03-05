@@ -156,7 +156,6 @@
 {"name":"tc","type":0,"url":"https://chaxun.truechat365.com/?url="},
 {"name":"ok","type":0,"url":"https://okjx.cc/?url="},
 
-//js
 {"name":"g3","type":1,"url":"http://lanlan.ckflv.cn/?url="},
 {"name":"xc","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=","ext": {"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"by","type":1,"url":"https://jx.ccabc.cc/byg/?url="},
@@ -165,10 +164,10 @@
 {"name":"g4","type":1,"url":"http://json.feilifeili.top:5025/parsing.do?appId=zNqKTdv4TeT7xvRm&appKey=kimi11&url="},
 {"name":"nx++","type":1,"url":"https://json.nxflv.com/?uid=2083635&key=abcghlvzDFHJMOPVW9&url="},
 
-
 {"name":"p2","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}
 ],
-   "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
+
+"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
    
 /*-----------------------解码模式-----------------------*/
 "ijk":[
