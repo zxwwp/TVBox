@@ -27,7 +27,7 @@
 	// 视频名
     "dtName": "/title/text()",
 	// 视频图片
-    "dtImg": "'https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_basketball-613501677974169.png'",
+    //"dtImg": "'https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_basketball-613501677974169.png'",
     //"dtImg": "'http://ys-f.ysepan.com/621545016/119101634/h485U2V3523QLJkfsqlj8a/%E5%B0%81%E9%9D%A2.jpg'",
     // 视频简介
     "dtDesc": "concat('DJ - ','Never underestimate the heart of a champion! ')",
