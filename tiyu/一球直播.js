@@ -19,7 +19,7 @@ var rule = {
     double:false,    //是否双层列表定位,默认false
     推荐:'*',
       // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
-    一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&._3EoFIGW8uq');tabs.forEach(function(it){var  pz=pdfh(it,'._F9MKhp0yRe&&Text');var ps=pdfh(it,'._tZhrfoDUd1&&Text');var pk=pdfh(it,'._-0+6RxRNjr&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'._HtlGr9Vxvg&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
+    一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&._bUuy3C5Buw');tabs.forEach(function(it){var  pz=pdfh(it,'._Iv0sSLsVT7&&Text');var ps=pdfh(it,'._tZhrfoDUd1&&Text');var pk=pdfh(it,'._-0+6RxRNjr&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'._HtlGr9Vxvg&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
           title:'.item.cd li:lt(5)&&Text;.league&&Text',  //片名;类型 时间
