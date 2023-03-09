@@ -13,11 +13,11 @@
 "sites":[
 //体育直播
 {"key":"T4直播","name":"📡广播频道","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ="}, 
-{"key":"高清直播","name":"🏀高清直播","type": 3,"api":"csp_XPath","ext":"./tiyu/高清直播.json"},
 {"key":"dr_88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/88看球.js"},
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy2.min.js","ext":"./tiyu/JRKAN直播.js"},
 {"key":"csp_体育","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
-{"key":"dr_926直播","name":"🏀926直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/926直播.js"}, 
+{"key":"dr_926直播","name":"🏀926直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/926直播.js"},
+{"key":"高清直播","name":"🏀高清直播","type": 3,"api":"csp_XPath","ext":"./tiyu/高清直播.json"}, 
 {"key":"dr_JRS直播","name":"🏀JRS直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/JRS直播.js"},
 //{"key":"dr_JRS看球网","name":"🏀JRS看球网✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/JRS看球网.js"}, 
 {"key":"dr_企鹅体育","name":"🏀企鹅体育✨","type":3,"api":"csp_XPath","ext":"https://agit.ai/zxwwp/TVBox/raw/branch/master/%e4%bc%81%e9%b9%85%e7%9b%b4%e6%92%ad.json"},
