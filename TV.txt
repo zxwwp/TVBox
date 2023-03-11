@@ -341,34 +341,6 @@ CCTV4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/defau
 青海卫视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m3u8
 新疆卫视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
 西藏卫视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
-🏀NBA直播,#genre#
-2月26日 08:00 步行者 @ 魔术,http://livehdl2.ltjuq.top/ofmatch/HD1167115.m3u8
-08:00 热火 @ 黄蜂,http://livehdl2.ltjuq.top/ofmatch/HD1167116.m3u8
-08:30 鹈鹕 @ 尼克斯,http://livehdl2.ltjuq.top/ofmatch/HD1167117.m3u8
-09:00 掘金 @ 灰熊,http://livehdl2.ltjuq.top/ofmatch/HD1167118.m3u8
-09:30 凯尔特人 @ 76人,http://livehdl2.ltjuq.top/ofmatch/HD1167119.m3u8
-10:00 马刺 @ 爵士,http://livehdl2.ltjuq.top/ofmatch/HD1167120.m3u8
-2月27日 02:00 太阳 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675370.m3u8
-04:00 篮网 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3675371.m3u8
-04:30 奇才 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675372.m3u8
-04:30 湖人 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675373.m3u8
-07:00 猛龙 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675374.m3u8
-08:00 国王 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675375.m3u8
-08:30 森林狼 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675376.m3u8
-2月28日 8：00 活塞 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675377.m3u8
-8：00 热火 @ 76人,http://global.zkshuye.cn/live/sd-2-3675378.m3u8
-8：30 凯尔特人 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675379.m3u8
-9：00 魔术 @ 鹈鹕,http://global.zkshuye.cn/live/sd-2-3675380.m3u8
-3月01日 8：30 奇才 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3675381m3u8
-8：30 雄鹿 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675382.m3u8
-8：30 公牛 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675383.m3u8
-8：30 湖人 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675384.m3u8
-9：00 掘金 @ 火箭,http://global.zkshuye.cn/live/sd-2-3675385.m3u8
-9：00 国王 @ 雷霆,http://global.zkshuye.cn/live/sd-2-3675386.m3u8
-9：30 步行者 @ 独行侠,http://global.zkshuye.cn/live/sd-2-3675387.m3u8	
-10：00 马刺 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675388.m3u8	
-11：00 开拓者 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675389.m3u8		
-11：00 森林狼 @ 快船,http://global.zkshuye.cn/live/sd-2-3675390.m3u8
 🏀体育频道,#genre#
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
