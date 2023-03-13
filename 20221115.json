@@ -28,7 +28,7 @@
 
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
-{"key":"dr_豆瓣","name":"🌈豆瓣荐片","type":3,"api":"./js/drpy2.min.js","ext":"./js/豆瓣.js"},
+{"key":"dr_豆瓣","name":"📌豆瓣荐片","type":3,"api":"./js/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 {"key":"Sp_la","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -47,7 +47,7 @@
 {"key": "csp_BBB","name": "🅱️哔哩哔哩","type": 3,"api": "csp_Bili","ext": "./json/哔哩套餐.json"},
 {"key":"Paper","name":"📜小纸条|网盘1","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./json/tok.txt"},
 {"key":"drpy__农民影视","name":"👨‍🌾农民影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/农民.js"},
-{"key":"drpy_天空影视","name":"🏆天空影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/天空影视.js"},
+{"key":"drpy_天空影视","name":"🌈天空影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/天空影视.js"},
 {"key":"csp_Dy1010","name":"🍨双十","type":3,"api":"./js/drpy2.min.js","ext":"./js/双十电影.js"},
 {"key":"js_if","name":"🌹爱妃","type":3,"api":"./js/drpy.min.js","ext":"./js/艾菲影视.js"},
 {"key":"drpy_jjs_饭团影","name":"🍙饭团影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/js_饭团影视.js"},
