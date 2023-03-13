@@ -58,9 +58,8 @@
 {"key":"drpy_皮皮鸭","name":"🦆皮皮鸭","type":3,"api":"./js/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 {"key":"drpy_飞飞影视","name":"🔥飞飞影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/飞飞影视.js"},
 {"key":"xp_qr","name":"🏇奇优影院","type":3,"api":"./js/drpy2.min.js","ext":"./js/奇优影院.js"},
-
 {"key":"drpy_js_城市影视","name":"🏠城市影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/城市影视.js"},
-//{"key":"drpy_js_大米星球","name":" 🍚大米星球","type":3,"api":"./js/drpy2","ext":"./js/9U电影.js"},
+{"key":"drpy_js_大米星球","name":" 🍚大米星球","type":3,"api":"./js/drpy2.min.js","ext":"./js/9U电影.js"},
 {"key": "dr_vidhub","name": "🍪vidhub","type": 3,"api": "./js/drpy2.min.js","ext": "./js/vidhub.js"},
 {"key":"drpy_js_菜狗","name":"🐌搜狗","type":3,"api":"./js/drpy2.min.js","ext":"./js/菜狗.js"},
 {"key":"drpy_js_奇珍异兽","name":"🐨爱奇艺","type":3,"api":"./js/drpy2.min.js","ext":"./js/奇珍异兽.js"},
