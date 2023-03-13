@@ -355,6 +355,9 @@ EDGE SPORT,https://edgesport-samsungus.amagi.tv/playlist.m3u8
 TENNIS,https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 博斯無限,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
+CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
+CCTV16,http://39.135.138.59:18890/PLTV/88888888/224/3221226233/index.m3u8
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
 CCTV5⁺,rtsp://115.153.233.154/PLTV/88888888/224/3221226976/85722488.smil
 CCTV5,rtsp://115.153.212.72/PLTV/88888888/224/3221226907/65396401.smil
@@ -387,9 +390,6 @@ CCTV5+,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv5SportHD/__op
 五星体育频道,http://183.207.255.200/live/program/live/ssty/4000000/mnf.m3u8
 新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
-CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
-CCTV16,http://39.135.138.59:18890/PLTV/88888888/224/3221226233/index.m3u8
 NewTV超级体育,http://39.135.138.59:18890/PLTV/88888888/224/3221225767/index.m3u8
 NewTV超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
 CCTV5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
