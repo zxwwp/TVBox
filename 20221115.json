@@ -76,7 +76,7 @@
 //{"key":"DJ-xBPQ-SH电影","name":"🍅神话","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/sh.json"},
 //{"key":"DJ-xBPQ-秋霞影视","name":"🐠秋霞","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/秋霞影视.json"},
 //{"key":"DJ-xBPQ-热播库","name":"🌀热播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播库.json"},
-//{"key":"DJ-xBPQ-F7好看剧","name":"🦊F7剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/F7好看剧.json"},
+{"key":"csp_XYQHiker_F7好看剧","name":"🦊F7剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/F7好看剧.json"},
 //{"key":"csp_xBPQ_爱看","name":"💢爱看影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/aikan.json"},
 {"key":"搜狐(官源)","name":"💝搜狐","type":0,"api":"http://vipmv.cc/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["剧情片","战争片","国产剧","港台剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
 
