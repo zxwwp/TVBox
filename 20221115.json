@@ -46,8 +46,8 @@
 {"key":"Sp_cj","name":"👑速优","type": 1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","大陆综艺","国产动漫"]},
 {"key": "csp_BBB","name": "🅱️哔哩哔哩","type": 3,"api": "csp_Bili","ext": "./json/哔哩套餐.json"},
 {"key":"Paper","name":"📜小纸条|网盘1","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./json/tok.txt"},
-//{"key":"csp_xpath_农民影视","name":"👨‍🌾农民影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/农民.js"},
-//{"key":"PQ_tk","name":"🏆天空影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/天空.js"},
+{"key":"drpy__农民影视","name":"👨‍🌾农民影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/农民.js"},
+{"key":"drpy_天空影视","name":"🏆天空影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/天空.js"},
 {"key":"csp_Dy1010","name":"🍨双十","type":3,"api":"./js/drpy2.min.js","ext":"./js/双十电影.js"},
 {"key":"js_if","name":"🌹爱妃","type":3,"api":"./js/drpy.min.js","ext":"./js/艾菲影视.js"},
 {"key":"drpy_jjs_饭团影","name":"🍙饭团影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/js_饭团影视.js"},
@@ -86,20 +86,11 @@
 
 ],
 
-//{"key":"云上中学","name": "📘云上中学","type":3,"api":"csp_Bili","ext":"./json/云上中学.json"},
-//{"key":"云上高中","name": "📙云上高中","type":3,"api":"csp_Bili","ext":"./json/云上高中.json"},
 //{"key":"春节","name":" 🎈晨龙春节","type":3,"api":"csp_Bili","ext":"./json/晨龙春节.json","spider":"./晨龙.jar"},
-//{"key":"AList","name":"💾网盘Alist","type":3,"api":"csp_AList","ext":"./json/alistjar.json"},
-//{"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./json/360.jar"},
-//{"key":"drpy_js_360影视","name":"💘360","type":3,"api":"./js/drpy.min.js","ext":"./js/360影视.js"},
-//{"key": "小苹果","name":"🍎小苹果主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./json/xpg.jar"},
-//{"key": "csp_新视觉","name": "🍁新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./json/新视觉.jar"},
-//{"key": "dr_新视觉影院","name": "🍁新视觉影院","type": 3,"api": "./js/drpy.min.js","ext": "./js/新视觉影院.js"},
-//{"key":"蓝光影院","name":"💧蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"ext":"./json/lukjpl4f.json"},
-//{"key":"csp_XYQHiker_FREEOK","name":" 🍔Free追剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/FREEOK.json","jar":"./json/homespiders-xpath.jar"},
-
  //云上网课
 //{"key":"云上小学","name": "📗云上小学","type":3,"api":"csp_Bili","ext":"./json/云上小学.json"},
+//{"key":"云上中学","name": "📘云上中学","type":3,"api":"csp_Bili","ext":"./json/云上中学.json"},
+//{"key":"云上高中","name": "📙云上高中","type":3,"api":"csp_Bili","ext":"./json/云上高中.json"},
 //{"key":"学而思","name": " 📚学而思","type":3,"api":"csp_Bili","ext":"./json/学而思.json"},
 //动漫频道
 //{"key":"Ying","name":"👨‍🌾樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
