@@ -1,8 +1,8 @@
 {
     "author": "dj22.9.8",
     "homeUrl": "http://www.jrszx.com/",//http://www.jrszx.com/
-    "cateManual": {"赛事直播✨注意时间": "666"},
-
+    //"cateManual": {"赛事直播✨注意时间": "666"},
+	"class_name":"赛事直播✨注意时间",
     // 首页
     "cateUrl": "http://www.jrszx.com/",
 	// 首页推荐视频的节点
