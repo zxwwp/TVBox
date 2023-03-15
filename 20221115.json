@@ -5,7 +5,9 @@
 "spider":"./Yoursmile.jar",
 
 // 配置直播地址，地址需base64位转码"urls":["proxy://do=live&type=txt&ext=粘贴base64位转码地址"]
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
+//"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
+"lives": [
+{"name":"直播IPV4","type":"0","url":"./TV.txtt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 /*-----------------------配置数据接口源-----------------------*/
 "sites":[
