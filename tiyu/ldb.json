@@ -27,8 +27,8 @@
 	// 视频图片
     "dtImg": "'https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_basketball-613501677974169.png'",
     // 视频简介
-    "dtDesc": "concat('DJ - ','Never underestimate the heart of a champion! ','篮球迷588741862')",
-	
+    //"dtDesc": "concat('DJ - ','Never underestimate the heart of a champion! ')",
+	"dtDesc": "/span/text()",
 	// 播放源节点
     "dtFromNode": "//body",
 	// 播放源名称
