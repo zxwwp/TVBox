@@ -13,7 +13,7 @@
     "cateVodId": "/a[1]/@href",
     "cateVodIdR": "/shipin-(\\d+).html",
     // 首页推荐视频的图片
-    "cateVodImg": "'http://ys-f.ysepan.com/621545016/119101634/h485U2V3523QLJkfsqlj8a/%E5%B0%81%E9%9D%A2.jpg'",
+    "cateVodImg": "'https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_basketball-613501677974169.png'",
     // 首页推荐视频的简介
     "cateVodMark":"",
  
@@ -25,7 +25,7 @@
 	// 视频名
     "dtName": "/title/text()",
 	// 视频图片
-    "dtImg": "'http://ys-f.ysepan.com/621545016/119101634/h485U2V3523QLJkfsqlj8a/%E5%B0%81%E9%9D%A2.jpg'",
+    "dtImg": "'https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_basketball-613501677974169.png'",
     // 视频简介
     "dtDesc": "concat('DJ - ','Never underestimate the heart of a champion! ','篮球迷588741862')",
 	
