@@ -1,7 +1,5 @@
 {
     "author": "dj22.9.8",
-        //习惯查看手机源码写建议用手机版UA，习惯查看PC版源码写建议用电脑版UA
-    "UserAgent":"PC_UA",
     "homeUrl": "http://www.jrszx.com/",//http://www.jrszx.com/
     "cateManual": {"赛事直播✨注意时间": "666"},
 
