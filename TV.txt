@@ -342,19 +342,7 @@ CCTV4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/defau
 新疆卫视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
 西藏卫视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
 🏀体育频道,#genre#
-纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
-ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
-ELTA体育2台,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
-ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8
-ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-纬来体育,http://123.51.230.108:18509/.m3u8
-ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
-ELTA体育3台,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
-ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-EDGE SPORT,https://edgesport-samsungus.amagi.tv/playlist.m3u8
 TENNIS,https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-博斯無限,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
 咪咕NBA01,http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000003915&livemode=1&stbId=2&channel-id=FifastbLive
 咪咕NBA01,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000003915
 咪咕NBA02,http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000027691&livemode=1&stbId=2&channel-id=FifastbLive
