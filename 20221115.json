@@ -3,7 +3,7 @@
 //"wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
 //"spider":"./Yoursmile.jar",
-"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+"spider": "https://gitea.com/52670576/tvbox/raw/branch/master/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
 // 配置直播地址
 "lives": [{"name":"直播IPV4","type":"0","url":"./TV.txt","epg":"http://diyp.112114.xyz/","logo":"http://diyp.112114.xyz/logo/{name}.png"}],
 
