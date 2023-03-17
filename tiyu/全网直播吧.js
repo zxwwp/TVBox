@@ -5,6 +5,7 @@ var rule = {
     //class_parse:'.nav-item li;a&&Text;a&&href',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
     url:'/fyclass',    
     class_name:'赛事直播✨注意时间',      //静态分类名称拼接
+    class_url:'/',     //静态分类标识拼接
     headers:{
          'User-Agent':'MOBILE_UA',
         "Cookie": "searchneed=ok"
