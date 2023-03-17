@@ -2,7 +2,7 @@
 // 壁纸 
 //"wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
-//"spider":"./Yoursmile.jar",
+"spider":"./Yoursmile.jar",
 "spider":"https://gitee.com/dongji2/tb/raw/master/jar/dd230109.jar;md5;97fbb873452d83d35427663089e3b4a3",
 
 // 配置直播地址
