@@ -3,7 +3,7 @@
 //"wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
 //"spider":"./Yoursmile.jar",
- "spider": "https://gitee.com/cally20/tvbox/raw/master/man/0313.jar;md5;4d4928e4505e301355aedfa1e43e9d71",  
+ "spider": "https://gitee.com/gouhaoya/Tvbox_zy/blob/master/XYQTVBox/custom_spider.jar",  
 // 配置直播地址
 "lives": [{"name":"直播IPV4","type":"0","url":"./TV.txt","epg":"http://diyp.112114.xyz/","logo":"http://diyp.112114.xyz/logo/{name}.png"}],
 
