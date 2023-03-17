@@ -13,7 +13,7 @@
 {"key":"T4直播","name":"📡广播频道","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ="}, 
 {"key":"dr_88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/88看球.js"},
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy2.min.js","ext":"./tiyu/JRKAN直播.js"},
-{"key":"dr_全网直播8","name":"🏀全网直播8✨","type":"3","api":"./js/drpy2.min.js","ext":"./tiyu/全网直播8.js"},
+{"key":"dr_全网直播吧","name":"🏀全网直播吧✨","type":"3","api":"./js/drpy2.min.js","ext":"./tiyu/全网直播吧.js"},
 //{"key":"DJ-直播吧","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
 
 {"key":"dr_926直播","name":"🏀926直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/926直播.js"},
