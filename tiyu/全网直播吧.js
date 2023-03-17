@@ -18,20 +18,15 @@ var rule = {
     // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
     // 如果是双层定位的话,推荐的第2段分号代码也是第2层定位列表代码
     推荐:'*',
-    一级:'ul.match-list;li div:ge(1):lt(3)&&Text;img&&src;div&&col-time;a&&href',
+    一级:'.main-left ul;li div:ge(1):lt(3)&&Text;img&&src;div&&col-time;a&&href',
+    二级:'*', 
 // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
     //一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&ul.match-list li');tabs.forEach(function(it){var  pz=pdfh(it,'.col-home.flex&&Text');var ps=pdfh(it,'.col-name&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'.col-time&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
  // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
     // 二级 title: 片名;类型
     // 二级 desc: 主要信息;年代;地区;演员;导演
     // 或者 {title:'',img:'',desc:'',content:'',tabs:'',lists:'',tab_text:'body&&Text',list_text:'body&&Text',list_url:'a&&href'} 同海阔dr二级
-    二级:{
-	    "title":".play-info play-info-soccer&&Text",
-	   "desc":";;;div.col-home:eq(0)&&Text;div.col-home:eq(1)&&Text",
-	    "content":"div.col-time&&Text",
-	    "tabs":"js:TABS=['直播信号源']",
-	    "lists":"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)})"
-	},
+   // 二级:{"title":".play-info play-info-soccer&&Text", "desc":";;;div.col-home:eq(0)&&Text;div.col-home:eq(1)&&Text","content":"div.col-time&&Text","tabs":"js:TABS=['直播信号源']", "lists":"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)})"},
 
     // 搜索可以是*,集成一级，或者跟一级一样的写法 列表;标题;图片;描述;链接;详情
     搜索:'',
