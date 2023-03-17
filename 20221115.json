@@ -2,8 +2,8 @@
 // 壁纸 
 //"wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
-"spider":"./Yoursmile.jar",
-
+//"spider":"./Yoursmile.jar",
+"spider":"https://jsd.cdn.zzko.cn/gh/w-aiguo/tvbox@main/jar/duo.jarr",
 // 配置直播地址
 "lives": [{"name":"直播IPV4","type":"0","url":"./TV.txt","epg":"http://diyp.112114.xyz/","logo":"http://diyp.112114.xyz/logo/{name}.png"}],
 
@@ -14,7 +14,7 @@
 {"key":"dr_88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/88看球.js"},
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy2.min.js","ext":"./tiyu/JRKAN直播.js"},
 //{"key":"dr_全网直播吧","name":"🏀全网直播吧✨","type":"3","api":"./js/drpy2.min.js","ext":"./tiyu/全网直播吧.js"},
-//{"key":"DJ-直播吧","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
+{"key":"DJ-直播吧","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
 
 {"key":"dr_926直播","name":"🏀926直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/926直播.js"},
 {"key":"DJ-XP-零点吧","name":"🏀零点吧","type":3,"api":"csp_XPath","ext":"./tiyu/零点吧.json"},
@@ -44,7 +44,7 @@
 {"key":"sp_pa","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://lgyy.tv"},
 {"key":"csp_Ysgc","name":"🎋影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
-//{"key":"csp_Yht","name":"♻️野荷塘影院","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yehetang.cc"},
+{"key":"csp_Yht","name":"♻️野荷塘影院","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yehetang.cc"},
 {"key":"csp_Cokemv","name":"🍻Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 {"key":"Sp_cj","name":"👑速优","type": 1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","大陆综艺","国产动漫"]},
 {"key": "csp_BBB","name": "🅱️哔哩哔哩","type": 3,"api": "csp_Bili","ext": "./json/哔哩套餐.json"},
