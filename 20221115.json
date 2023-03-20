@@ -2,8 +2,8 @@
 // 壁纸 
 //"wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
-"spider":"./Yoursmile.jar",
-
+//"spider":"./Yoursmile.jar",
+"spider":"https://gitee.com/dongji2/tb/raw/master/jar/dd230109.jar",
 // 配置直播地址
 "lives": [{"name":"直播IPV4","type":"0","url":"./TV.txt","epg":"http://diyp.112114.xyz/","logo":"http://diyp.112114.xyz/logo/{name}.png"}],
 
@@ -14,7 +14,7 @@
 {"key":"dr_88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/88看球.js"},
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/JRKAN直播.js"},
 //{"key":"dr_全网直播吧","name":"🏀全网直播吧✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/全网直播吧.js"},
-//{"key":"DJ-直播吧","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
+{"key":"DJ-直播吧","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
 
 {"key":"dr_926直播","name":"🏀926直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/926直播.js"},
 {"key":"DJ-XP-零点吧","name":"🏀零点吧","type":3,"api":"csp_XPath","ext":"./tiyu/零点吧.json"},
