@@ -15,7 +15,6 @@
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/JRKAN直播.js"},
 //{"key":"dr_全网直播吧","name":"🏀全网直播吧✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/全网直播吧.js"},
 //{"key":"DJ-直播吧","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
-{"key":"DJ-直播吧","name":"直播吧┃P","type":3,"api":"csp_xBPQ","ext":"https://gitee.com/dongji2/tb/raw/master/xbpq/zhibo8.json"},
 {"key":"dr_926直播","name":"🏀926直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/926直播.js"},
 {"key":"DJ-XP-零点吧","name":"🏀零点吧","type":3,"api":"csp_XPath","ext":"./tiyu/零点吧.json"},
 //{"key":"高清直播","name":"🏀高清直播","type": 3,"api":"csp_XPath","ext":"./tiyu/高清直播.json"}, 
