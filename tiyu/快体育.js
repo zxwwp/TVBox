@@ -2,8 +2,11 @@ var rule = {
     title:'快体育',
     host:'https://123kzb.net/',
     url:'/fyclass',
-    class_name:'赛事直播✨注意时间',
-    class_url:'/',
+    class_name:'热门&足球&篮球&足球&NBA&CBA&WNBA&WCBA',
+    class_url:'0&1&2&20001&20003&20002&20020', 
+    homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
+    //class_name:'赛事直播✨注意时间',
+    //class_url:'/',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
