@@ -17,7 +17,7 @@ var rule = {
     二级:{title:'.title&&Text;.category&&Text',
     content:'.title&&Text',
     tabs:"js:TABS=['【直播源】']",
-    lists:'div.xh a',
+    lists:'#xh a',
     list_text:'a&&Text',
     list_url:'a&&href'
     },
