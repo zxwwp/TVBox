@@ -3,7 +3,7 @@ var rule = {
     host:'https://www.ablejs.com',
     url:'/fyclass',
     class_name:'赛事直播✨注意时间',
-    class_url:'/channel/fyclass.html',
+    class_url:'/channel/fypage.html',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
