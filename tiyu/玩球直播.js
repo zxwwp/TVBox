@@ -13,7 +13,7 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-    一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.live-list li');tabs.forEach(function(it){var pz=pdfh(it,'.title&&Text');var ps=pdfh(it,'.category&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'.match-start-time&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
+    一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.live-list li');tabs.forEach(function(it){var pz=pdfh(it,'.title&&Text');var ps=pdfh(it,'.live-description br&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'.match-start-time&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
     二级:{title:'.live-title&&Text;.live-title&&Text',
     img:'img:eq(1)&&src',
     desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',
