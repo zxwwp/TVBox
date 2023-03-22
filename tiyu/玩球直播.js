@@ -17,7 +17,7 @@ var rule = {
     二级:{
         title:".livetime-title&&Text;.category&&Text",//类型 时间
 		desc:";;;.title&&Text",  //演员;导演
-		content:"",  // 主要信息
+		content:".live-description&&Text",  // 主要信息
 		tabs:"js:TABS=['【直播源】']",
 		lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.xh&&Text');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'a&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"
     },
