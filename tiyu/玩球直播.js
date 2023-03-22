@@ -1,7 +1,7 @@
 var rule = {
     title:'玩球直播',
     host:'https://www.ablejs.com',
-    url:'/fyclass/fypage.html',
+    url:'/fyclass',
     class_name:'赛事直播✨注意时间',
     class_url:'/',
     headers:{
