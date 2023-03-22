@@ -2,8 +2,11 @@ var rule = {
     title:'玩球直播',
     host:'https://www.ablejs.com',
     url:'/fyclass',
-    class_name:'赛事直播✨注意时间',
-    class_url:'/',
+    class_name:'足球直播&篮球直播&综合直播',
+    class_url:'/live/zuqiu/&/live/lanqiu/&/live/qita/', 
+    homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
+    //class_name:'赛事直播✨注意时间',
+    //class_url:'/',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
