@@ -24,7 +24,7 @@
 	// 视频图片
     "dtImg": "'https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_basketball-613501677974169.png'",
     // 视频简介
-    "dtDesc": "concat('欢迎观看高清直播网! ')",
+    "dtDesc": "concat('欢迎观看👀高清直播网📱卡顿请更换直播源🚦')",
 	
 	// 播放源节点
     "dtFromNode": "//body",
