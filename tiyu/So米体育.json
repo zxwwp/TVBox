@@ -33,6 +33,8 @@
     //json片单副标题，这个很少有，预留着
     "catjsonstitle":"navName",
     
+        // 视频简介
+    "dtDesc": "concat('欢迎观看👀高清直播网📱卡顿请更换直播源🚦')",
     
     //分类片单链接补前缀  
     "cat_prefix": "",
@@ -44,19 +46,5 @@
     "force_play": "1",
     //直接播放链接补前缀
     "play_prefix": "https://www.smty22.com/live/room/"
-    //直接播放链接补后缀，设置为#isVideo=true#可强制识别为视频链接
-    //"play_suffix": "",
-    //直接播放链接设置请求头，只对直链视频有效，每一组用#分开
-   // "play_header": "",
-    
-    //下面几个参数请勿乱用。否则可能会有副作用。
-    //分析网页源码中有<script type="text/javascript">var player_aaaa={"flag":"play","encrypt这种源码的链接解析
-    //如果网页源码里没有这种请设置为0
-    //"Anal_MacPlayer":"0",
-    //是否开启手动嗅探，只对网页嗅探有效，0否，1是
-    //"ManualSniffer":"0",
-    //手动嗅探视频链接关键字，每个用#隔开
-    //"VideoFormat":".mp4#.m3u8#.flv",
-    //手动嗅探视频链接过滤关键词,每个用#隔开
-   // "VideoFilter":".html#=http"
+  
 }
