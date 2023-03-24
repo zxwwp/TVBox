@@ -22,7 +22,7 @@ var rule = {
        tabs:"js:TABS=['【直播源】']",
        lists:".zbzt a",
        list_text:'a&&Text',
-       list_url:'a&&data-url'
+       list_url:'a&&href'
     },
   搜索:'*',
 }
