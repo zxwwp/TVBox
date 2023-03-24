@@ -19,7 +19,7 @@ var rule = {
 		desc:";;;.title&&Text",  //演员;导演
 		content:"strong&&Text",  // 主要信息
 		tabs:"js:TABS=['【直播源】']",
-		lists:"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)})"
+		lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.links&&a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'span.diss&&Text');let url=pd(it,'dd&&nz-g-c');return name+'$'+url});LISTS.push(d)});"
         },
     搜索:'',
 }
