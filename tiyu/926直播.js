@@ -25,7 +25,7 @@ var rule = {
         content:'.biaoti&&Text',
         tabs:"js:TABS=['【直播源】']",
         lists:'.box:eq(#id) dd',
-        //list_text:'.diss&&Text',
+        list_text:'dd:eq(0)&&Text',
         //list_url:'a&&data-url'
         },
     搜索:'',
