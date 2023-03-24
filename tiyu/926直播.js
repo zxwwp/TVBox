@@ -21,12 +21,11 @@ var rule = {
     二级:{
         title:'.bs_fenl_sj.bs_fenl_sj_new&&Text;.fenleimc_lan&&Text',
         desc:';;;.ks_zhumc&&Text;.ks_kemc&&Text',
-        //content:'.weikan&&Text',
         content:'.biaoti&&Text',
-        //tabs:"js:TABS=['【直播源】']",
+        tabs:"js:TABS=['【直播源】']",
         //lists:'body#green:eq(0) dd',
         //list_text:'dd:eq(0)&&Text',
-        //list_url:'a&&data-url'
+        list_url:'a&&href'
         },
     搜索:'',
 }
