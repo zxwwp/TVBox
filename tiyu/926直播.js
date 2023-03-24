@@ -21,7 +21,7 @@ var rule = {
     二级:{
         title:'.bs_fenl_sj.bs_fenl_sj_new&&Text;.fenleimc_lan&&Text',
         desc:';;;.ks_zhumc&&Text;.ks_kemc&&Text',
-        content:';.biaoti&&Text',
+        content:'.biaoti&&Text',
         tabs:"js:TABS=['【直播源】']",
         lists:'iframe dd',
         list_text:'dd:eq(0)&&Text',
