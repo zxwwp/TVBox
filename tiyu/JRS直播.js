@@ -17,7 +17,7 @@ var rule = {
     二级:{
         title:'.live-info&&Text;.live-info div:eq(0)&&Text',
        desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',
-       content:'.live-info&&Text',
+       content:'.col-12.live-title&&Text',
        tabs:"js:TABS=['【直播源】']",
        lists:'#item-source a',
        list_text:'a&&Text',
