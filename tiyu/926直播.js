@@ -24,7 +24,7 @@ var rule = {
         //content:'.weikan&&Text',
         content:'.biaoti&&Text',
         tabs:"js:TABS=['【直播源】']",
-        lists:'body#green dd',
+        lists:'body#green div:eq(1)',
         //list_text:'.diss&&Text',
         //list_url:'a&&data-url'
         },
