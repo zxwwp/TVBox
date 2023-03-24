@@ -2,10 +2,12 @@ var rule = {
     title:'雄狮直播',
     host:'https://www.xszhibo.com/', 
     url:'/fyclass',
-    class_name:'篮球&足球&乒乓球&羽毛球&斯诺克&网球',
-    class_url:'lanqiu&zuqiu&zonghe/pingpangqiu/&zonghe/yumaoqiu/&zonghe/sinuoke/&zonghe/wangqiu/', 
-    searchable:2,//是否启用全局搜索,
-    quickSearch:0,//是否启用快速搜索,
+    class_name:'赛事直播✨注意时间',
+    class_url:'/', 
+    //class_name:'篮球&足球&乒乓球&羽毛球&斯诺克&网球',
+    //class_url:'lanqiu&zuqiu&zonghe/pingpangqiu/&zonghe/yumaoqiu/&zonghe/sinuoke/&zonghe/wangqiu/', 
+    //searchable:2,//是否启用全局搜索,
+    //quickSearch:0,//是否启用快速搜索,
     headers:{
         'User-Agent':'MOBILE_UA'
     },
