@@ -20,7 +20,6 @@ var rule = {
    二级:{
        title:'.tit&&Text;.sbtsw b&&Text',
        desc:';;;.sbtsw022&&Text;.sbtsw023&&Text',
-       content:'.live-info&&Text',
        tabs:"js:TABS=['【直播源】']",
        lists:".zbzt a",
        list_text:'a&&Text',
