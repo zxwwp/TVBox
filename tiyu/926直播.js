@@ -23,7 +23,7 @@ var rule = {
         desc:';;;.ks_zhumc&&Text;.ks_kemc&&Text',
         content:'.biaoti&&Text',
         tabs:"js:TABS=['【直播源】']",
-        lists:'iframe dd',
+        lists:'body#green div:eq(1)&&dd',
         list_text:'dd:eq(0)&&Text',
         list_url:'a&&href'
         },
