@@ -20,7 +20,8 @@ var rule = {
        title:'.tit&&Text;.sbtsw b&&Text',
        desc:';;;.sbtsw022&&Text;.sbtsw023&&Text',
        tabs:"js:TABS=['【直播源】']",
-       lists:".zbzt a",
+       //lists:".zbzt a",
+       lists:".down-site a",
        list_text:'a&&Text',
        list_url:'a&&href'
     },
