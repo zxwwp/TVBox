@@ -5,7 +5,7 @@ var rule = {
     //class_name:'赛事直播✨注意时间',
     //class_url:'/',
     class_name:'全部直播&足球直播&篮球直播&综合直播',       //静态分类名称拼接
-    class_url:'/&live/zuqiu&live/lanqiu&live/qita',
+    class_url:'/&live/zuqiu/&live/lanqiu/&live/qita/',
     
     headers:{
         'User-Agent':'MOBILE_UA'
