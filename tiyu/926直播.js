@@ -3,10 +3,10 @@ var rule = {
     host:'http://www.926.tv',
     //备用网址：http://www.928.tv，http://www.310.tv
     url:'/fyclass',
-    class_name:'热门&篮球&足球&体育',     //静态分类名称拼接
-    class_url:'0&1&2&3',    //静态分类标识拼接
-    //class_name:'赛事直播✨注意时间',
-   // class_url:'/', 
+    //class_name:'热门&篮球&足球&体育',     //静态分类名称拼接
+    //class_url:'0&1&2&3',    //静态分类标识拼接
+    class_name:'赛事直播✨注意时间',
+    class_url:'/', 
     headers:{
         'User-Agent':'MOBILE_UA'
     },
