@@ -5,7 +5,7 @@
 
 var rule = {
     title:'抓饭体育',
-    host:'https://www.zhuafan.tech',
+    host:'https://www.zhuafan.tech/v2',
     url:'/sports-home/category/fyclass',
     class_name:'全部&足球&篮球&羽乒&排球&台球&网球&棋盘&棒球&搏击',
     class_url:'all&Football&Basketball&Badminton&Volleyball&Billiards&Tennis&Boardgame&Baseball&Wrestling',
