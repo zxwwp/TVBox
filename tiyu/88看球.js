@@ -2,8 +2,11 @@ var rule = {
     title:'88看球',
     host:'http://www.88kanqiu.live',
     url:'/fyclass',
-    class_name:'赛事直播✨注意时间',
-    class_url:'/', 
+    //class_name:'赛事直播✨注意时间',
+   // class_url:'/', 
+    class_name:'NBA&CBA&英超&西甲',       //静态分类名称拼接
+    class_url:'/match/1/live&/match/2/live&/match/8/live&/match/9/live',    //静态分类标识拼接
+    homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
     //url:'/match/fyclass/live',
     //class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
     headers:{
