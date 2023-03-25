@@ -6,8 +6,8 @@ var rule = {
     url:'/fyclass',    
     //class_name:'赛事直播✨注意时间',      //静态分类名称拼接
     //class_url:'/',     //静态分类标识拼接
-    class_name:'全部&篮球&足球',       //静态分类名称拼接
-    class_url:'/&/live_1.html?project=1&game=0&/yczb.html',    //静态分类标识拼接
+    class_name:'全部&篮球&足球&综合',       //静态分类名称拼接
+    class_url:'0&2&1&3',    //静态分类标识拼接
     headers:{
          'User-Agent':'MOBILE_UA',
         "Cookie": "searchneed=ok"
