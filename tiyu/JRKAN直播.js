@@ -16,7 +16,7 @@ var rule = {
 	// JRKAN网址发布:qiumi1314.com
     url:'/fyclass',
     class_name:'全部&足球&篮球&其他',
-    class_url:'nav-item&1&nav-item.active&111', 
+    class_url:'all&1&nav-item.active&111', 
     //class_name:'赛事直播✨注意时间',
     //class_url:'/',
     headers:{
