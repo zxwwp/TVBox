@@ -4,7 +4,7 @@ var rule = {
     url:'/fyclass',
     //class_name:'赛事直播✨注意时间',
    // class_url:'/', 
-    class_name:'全部直播&NBA&CBA&英超&西甲&意甲&德甲&法甲&中超&斯诺克',       //静态分类名称拼接
+    class_name:'全部&NBA&CBA&英超&西甲&意甲&德甲&法甲&中超&斯诺克',       //静态分类名称拼接
     class_url:'/&match/1/live&match/2/live&match/8/live&match/9/live&match/10/live&match/14/live&match/15/live&match/7/live&match/30/live',    //静态分类标识拼接
     //homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
     //url:'/match/fyclass/live',
