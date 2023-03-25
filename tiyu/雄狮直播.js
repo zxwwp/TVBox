@@ -21,7 +21,7 @@ var rule = {
        desc:';;;.sbtsw022&&Text;.sbtsw023&&Text',
        tabs:"js:TABS=['【直播源】']",
        //lists:".zbzt a",
-       lists:".downinfo-detail p",
+       lists:"p.down-site a",
        list_text:'a&&Text',
        list_url:'a&&href'
     },
