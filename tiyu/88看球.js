@@ -7,7 +7,7 @@ var rule = {
    // class_url:'/', 
     class_name:'全部&NBA&CBA&英超&西甲&意甲&德甲&法甲&中超&斯诺克',       //静态分类名称拼接
     //class_url:'/&match/1/live&match/2/live&match/8/live&match/9/live&match/10/live&match/14/live&match/15/live&match/7/live&match/30/live',    //静态分类标识拼接
-    class_url:'/&1&2&8&9&10&14&15&17&30',    //静态分类标识拼接  
+    class_url:'0&1&2&8&9&10&14&15&17&30',    //静态分类标识拼接  
     //homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
     //url:'/match/fyclass/live',
     //class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',//动态分类获取 列表;标题;链接;正则提取 不需要正则的时候后面别加分号
