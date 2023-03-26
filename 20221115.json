@@ -64,10 +64,10 @@
 {"key":"新浪资源","name":"🆗新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_XYQHiker_F7好看剧","name":"🦊F7剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/F7好看剧.json"},
 //{"key":"搜狐(官源)","name":"💝搜狐","type":0,"api":"http://vipmv.cc/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["剧情片","战争片","国产剧","港台剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
-{"key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
+{"key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"}
 
 //美食教程
-{"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","ext": "./json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"}
+//{"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","ext": "./json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"}
 //{"key": "美食","name": "🍔美食合集","type": 3,"api": "csp_Bili","ext": "./json/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"}
 
 ],
