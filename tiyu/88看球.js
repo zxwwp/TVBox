@@ -1,7 +1,8 @@
 var rule = {
     title:'88看球',
     host:'http://www.88kanqiu.live',
-    url:'/fyclass',
+    //url:'/fyclass',
+    url:'/match/fyclass/live',
     //class_name:'赛事直播✨注意时间',
    // class_url:'/', 
     class_name:'全部&NBA&CBA&英超&西甲&意甲&德甲&法甲&中超&斯诺克',       //静态分类名称拼接
