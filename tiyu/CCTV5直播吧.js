@@ -23,7 +23,7 @@ var rule = {
           desc:';;;.pre-content h3&&Text',  //// 演员;导演
           content:".pre-content h3&&Text", //主要信息
           tabs:"js:TABS=['【直播源】']",
-          lists:'.liveshow a',   //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
+          lists:'a.toLive picked a',   //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
           list_text:'a&&Text',
           list_url:'a&&href'
          },
