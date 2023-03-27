@@ -28,7 +28,7 @@
 	// 视频图片
     "dtImg": "'https://gitee.com/xl04wy22/tvbox/raw/master/jpg/pngpai.com_football-player-631371677974290.png'",
     // 视频简介
-    "dtDesc": "concat(''欢迎观看👀优直播网📱卡顿请更换直播源🚦'')",
+    "dtDesc": "concat('欢迎观看👀优直播网📱卡顿请更换直播源🚦')",
 	
 	// 播放源节点
     "dtFromNode": "//body",
