@@ -16,6 +16,7 @@
 {"key":"dr_JRS低调看球","name":"🏀JRS低调看球✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/JRS低调看球.js"},
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/JRKAN直播.js"},
 {"key":"dr_88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/88看球.js"},
+{"key":"dr_优直播","name":"🏀优直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/优直播.js"},
 {"key":"高清直播","name":"🏀高清直播","type": 3,"api":"csp_XPath","ext":"./tiyu/高清直播.json"}, 
 //{"key":"DJ-直播吧","name":"🏀全网直播8","type":3,"api":"csp_xBPQ","ext":"./tiyu/全网直播8.json"},
 //{"key":"优直播","name":"🏀优直播","type": 3,"api":"csp_XPath","ext":"./tiyu/优直播.json"},
