@@ -16,7 +16,7 @@ var rule = {
     double:false,    //是否双层列表定位,默认false
     推荐:'*',
       // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
-    一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&dd.clearfix.list_wrap_new_dd div');tabs.forEach(function(it){var  pz=pdfh(it,'li.lab_team_home strong&&Text');var ps=pdfh(it,'li.lab_events&&Text');var pk=pdfh(it,'li.lab_team_away strong&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'li.lab_time&&Text');var url=pd(it,'li.play a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
+    一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&dd.clearfix.list_wrap_new_dd');tabs.forEach(function(it){var  pz=pdfh(it,'li.lab_team_home strong&&Text');var ps=pdfh(it,'li.lab_events&&Text');var pk=pdfh(it,'li.lab_team_away strong&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'li.lab_time&&Text');var url=pd(it,'li.play a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
           title:'.sig-vs-txt span&&Text;.sig-vs-txt b&&Text',  //片名;类型 时间
