@@ -19,7 +19,8 @@ var rule = {
       
     二级:{
        title:'li.timer&&Text;p.zb_zzt&&Text',
-       desc:';;;li.teamName nameOne&&Text;li.teamName nameTwo&&Text',
+       desc:';;;li.teamName.nameOne&&Text;li.teamName.nameTwo&&Text',
+       content:'.msg&&Text',
        tabs:"js:TABS=['【直播源】']",
       lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'p.down-site&&a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'a&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"
     },
