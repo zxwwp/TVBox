@@ -23,8 +23,8 @@ var rule = {
           desc:';;;.name:eq(0)&&Text;.name:eq(1)&&Text',  //// 演员;导演
           content:".play&&a", //主要信息
           tabs:"js:TABS=['【直播源】']",
-          lists:'.sig-vs .sig-list.a.ncp a',
-          list_text:'.sig-list.a.ncp a:eq(0)&&Text',
+          lists:'.sig-vs .sig-list.a.ncp a:gt(5):lt(10)',
+          list_text:'a&&Text',
           list_url:'a&&href'
          },
      搜索:'',  
