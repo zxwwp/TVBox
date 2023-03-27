@@ -1,29 +1,31 @@
-// 道长 drpy仓库 https://gitcode.net/qq_32394351/dr_py
-// drpy安卓本地搭建说明 https://gitcode.net/qq_32394351/dr_py/-/blob/master/%E5%AE%89%E5%8D%93%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E.md
-// Pluto Player官方TG https://t.me/PlutoPlayer
-// Pluto Player官方TG https://t.me/PlutoPlayerChannel
-
 var rule = {
-    title:'抓饭体育',
-    host:'https://www.zhuafan.tech/v2',
-    url:'/sports-home/category/fyclass',
-    class_name:'全部&足球&篮球&羽乒&排球&台球&网球&棋盘&棒球&搏击',
-    class_url:'all&Football&Basketball&Badminton&Volleyball&Billiards&Tennis&Boardgame&Baseball&Wrestling',
-	homeUrl:'/sports-home/category/all',//网站的首页链接,用于分类获取和推荐获取
-    detailUrl:'https://m.zhuafan.tech/fyid',//二级详情拼接链接(json格式用)
-    searchUrl:'/live-search/search/query/data?keyword=**&page=fypage&num=&searchType=all&uid=null&from=pc',
-    searchable:2,
-    quickSearch:0,
-    headers:{ 
-        'User-Agent':'PC_UA'
-    },
-    limit:6,
-    timeout:5000,
-    play_parse:true,
-    lazy:'',
-    double:false,
+    title:'5播体育',
+    host:'https://cctv5bo.com',
+    url:'/fyclass',     //网站的分类页面链接
+    class_name:'全部&足球&篮球&乒乓球&斯诺克',       //静态分类名称拼接
+    class_url:'/&zuqiu&lanqiu&zonghe/pingpang&zonghe/snooker',    //静态分类标识拼接
+    homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
+    headers:{
+        'User-Agent':'MOBILE_UA',
+        "Cookie": "searchneed=ok"
+    },     //网站的请求头,完整支持所有的,常带ua和cookies
+    timeout:5000,     //网站的全局请求超时,默认是3000毫秒
+    play_parse:true,    // 服务器解析播放
+    lazy:'',    // 自定义免嗅
+    limit:6,    // 首页推荐显示数量
+    double:false,    //是否双层列表定位,默认false
     推荐:'*',
-    一级:'json:data;cname;imageUrl;uname;id',
-    二级:'*',
-	搜索:'json:cObj.cList;*;*;*;_id',
-}
+      // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
+    一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.item.cd.hot');tabs.forEach(function(it){var  pz=pdfh(it,'.name:eq(0)&&Text');var ps=pdfh(it,'.league&&Text');var pk=pdfh(it,'.name:eq(1)&&Text');var img=pd(it,'img&&data-original');var timer=pdfh(it,'.time&&Text');var url=pd(it,'li.play a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
+    // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
+     二级:{
+          title:'.sig-vs-txt span&&Text;.sig-vs-txt b&&Text',  //片名;类型 时间
+          desc:';;;.ht a&&Text;.gt a&&Text',  //// 演员;导演
+          content:".team&&Text", //主要信息
+          tabs:"js:TABS=['【直播源】']",
+          lists:'.sig-list.a.ncp a:gt(4):lt(15)',
+          list_text:'a&&Text',
+          list_url:'a&&href'
+         },
+     搜索:'',  
+    }
