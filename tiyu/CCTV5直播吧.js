@@ -19,11 +19,11 @@ var rule = {
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&dd.clearfix');tabs.forEach(function(it){var pz=pdfh(it,'dd.clearfix div:eq(2)&&Text');var ps=pdfh(it,'dd.clearfix div:eq(1)&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'dd.clearfix div:eq(0)&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
-          title:'p.timeP&&Text;.sig-vs-txt b&&Text',  //片名;类型 时间
+          title:'p.timeP&&Text',  //片名;类型 时间
           desc:';;;.pre-content h3&&Text',  //// 演员;导演
-          content:".pre-content h3&&Text", //主要信息
+          content:"h3&&Text", //主要信息
           tabs:"js:TABS=['【直播源】']",
-          lists:'a.toLive.picked a',   //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
+          lists:'.clearfix.video-box-cont div',   //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
           list_text:'a&&Text',
           list_url:'a&&href'
          },
