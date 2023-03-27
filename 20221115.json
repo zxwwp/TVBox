@@ -11,7 +11,7 @@
 "sites":[
 //体育直播
 {"key":"T4直播","name":"📡广播频道","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ="}, 
-//{"key":"dr_雄狮直播","name":"🏀雄狮直播✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/雄狮直播.js"},
+{"key":"dr_雄狮直播","name":"🏀雄狮直播✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/雄狮直播.js"},
 //{"key":"dr_926直播","name":"🏀926直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/926直播.js"},
 {"key":"dr_JRS低调看球","name":"🏀JRS低调看球✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/JRS低调看球.js"},
 {"key":"dr_JRKAN直播","name":"🏀JRKAN直播✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/JRKAN直播.js"},
