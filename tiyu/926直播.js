@@ -25,7 +25,7 @@ var rule = {
         desc:';;;.ks_zhumc&&Text;.ks_kemc&&Text',
         content:'.biaoti&&Text',
         tabs:"js:TABS=['【直播源】']",
-        lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.list_content a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'span.diss&&Text');let url=pd(it,'dd&&zr-zfr-y');return name+'$'+url});LISTS.push(d)});"
+        lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.main-two dl&&dd');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'span.diss&&Text');let url=pd(it,'iframe&&src');return name+'$'+url});LISTS.push(d)});"
         },
     搜索:'',
 }
