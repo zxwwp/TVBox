@@ -1,6 +1,6 @@
 var rule = {
     title:'5播体育',
-    host:'https://cctv5bo.com',
+    host:'https://cctv5bo.com/',
     url:'/fyclass',     //网站的分类页面链接
     class_name:'全部&足球&篮球&综合',       //静态分类名称拼接
     class_url:'/&zuqiu&lanqiu&zonghe',    //静态分类标识拼接
