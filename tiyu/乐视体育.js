@@ -1,7 +1,7 @@
 var rule = {
     title:'乐视体育',
-    host:'http://www.lshitv.com/zb/',
-    url:'/fyclass',     //网站的分类页面链接
+    host:'http://www.lshitv.com/',
+    url:'/zb/fyclass',     //网站的分类页面链接
     class_name:'赛事直播✨注意时间',
     class_url:'/',
     headers:{
