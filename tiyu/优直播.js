@@ -24,7 +24,7 @@ var rule = {
           content:".play&&a", //主要信息
           tabs:"js:TABS=['【直播源】']",
           lists:'.sig-vs .sig-list.a.ncp a',
-          list_text:'a&&Text',
+          list_text:'.sig-list.a.ncp a:eq(0)&&Text',
           list_url:'a&&href'
          },
      搜索:'',  
