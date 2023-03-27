@@ -21,9 +21,9 @@ var rule = {
      二级:{
           title:'p.timeP&&Text;.sig-vs-txt b&&Text',  //片名;类型 时间
           desc:';;;.pre-content h3&&Text',  //// 演员;导演
-          //content:".pre-content h3&&Text", //主要信息
+          content:".pre-content h3&&Text", //主要信息
           tabs:"js:TABS=['【直播源】']",
-          lists:'.info2 a',   //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
+          lists:'.liveshow a',   //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
           list_text:'a&&Text',
           list_url:'a&&href'
          },
