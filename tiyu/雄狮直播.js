@@ -22,7 +22,7 @@ var rule = {
        desc:';;;.sbtsw022&&Text;.sbtsw023&&Text',
        tabs:"js:TABS=['【直播源】']",
        //lists:".zbzt a",
-      lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.zbzt&&a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'a&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"
+      lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.downinfo-detail p&&a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'a&&Text');let url=pd(it,'a&&href');return name+'$'+url});LISTS.push(d)});"
     },
   搜索:'*',
 }
