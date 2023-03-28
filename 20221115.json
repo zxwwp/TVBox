@@ -42,7 +42,6 @@
 {"key":"csp_555","name":"5️⃣️555","type":3,"api":"csp_Ys555","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"csp_Nkdy","name":"👓耐看","type":3,"api":"csp_Nkdy","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_cj","name":"👑速优","type": 1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","大陆综艺","国产动漫"]},
-{"key": "csp_BBB","name": "🅱️哔哩哔哩","type": 3,"api": "csp_Bili","ext": "./json/哔哩套餐.json"},
 {"key":"Paper","name":"📜小纸条|网盘1","type":3,"api":"csp_Paper","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./json/tok.txt"},
 {"key":"csp_Nmys","name":"👨‍🌾农民影视","type":3,"api":"csp_Nmys","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
 {"key":"drpy_天空影视","name":"🌈天空影视","type":3,"api":"./js/drpy.min.js","ext":"./js/天空影视.js"},
