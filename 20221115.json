@@ -38,15 +38,9 @@
 {"key":"sp_pa","name":"🐯胖虎","type":3,"api":"csp_Panghu","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_Ysgc","name":"🏭影视工厂","type":3,"api":"csp_Ysgc","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
 {"key":"csp_Cokemv","name":"🍻Cokemv","type":3,"api":"csp_Cokemv","m3u8ads": "hd.youyhn.com","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
-
-{"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.org"},
-{"key":"csp_zxzjH3","name":"📗在线H3┃影视","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
-{"key":"csp_Lgyy","name":"🌀蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 {"key":"csp_Smdyy","name": "🐴神马","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Bd","name":"💥哔嘀","type":3,"api":"csp_Bdys01","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_555","name":"5️⃣️555","type":3,"api":"csp_Ys555","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"csp_Nkdy","name":"👓耐看","type":3,"api":"csp_Nkdy","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"Sp_cj","name":"👑速优","type": 1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","大陆综艺","国产动漫"]},
 {"key": "csp_BBB","name": "🅱️哔哩哔哩","type": 3,"api": "csp_Bili","ext": "./json/哔哩套餐.json"},
 {"key":"Paper","name":"📜小纸条|网盘1","type":3,"api":"csp_Paper","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./json/tok.txt"},
@@ -57,7 +51,6 @@
 {"key":"drpy_jjs_饭团影","name":"🍙饭团影视","type":3,"api":"./js/drpy.min.js","ext":"./js/js_饭团影视.js"},
 {"key":"drpy_js_乐猪TV","name":"🐖乐猪TV","type":3,"api":"./js/drpy.min.js","ext":"./js/js_乐猪TV.js"},
 {"key":"drpy_007影视","name":"✨007影视","type":3,"api":"./js/drpy.min.js","ext":"./js/007影视.js"},
-//{"key":"drpy_555影视","name":"5️⃣️555影视","type":3,"api":"./js/drpy.min.js","ext":"./js/555影视.js"},
 {"key":"drpy_皮皮鸭","name":"🦆皮皮鸭","type":3,"api":"./js/drpy.min.js","ext":"./js/皮皮鸭.js"},
 {"key":"xp_qr","name":"🏇奇优影院","type":3,"api":"./js/drpy.min.js","ext":"./js/奇优影院.js"},
 {"key":"drpy_js_城市影视","name":"🏠城市影视","type":3,"api":"./js/drpy.min.js","ext":"./js/城市影视.js"},
