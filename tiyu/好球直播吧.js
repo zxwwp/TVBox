@@ -6,10 +6,9 @@ var rule = {
     class_url:'/&live/zuqiu&live/lanqiu&live/tiyu',    //静态分类标识拼接
     //homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
     headers:{
-        'User-Agent':'PC_UA'
-        //'User-Agent':'MOBILE_UA',
-        //"Cookie": "searchneed=ok"
-    },     //网站的请求头,完整支持所有的,常带ua和cookies
+            'User-Agent':'MOBILE_UA',
+            "Cookie": "searchneed=ok"
+            },     //网站的请求头,完整支持所有的,常带ua和cookies
     timeout:5000,     //网站的全局请求超时,默认是3000毫秒
     play_parse:true,    // 服务器解析播放
     lazy:'',    // 自定义免嗅
