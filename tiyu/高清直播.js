@@ -2,8 +2,8 @@ var rule = {
     title:'高清直播',
     host:'http://www.zuqiuzhibo.live/',
     url:'/fyclass',
-    class_name:'全部&NBA&CBA',       //静态分类名称拼接
-    class_url:'/&nba.html&cba.html',    //静态分类标识拼接
+    class_name:'全部&NBA&CBA&五大联赛&欧冠杯',       //静态分类名称拼接
+    class_url:'/&nba.html&cba.html&5.html&ouguan.html',    //静态分类标识拼接
     headers:{
         'User-Agent':'MOBILE_UA'
     },
