@@ -20,7 +20,7 @@ var rule = {
 		//content:".title-content hlg&&Text",  // 主要信息
 		tabs:"js:TABS=['【直播源】']",
 		lists:'ul.hotpd a',
-        list_text:'a:gt(11):lt(14)&&Text',
+        list_text:'a&&Text',
         list_url:'a&&href'
         },
     搜索:'',
