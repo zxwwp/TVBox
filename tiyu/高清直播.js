@@ -17,7 +17,7 @@ var rule = {
     二级:{
         title:".date&&Text;a&&Text",//类型 时间
 		desc:";;;strong:lt(0)&&Text;strong:lt(2)&&Text",  //演员;导演
-		content:".against:gt(0):lt(4)&&Text",  // 主要信息
+		content:".against td:gt(0):lt(4)&&Text",  // 主要信息
 		tabs:"js:TABS=['【直播源】']",
 		lists:'td.live_link a:gt(-1):lt(4)',
         list_text:'a&&Text',
