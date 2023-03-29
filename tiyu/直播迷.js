@@ -21,7 +21,7 @@ var rule = {
 		tabs:"js:TABS=['【直播源】']",
 		lists:'ul.hotpd a',
         list_text:'a:gt(11):lt(14)&&Text',
-        list_url:'a:gt(11):lt(14)&&href'
+        list_url:'a&&href'
         },
     搜索:'',
 }
