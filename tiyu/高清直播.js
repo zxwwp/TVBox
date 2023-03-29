@@ -4,7 +4,7 @@ var rule = {
     url:'/fyclass',
     //class_name:'赛事直播✨注意时间',
     //class_url:'/',
-    class_name:'页&NBA&CBA',       //静态分类名称拼接
+    class_name:'全部&NBA&CBA',       //静态分类名称拼接
     class_url:'/&nba.html&cba.html',    //静态分类标识拼接
     headers:{
         'User-Agent':'MOBILE_UA'
