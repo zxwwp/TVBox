@@ -17,7 +17,6 @@
 {"key":"dr_88看球","name":"🏀88看球✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/88看球.js"},
 {"key":"dr_直播迷","name":"🏀直播迷✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/直播迷.js"},
 {"key":"dr_高清直播","name":"🏀高清直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/高清直播.js"},
-{"key":"高清直播","name":"🏀高清直播","type": 3,"api":"csp_XPath","ext":"./tiyu/高清直播.json"},
 {"key":"dr_5播体育","name":"🏀5播体育✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/5播体育.js"},
 {"key":"dr_优直播","name":"🏀优直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/优直播.js"}, 
 {"key":"dr_玩球直播","name":"🏀玩球直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/玩球直播.js"},
