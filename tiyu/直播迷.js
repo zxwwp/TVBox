@@ -19,7 +19,7 @@ var rule = {
 		//desc:";;;.title&&Text",  //演员;导演
 		//content:".title-content hlg&&Text",  // 主要信息
 		tabs:"js:TABS=['【直播源】']",
-		lists:'td.live_link a:gt(-1):lt(4)',
+		lists:'ul.sc li:gt(7) a',
         list_text:'a&&Text',
         list_url:'a&&href'
         },
