@@ -2,8 +2,8 @@ var rule = {
     title:'野球直播',
     host:'https://www.luxiangwu.com/',
     url:'/fyclass',     //网站的分类页面链接
-    class_name:'全部&NBA录像&CBA录像',       //静态分类名称拼接
-    class_url:'/&nbaluxiang&cbaluxiang',    //静态分类标识拼接
+    class_name:'NBA录像&CBA录像',       //静态分类名称拼接
+    class_url:'nbaluxiang&cbaluxiang',    //静态分类标识拼接
     homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
     headers:{
         'User-Agent':'MOBILE_UA',
