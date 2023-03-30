@@ -15,7 +15,7 @@ var rule = {
     推荐:'*',
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.match-link');tabs.forEach(function(it){var pz=pdfh(it,'.left-team&&Text');var ps=pdfh(it,'.mobile-type&&Text');var pk=pdfh(it,'.right-team&&Text');var img=pd(it,'img&&data-original');var timer=pdfh(it,'.mobile-time&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
     二级:{
-          title:'.col-12.live-title div:gt(4)&&Text;.live-info div:eq(0)&&Text',
+          title:'.col-12.live-title div:gt(4):lt(5)&&Text;.live-info div:eq(0)&&Text',
           desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',
           content:'.col-12.live-title&&Text',
           tabs:"js:TABS=['【直播源】']",
