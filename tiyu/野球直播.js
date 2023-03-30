@@ -3,7 +3,8 @@ var rule = {
     host:'https://www.yeqiuzhibo.com/',
     url:'/fyclass',     //网站的分类页面链接
     class_name:'全部&足球&篮球&体育',       //静态分类名称拼接
-    class_url:'/&zuqiuzhibo&lanqiuzhibo&tiyuzhibo',    //静态分类标识拼接
+    class_url:'0&2&3&4',    //静态分类标识拼接
+    //class_url:'/&zuqiuzhibo&lanqiuzhibo&tiyuzhibo',    //静态分类标识拼接
     homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
     headers:{
         'User-Agent':'MOBILE_UA',
