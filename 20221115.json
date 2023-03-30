@@ -24,7 +24,7 @@
 {"key":"dr_玩球直播","name":"🏀玩球直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/玩球直播.js"},
 {"key":"dr_篮球录像吧","name":"🏀篮球录像吧✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/篮球录像吧.js"},
 
-{"key":"dr_咪咕视频","name":"🏀咪咕视频✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/咪咕视频.js"},
+{"key":"dr_看比赛","name":"🏀看比赛✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/看比赛.js"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_豆瓣","name":"📌豆瓣荐片","type":3,"api":"./js/drpy.min.js","ext":"./js/豆瓣.js"},
