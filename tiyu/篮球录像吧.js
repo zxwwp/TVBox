@@ -1,5 +1,5 @@
 var rule = {
-    title:'野球直播',
+    title:'篮球录像吧',
     host:'https://www.luxiangwu.com/',
     url:'/fyclass',     //网站的分类页面链接
     class_name:'NBA录像&CBA录像',       //静态分类名称拼接
