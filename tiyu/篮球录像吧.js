@@ -2,8 +2,8 @@ var rule = {
     title:'野球直播',
     host:'https://www.luxiangwu.com/',
     url:'/fyclass',     //网站的分类页面链接
-    class_name:'全部&NBA录像&CBA录像&体育',       //静态分类名称拼接
-    class_url:'/&nbaluxiang&cbaluxiang&tiyuzhibo',    //静态分类标识拼接
+    class_name:'全部&NBA录像&CBA录像',       //静态分类名称拼接
+    class_url:'/&nbaluxiang&cbaluxiang',    //静态分类标识拼接
     homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
     headers:{
         'User-Agent':'MOBILE_UA',
@@ -23,7 +23,7 @@ var rule = {
           desc:';;;.clearfix.bs_xingxi div:eq(0)&&Text;.clearfix.bs_xingxi div:eq(2)&&Text',  //// 演员;导演
           content:".breadnav span&&Text", //主要信息
           tabs:"js:TABS=['【直播源】']",
-          lists:'.xhaolb.fl a',  //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
+          lists:'.entry p',  //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
           list_text:'a&&Text',
           list_url:'a&&href'
          },
