@@ -1,5 +1,5 @@
 var rule = {
-    title:'优直播',
+    title:'野球直播',
     host:'https://www.yeqiuzhibo.com/',
     url:'/fyclass',     //网站的分类页面链接
     class_name:'全部&足球&篮球&体育',       //静态分类名称拼接
