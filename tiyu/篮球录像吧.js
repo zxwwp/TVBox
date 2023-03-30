@@ -19,9 +19,9 @@ var rule = {
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.post');tabs.forEach(function(it){var  pz=pdfh(it,'h2&&Text');var ps=pdfh(it,'.bs_fegnlei&&Text');var pk=pdfh(it,'.bs_duiwu p:eq(1)&&Text');var img=pd(it,'.bs_duiwu img&&data-original');var timer=pdfh(it,'.time&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
-          title:'.event-div span:eq(1)&&Text;.event-div span:eq(0)&&Text',  //片名;类型 时间
-          desc:';;;.clearfix.bs_xingxi div:eq(0)&&Text;.clearfix.bs_xingxi div:eq(2)&&Text',  //// 演员;导演
-          content:".breadnav span&&Text", //主要信息
+          title:'.post h2&&Text;.entry p:eq(0)&&Text',  //片名;类型 时间
+          //desc:';;;.clearfix.bs_xingxi div:eq(0)&&Text;.clearfix.bs_xingxi div:eq(2)&&Text',  //// 演员;导演
+          content:".post h2&&Text", //主要信息
           tabs:"js:TABS=['【直播源】']",
           lists:'.entry p:gt(0):lt(6)',  //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
           list_text:'a&&Text',
