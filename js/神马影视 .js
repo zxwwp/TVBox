@@ -1,7 +1,7 @@
 // 搜索滑动验证
 var rule = {
     title:'神马影院',
-    host:'https://www.smdyy1.cc/',
+    host:'https://www.smdyy1.cc',
     // url:'/list/fyclass-fypage.html',
     url:'/list/fyfilter.html',
     filterable:1,//是否启用分类筛选,
