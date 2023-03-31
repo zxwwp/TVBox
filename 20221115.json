@@ -2,7 +2,9 @@
 // 壁纸 
 //"wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
-"spider":"./Yoursmile.jar",
+//"spider":"./Yoursmile.jar",
+"spider":"./top98_1.jar",
+
 
 // 配置直播地址
 "lives": [
