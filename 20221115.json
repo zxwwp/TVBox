@@ -6,7 +6,7 @@
 
 // 配置直播地址
 "lives": [
-          {"name":"直播IPV4","type":"0","url":"./TV.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"},
+          {"name":"直播","type":"0", "playerType": 1,"url":"./TV.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"},
           {"group": "redirect", "channels": [{"name": "live","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","urls": ["proxy://do=live&type=txt&ext=./TV.tx"]}]}
          ],
 
