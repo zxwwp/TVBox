@@ -1,7 +1,7 @@
 // 搜索滑动验证
 var rule = {
-    title:'神马影视',
-    host:'https://www.6080x.cc',
+    title:'神马影院',
+    host:'https://www.smdyy1.cc/',
     // url:'/list/fyclass-fypage.html',
     url:'/show/fyfilter.html',
     filterable:1,//是否启用分类筛选,
