@@ -48,6 +48,8 @@
 {"key":"csp_Nkdy","name":"👓耐看","type":3,"api":"csp_Nkdy","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Sp_cj","name":"👑速优","type": 1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","大陆综艺","国产动漫"]},
 {"key":"Paper","name":"📜小纸条|网盘1","type":3,"api":"csp_Paper","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./json/tok.txt"},
+
+{"key":"drpy_HDmoli","name":"🍙HDmoli✨","type":3,"api":"./js/drpy.min.js","ext":"./js/HDmoli.js"},
 {"key":"drpy_333影视.","name":"🍨333影视.✨","type":3,"api":"./js/drpy.min.js","ext":"./js/333影视.js"},
 {"key":"drpy_人人影视","name":"🍙人人影视✨","type":3,"api":"./js/drpy.min.js","ext":"./js/人人影视.js"},
 {"key":"drpy_FreeOK","name":"🐖FreeOK✨","type":3,"api":"./js/drpy.min.js","ext":"./js/FreeOK.js"},
