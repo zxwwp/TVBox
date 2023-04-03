@@ -68,8 +68,8 @@
 {"key":"搜狐(官源)","name":"💝搜狐","type":0,"api":"http://vipmv.cc/api.php/provide/vod/from/sohu/at/xml/","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"categories":["剧情片","战争片","国产剧","港台剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
 {"key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 
-{"key":"drpy_LIBVIO","name":"🎀LIBVIO✨","type":3,"api":"./js/drpy.min.js","ext":"./js/LIBVIO.js"},
-{"key":"drpy_voflix","name":"🎉voflix✨","type":3,"api":"./js/drpy.min.js","ext":"./js/voflix.js"},
+{"key":"野荷塘影院","name":"🎉voflix✨","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/野荷塘影院.json"},
+{"key":"drpy_奇优影院","name":"🎀奇优影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/奇优影院.js"},
 {"key":"drpy_兄弟影视","name":"👬兄弟影视✨","type":3,"api":"./js/drpy.min.js","ext":"./js/兄弟影视.js"},
 {"key":"drpy_创艺影视","name":"🏮创艺影视✨","type":3,"api":"./js/drpy.min.js","ext":"./js/创艺影视.js"},
 {"key":"drpy_孜然影视","name":"🍣孜然影视✨","type":3,"api":"./js/drpy.min.js","ext":"./js/孜然影视.js"},
