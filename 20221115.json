@@ -77,6 +77,7 @@
 {"key":"drpy_石榴影院","name":"🥝石榴影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/石榴影院.js"},
 {"key":"drpy_天空影视","name":"☄天空影视✨","type":3,"api":"./js/drpy.min.js","ext":"./js/天空影视.js"},
 {"key":"drpy_鸭奈飞","name":"🦜鸭奈飞✨","type":3,"api":"./js/drpy.min.js","ext":"./js/鸭奈飞.js"},
+{"key":"drpy_跑TV","name":"🎭跑TV✨","type":3,"api":"./js/drpy.min.js","ext":"./js/跑TV.js"},
 
 //美食教程
 {"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","ext": "./json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
