@@ -71,6 +71,7 @@
 {"key":"drpy_石榴影院","name":"🥝石榴影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/石榴影院.js"},
 {"key":"drpy_天空影视","name":"☄天空影视✨","type":3,"api":"./js/drpy.min.js","ext":"./js/天空影视.js"},
 {"key":"drpy_鸭奈飞","name":"🦜鸭奈飞✨","type":3,"api":"./js/drpy.min.js","ext":"./js/鸭奈飞.js"},
+
 {"key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 {"key":"野荷塘影院","name":"🎉野荷塘影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/野荷塘影院.json"},
 {"key":"csp_XYQHiker_F7好看剧","name":"🦊F7剧","type":3,"api":"csp_XYQHiker","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/F7好看剧.json"},
