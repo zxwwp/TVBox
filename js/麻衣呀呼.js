@@ -1,5 +1,5 @@
 var rule = {
-    title:'5播体育',
+    title:'麻衣呀呼',
     host:'https://www.mayiyahu.com/',
     url:'/fyclass',     //网站的分类页面链接
     class_name:'电影&电视剧&动漫&综艺',       //静态分类名称拼接
