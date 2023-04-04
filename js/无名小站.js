@@ -37,11 +37,11 @@ var rule={
     一级:'.mdui-m-t-2&&li;.star-up-name&&Text;.lazy&&data-original;.vod_remarks&&Text;a&&href',
     二级访问前:'log(MY_URL);let jump=request(MY_URL).match(/href="(.*?)"/)[1];log(jump);MY_URL=urljoin2(MY_URL,jump)',
     二级:{
-        "title":".video-titlewraper&&h1&&Text;.inline_item:eq(1)&&Text",
+        "title":".video-titlewraper h1&&Text;.inline_item:eq(1)&&Text",
         "img":".lazyload&&data-original",
-        "desc":";;;.inline_item:eq(2)&&Text;.inline_item:eq()&&Text",
+        "desc":";;;.inline_item:eq(2)&&Text;.info-block a&&Text",
         // "content":".module-info-introduction&&Text",
-        "content":".info_text--div&&Text",
+        "content":".info-block p&&Text",
         "tabs":".mdui-panel-item.mdui-panel-item-open&&.mdui-panel-item-title",
         //"lists":".mdui-panel-item-body:eq(#id)&&.mdui-btn-raised"},
          lists:".mdui-panel-item-body:eq(#id)&&a"}, //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
