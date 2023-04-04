@@ -44,6 +44,8 @@ var rule={
         "content":".info_text--div&&Text",
         "tabs":".vod_play_list&&.mdui-panel-item-title",
         //"lists":".mdui-panel-item-body:eq(#id)&&.mdui-btn-raised"},
-         "lists":".mdui-panel-item-body:eq(#id) a"},
+         lists:".mdui-panel-item-body:eq(#id)&&a"}, //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
+          list_text:'a&&Text',
+          list_url:'a&&href',
     搜索:'body li.vod_item;*;*;*;*',
 }
