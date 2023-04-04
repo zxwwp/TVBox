@@ -20,6 +20,7 @@ var rule = {
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
           title:'.detailinfo.r h1&&Text;p.hide a&&Text',  //片名;类型 时间
+          img:".detailpic.l&&img&&src",
           desc:';;;.detailinfo.r p:eq(4)&&Text;.detailinfo.r p:eq(3)&&Text',  //// 演员;导演
           content:".tjuqing&&Text", //主要信息
           tabs:"ul#play",
