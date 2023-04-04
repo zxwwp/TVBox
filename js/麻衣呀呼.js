@@ -10,8 +10,8 @@ var rule = {
         "Cookie": "searchneed=ok"
     },     //网站的请求头,完整支持所有的,常带ua和cookies
    searchable:2,//是否启用全局搜索,
-	quickSearch:0,//是否启用快速搜索,
-	filterable:0,//是否启用分类筛选,
+	quickSearch:1,//是否启用快速搜索,
+	filterable:1,//是否启用分类筛选,
     play_parse:true,    // 服务器解析播放
     lazy:'',    // 自定义免嗅
     limit:6,    // 首页推荐显示数量
