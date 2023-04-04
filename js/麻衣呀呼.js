@@ -22,7 +22,7 @@ var rule = {
           title:'.hiden&&Text;p.hide&&Text',  //片名;类型 时间
           desc:';;;p. a&&Text;p. a&&Text',  //// 演员;导演
           content:".tjuqing&&Text", //主要信息
-          tabs:"js:TABS=['【直播源】']",
+          tabs:"ul#play",
           lists:'.videolist.cf',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
           list_text:'a&&Text',
           list_url:'a&&href'
