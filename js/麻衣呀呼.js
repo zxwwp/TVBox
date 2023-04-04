@@ -20,7 +20,7 @@ var rule = {
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
           title:'.hiden&&Text;p.hide&&Text',  //片名;类型 时间
-          desc:';;;p. a&&Text;p. a&&Text',  //// 演员;导演
+          desc:';;;.detailinfo.r p:eq(3)&&a;p. a&&Text',  //// 演员;导演
           content:".tjuqing&&Text", //主要信息
           tabs:"ul#play",
           lists:'.videolist.cf:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
