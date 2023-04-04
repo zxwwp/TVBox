@@ -42,7 +42,7 @@ var rule={
         "desc":";;;.inline_item:eq(2)&&Text;.inline_item:eq()&&Text",
         // "content":".module-info-introduction&&Text",
         "content":".info_text--div&&Text",
-        "tabs":".vod_play_list&&.mdui-panel-item-title",
+        "tabs":".mdui-panel-item.mdui-panel-item-open&&.mdui-panel-item-title",
         //"lists":".mdui-panel-item-body:eq(#id)&&.mdui-btn-raised"},
          lists:".mdui-panel-item-body:eq(#id)&&a"}, //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
           list_text:'a&&Text',
