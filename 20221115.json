@@ -57,7 +57,7 @@
 {"key":"drpy_饭团影视","name":"✨饭团影视✨","type":3,"api":"./js/drpy.min.js","ext":"./js/饭团影视.js"},
 {"key":"drpy_影视之家","name":"🦆影视之家✨","type":3,"api":"./js/drpy.min.js","ext":"./js/影视之家.js"},
 {"key":"drpy_达达龟","name":"🏇达达龟✨","type":3,"api":"./js/drpy.min.js","ext":"./js/达达龟.js"},
-{"key":"drpy_无名小站","name":"🍚无名小站✨","type":3,"api":"./js/drpy.min.js","ext":"./js/无名小站.js"},
+//{"key":"drpy_无名小站","name":"🍚无名小站✨","type":3,"api":"./js/drpy.min.js","ext":"./js/无名小站.js"},
 {"key": "drpy_秋霞影视","name": "🍪秋霞影视✨","type": 3,"api": "./js/drpy.min.js","ext": "./js/秋霞影视.js"},
 {"key":"drpy_菜狗","name":"🐌搜狗✨","type":3,"api":"./js/drpy.min.js","ext":"./js/菜狗.js"},
 {"key":"drpy_奇珍异兽","name":"🐨爱奇艺✨","type":3,"api":"./js/drpy.min.js","ext":"./js/奇珍异兽.js"},
