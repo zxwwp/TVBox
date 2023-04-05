@@ -76,6 +76,7 @@
 {"key":"野荷塘影院","name":"🎉野荷塘影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/野荷塘影院.json"},
 {"key":"csp_XYQHiker_F7好看剧","name":"🦊F7剧","type":3,"api":"csp_XYQHiker","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/F7好看剧.json"},
 
+{"key":"csp_app_gotka","name":"🐌速播影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
 		{
 			"key": "1",
 			"name": "1",
@@ -301,7 +302,7 @@
 			"quickSearch": 0
 		},
 		{
-			"key": 29",
+			"key": "29",
 			"name": "29",
 			"type": 0,
 			"api": "https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml",
