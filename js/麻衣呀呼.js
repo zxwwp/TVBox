@@ -53,7 +53,7 @@ var rule = {
           tabs:"li.this",
           lists:'.videolist.cf:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
           //list_text:'a&&Text',
-          //list_url:'a&&href'
+          list_url:'a&&href'
          },
      搜索:'cf.listwap;a&&title;div&&data-original;a&&href',  
     }
