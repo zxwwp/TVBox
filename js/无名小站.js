@@ -35,14 +35,14 @@ var rule={
     推荐:'.index_vod;.vod_item;.vod_title&&Text;.lazyload&&data-src;.vod_remarks&&Text;a&&href',
     double:true, // 推荐内容是否双层定位
     一级:'.mdui-m-t-2&&li;.star-up-name&&Text;.lazy&&data-original;.vod_remarks&&Text;a&&href',
-    //二级访问前:'log(MY_URL);let jump=request(MY_URL).match(/href="(.*?)"/)[1];log(jump);MY_URL=urljoin2(MY_URL,jump)',
+    二级访问前:'log(MY_URL);let jump=request(MY_URL).match(/href="(.*?)"/)[1];log(jump);MY_URL=urljoin2(MY_URL,jump)',
     二级:{
         "title":".video-titlewraper h1&&Text;.inline_item:eq(1)&&Text",
         "img":".lazyload&&data-original",
         "desc":";;;.inline_item:eq(2)&&Text;.info-block a&&Text",
         // "content":".module-info-introduction&&Text",
         "content":".info-block p&&Text",
-        "tabs":".mdui-panel-item-header:eq(0)",
+        "tabs":".mdui-panel-item-header&&.mdui-panel-item-title",
         "lists":".mdui-panel-item-body:eq(#id)&&.mdui-btn-raised"},
 
     搜索:'body li.vod_item;*;*;*;*',
