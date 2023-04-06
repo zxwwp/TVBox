@@ -43,8 +43,8 @@ var rule={
         "desc":";;;.inline_item:eq(2)&&Text;.info-block&&Text",
         // "content":".module-info-introduction&&Text",
         "content":".info-block p&&Text",
-        "tabs":".mdui-panel vod_play_list&&.mdui-panel-item.mdui-panel-item-open&&.mdui-panel-item-header&&.mdui-panel-item-title",
+        "tabs":".mdui-panel&&..mdui-panel-item-open&&.mdui-panel-item-header&&.mdui-panel-item-title",
         "lists":".mdui-panel-item-body a"},
-        "list_url":'a&&href',
+        "list_url":'.mdui-panel-item-body a&&href',
     搜索:'body li.vod_item;*;*;*;*',
 }
