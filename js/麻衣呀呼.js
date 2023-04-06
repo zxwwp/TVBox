@@ -50,7 +50,8 @@ var rule = {
           img:".detailpic.l&&img&&src",
           desc:';;;.detailinfo.r p:eq(4)&&Text;.detailinfo.r p:eq(3)&&Text',  //// 演员;导演
           content:".tjuqing&&Text", //主要信息
-          tabs:"ul#play",
+          tabs:"li.this",
+          //tabs:"ul#play",
           lists:'.videolist.cf:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
           list_text:'a&&Text',
           list_url:'a&&href'
