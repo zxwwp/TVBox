@@ -42,7 +42,7 @@ var rule={
         "desc":";;;.inline_item:eq(2)&&Text;.info-block a&&Text",
         // "content":".module-info-introduction&&Text",
         "content":".info-block p&&Text",
-        "tabs":".mdui-panel-item-title",
+        "tabs":".mdui-panel-item-header:eq(0)",
         "lists":".mdui-panel-item-body:eq(#id)&&.mdui-btn-raised"},
 
     搜索:'body li.vod_item;*;*;*;*',
