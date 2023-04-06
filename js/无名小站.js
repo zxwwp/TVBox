@@ -35,16 +35,16 @@ var rule={
     推荐:'.index_vod;.vod_item;.vod_title&&Text;.lazyload&&data-src;.vod_remarks&&Text;a&&href',
     double:true, // 推荐内容是否双层定位
     //一级:'.mdui-m-t-2&&li;.star-up-name&&Text;.lazy&&data-original;.vod_remarks&&Text;a&&href',
-     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.mdui-m-t-2&&li');tabs.forEach(function(it){var  pz=pdfh(it,'span.star-up-name.mdui-p-t-1&&Text');var ps=pdfh(it,'div.vod_douban_score&&Text');var img=pd(it,'img&&data-original');var timer=pdfh(it,'div.vod_douban_score&&Text');var url=pd(it,'a.vod_link_slide&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
+     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.mdui-m-t-2&&li');tabs.forEach(function(it){var  pz=pdfh(it,'span.star-up-name.mdui-p-t-1&&Text');var ps=pdfh(it,'.vod_remarks&&Text');var img=pd(it,'img&&data-original');var timer=pdfh(it,'.&&Text');var url=pd(it,'a.vod_link_slide&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
     二级访问前:'log(MY_URL);let jump=request(MY_URL).match(/href="(.*?)"/)[1];log(jump);MY_URL=urljoin2(MY_URL,jump)',
     二级:{
-        "title":".video-titlewraper h1&&Text;.inline_item:eq(1)&&Text",
+        "title":"h1.doc-title.mdui-text-color-white&&Text",
         "img":".lazyload&&data-original",
-        "desc":";;;.inline_item:eq(2)&&Text;.info-block a&&Text",
+        "desc":";;;.inline_item:eq(2)&&Text;.info-block&&Text",
         // "content":".module-info-introduction&&Text",
         "content":".info-block p&&Text",
-        "tabs":".mdui-panel-item-header&&.mdui-panel-item-title",
-        "lists":".mdui-panel-item-body:eq(#id)&&.mdui-btn-raised"},
+        "tabs":".mdui-panel-item-title",
+        "lists":".mdui-panel-item-body a"},
 
     搜索:'body li.vod_item;*;*;*;*',
 }
