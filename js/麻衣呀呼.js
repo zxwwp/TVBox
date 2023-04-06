@@ -23,10 +23,10 @@ var rule = {
              {"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}]
     },
     filter_def:{
-        1:{by:'/s/id-a.html'},
-        2:{by:'/s/id-a.html'},
-        3:{by:'/s/id-a.html'},
-        4:{by:'/s/id-a.html'}
+        1:{by:'/s/id-a'},
+        2:{by:'/s/id-a'},
+        3:{by:'/s/id-a'},
+        4:{by:'/s/id-a'}
                },
     searchUrl:'/vodsearch/**----------fypage---/',
     searchable:2,//是否启用全局搜索,
