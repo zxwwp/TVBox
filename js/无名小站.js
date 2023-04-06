@@ -42,10 +42,8 @@ var rule={
         "desc":";;;.inline_item:eq(2)&&Text;.info-block a&&Text",
         // "content":".module-info-introduction&&Text",
         "content":".info-block p&&Text",
-        "tabs":".mdui-panel-item.mdui-panel-item-open&&.mdui-panel-item-title",
-        //"lists":".mdui-panel-item-body:eq(#id)&&.mdui-btn-raised"},
-         lists:".mdui-panel-item-body:eq(#id)&&a"}, //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
-          list_text:'a&&Text',
-          list_url:'a&&href',
+        "tabs":".mdui-panel-item-title",
+        "lists":".mdui-panel-item-body:eq(#id)&&.mdui-btn-raised"},
+
     搜索:'body li.vod_item;*;*;*;*',
 }
