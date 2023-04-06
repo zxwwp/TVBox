@@ -45,6 +45,6 @@ var rule={
         "content":".info-block p&&Text",
         "tabs":".mdui-panel-item-title",
         "lists":".mdui-panel-item-body a"},
-
+        "list_url":'a&&href',
     搜索:'body li.vod_item;*;*;*;*',
 }
