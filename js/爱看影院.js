@@ -21,7 +21,7 @@ var rule={
         "desc":";;;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text",
         "content":".module-info-introduction-content p&&Text",
         "tabs":"#y-playList .module-tab-item",
-        "lists":".module-play-list-content:eq(id) a"},
+        "lists":".module-play-list-content:eq(#id)&&a"},
 
    搜索:'',
 }
