@@ -41,7 +41,7 @@ var rule={
         "desc":";;;..info_text:eq(3) label&&Text;.info-block&&Text",
         // "content":".module-info-introduction&&Text",
         "content":".info_text:eq(3) p&&Text",
-        "tabs":".mdui-panel-item-header .mdui-panel-item-title",
+        "tabs":".mdui-panel",
         "lists":".mdui-panel-item-body:eq(#id)&&a"
         },
       搜索:'', 
