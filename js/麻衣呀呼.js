@@ -1,12 +1,12 @@
 var rule = {
     title:'麻衣呀呼',
     host:'https://www.mayiyahu.com/',
-    url:'/s/id-fyclassfyfilter/',
+    url:'/s/id-fyclassfyfilter/fyclass',
     headers:{
              'User-Agent':'UC_UA',
             },     //网站的请求头,完整支持所有的,常带ua和cookies
     class_name:'电影&国产剧&动漫&综艺',       //静态分类名称拼接
-    class_url:'a&area/中国大陆&c&d',    //静态分类标识拼接
+    class_url:'a&b/area/中国大陆&c&d',    //静态分类标识拼接
     play_parse:true,    // 服务器解析播放
     detailUrl:'',
     lazy:'',    // 自定义免嗅
