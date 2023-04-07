@@ -2,13 +2,13 @@ var rule = {
     title:'麻衣呀呼',
     host:'https://www.mayiyahu.com/',
     url:'/s/id-fyclassfyfilter',
-        filterable:1,//是否启用分类筛选,
+    filterable:1,//是否启用分类筛选,
     searchUrl:'/vodsearch/**----------fypage---/',
+    searchable:2,//是否启用全局搜索,
+    quickSearch:1,//是否启用快速搜索,
     headers:{
         'User-Agent':'UC_UA',
     },
-    searchable:2,//是否启用全局搜索,
-    quickSearch:1,//是否启用快速搜索,
     class_name:'电影&电视剧&动漫&综艺',       //静态分类名称拼接
     class_url:'a&b&c&d',    //静态分类标识拼接
     play_parse:true,    // 服务器解析播放
