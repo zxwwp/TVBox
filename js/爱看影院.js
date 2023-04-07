@@ -52,7 +52,7 @@ var rule={
         "desc":";;;.inline_item:eq(2)&&Text;.info-block&&Text",
         // "content":".module-info-introduction&&Text",
         "content":".info-block p&&Text",
-        "tabs":".mdui-panel-item-title",
+        "tabs":"#y-playList .module-tab-item",
         "lists":".mdui-panel-item-body a"},
 
     搜索:'body li.vod_item;*;*;*;*',
