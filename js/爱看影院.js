@@ -50,7 +50,6 @@ var rule={
         "title":".module-info-main:eq(0) h1&&Text;module-info-tag-link&&Text",
         "img":".lazyload&&data-original",
         "desc":";;;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text",
-        // "content":".module-info-introduction&&Text",
         "content":".module-info-introduction-content p&&Text",
         "tabs":"#y-playList .module-tab-item",
         "lists":".module-play-list-content a"},
