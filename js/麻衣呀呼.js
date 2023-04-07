@@ -25,7 +25,7 @@ var rule = {
         'User-Agent':'UC_UA',
     },
     class_name:'电影&电视剧&动漫&综艺',       //静态分类名称拼接
-    class_url:'a&b&c&d',    //静态分类标识拼接
+    class_url:'a&b/中国大陆&c&d',    //静态分类标识拼接
     play_parse:true,    // 服务器解析播放
     detailUrl:'',
     lazy:'',    // 自定义免嗅
