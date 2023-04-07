@@ -31,6 +31,5 @@ var rule = {
 	class_parse:'.navbar-items li:gt(1):lt(9);a&&Text;a&&href;/(\\d+).html',
 	searchUrl:'/index.php/ajax/suggest?mid=fypage&wd=**',
     detailUrl:'/voddetail/fyid.html', //非必填,二级详情拼接链接
-	// 搜索:'#searchList&&li;h4&&Text;a&&data-original;.detail&&p:eq(2)&&Text;a&&href;.detail&&p:eq(3)&&Text',
 	搜索:'json:list;name;pic;;id',
 }
