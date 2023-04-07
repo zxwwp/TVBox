@@ -54,6 +54,5 @@ var rule={
         "content":".info-block p&&Text",
         "tabs":"#y-playList .module-tab-item",
         "lists":".mdui-panel-item-body a"},
-
-    搜索:'body li.vod_item;*;*;*;*',
+   搜索:'json:list;name;pic;;id',
 }
