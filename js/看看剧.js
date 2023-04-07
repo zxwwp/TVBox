@@ -18,7 +18,7 @@ var rule={
         "desc":";;;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text",
         "content":".module-info-introduction-content p&&Text",
         "tabs":"h3.title",
-        "lists":"ul.stui-content__playlist sort-list maxheight clearfix:eq(#id)&&a"},
+        "lists":"ul.stui-content__playlist:eq(#id)&&a"},
 
    搜索:'',
 }
