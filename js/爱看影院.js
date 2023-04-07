@@ -53,5 +53,7 @@ var rule={
         "content":".module-info-introduction-content p&&Text",
         "tabs":"#y-playList .module-tab-item",
         "lists":".module-play-list-content a"},
+        list_text:'a&&Text',
+        list_url:'a&&href',
    搜索:'json:list;name;pic;;id',
 }
