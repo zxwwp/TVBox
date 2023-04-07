@@ -15,7 +15,7 @@ var rule={
     二级:{
         "title":".stui-content__detail h1&&Text;.stui-content__detail p:gt(-1):lt(1)&&Text",
         "img":".lazyload&&data-original",
-        "desc":";;;..stui-content__detail p:gt(5):lt(7)&&Text;.stui-content__detail p:gt(4):lt(6)&&Text",
+        "desc":";;;.stui-content__detail p:gt(5):lt(7)&&Text;.stui-content__detail p:gt(4):lt(6)&&Text",
         "content":".detail-sketch&&Text",
         "tabs":"h3.title",
         "lists":"ul.stui-content__playlist:eq(#id)&&a"},
