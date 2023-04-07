@@ -1,8 +1,6 @@
 var rule={
     title:'无名小站',
     host:'https://blssv.com',
-    // homeUrl:'/',
-    // url:'/vodshow-fyclass/page/fypage/',
     url:'/vodshow-fyclassfyfilter/',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}/page/fypage{{fl.year}}',
@@ -23,7 +21,7 @@ var rule={
     searchUrl:'/vodsearch/**----------fypage---/',
     searchable:2,//是否启用全局搜索,
     quickSearch:1,//是否启用快速搜索,
-    headers:{//网站的请求头,完整支持所有的,常带ua和cookies
+    headers:{
         'User-Agent':'UC_UA',
     },
     class_name:'电影&剧集&综艺&动漫&记录',
