@@ -25,10 +25,10 @@ var rule={
             {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}]
     },
     filter_def:{
-        1:{by:'1'},
-        2:{by:'2'},
-        3:{by:'3'},
-        4:{by:'4'}
+        1:{cateId:'1'},
+		2:{cateId:'2'},
+		3:{cateId:'3'},
+		4:{cateId:'4'}
     },
     searchUrl:'/vodsearch/**----------fypage---/',
     searchable:2,//是否启用全局搜索,
