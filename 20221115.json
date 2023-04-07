@@ -49,6 +49,9 @@
 {"key":"量子资源","name":"👔量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1},
 {"key":"新浪资源","name":"🆗新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","m3u8ads": "hd.youyhn.com","playUrl":"","searchable":1,"quickSearch":1},
 
+
+{"key":"drpy_麻衣呀呼","name":"🧥麻衣呀呼✨","type":3,"api":"./js/drpy.min.js","ext":"./js/麻衣呀呼.js"},
+{"key":"drpy_爱看影院","name":"👓爱看影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/爱看影院.js"},
 {"key":"drpy_HDmoli","name":"🧬HDmoli✨","type":3,"api":"./js/drpy.min.js","ext":"./js/HDmoli.js"},
 {"key":"drpy_333影视.","name":"🍨333影视.✨","type":3,"api":"./js/drpy.min.js","ext":"./js/333影视.js"},
 {"key":"drpy_人人影视","name":"🍙人人影视✨","type":3,"api":"./js/drpy.min.js","ext":"./js/人人影视.js"},
@@ -70,8 +73,6 @@
 {"key":"drpy_石榴影院","name":"🥝石榴影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/石榴影院.js"},
 {"key":"drpy_天空影视","name":"☄天空影视✨","type":3,"api":"./js/drpy.min.js","ext":"./js/天空影视.js"},
 {"key":"drpy_鸭奈飞","name":"🦜鸭奈飞✨","type":3,"api":"./js/drpy.min.js","ext":"./js/鸭奈飞.js"},
-{"key":"drpy_麻衣呀呼","name":"🦜麻衣呀呼✨","type":3,"api":"./js/drpy.min.js","ext":"./js/麻衣呀呼.js"},
-{"key":"drpy_爱看影院","name":"🦜爱看影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/爱看影院.js"},
 
 {"key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 {"key":"野荷塘影院","name":"🎉野荷塘影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/野荷塘影院.json"},
