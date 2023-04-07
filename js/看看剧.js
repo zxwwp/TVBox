@@ -1,7 +1,7 @@
 var rule={
     title:'看看剧',
     host:'https://www.kankanju.cc/',
-    url:'/vodshow/id/fyfilter.html',
+    url:'/vodshow/id',
     headers:{'User-Agent':'UC_UA',},
     class_name:'电影&电视剧&综艺&动漫&纪录片',
     class_url:'dianying&dianshiju&zongyi&dongman&jilupian',
