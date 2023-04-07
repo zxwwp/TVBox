@@ -44,7 +44,8 @@ var rule={
         // "content":".module-info-introduction&&Text",
         "content":".info_text:eq(3) p&&Text",
         "tabs":".mdui-panel-item&&.mdui-panel-item-header&&.mdui-panel-item-title",
-        "lists":".mdui-panel-item-body:eq(#id)&&a"},
-        "list_url":'a&&href',
+        "lists":".mdui-panel-item-body:eq(#id)&&a"
+        },
+       
     搜索:'body li.vod_item;*;*;*;*',
 }
