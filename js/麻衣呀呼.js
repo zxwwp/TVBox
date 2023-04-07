@@ -31,6 +31,6 @@ var rule = {
           //list_text:'a&&Text',
           list_url:'a&&href'
          },
-     搜索:'', 
-    // 搜索:'cf.listwap;a&&title;div&&data-original;a&&href',  
+     //搜索:'', 
+    搜索:'cf.listwap;a&&title;div&&data-original;a&&href',  
     }
