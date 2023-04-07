@@ -53,6 +53,6 @@ var rule={
         // "content":".module-info-introduction&&Text",
         "content":".info-block p&&Text",
         "tabs":"#y-playList .module-tab-item",
-        "lists":".mdui-panel-item-body a"},
+        "lists":".module-play-list-content a"},
    搜索:'json:list;name;pic;;id',
 }
