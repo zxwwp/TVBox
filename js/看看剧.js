@@ -2,7 +2,10 @@ var rule={
     title:'看看剧',
     host:'https://www.kankanju.cc/',
     url:'/vodshow/id/fyfilter.html',
-    headers:{'User-Agent':'UC_UA',},
+    homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
+    headers:{
+        'User-Agent':'MOBILE_UA',
+        "Cookie": "searchneed=ok"},
     class_name:'电影&国产剧&港台剧&日韩剧&欧美剧&泰国剧&综艺&动漫&纪录片',
     class_url:'dianying&guochanju.html&gangtaiju.html&rihanju.html&oumeiju.html&taiguoju.html&zongyi.html&dongman.html&jilupian.html',
     play_parse:true,
