@@ -49,7 +49,7 @@ var rule={
     二级:{
         "title":"h1.doc-title.mdui-text-color-white&&Text",
         "img":".lazyload&&data-original",
-        "desc":";;;.inline_item:eq(2)&&Text;.info-block&&Text",
+        "desc":";;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text",
         // "content":".module-info-introduction&&Text",
         "content":".info-block p&&Text",
         "tabs":"#y-playList .module-tab-item",
