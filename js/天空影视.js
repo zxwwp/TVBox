@@ -4,9 +4,7 @@ muban.mxpro.二级.tabs = '#y-playList .module-tab-item'
 var rule = {
 	title:'天空影视',
 	模板:'mxpro',
-	host:'https://tkznp.com',
-	// host:'https://www.tkys6.com',
-	// url: '/vodshow/id/fyclass/page/fypage.html',
+	host:'https://www.tkznp.com/',  // 'http://www.tkznp6.com/',http://www.tkznp1.com/
 	url:'/vodshow/id/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
