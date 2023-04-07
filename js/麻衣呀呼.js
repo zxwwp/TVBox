@@ -30,8 +30,8 @@ var rule = {
     detailUrl:'',
     lazy:'',    // 自定义免嗅
     limit:6,    // 首页推荐显示数量
-    //推荐:'',
-    推荐:'.modulemod;.cf.listwap&&.gcol.l;a&&title;div&&data-original;a&&href',
+    推荐:'',
+    //推荐:'.modulemod;.cf.listwap&&.gcol.l;a&&title;div&&data-original;a&&href',
       // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.cf.listwap .gcol.l');tabs.forEach(function(it){var  pz=pdfh(it,'a.plusclk&&Text');var ps=pdfh(it,'span.packscore&&Text');var pk=pdfh(it,'.name:eq(1)&&Text');var img=pd(it,'.inlist.ec-jabj.eclazy&&div&&data-original');var timer=pdfh(it,'.&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
  
@@ -46,6 +46,6 @@ var rule = {
           //list_text:'a&&Text',
           list_url:'a&&href'
          },
-     //搜索:'', 
-    搜索:'cf.listwap;a&&title;div&&data-original;a&&href',  
+     搜索:'', 
+    //搜索:'cf.listwap;a&&title;div&&data-original;a&&href',  
     }
