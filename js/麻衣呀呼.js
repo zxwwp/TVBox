@@ -3,7 +3,7 @@ var rule = {
     host:'https://www.mayiyahu.com/',
     url:'/s/id-fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
-    filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}/page/fypage{{fl.year}}',
+    filter_url:'{{fl.class}}{{fl.by}}{{fl.area}}/page/fypage{{fl.year}}',
         filter:{
         "1":[
             {"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"喜剧","v":"/class/喜剧"},{"n":"爱情","v":"/class/爱情"},{"n":"恐怖","v":"/class/恐怖"},{"n":"动作","v":"/class/动作"},{"n":"科幻","v":"/class/科幻"},{"n":"剧情","v":"/class/剧情"},{"n":"战争","v":"/class/战争"},{"n":"犯罪","v":"/class/犯罪"},{"n":"动画","v":"/class/动画"},{"n":"奇幻","v":"/class/奇幻"},{"n":"冒险","v":"/class/冒险"},{"n":"悬疑","v":"/class/悬疑"},{"n":"惊悚","v":"/class/惊悚"},{"n":"历史","v":"/class/历史"},{"n":"运动","v":"/class/运动"}]},
@@ -31,14 +31,10 @@ var rule = {
          ]
     },
     filter_def:{
-        1:{cateId:'1'},
-		2:{cateId:'2'},
-		3:{cateId:'3'},
-		4:{cateId:'4'}
-        //1:{by:'/by/time'},
-        //2:{by:'/by/time'},
-        //3:{by:'/by/time'},
-        //4:{by:'/by/time'}
+        1:{class:'/by/time'},
+        2:{class:'/by/time'},
+        3:{class:'/by/time'},
+        4:{class:'/by/time'}
     },
     searchUrl:'/vodsearch/**----------fypage---/',
     searchable:2,//是否启用全局搜索,
