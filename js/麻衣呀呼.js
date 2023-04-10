@@ -31,10 +31,14 @@ var rule = {
          ]
     },
     filter_def:{
-        1:{by:'/by/time'},
-        2:{by:'/by/time'},
-        3:{by:'/by/time'},
-        4:{by:'/by/time'}
+        1:{cateId:'1'},
+		2:{cateId:'2'},
+		3:{cateId:'3'},
+		4:{cateId:'4'}
+        //1:{by:'/by/time'},
+        //2:{by:'/by/time'},
+        //3:{by:'/by/time'},
+        //4:{by:'/by/time'}
     },
     searchUrl:'/vodsearch/**----------fypage---/',
     searchable:2,//是否启用全局搜索,
