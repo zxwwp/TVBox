@@ -1,7 +1,7 @@
 var rule = {
     title:'麻衣呀呼',
     host:'https://www.mayiyahu.com/',
-    url:'/s/id-fyclassfyfilter',
+    url:'/s/id-fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}/page/fypage{{fl.year}}',
         filter:{
