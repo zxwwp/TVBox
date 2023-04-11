@@ -31,12 +31,13 @@ var rule = {
          ]
     },
     filter_def:{
-        1:{class:'1',by:'time'},
-        2:{class:'2',by:'time'},
-        3:{class:'3',by:'time'},
-        4:{class:'4',by:'time'}
+        1:{class:'1'},
+        2:{class:'2'},
+        3:{class:'3'},
+        4:{class:'4'}
     },
-    searchUrl:'/s/id-fyclass/fyclass/fyfilter.html',
+
+    searchUrl:'/s/page/fypage/wd/**.html',
     searchable:2,//是否启用全局搜索,
     quickSearch:1,//是否启用快速搜索,
     headers:{
