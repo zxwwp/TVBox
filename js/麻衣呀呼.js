@@ -7,7 +7,7 @@ title:'麻衣呀呼',
     searchable:2,
     filterable:0,
     headers:{'User-Agent':'PC_UA', },
-    class_name:'电影&电视剧&国产剧&香港&韩国&泰国&动漫&综艺',       //静态分类名称拼接
+    class_name:'电影&电视剧&国产剧&香港剧&韩国剧&泰国剧&动漫&综艺',       //静态分类名称拼接
     class_url:'a&b&b/area/中国大陆&b/area/香港&b/area/韩国&b/area/泰国&c&d',    //静态分类标识拼接
     推荐:'.wp.type.borsxo;.cf.listwap&&.gcol.l;*;*;*;*',
     double:true,
