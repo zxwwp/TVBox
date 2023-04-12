@@ -1,7 +1,7 @@
 var rule={
     title:'爱看影院',
     host:'https://www.2wyy.com/',
-    url:'/vodtype/fyclass-fypage.html',
+    url:'/vodshow/fypage--------fypage---.html',
     headers:{'User-Agent':'UC_UA',},
     class_name:'电影&电视剧&综艺&动漫',
     class_url:'1&2&3&4',
