@@ -5,6 +5,7 @@ var rule={
     headers:{'User-Agent':'UC_UA',},
     class_name:'电影&电视剧&国产剧&香港剧&韩国剧&泰国剧&&综艺&动漫',
     class_url:'1&2&2-内地&2-香港&2-韩国&2-泰国&3&4',
+    searchUrl:'/vodshow/fyclass-fyclass-------fypage---.html',
     play_parse:true,
     detailUrl:'',
     lazy:"",
