@@ -1,6 +1,5 @@
 var rule={
-    title:'厂长资源',
-title:'麻衣呀呼',
+    title:'麻衣呀呼',
     host:'https://www.mayiyahu.com/',
     url:'/s/id-fyclass/page/fypage',
     //searchUrl:'/s/id-fyclass/page/fypage.html',
