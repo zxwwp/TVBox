@@ -50,7 +50,7 @@
 {"key":"新浪资源","name":"🆗新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","m3u8ads": "hd.youyhn.com","playUrl":"","searchable":1,"quickSearch":1},
 
 
-{"key":"drpy_速搜影院","name":"🧥速搜影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/速搜影院.js"},
+{"key":"drpy_茶杯狐","name":"🧥茶杯狐✨","type":3,"api":"./js/drpy.min.js","ext":"./js/茶杯狐.js"},
 {"key":"drpy_麻衣呀呼","name":"🧥麻衣呀呼✨","type":3,"api":"./js/drpy.min.js","ext":"./js/麻衣呀呼.js"},
 {"key":"drpy_看看剧","name":"🧥看看剧✨","type":3,"api":"./js/drpy.min.js","ext":"./js/看看剧.js"},
 {"key":"drpy_爱看影院","name":"👓爱看影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/爱看影院.js"},
