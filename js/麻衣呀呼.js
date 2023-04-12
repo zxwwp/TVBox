@@ -24,5 +24,5 @@ title:'麻衣呀呼',
           //list_text:'a&&Text',
           list_url:'a&&href'
          },
-    搜索:'.wp.type.borsxo&&.cf.listwap&&.gcol.l;*;*;*;*',
+    搜索:'',
     }
