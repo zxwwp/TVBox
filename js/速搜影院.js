@@ -11,7 +11,7 @@ var rule={
     limit:6,
     推荐:'.index_vod;.vod_item;.vod_title&&Text;.lazyload&&data-src;.vod_remarks&&Text;a&&href',
     double:true, // 推荐内容是否双层定位
-        一级:'.container&&.row&&.col-lg-3.col-md-6;.zmovo-team-title wapxs a&&Text;img&&src;h3.c3&&Text;a&&href',
+        一级:'div#grid.tab-pane.fade.active.in.show&&.row&&.col-lg-3.col-md-6;.zmovo-team-title wapxs a&&Text;img&&src;h3.c3&&Text;a&&href',
         二级:{
         "title":".module-info-main:eq(0) h1&&Text;.module-info-tag-link:eq(2)&&Text",
         "img":".lazyload&&data-original",
