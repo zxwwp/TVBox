@@ -1,7 +1,7 @@
 var rule={
     title:'看看剧',
     host:'https://www.kankanju.cc/',
-    url:'/vodshow/id/fyclass',
+    url:'/vodshow/id/fyclass/page/',
     homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
     headers:{
         'User-Agent':'MOBILE_UA',
