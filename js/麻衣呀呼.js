@@ -3,7 +3,7 @@ var rule={
 title:'麻衣呀呼',
     host:'https://www.mayiyahu.com/',
     url:'/s/id-fyclass/page/fypage',
-    searchUrl:'/s/id-fyclass/page/fypage.html',
+    //searchUrl:'/s/id-fyclass/page/fypage.html',
     searchable:2,
     filterable:0,
     headers:{'User-Agent':'PC_UA', },
