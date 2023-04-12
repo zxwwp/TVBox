@@ -6,8 +6,8 @@ var rule={
     headers:{
         'User-Agent':'MOBILE_UA',
         "Cookie": "searchneed=ok"},
-    class_name:'电影&国产剧&港台剧&日韩剧&欧美剧&泰国剧&综艺&动漫&纪录片',
-    class_url:'dianying&guochanju&gangtaiju&rihanju&oumeiju&taiguoju&zongyi&dongman&jilupian',
+    class_name:'电影&电视剧&国产剧&港台剧&日韩剧&欧美剧&泰国剧&综艺&动漫&纪录片',
+    class_url:'dianying&dianshiju&guochanju&gangtaiju&rihanju&oumeiju&taiguoju&zongyi&dongman&jilupian',
     play_parse:true,
     detailUrl:'',
     lazy:"",
