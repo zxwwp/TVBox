@@ -1,7 +1,7 @@
 var rule={
     title:'茶杯狐',
     host:'https://cupfox.app/',
-    url:'/filter/fyclass',
+    url:'/filter/fyclass/page/fypage',
     //searchUrl:'/s/id-fyclass/page/fypage.html',
     searchable:2,
     filterable:0,
