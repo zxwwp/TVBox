@@ -1,5 +1,5 @@
-muban.首图2.二级.desc = '.data:eq(1)&&Text;.data:eq(3)&&Text;.data:eq(2)&&Text;.data:eq(5)&&Text;.data:eq(4)&&Text';
-muban.首图2.二级.tabs = '.nav.nav-tabs&&li';
+muban.首图2.二级.desc = '.module-info-main:eq(0) h1&&Text;.module-info-tag-link:eq(2)&&Text;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text';
+muban.首图2.二级.tabs = '#y-playList .module-tab-item';
 var rule = {
     title:'看看剧',
     模板:'首图2',
