@@ -2,9 +2,9 @@ var rule={
     title:'麻衣呀呼',
     host:'https://www.mayiyahu.com/',
     url:'/s/id-fyclass/page/fypage',
-    //searchUrl:'/s/id-fyclass/page/fypage.html',
-    searchable:2,
-    filterable:0,
+    searchable:2,//是否启用全局搜索,
+    quickSearch:1,//是否启用快速搜索,
+    filterable:1,//是否启用分类筛选,
     headers:{'User-Agent':'PC_UA', },
     class_name:'电影&电视剧&国产剧&香港剧&韩国剧&泰国剧&动漫&综艺',       //静态分类名称拼接
     class_url:'a&b&b/area/中国大陆&b/area/香港&b/area/韩国&b/area/泰国&c&d',    //静态分类标识拼接
