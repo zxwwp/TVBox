@@ -3,7 +3,7 @@ var rule={
     host:'https://www.mayiyahu.com/',
     url:'/s/id-fyclass/page/fypage',
     filterable:1,//是否启用分类筛选,
-    searchUrl:'/c.html#wd=**',  //搜索影片,
+    searchUrl:'/c/wd/**.html',  //搜索影片,
     searchable:2,//是否启用全局搜索,
     quickSearch:1,//是否启用快速搜索,
     headers:{'User-Agent':'PC_UA', },
