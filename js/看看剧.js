@@ -1,11 +1,8 @@
-muban.首图2.二级.desc = '.module-info-main:eq(0) h1&&Text;.module-info-tag-link:eq(2)&&Text;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text';
-muban.首图2.二级.tabs = '#y-playList .module-tab-item';
-var rule = {
-    title:'看看剧',
-    模板:'首图2',
-    host:'https://www.kankanju.cc/',
-   url:'/vodshow/fyfilter.html',
-	filterable:1,//是否启用分类筛选,
+var rule={
+    title:'爱看影院',
+    host:'https://www.2wyy.com/',
+    url:'/vodtype/fyclass-fypage.html',
+filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}/page/fypage{{fl.year}}',
 	filter:{
 		"1":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":"1"},{"n":"动作片","v":"6"},{"n":"喜剧片","v":"7"},{"n":"爱情片","v":"8"},{"n":"科幻片","v":"9"},{"n":"恐怖片","v":"10"},{"n":"剧情片","v":"11"},{"n":"战争片","v":"12"},{"n":"动画片","v":"29"},{"n":"悬疑片","v":"32"},{"n":"犯罪片","v":"35"},{"n":"奇幻片","v":"36"},{"n":"纪录片","v":"38"}]},{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"喜剧","v":"/class/喜剧"},{"n":"爱情","v":"/class/爱情"},{"n":"恐怖","v":"/class/恐怖"},{"n":"动作","v":"/class/动作"},{"n":"纪录","v":"/class/纪录"},{"n":"科幻","v":"/class/科幻"},{"n":"剧情","v":"/class/剧情"},{"n":"战争","v":"/class/战争"},{"n":"犯罪","v":"/class/犯罪"},{"n":"动画","v":"/class/动画"},{"n":"奇幻","v":"/class/奇幻"},{"n":"武侠","v":"/class/武侠"},{"n":"冒险","v":"/class/冒险"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"/area/大陆"},{"n":"香港","v":"/area/香港"},{"n":"台湾","v":"/area/台湾"},{"n":"美国","v":"/area/美国"},{"n":"韩国","v":"/area/韩国"},{"n":"日本","v":"/area/日本"},{"n":"泰国","v":"/area/泰国"},{"n":"新加坡","v":"/area/新加坡"},{"n":"马来西亚","v":"/area/马来西亚"},{"n":"印度","v":"/area/印度"},{"n":"英国","v":"/area/英国"},{"n":"法国","v":"/area/法国"},{"n":"其它","v":"/area/其它"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},{"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},{"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},{"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"},{"n":"2010","v":"/year/2010"}]},{"key":"lang","name":"语言","value":[{"n":"全部","v":""},{"n":"国语","v":"/lang/国语"},{"n":"英语","v":"/lang/英语"},{"n":"粤语","v":"/lang/粤语"},{"n":"闽南语","v":"/lang/闽南语"},{"n":"韩语","v":"/lang/韩语"},{"n":"日语","v":"/lang/日语"},{"n":"法语","v":"/lang/法语"},{"n":"德语","v":"/lang/德语"},{"n":"其它","v":"/lang/其它"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}],
@@ -20,7 +17,23 @@ var rule = {
 		4:{cateId:'4'}
 	},
 	searchUrl:'/vodsearch.html#wd=**;post',
-	class_parse: '.stui-header__menu li:gt(0):lt(5);a&&Text;a&&href;/(\\d+).html',
-	lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
-	搜索: 'ul.stui-vodlist&&li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
+    headers:{'User-Agent':'UC_UA',},
+    class_name:'电影&电视剧&综艺&动漫',
+    class_url:'1&2&3&4',
+    play_parse:true,
+    detailUrl:'',
+    lazy:"",
+    limit:6,
+    推荐:'.index_vod;.vod_item;.vod_title&&Text;.lazyload&&data-src;.vod_remarks&&Text;a&&href',
+    double:true, // 推荐内容是否双层定位
+    一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&a.module-poster-item');tabs.forEach(function(it){var  pz=pdfh(it,'.module-poster-item-title&&Text');var ps=pdfh(it,'.module-item-douban&&Text');var img=pd(it,'img&&data-original');var timer=pdfh(it,'.module-item-note&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
+    二级:{
+        "title":".module-info-main:eq(0) h1&&Text;.module-info-tag-link:eq(2)&&Text",
+        "img":".lazyload&&data-original",
+        "desc":";;;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text",
+        "content":".module-info-introduction-content p&&Text",
+        "tabs":"#y-playList .module-tab-item",
+        "lists":".module-play-list-content:eq(#id)&&a"},
+
+   搜索:'',
 }
