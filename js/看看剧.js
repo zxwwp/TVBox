@@ -2,7 +2,9 @@ var rule={
     title:'看看剧',
     host:'https://www.kankanju.cc/',
     url:'/vodshow/id/fyclass/page/fypage',
-    homeUrl:'/',       //网站的首页链接,用于分类获取和推荐获取
+    searchUrl:'/vodsearch.html#wd=**;post',  //搜索影片,
+    searchable:2,//是否启用全局搜索,
+    quickSearch:1,//是否启用快速搜索,
     headers:{
         'User-Agent':'MOBILE_UA',
         "Cookie": "searchneed=ok"},
