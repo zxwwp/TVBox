@@ -19,7 +19,7 @@ var rule={
         3:{cateId:'3',by:'/by/time'},
         4:{cateId:'4',by:'/by/time'}
     },
-    //searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
+    searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
     headers:{
         'User-Agent':'PC_UA',
     },
