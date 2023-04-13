@@ -1,7 +1,7 @@
 var rule={
     title:'爱看影院',
     host:'https://www.2wyy.com/',
-    url:'/vodtype/fyclass-fypage.html',
+    url:'/vodtype/fyclass/page/fypage',
 filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}/page/fypage{{fl.year}}',
 	filter:{
