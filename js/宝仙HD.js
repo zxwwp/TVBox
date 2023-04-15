@@ -3,8 +3,8 @@ var rule={
     host:'https://webdillo.com/',
     url:'/index.php/vod/type/id/fyclass/page/fypage',
     searchUrl:'/vodsearch/**-------------.html',
-    class_name:'电影&国产剧&港台剧&日韩剧&海外剧&动漫&综艺',       //静态分类名称拼接
-    class_url:'1&13&14&15&16&4&3',    //静态分类标识拼接
+    class_name:'电影&国产剧&港台剧&日韩剧&海外剧&动漫&综艺&短片&记录片&伦理',       //静态分类名称拼接
+    class_url:'1&13&14&15&16&4&3&22&20&/show/class/伦理/id/1',    //静态分类标识拼接
     推荐:'li.col-lg-8.col-md-6.col-sm-4.col-xs-3&&.myui-vodlist__box;*;*;*;*',
     double:true,
     一级:'ul.vodlist.vodlist_wi.clearfix&&li.vodlist_item;p.vodlist_title a&&Text;a.vodlist_thumb.lazyload&&data-original;span.pic_text.text_right.text_dy&&Text;a&&href',
