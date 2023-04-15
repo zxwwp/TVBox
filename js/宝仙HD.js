@@ -9,12 +9,12 @@ var rule={
     double:true,
     一级:'ul.vodlist.vodlist_wi.clearfix&&li.vodlist_item;p.vodlist_title a&&Text;a.vodlist_thumb.lazyload&&data-original;span.pic_text.text_right.text_dy&&Text;a&&href',
    二级:{
-          title:'.myui-content__detail h1&&Text;.myui-content__detail p:eq(1)&&Text',  //片名;类型 时间
-          img:"img.lazyload&&data-original",
-          desc:';;;.myui-content__detail p:eq(3)&&Text;.myui-content__detail p:eq(4)&&Text',  //// 演员;导演
-          content:".myui-content__detail p:eq(5)&&Text", //主要信息
-          tabs:"ul.nav.nav-tabs.active li",
-          lists:'ul.myui-content__list.sort-list.clearfix:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
+          title:'.pannel_head.clearfix h2&&Text;.content_detail.content_min.fl li:eq(0)&&Text',  //片名;类型 时间
+          img:"a.vodlist_thumb.lazyload&&data-original",
+          desc:';;;.content_detail.content_min.fl li:eq(3)&&a&&Text;.content_detail.content_min.fl li:eq(4)&&a&&Text',  //// 演员;导演
+          content:".content_detail.content_min.fl li:eq(5)&&Text", //主要信息
+          tabs:"ul.title_nav li",
+          lists:'ul.content_playlist.clearfix:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
           list_url:'a&&href'
          },
     搜索:'',
