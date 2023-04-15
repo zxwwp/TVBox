@@ -7,7 +7,7 @@ var rule={
     class_url:'1&30&16&18&47&14&4&3&29&8&24',    //静态分类标识拼接
     推荐:'li.col-lg-8.col-md-6.col-sm-4.col-xs-3&&.myui-vodlist__box;*;*;*;*',
     double:true,
-    一级:'.public-list-box.public-pic-b;a.time-title.hide.ft4&&Text;.lazy.gen-movie-img.mask-1&&data-original;span.public-prt.cr8&&Text;a&&href',
+    一级:'.public-list-box.public-pic-b;a.time-title.hide.ft4&&Text;.lazy.gen-movie-img.mask-1&&data-original;a.public-list-exp span:eq(0)&&Text;a&&href',
    二级:{
           title:'.pannel_head.clearfix h2&&Text;.content_detail.content_min.fl li:eq(0)&&Text',  //片名;类型 时间
           img:"a.vodlist_thumb.lazyload&&data-original",
