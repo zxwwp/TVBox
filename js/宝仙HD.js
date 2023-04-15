@@ -1,7 +1,7 @@
 var rule={
     title:'宝仙HD',
     host:'https://webdillo.com/',
-    url:'/index.php/vod/type/id/fyclass',
+    url:'/index.php/vod/type/id/fyclass-fypage.html',
     searchUrl:'/vodsearch/**-------------.html',
     class_name:'电影&电视剧&动漫&综艺&国产剧&港台剧&日韩剧&海外剧',       //静态分类名称拼接
     class_url:'1&2&4&3&13&14&15&16',    //静态分类标识拼接
