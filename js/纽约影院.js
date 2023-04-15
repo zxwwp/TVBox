@@ -5,7 +5,7 @@ var rule={
     searchUrl:'/vodsearch/**-------------.html',
     class_name:'电影&国产剧&港台剧&日韩剧&欧美剧&新马泰剧&动漫&综艺&记录片&伦理片&网络电影',       //静态分类名称拼接
     class_url:'1&30&16&18&47&14&4&3&29&8&24',    //静态分类标识拼接
-    推荐:'li.col-lg-8.col-md-6.col-sm-4.col-xs-3&&.myui-vodlist__box;*;*;*;*',
+    推荐:'.public-list-box.public-pic-b;*;*;*;*',
     double:true,
     一级:'.public-list-box.public-pic-b;a.time-title.hide.ft4&&Text;.lazy.gen-movie-img.mask-1&&data-original;span..cr8&&Text;a&&href',
    二级:{
