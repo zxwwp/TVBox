@@ -13,7 +13,7 @@ var rule={
           img:"a.vodlist_thumb.lazyload&&data-original",
           desc:';;;.content_detail.content_min.fl li:eq(3)&&a&&Text;.content_detail.content_min.fl li:eq(4)&&a&&Text',  //// 演员;导演
           content:".content_detail.content_min.fl li:eq(5)&&Text", //主要信息
-          tabs:"ul.title_nav li:eq(2)",
+          tabs:"ul.title_nav li:eq(2):li(3)",
           lists:'ul.content_playlist.clearfix:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
           list_url:'a&&href'
          },
