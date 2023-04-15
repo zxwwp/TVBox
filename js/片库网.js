@@ -5,10 +5,10 @@ var rule={
     searchable:2,//是否启用全局搜索,
     quickSearch:1,//是否启用快速搜索,
     searchUrl:'/vodsearch/**-------------.html',
-    headers:{'User-Agent':'PC_UA', },
+   // headers:{'User-Agent':'PC_UA', },
     class_name:'电影&电视剧&动漫&综艺&纪录片&国产剧&香港剧&韩国剧&欧美剧&泰国剧&日本剧&海外剧',       //静态分类名称拼接
     class_url:'1&2&4&3&24&13&26&28&16&30&29&31',    //静态分类标识拼接
-    //推荐:'.wp.type.borsxo;.cf.listwap&&.gcol.l;*;*;*;*',
+    推荐:'li.col-lg-8.col-md-6.col-sm-4.col-xs-3&&.myui-vodlist__box;*;*;*;*',
     double:true,
     一级:'li.col-lg-8.col-md-6.col-sm-4.col-xs-3&&.myui-vodlist__box;h4.title.text-overflow&&Text;a.myui-vodlist__thumb.lazyload&&data-original;span.pic-tag.pic-tag-top&&Text;a&&href',
    二级:{
