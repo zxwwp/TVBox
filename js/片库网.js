@@ -1,5 +1,3 @@
-muban.首图.二级.title = 'h1&&Text;.data--span:eq(3)&&Text';
-muban.首图.二级.desc = '.otherbox&&Text;;;.data--span:eq(2)&&Text;.data--span:eq(0)&&Text';
 var rule={
     title:'片库网',
     模板:'首图',
