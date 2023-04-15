@@ -10,11 +10,11 @@ var rule={
     一级:'.public-list-box.public-pic-b;a.time-title.hide.ft4&&Text;.lazy.gen-movie-img.mask-1&&data-original;span..cr8&&Text;a&&href',
    二级:{
           title:'.detail-info.rel.flex-auto h3&&Text;.detail-info.rel.flex-auto div:eq(1)&&Text',  //片名;类型 时间
-          img:"a.detail-pic.lazy mask-1&&data-original",
+          img:"a.detail-pic.lazy.mask-1&&data-original",
           desc:';;;.detail-info.rel.flex-auto div:eq(3)&&a&&Text;.detail-info.rel.flex-auto div:eq(2)&&a&&Text',  //// 演员;导演
           content:"div#height_limit.check.text.selected.cor3&&Text", //主要信息
-          tabs:"div#swiper-wrapper-9304a92d71240676.swiper-wrapper&&a",
-          lists:'ul.anthology-list-play.size:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
+          tabs:"a.swiper-slide",
+          lists:'ul.anthology-list-play.size&&li:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
           list_url:'a&&href'
          },
     搜索:'',
