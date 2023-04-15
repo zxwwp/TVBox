@@ -20,9 +20,9 @@ var rule={
     double:true,
     一级:'li.col-lg-8.col-md-6.col-sm-4.col-xs-3&&.myui-vodlist__box;h4.title.text-overflow&&Text;a.myui-vodlist__thumb.lazyload&&data-original;span.pic-tag.pic-tag-top&&Text;a&&href',
    二级:{
-          title:'.myui-content__detail h1&&Text;.myui-content__detail p:eq(0)&&Text',  //片名;类型 时间
-          img:"img&&src",
-          desc:';;;.myui-content__detail p:eq(2) a&&Text;.myui-content__detail p:eq(3)&&Text',  //// 演员;导演
+          title:'.myui-content__detail h1&&Text;.myui-content__detail p:eq(0) a&&Text',  //片名;类型 时间
+          img:".myui-content__thumb img&&src",
+          desc:';;;.myui-content__detail p:eq(3) a&&Text;.myui-content__detail p:eq(2) a&&Text',  //// 演员;导演
           content:".tjuqing&&Text", //主要信息
           tabs:"li.this",
           lists:'.videolist.cf:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
