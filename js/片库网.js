@@ -2,7 +2,7 @@ var rule={
     title:'片库网',
     host:'https://zqthmz.com/',
     // url:'/vodshow/fyclass--------fypage---.html',
-    url:'/vodshow/fyclassfyfilter.html',
+    url:'/vodtype/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
     filter:{
