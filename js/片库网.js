@@ -3,7 +3,7 @@ var rule={
     host:'https://zqthmz.com/',
     url:'/vodtype/fyclass-fypage.html',
     filterable:1,//是否启用分类筛选,
-    filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
+    filter_url:'fyclass-fypage---{{fl.year}}',
     //filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
     filter:{
         "1":[{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"动作片","v":"动作片"},{"n":"喜剧片","v":"喜剧片"},{"n":"爱情片","v":"爱情片"},{"n":"科幻片","v":"科幻片"},{"n":"恐怖片","v":"恐怖片"},{"n":"剧情片","v":"剧情片"},{"n":"战争片","v":"战争片"},{"n":"奇幻片","v":"奇幻片"},{"n":"悬疑片","v":"悬疑片"},{"n":"犯罪片","v":"犯罪片"},{"n":"纪录片","v":"纪录片"},{"n":"邵氏电影","v":"邵氏电影"}]},
