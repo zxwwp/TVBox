@@ -19,7 +19,7 @@ var rule={
     class_url:'1&2&13&28&16&4&3&24',    //静态分类标识拼接
     //推荐:'.wp.type.borsxo;.cf.listwap&&.gcol.l;*;*;*;*',
     double:true,
-    一级:'ul.myui-vodlist.clearfix&&li.col-lg-8.col-md-6.col-sm-4.col-xs-3&&.myui-vodlist__box;a.plusclk&&Text;.inlist.ec-jabj.eclazy&&data-original;span.packscore&&Text;a&&href',
+    一级:'li.col-lg-8.col-md-6.col-sm-4.col-xs-3&&.myui-vodlist__box;a.plusclk&&Text;.inlist.ec-jabj.eclazy&&data-original;span.packscore&&Text;a&&href',
    二级:{
           title:'.detailinfo.r h1&&Text;p.hide a&&Text',  //片名;类型 时间
           img:".detailpic.l&&img&&src",
