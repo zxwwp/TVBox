@@ -17,9 +17,9 @@ var rule={
     headers:{'User-Agent':'PC_UA', },
     class_name:'电影&电视剧&国产剧&韩国剧&欧美剧&动漫&综艺&纪录片',       //静态分类名称拼接
     class_url:'1&2&13&28&16&4&3&24',    //静态分类标识拼接
-    推荐:'.wp.type.borsxo;.cf.listwap&&.gcol.l;*;*;*;*',
+    //推荐:'.wp.type.borsxo;.cf.listwap&&.gcol.l;*;*;*;*',
     double:true,
-    一级:'.modulemod&&.cf.listwap&&.gcol.l;a.plusclk&&Text;.inlist.ec-jabj.eclazy&&data-original;span.packscore&&Text;a&&href',
+    一级:'.myui-panel_bd&&ul.myui-vodlist.clearfix li;a.plusclk&&Text;.inlist.ec-jabj.eclazy&&data-original;span.packscore&&Text;a&&href',
    二级:{
           title:'.detailinfo.r h1&&Text;p.hide a&&Text',  //片名;类型 时间
           img:".detailpic.l&&img&&src",
