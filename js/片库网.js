@@ -23,9 +23,9 @@ var rule={
           title:'.myui-content__detail h1&&Text;.myui-content__detail p:eq(1)&&Text',  //片名;类型 时间
           img:"img.lazyload&&data-original",
           desc:';;;.myui-content__detail p:eq(3)&&Text;.myui-content__detail p:eq(4)&&Text',  //// 演员;导演
-          content:".tjuqing&&Text", //主要信息
-          tabs:"li.this",
-          lists:'.videolist.cf:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
+          content:".myui-content__detail p:eq(5)&&Text", //主要信息
+          tabs:"li.active",
+          lists:'ul.myui-content__list.sort-list.clearfix:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
           list_url:'a&&href'
          },
     搜索:'',
