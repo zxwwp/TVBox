@@ -14,7 +14,7 @@ var rule={
           desc:';;;.detail-info.rel.flex-auto div:eq(3)&&a&&Text;.detail-info.rel.flex-auto div:eq(2)&&a&&Text',  //// 演员;导演
           content:"div#height_limit.check.text.selected.cor3&&Text", //主要信息
           tabs:"a.swiper-slide",
-          lists:'li.box:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
+          lists:'ul.anthology-list-play.size:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
           list_url:'a&&href'
          },
     搜索:'',
