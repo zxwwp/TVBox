@@ -16,7 +16,7 @@ filterable:1,//是否启用分类筛选,
 		3:{cateId:'3'},
 		4:{cateId:'4'}
 	},
- class_parse: '.navbar-items&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
+ //class_parse: '.navbar-items&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
 	searchUrl:'/vodsearch.html#wd=**;post',
     headers:{'User-Agent':'UC_UA',},
     class_name:'电影&电视剧&综艺&动漫',
@@ -25,7 +25,8 @@ filterable:1,//是否启用分类筛选,
     detailUrl:'',
     lazy:"",
     limit:6,
-    推荐:'.index_vod;.vod_item;.vod_title&&Text;.lazyload&&data-src;.vod_remarks&&Text;a&&href',
+    //推荐:'.index_vod;.vod_item;.vod_title&&Text;.lazyload&&data-src;.vod_remarks&&Text;a&&href',
+    推荐:'',
     double:true, // 推荐内容是否双层定位
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&a.module-poster-item');tabs.forEach(function(it){var  pz=pdfh(it,'.module-poster-item-title&&Text');var ps=pdfh(it,'.module-item-douban&&Text');var img=pd(it,'img&&data-original');var timer=pdfh(it,'.module-item-note&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
     二级:{
@@ -36,5 +37,5 @@ filterable:1,//是否启用分类筛选,
         "tabs":"#y-playList .module-tab-item",
         "lists":".module-play-list-content:eq(#id)&&a"},
 
-   搜索:'',
+   搜索:'a.module-poster-item;.module-poster-item-title&&Text',
 }
