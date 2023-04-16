@@ -16,7 +16,7 @@ filterable:1,//是否启用分类筛选,
 		3:{cateId:'3'},
 		4:{cateId:'4'}
 	},
-    class_parse: '.navbar-items&&li:gt(1):lt(4);a&&title;a&&href;/(\\d+).html',
+    class_parse: '.navbar-items&&li:gt(1):lt(4);a&&title;a&&href;/(\\d+).html', //分类如 电影&电视剧&综艺&动漫
 	searchUrl:'/vodsearch.html#wd=**;post',
     //headers:{'User-Agent':'UC_UA',},
     //class_name:'电影&电视剧&综艺&动漫',
