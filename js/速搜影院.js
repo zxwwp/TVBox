@@ -2,9 +2,7 @@ var rule={
     title:'速搜影院',
     host:'https://www.sstv.pw/',
     url:'/vodshow-fypage/page/fypage/?wd=',
-    headers:{'User-Agent':'UC_UA',},
-    class_name:'电影&电视剧&综艺&动漫',
-    class_url:'1&2&3&4',
+    class_parse: '.owl-stage&&a;a&&Text;a&&href', //分类如 电影&电视剧&综艺&动漫
     play_parse:true,
     detailUrl:'',
     lazy:"",
