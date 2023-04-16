@@ -9,7 +9,7 @@ var rule={
     headers:{'User-Agent':'PC_UA', },
     class_name:'电影&电视剧&国产剧&香港剧&韩国剧&泰国剧&动漫&综艺',       //静态分类名称拼接
     class_url:'a&b&b/area/中国大陆&b/area/香港&b/area/韩国&b/area/泰国&c&d',    //静态分类标识拼接
-    推荐:'.wp.type.borsxo;.cf.listwap&&.gcol.l;*;*;*;*',
+    推荐:'',
     double:true,
     一级:'.modulemod&&.cf.listwap&&.gcol.l;a.plusclk&&Text;.inlist.ec-jabj.eclazy&&data-original;span.packscore&&Text;a&&href',
    二级:{
