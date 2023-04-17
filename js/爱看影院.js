@@ -1,11 +1,14 @@
-var rule={
+muban.mxpro.二级.desc = '.module-info-item:eq(4)&&Text;;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text';
+muban.mxpro.二级.tabs = '#y-playList&&.tab-item';
+var rule = {
     title:'爱看影院',
+        模板:'mxpro',
     host:'https://www.2wyy.com/',
     url:'/vodshow/fyclass--------fypage---.html',
-    //url:'/vodtype/fyclass/page/fypage',
+    //url:'/vodshow/fyfilter.html',
     filterable:1,//是否启用分类筛选,
-	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}', //类型-地区-排序-剧情-语言-字母------年份.html
-	filter:{
+    filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
+    filter:{
 		"1":[
             {"key":"cateId","name":"类型","value":[{"n":"全部","v":"1"},{"n":"动作片","v":"25"},{"n":"喜剧片","v":"26"},{"n":"爱情片","v":"27"},{"n":"科幻片","v":"28"},{"n":"恐怖片","v":"30"},{"n":"剧情片","v":"31"},{"n":"战争片","v":"33"},{"n":"纪录片","v":"35"},{"n":"悬疑片","v":"36"},{"n":"犯罪片","v":"38"},{"n":"冒险片","v":"40"},{"n":"动画片","v":"41"},{"n":"惊悚片","v":"43"},{"n":"奇幻片","v":"44"},{"n":"理论片","v":"46"}]},
            {"key":"class","name":"剧情","value":[{"n":"全部","v":"1"},{"n":"喜剧","v":"喜剧"},{"n":"爱情","v":"爱情"},{"n":"恐怖","v":"恐怖"},{"n":"动作","v":"动作"},{"n":"科幻","v":"科幻"},{"n":"剧情","v":"剧情"},{"n":"战争","v":"战争"},{"n":"警匪","v":"警匪"},{"n":"犯罪","v":"犯罪"},{"n":"动画","v":"动画"},{"n":"奇幻","v":"奇幻"},{"n":"武侠","v":"武侠"},{"n":"冒险","v":"冒险"},{"n":"枪战","v":"枪战"},{"n":"悬疑","v":"悬疑"},{"n":"惊悚","v":"惊悚"},{"n":"经典","v":"经典"},{"n":"青春","v":"青春"},{"n":"文艺","v":"文艺"},{"n":"微电影","v":"微电影"},{"n":"古装","v":"古装"},{"n":"历史","v":"历史"},{"n":"运动","v":"运动"},{"n":"农村","v":"农村"},{"n":"儿童","v":"儿童"},{"n":"网络电影","v":"网络电影"}]},
@@ -35,28 +38,11 @@ var rule={
            {"key":"year","name":"年份","value":[{"n":"全部","v":"4"},{"n":"2023","v":"/year/2023"},{"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},{"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},{"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"},{"n":"2010","v":"/year/2010"}]},
            {"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}]
 	},
-	filter_def:{
-		1:{cateId:'1'},
-		2:{cateId:'2'},
-		3:{cateId:'3'},
-		4:{cateId:'4'}
-	},
-    class_parse: '.navbar-items&&li:gt(1):lt(4);a&&title;a&&href;/(\\d+).html', //分类如 电影&电视剧&综艺&动漫
-	searchUrl:'/vodsearch.html#wd=**;post',
-    play_parse:true,
-    detailUrl:'',
-    lazy:"",
-    limit:6,
-    推荐:'',
-    double:true, // 推荐内容是否双层定位
-    一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&a.module-poster-item');tabs.forEach(function(it){var  pz=pdfh(it,'.module-poster-item-title&&Text');var ps=pdfh(it,'.module-item-douban&&Text');var img=pd(it,'img&&data-original');var timer=pdfh(it,'.module-item-note&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
-    二级:{
-        "title":".module-info-main:eq(0) h1&&Text;.module-info-tag-link:eq(2)&&Text",
-        "img":".lazyload&&data-original",
-        "desc":";;;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text",
-        "content":".module-info-introduction-content p&&Text",
-        "tabs":"#y-playList .module-tab-item",
-        "lists":".module-play-list-content:eq(#id)&&a"},
-
-   搜索:'',
+    filter_def:{
+        1:{cateId:'1'},
+        2:{cateId:'2'},
+        3:{cateId:'3'},
+        4:{cateId:'4'}
+    },
+    class_parse: '.navbar-items&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
 }
