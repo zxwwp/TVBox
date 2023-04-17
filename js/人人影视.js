@@ -8,7 +8,7 @@ var rule ={
     class_url:'1&2&3&4&5',    //静态分类标识拼接
     推荐:'',
     double:true,
-    一级:'.public-list-box;a.time-title.hide.ft4&&Text;.lazy.gen-movie-img.mask-1&&data-original;span..cr8&&Text;a&&href',
+    一级:'.public-list-box.public-pic-b;a.time-title.hide.ft4&&Text;.lazy.gen-movie-img.mask-1&&data-original;span..cr8&&Text;a&&href',
    二级:{
           title:'.detail-info.rel.flex-auto h3&&Text;.detail-info.rel.flex-auto div:eq(1)&&Text',  //片名;类型 时间
           img:"a.detail-pic.lazy.mask-1&&data-original",
