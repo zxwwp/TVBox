@@ -3,10 +3,9 @@ var rule ={
     title:'人人影视',
     host:'www.rrets.cc',
     url:'/vodshow-fyclass/page/fypage',
-    class_parse: '#swiper-wrapper.swiper-wrapper-a8d1add85f710fdd5&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
     searchUrl:'/so/wd//page/fypage.html',
-    //class_name:'电影&剧集&动漫&综艺&记录片',       //静态分类名称拼接
-    //class_url:'1&2&3&4&5',    //静态分类标识拼接
+    class_name:'电影&剧集&动漫&综艺&记录片',       //静态分类名称拼接
+    class_url:'1&2&3&4&5',    //静态分类标识拼接
     推荐:'',
     double:true,
     一级:'.public-list-box.public-pic-b;a.time-title.hide.ft4&&Text;.lazy.gen-movie-img.mask-1&&data-original;span..cr8&&Text;a&&href',
