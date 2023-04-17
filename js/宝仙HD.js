@@ -5,5 +5,5 @@ var rule = {
     模板:'mxpro',
     host:'https://webdillo.com/',
     url:'/vodshow/fyclass--------fypage---.html',
-    class_parse: '.top_nav.clearfix&&li:gt(1):lt(6);a&&Text;a&&href;/(\\d+).html',
+    class_parse: '.top_nav.clearfix&&li:gt(0):lt(6);a&&Text;a&&href;/(\\d+).html',
 }
