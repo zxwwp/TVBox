@@ -4,7 +4,7 @@ var rule = Object.assign(muban.首图2,{
     host:'www.rrets.cc',
     url:'/category-fyclass/page/fypage/',
     searchUrl:'/so/wd//page/fypage.html',
-    class_parse:'.swiper-wrapper li;a&&Text;a&&href;.*/',
+    class_parse:'#swiper-wrapper.swiper-wrapper-1d3d2a0aef424c25 li;a&&Text;a&&href;.*/',
     // cate_exclude:'解说',
     play_parse:true,
     lazy:'',
