@@ -4,7 +4,7 @@ var rule={
     url:'/vodshow/fyclass--------fypage---.html',
     //url:'/vodtype/fyclass/page/fypage',
     filterable:1,//是否启用分类筛选,
-	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-------{{fl.year}}', //类型-地区-排序-剧情-语言-------年份.html
+	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}', //类型-地区-排序-剧情-语言-字母------年份.html
 	filter:{
 		"1":[
             {"key":"cateId","name":"类型","value":[{"n":"全部","v":"1"},{"n":"动作片","v":"25"},{"n":"喜剧片","v":"26"},{"n":"爱情片","v":"27"},{"n":"科幻片","v":"28"},{"n":"恐怖片","v":"30"},{"n":"剧情片","v":"31"},{"n":"战争片","v":"33"},{"n":"纪录片","v":"35"},{"n":"悬疑片","v":"36"},{"n":"犯罪片","v":"38"},{"n":"冒险片","v":"40"},{"n":"动画片","v":"41"},{"n":"惊悚片","v":"43"},{"n":"奇幻片","v":"44"},{"n":"理论片","v":"46"}]},
