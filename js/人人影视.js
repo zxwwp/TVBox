@@ -2,10 +2,10 @@
 var rule ={
     title:'人人影视',
     host:'www.rrets.cc',
-    url:'/vodshow-fyclass/page/fypage',
-    searchUrl:'/so/wd//page/fypage.html',
+    url:'/vodshow-fyclass/page/fypage/',
     class_name:'电影&剧集&动漫&综艺&记录片',       //静态分类名称拼接
     class_url:'1&2&3&4&5',    //静态分类标识拼接
+    searchUrl:'/so/wd//page/fypage.html',
     推荐:'',
     double:true,
     一级:'.public-list-box.public-pic-b;a.time-title.hide.ft4&&Text;.lazy.gen-movie-img.mask-1&&data-original;span..cr8&&Text;a&&href',
