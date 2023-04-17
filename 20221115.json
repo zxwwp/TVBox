@@ -29,7 +29,7 @@
 {"key":"dr_好球直播吧","name":"🏀好球直播吧✨备用","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/好球直播吧.js"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
-{"key":"dr_豆瓣","name":"📌豆瓣荐片","type":3,"api":"./js/drpy.min.js","ext":"./js/豆瓣.js"},
+{"key":"dr_茶杯狐","name":"📌茶杯狐荐片","type":3,"api":"./js/drpy.min.js","ext":"./js/茶杯狐.js"},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1},
 {"key":"csp_YQKAPP","name":"🎉一起看","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
