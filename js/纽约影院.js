@@ -4,8 +4,8 @@ var rule = {
     title:'纽约影院',
     模板:'mxpro',
     host:'https://www.nycvod.com/',
-    // url:'/vodshow/fyclass--------fypage---.html',
-    url:'/vodshow/fyfilter.html',
+    url:'/vodshow/fyclass--------fypage---.html',
+    //url:'/vodshow/fyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
     filter:{
@@ -25,5 +25,5 @@ var rule = {
         3:{cateId:'3'},
         4:{cateId:'4'}
     },
-    class_parse: '#.swiper-wrapper-d4bf688b3ac9b4e4&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
+    class_parse: '.swiper-wrapper&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
 }
