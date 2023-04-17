@@ -25,5 +25,5 @@ var rule = {
         3:{cateId:'3'},
         4:{cateId:'4'}
     },
-    class_parse: '.navbar-items&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
+    class_parse: '.swiper-wrapper&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
 }
