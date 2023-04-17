@@ -2,7 +2,7 @@
 var rule ={
     title:'人人影视',
     host:'www.rrets.cc',
-    url:'/category-fyclass',
+    url:'/vodshow-fyclass/page/fypage/',
     class_name:'电影&剧集&动漫&综艺&记录片',       //静态分类名称拼接
     class_url:'1&2&3&4&5',    //静态分类标识拼接
     searchUrl:'/so/wd//page/fypage.html',
