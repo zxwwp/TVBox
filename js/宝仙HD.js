@@ -1,4 +1,4 @@
-muban.mxpro.二级.desc = '.module-info-item:eq(4)&&Text;;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text';
+muban.mxpro.二级.desc = ';;;.content_detail.content_min.fl li:eq(3)&&a&&Text;.content_detail.content_min.fl li:eq(4)&&a&&Text';
 muban.mxpro.二级.tabs = 'ul.title_nav:eq(1)&&li';
 var rule = {
     title:'宝仙HD',
