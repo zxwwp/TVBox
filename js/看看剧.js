@@ -18,5 +18,5 @@ var rule = {
           list_url:'a&&href'
          },
     搜索:'',
-    class_parse: '.navbar-items&&li:gt(1):lt(7);a&&title;a&&href;/(\\d+).html',
+    //class_parse: '.navbar-items&&li:gt(1):lt(7);a&&title;a&&href;/(\\d+).html',
 }
