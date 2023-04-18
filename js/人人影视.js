@@ -21,6 +21,7 @@ var rule = {
 	class_parse:'.head-nav li:gt(0):lt(6);a&&Text;a&&href;/\\w+-(\\d+)/',
 	//class_name:'',
 	//class_url:'',
+    play_parse:true,
 	lazy:"",
 	一级:'.list-vod .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
 }
