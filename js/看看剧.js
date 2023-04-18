@@ -1,9 +1,9 @@
 muban.mxpro.二级.desc = '.module-info-item:eq(4)&&Text;;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text';
 muban.mxpro.二级.tabs = '#y-playList&&.tab-item';
 var rule = {
-    title:'爱看影院',
+    title:'看看剧',
     模板:'mxpro',
-    host:'https://www.2wyy.com/',
+    host:'https://www.kankanju.cc/',
     // url:'/vodshow/fyclass--------fypage---.html',
     url:'/vodtype/fyfilter.html',
     filterable:1,//是否启用分类筛选,
