@@ -14,7 +14,7 @@ var rule = {
           desc:';;;.stui-content__detail p:eq(6)&&a&&Text;.stui-content__detail p:eq(5)&&a&&Text',  //// 演员;导演
           content:"span.detail-sketch&&Text", //主要信息
           tabs:"h3.title",
-          lists:'ul.stui-content__playlist.sort-list.maxheight.clearfix:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
+          lists:'ul.stui-content__playlist:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
           list_url:'a&&href'
          },
     搜索:'',
