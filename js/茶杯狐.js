@@ -5,9 +5,10 @@ var rule={
     searchUrl:'/filter/fyclass/page/fypage',
     searchable:2,
     filterable:0,
-    headers:{'User-Agent':'PC_UA', },
-    class_name:'电影&电视剧&国产剧&香港剧&韩国剧&泰国剧&动漫&综艺',       //静态分类名称拼接
-    class_url:'电影/全部类型/全部地区/全部年代/近期热度&电视剧/全部类型/全部地区/全部年代/近期热度&电视剧/全部类型/华语/全部年代/近期热度&b/area/香港&b/area/韩国&b/area/泰国&c&d',    //静态分类标识拼接
+    class_name:'热播新剧&热播新剧&热播动漫&热播综艺&热播纪录片', 
+    class_url:'list/热播新剧/tv_热门&list/热门电影/movie_热门&动漫/全部类型/华语/全部年代/近期热度&list/热播综艺/tv_综艺&list/热播纪录片/tv_纪录片', 
+    //class_name:'电影&电视剧&国产剧&香港剧&韩国剧&泰国剧&动漫&综艺',       //静态分类名称拼接
+    //class_url:'电影/全部类型/全部地区/全部年代/近期热度&电视剧/全部类型/全部地区/全部年代/近期热度&电视剧/全部类型/华语/全部年代/近期热度&b/area/香港&b/area/韩国&b/area/泰国&c&d',    //静态分类标识拼接
     推荐:'.wp.type.borsxo;.cf.listwap&&.gcol.l;*;*;*;*',
     double:true,
     一级:'.card.border-shadow&&.movie-list-body&&.movie-list-item;.movie-title&&Text;img&&src;.movie-rating&&Text;a&&href',
