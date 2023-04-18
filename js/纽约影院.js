@@ -1,8 +1,7 @@
 var rule={
     title:'纽约影院',
     host:'https://www.nycvod.com/',
-    //url:'/vodtype/fyclass/page/fypage',
-    url: '/index.php/api/vod#type=fyfilter&page=fypage',
+    url:'/vodtype/fyclass/page/fypage',
     filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}',
 	filter: {
