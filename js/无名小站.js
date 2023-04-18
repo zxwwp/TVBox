@@ -2,6 +2,7 @@ var rule={
     title:'无名小站',
     host:'https://blssv.com',
     url:'/vodshow-fyclass/page/fypage',
+    searchUrl:'/vodshow/id/fyclass/page/fypage.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}/page/fypage{{fl.year}}',
     filter:{
@@ -23,10 +24,6 @@ var rule={
     quickSearch:1,//是否启用快速搜索,
     class_name:'电影&剧集&综艺&动漫&记录',
     class_url:'1&2&3&4&5',
-    play_parse:true,
-    detailUrl:'',
-    lazy:"",
-    limit:6,
     推荐:'',
     double:true, // 推荐内容是否双层定位
    一级:'.mdui-m-t-2.list.vertical&&ul&&li;span.star-up-name.mdui-p-t-1&&Text;img&&data-original;span.vod_remarks&&Text;a&&href',
