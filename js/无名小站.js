@@ -31,9 +31,8 @@ var rule={
     double:true, // 推荐内容是否双层定位
    一级:'.mdui-m-t-2.list.vertical&&ul&&li;span.star-up-name.mdui-p-t-1&&Text;img&&data-original;span.vod_remarks&&Text;a&&href',
    二级:{
-          title:'.video-titlewraper h1&&Text;a&&target',  //片名;类型 时间
-          img:"img&&data-original",
-          desc:';;;.stui-content__detail p:eq(6)&&a&&Text;a&&target',  //// 演员;导演
+          title:'h1.doc-title.mdui-text-color-white&&Text;a&&target',  //片名;类型 时间
+          desc:';;;a&&Text;a&&target',  //// 演员;导演
           content:".inline_item p&&Text", //主要信息
           tabs:".mdui-panel-item-title",
           lists:'.mdui-panel-item-body:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
