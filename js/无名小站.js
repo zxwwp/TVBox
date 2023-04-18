@@ -21,9 +21,6 @@ var rule={
     searchUrl:'/vodsearch/**----------fypage---/',
     searchable:2,//是否启用全局搜索,
     quickSearch:1,//是否启用快速搜索,
-    headers:{
-        'User-Agent':'UC_UA',
-    },
     class_name:'电影&剧集&综艺&动漫&记录',
     class_url:'1&2&3&4&5',
     play_parse:true,
