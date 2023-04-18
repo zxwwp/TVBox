@@ -9,7 +9,7 @@ var rule = {
     double:true,
     一级:'.stui-vodlist__box;a&&title;a&&data-original;span.pic-text1&&Text;a&&href',
    二级:{
-          title:'h1.title wdetail&&Text;p.hidden-xs&&Text',  //片名;类型 时间
+          title:'.stui-content__detail h1&&Text;.stui-content__detail p:gt(0)&&Text',  //片名;类型 时间
           img:"img&&data-original",
           desc:';;;.stui-content__detail p:eq(6)&&a&&Text;.stui-content__detail p:eq(5)&&a&&Text',  //// 演员;导演
           content:"span.detail-sketch&&Text", //主要信息
