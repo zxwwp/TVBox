@@ -1,7 +1,7 @@
 var rule = {
     title:'JRS低调看球',
     host:'https://ddkanqiu.net/',
-    url:'/fyclass',
+    url:'/fyclassfyfilter',
     class_name:'赛事直播✨注意时间',
     class_url:'/',
     headers:{
