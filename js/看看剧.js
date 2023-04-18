@@ -3,8 +3,8 @@ var rule = {
     host:'https://www.kankanju.cc/',
     url:'/type/fyclass-fypage/',
     searchUrl:'/vodshow/id/fyclass/page/fypage.html',
-    class_name:'电影&国产剧&港台剧&欧美剧&泰国剧&日韩剧&综艺&动漫&记录片',       //静态分类名称拼接
-    class_url:'dianying&guochanju&gangtaiju&oumeiju&taiguoju&rihanju&zongyi&dongman&jilupian',    //静态分类标识拼接
+    class_name:'电影&国产剧&港台剧&欧美剧&泰国剧&日韩剧&记录片&综艺&动漫',       //静态分类名称拼接
+    class_url:'dianying&guochanju&gangtaiju&oumeiju&taiguoju&rihanju&jilupian&zongyi&dongman',    //静态分类标识拼接
     推荐:'',
     double:true,
     一级:'.stui-vodlist__box;a&&title;a&&data-original;span.pic-text1&&Text;a&&href',
