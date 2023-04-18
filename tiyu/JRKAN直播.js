@@ -22,9 +22,9 @@ var rule = {
     img:"img&&src",
 	desc:";;;.lab_team_home&&Text;.lab_team_away&&Text",  //演员;导演
 	content:".sub_list ul&&Text",  // 主要信息
-	tabs:"js:TABS=['【直播源】']",
+	//tabs:"js:TABS=['【直播源】']",
 	//	lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.sub_playlist:eq(#id)&&a');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'strong&&Text');let url=pd(it,'a&&data-play');return name+'$'+url});LISTS.push(d)});"
-	    //tabs:"h3.title",
+	tabs:'',tab_text:'',
     lists:'.sub_channel a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
     list_text:'a&&Text',
     list_url:'a&&data-play'
