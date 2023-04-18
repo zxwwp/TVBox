@@ -3,7 +3,7 @@ muban.短视2.二级.img = '.lazy:eq(0)&&data-original';
 muban.短视2.二级.desc = 'p:eq(1)&&Text;;;p:eq(2)&&Text;p:eq(1)&&Text';
 muban.短视2.二级.content = '.card-text&&Text';
 var rule = {
-    title:'人人',
+    title:'人人影视',
     模板:'短视2',
     host:'https://www.rrets.cc',
 	// url: '/vodshow-fyclass/page/fypage/',
