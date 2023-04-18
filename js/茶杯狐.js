@@ -9,7 +9,7 @@ var rule={
     class_url:'电影/全部类型/全部地区/全部年代/近期热度&电视剧/全部类型/全部地区/全部年代/近期热度&电视剧/全部类型/华语/全部年代/近期热度&电视剧/全部类型/欧美/全部年代/近期热度&电视剧/全部类型/韩国/全部年代/近期热度&电视剧/全部类型/泰国/全部年代/近期热度&动漫/全部类型/全部地区/全部年代/近期热度&综艺/全部类型/全部地区/全部年代/近期热度',    //静态分类标识拼接
     推荐:'',
     double:true,
-    一级:'.card.border-shadow&&.movie-list-body&&.movie-list-item;.movie-title&&Text;img&&src;.movie-rating&&Text;a&&href',
+    一级:'.movie-list-body&&.movie-list-item;.movie-title&&Text;img&&src;.movie-rating&&Text;a&&href',
     二级:{
           title:'.detailinfo.r h1&&Text;p.hide a&&Text',  //片名;类型 时间
           img:".detailpic.l&&img&&src",
