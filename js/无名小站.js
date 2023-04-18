@@ -2,7 +2,6 @@ var rule={
     title:'无名小站',
     host:'https://blssv.com',
     url:'/vodshow-fyclass/page/fypage',
-    searchUrl:'/vodshow/id/fyclass/page/fypage.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}/page/fypage{{fl.year}}',
     filter:{
