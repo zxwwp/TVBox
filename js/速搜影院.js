@@ -25,7 +25,7 @@ var rule={
     class_url:'1&2&3&4&5',
     推荐:'.index_vod;.vod_item;.vod_title&&Text;.lazyload&&data-src;.vod_remarks&&Text;a&&href',
     double:true, // 推荐内容是否双层定位
-   一级:'.tab-pane.fade.active.in.how&&row&&.item;.zmovo-team-title.wapxs a&&Text;img&&src;.zmovo-team-title.wapxs h4&&Text;a&&href',
+   一级:'.item&&.zmovo-full-banner-bg2;.zmovo-team-title.wapxs a&&Text;img&&src;.zmovo-team-title.wapxs h4&&Text;a&&href',
    二级:{
           title:'h1.doc-title.mdui-text-color-white&&Text;a&&target',  //片名;类型 时间
           desc:';;;a&&Text;a&&target',  //// 演员;导演
