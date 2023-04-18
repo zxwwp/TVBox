@@ -55,12 +55,12 @@
 {"key":"新浪资源","name":"🆗新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","m3u8ads": "hd.youyhn.com","playUrl":"","searchable":1,"quickSearch":1},
 
 {"key":"drpy_爱看影院","name":"👓爱看影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/爱看影院.js"},
+{"key":"drpy_纽约影院","name":"👓纽约影院✨","type":3,"api":"./js/drpy2.min.js","ext":"./js/纽约影院.js"},
 {"key":"drpy_看看剧","name":"🧥看看剧✨","type":3,"api":"./js/drpy.min.js","ext":"./js/看看剧.js"},
 //{"key":"drpy_速搜影院","name":"🧥速搜影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/速搜影院.js"},
 {"key":"drpy_麻衣呀呼","name":"🧥麻衣呀呼✨","type":3,"api":"./js/drpy.min.js","ext":"./js/麻衣呀呼.js"},
 {"key":"drpy_片库网","name":"🧥片库网✨","type":3,"api":"./js/drpy.min.js","ext":"./js/片库网.js"},
 {"key":"drpy_宝仙HD","name":"👓宝仙HD✨","type":3,"api":"./js/drpy.min.js","ext":"./js/宝仙HD.js"},
-{"key":"drpy_纽约影院","name":"👓纽约影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/纽约影院.js"},
 //{"key":"drpy_无名小站","name":"🍚无名小站✨","type":3,"api":"./js/drpy.min.js","ext":"./js/无名小站.js"},
 {"key":"无名小站","name":"💢无名小站","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/无名小站.json"},
 {"key":"drpy_HDmoli","name":"🧬HDmoli✨","type":3,"api":"./js/drpy.min.js","ext":"./js/HDmoli.js"},
