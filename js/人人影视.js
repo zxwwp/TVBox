@@ -6,7 +6,6 @@ var rule = {
     title:'人人影视',
     模板:'短视2',
     host:'https://www.rrets.cc',
-	// url: '/vodshow-fyclass/page/fypage/',
 	url: '/vodshow-fyclassfyfilter/',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
@@ -20,8 +19,8 @@ var rule = {
     searchUrl: '/so/page/fypage/wd/**/',
     searchable: 0,
 	class_parse:'.head-nav li:gt(0):lt(6);a&&Text;a&&href;/\\w+-(\\d+)/',
-	class_name:'',
-	class_url:'',
+	//class_name:'',
+	//class_url:'',
 	lazy:"",
 	一级:'.list-vod .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
 }
