@@ -32,14 +32,15 @@ var rule={
     limit:6,
     推荐:'',
     double:true, // 推荐内容是否双层定位
-
-     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&li.vod_item');tabs.forEach(function(it){var  pz=pdfh(it,'span.star-up-name.mdui-p-t-1&&Text');var ps=pdfh(it,'.vod_remarks&&Text');var img=pd(it,'img&&data-original');var timer=pdfh(it,'.&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
-    二级:{
-        "title":".video-titlewraper h1&&Text",
-        "desc":";;;..info_text:eq(3) label&&Text;.info-block&&Text",
-        "content":".info_text:eq(3) p&&Text",
-        "tabs":".mdui-panel-item-title",
-        "lists":".mdui-panel-item-body:eq(#id)&&a"
-        },
-      搜索:'', 
+   一级:'.mdui-m-t-2.list.vertical&&ul&&li;span.star-up-name.mdui-p-t-1&&Text;img&&data-original;span.vod_remarks&&Text;a&&href',
+   二级:{
+          title:'.video-titlewraper h1&&Text;a&&target',  //片名;类型 时间
+          img:"img&&data-original",
+          desc:';;;.stui-content__detail p:eq(6)&&a&&Text;a&&target',  //// 演员;导演
+          content:".inline_item p&&Text", //主要信息
+          tabs:".mdui-panel-item-title",
+          lists:'.mdui-panel-item-body:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
+          list_url:'a&&href'
+         },
+    搜索:'',
 }
