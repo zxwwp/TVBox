@@ -5,8 +5,8 @@ var rule={
     searchUrl:'/filter/fyclass/page/fypage',
     searchable:2,
     filterable:0,
-    class_name:'电影&电视剧&国产剧&香港剧&韩国剧&泰国剧&动漫&综艺',       //静态分类名称拼接
-    class_url:'电影/全部类型/全部地区/全部年代/近期热度&电视剧/全部类型/全部地区/全部年代/近期热度&电视剧/全部类型/华语/全部年代/近期热度&b/area/香港&b/area/韩国&b/area/泰国&c&d',    //静态分类标识拼接
+    class_name:'电影&电视剧&国产剧&欧美剧&韩国剧&泰国剧&动漫&综艺',       //静态分类名称拼接
+    class_url:'电影/全部类型/全部地区/全部年代/近期热度&电视剧/全部类型/全部地区/全部年代/近期热度&电视剧/全部类型/华语/全部年代/近期热度&电视剧/全部类型/欧美/全部年代/近期热度&电视剧/全部类型/韩国/全部年代/近期热度&电视剧/全部类型/泰国/全部年代/近期热度&动漫/全部类型/全部地区/全部年代/近期热度&综艺/全部类型/全部地区/全部年代/近期热度',    //静态分类标识拼接
     推荐:'.wp.type.borsxo;.cf.listwap&&.gcol.l;*;*;*;*',
     double:true,
     一级:'.card.border-shadow&&.movie-list-body&&.movie-list-item;.movie-title&&Text;img&&src;.movie-rating&&Text;a&&href',
