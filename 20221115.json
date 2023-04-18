@@ -61,7 +61,7 @@
 {"key":"drpy_麻衣呀呼","name":"🧥麻衣呀呼✨","type":3,"api":"./js/drpy2.min.js","ext":"./js/麻衣呀呼.js"},
 {"key":"drpy_片库网","name":"🧥片库网✨","type":3,"api":"./js/drpy2.min.js","ext":"./js/片库网.js"},
 {"key":"drpy_宝仙HD","name":"👓宝仙HD✨","type":3,"api":"./js/drpy2.min.js","ext":"./js/宝仙HD.js"},
-//{"key":"drpy_无名小站","name":"🍚无名小站✨","type":3,"api":"./js/drpy2.min.js","ext":"./js/无名小站.js"},
+{"key":"drpy_无名小站","name":"🍚无名小站✨","type":3,"api":"./js/drpy2.min.js","ext":"./js/无名小站.js"},
 {"key":"无名小站","name":"💢无名小站","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/无名小站.json"},
 {"key":"drpy_HDmoli","name":"🧬HDmoli✨","type":3,"api":"./js/drpy2.min.js","ext":"./js/HDmoli.js"},
 {"key":"drpy_333影视.","name":"🍨333影视.✨","type":3,"api":"./js/drpy2.min.js","ext":"./js/333影视.js"},
