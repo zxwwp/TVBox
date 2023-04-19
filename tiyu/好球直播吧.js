@@ -2,18 +2,8 @@ var rule = {
     title:'好球直播吧',
     host:'https://www.haoqiuzhibo.com/',
     url:'/fyclass',     //网站的分类页面链接
-    class_name:'全部&英超直播&篮球&综合',       //静态分类名称拼接
-    class_url:'/&live/yingchao&lanqiu&tiyu',    //静态分类标识拼接
-    //class_name:'赛事直播✨注意时间',
-   // class_url:'/',
-    //headers:{
-      //      'User-Agent':'MOBILE_UA',
-     //       "Cookie": "searchneed=ok"
-    //        },     //网站的请求头,完整支持所有的,常带ua和cookies
-    timeout:5000,     //网站的全局请求超时,默认是3000毫秒
-    play_parse:true,    // 服务器解析播放
-    lazy:'',    // 自定义免嗅
-    limit:6,    // 首页推荐显示数量
+    class_name:'赛事直播✨注意时间',
+    class_url:'/',
     double:false,    //是否双层列表定位,默认false
     推荐:'*',
       // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
@@ -21,6 +11,7 @@ var rule = {
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
           title:'p.timeP&&Text;.score_name a&&Text',  //片名;类型 时间
+          img:'img&&src',
           desc:';;;.score_name_left h3&&Text;.score_name_left.score_name_right h3&&Text',  //// 演员;导演
           //content:"style h1&Text", //主要信息
           tabs:"js:TABS=['【直播源】']",
