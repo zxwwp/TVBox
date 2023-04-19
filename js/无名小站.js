@@ -1,7 +1,6 @@
 var rule={
     title:'无名小站',
     host:'https://blssv.com',
-      模板:'短视2',
     url:'/vodshow-fyclassfyfilter/',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.class}}{{fl.year}}',
@@ -273,13 +272,11 @@ var rule={
   {"n":"2011","v":"/year/2011"},
   {"n":"2010","v":"/year/2010"}]}]
     },
-    searchUrl:'/vodsearch/{wd}----------1---/',
-    //searchUrl:'/vodsearch/**----------fypage---/',
+    searchUrl:'/vodsearch/**----------fypage---/',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
     class_name:'电影&剧集&综艺&动漫&记录',
     class_url:'1&2&3&4&5',
-    detailUrl:'/vodplay/fyid-fyclass-1/',
     play_parse:true,
     detailUrl:'',
     lazy:"",
