@@ -1,9 +1,9 @@
 var rule = {
     title:'好球直播吧',
     host:'https://www.haoqiuzhibo.com/',
-    url:'/live/fyclass',     //网站的分类页面链接
+    url:'/fyclass',     //网站的分类页面链接
     class_name:'全部&英超直播&篮球&综合',       //静态分类名称拼接
-    class_url:'/&yingchao&lanqiu&tiyu',    //静态分类标识拼接
+    class_url:'/&live/yingchao&lanqiu&tiyu',    //静态分类标识拼接
     //class_name:'赛事直播✨注意时间',
    // class_url:'/',
     //headers:{
