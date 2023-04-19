@@ -279,6 +279,7 @@ var rule={
     quickSearch:0,//是否启用快速搜索,
     class_name:'电影&剧集&综艺&动漫&记录',
     class_url:'1&2&3&4&5',
+    detailUrl:'/vodplay/-1-1/',
     play_parse:true,
     detailUrl:'',
     lazy:"",
