@@ -10,6 +10,7 @@ var rule = {
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
           title:'.sig-vs-txt span&&Text;.sig-vs-txt b&&Text',  //片名;类型 时间
+          img:'img&&src',
           desc:';;;.ht a&&Text;.gt a&&Text',  //// 演员;导演
           content:".team&&Text", //主要信息
           tabs:"js:TABS=['【直播源】']",
