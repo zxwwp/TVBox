@@ -5,7 +5,7 @@ var rule = {
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.class}}{{fl.year}}',
     filter:{
-       "1":[
+       "dianying":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
   {"n":"喜剧","v":"/class/喜剧"},
