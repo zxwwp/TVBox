@@ -5,7 +5,7 @@ var rule={
     // url:'/vodshow-fyclass/page/fypage/',
     url:'/vodshow-fyclassfyfilter/',
     filterable:1,//是否启用分类筛选,
-    filter_url:'{{fl.area}}{{fl.class}}',
+    filter_url:'{{fl.area}}{{fl.class}}{{fl.year}}',
     filter:{
        "1":[
   {"key":"class","name":"剧情","value":[
