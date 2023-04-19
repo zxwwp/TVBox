@@ -281,12 +281,13 @@ var rule={
         4:{by:'/by/time'},
         5:{by:'/by/time'}
     },
-    searchUrl:'/vodsearch/**----------fypage---/',
+    searchUrl:'/vodsearch/{wd}----------fypage---/',
+    //searchUrl:'/vodsearch/**----------fypage---/',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
-    headers:{//网站的请求头,完整支持所有的,常带ua和cookies
-        'User-Agent':'UC_UA',
-    },
+   // headers:{//网站的请求头,完整支持所有的,常带ua和cookies
+       // 'User-Agent':'UC_UA',
+    //},
     class_name:'电影&剧集&综艺&动漫&记录',
     class_url:'1&2&3&4&5',
     play_parse:true,
@@ -303,7 +304,7 @@ var rule={
         "desc":";;;.inline_item:eq(2)&&Text;.inline_item:eq()&&Text",
         // "content":".module-info-introduction&&Text",
         "content":".info_text--div&&Text",
-        "tabs":".mdui-panel-item-title",
-        "lists":".mdui-panel-item-body:eq(#id)&&a"},
+        "tabs":".mdui-panel-item-title&&div",
+        "lists":".mdui-panel-item-body:eq(#id)&&div"},
     搜索:'body li.vod_item;*;*;*;*',
 }
