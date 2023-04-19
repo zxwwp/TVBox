@@ -1,7 +1,7 @@
 var rule={
     title:'片库网',
     host:'https://zqthmz.com/',
-    url:'/vodtype/fyclass-fypage.html',
+    url:'/vodshow/fyclass-fypage.html',
     searchable:2,//是否启用全局搜索,
     quickSearch:1,//是否启用快速搜索,
     searchUrl:'/vodsearch/**-------------.html',
