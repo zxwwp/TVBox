@@ -6,10 +6,10 @@ var rule = {
     //class_url:'/&live/zuqiu&live/lanqiu&live/tiyu',    //静态分类标识拼接
     class_name:'赛事直播✨注意时间',
     class_url:'/',
-    headers:{
-            'User-Agent':'MOBILE_UA',
-            "Cookie": "searchneed=ok"
-            },     //网站的请求头,完整支持所有的,常带ua和cookies
+    //headers:{
+      //      'User-Agent':'MOBILE_UA',
+     //       "Cookie": "searchneed=ok"
+    //        },     //网站的请求头,完整支持所有的,常带ua和cookies
     timeout:5000,     //网站的全局请求超时,默认是3000毫秒
     play_parse:true,    // 服务器解析播放
     lazy:'',    // 自定义免嗅
