@@ -281,7 +281,7 @@ var rule={
    //     4:{by:'/by/time'},
    //     5:{by:'/by/time'}
   //  },
-    searchUrl:'/vodsearch/{wd}----------fypage---/',
+    searchUrl:'/vodsearch/{wd}----------1---/',
     //searchUrl:'/vodsearch/**----------fypage---/',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
