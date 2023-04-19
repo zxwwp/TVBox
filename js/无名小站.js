@@ -1,8 +1,6 @@
 var rule={
     title:'无名小站',
     host:'https://blssv.com',
-    // homeUrl:'/',
-    // url:'/vodshow-fyclass/page/fypage/',
     url:'/vodshow-fyclassfyfilter/',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.class}}{{fl.year}}',
@@ -274,20 +272,10 @@ var rule={
   {"n":"2011","v":"/year/2011"},
   {"n":"2010","v":"/year/2010"}]}]
     },
-    //filter_def:{
-     //   1:{by:'/by/time'},
-   //     2:{by:'/by/time'},
-   //     3:{by:'/by/time'},
-   //     4:{by:'/by/time'},
-   //     5:{by:'/by/time'}
-  //  },
     searchUrl:'/vodsearch/{wd}----------1---/',
     //searchUrl:'/vodsearch/**----------fypage---/',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
-   // headers:{//网站的请求头,完整支持所有的,常带ua和cookies
-       // 'User-Agent':'UC_UA',
-    //},
     class_name:'电影&剧集&综艺&动漫&记录',
     class_url:'1&2&3&4&5',
     play_parse:true,
