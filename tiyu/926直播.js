@@ -18,7 +18,7 @@ var rule = {
         //lists:"js:LISTS=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;let html=request(input);let data=pdfa(html,'.box dl&&dd');TABS.forEach(function(tab){let d=data.map(function(it){let name=pdfh(it,'span.diss&&Text');let url=pd(it,'iframe&&src');return name+'$'+url});LISTS.push(d)});"
         lists:'.diss',   //:gt(2):lt(17)显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
         //list_text:'dd&&Text',
-        list_url:'iframe&&href'
+        list_url:'iframe&&src'
         },
     搜索:'',
 }
