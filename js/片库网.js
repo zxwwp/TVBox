@@ -10,7 +10,7 @@ var rule={
     class_url:'1&2&4&3&24&13&26&28&16&30&29&31',    //静态分类标识拼接
     推荐:'li.col-lg-8.col-md-6.col-sm-4.col-xs-3&&.myui-vodlist__box;*;*;*;*',
     double:true,
-    一级:'.col-lg-8&&.myui-vodlist__box;h4.title.text-overflow&&Text;a.myui-vodlist__thumb.lazyload&&data-original;span.pic-tag.pic-tag-top&&Text;a&&href',
+    一级:'.col-xs-3&&.myui-vodlist__box;h4.title.text-overflow&&Text;a.myui-vodlist__thumb.lazyload&&data-original;span.pic-tag.pic-tag-top&&Text;a&&href',
    二级:{
           title:'.myui-content__detail h1&&Text;.myui-content__detail p:eq(1)&&Text',  //片名;类型 时间
           img:"img.lazyload&&data-original",
