@@ -3,7 +3,7 @@ var rule = {
     host:'https://www.haoqiuzhibo.com/',
     url:'/fyclass',     //网站的分类页面链接
     class_name:'全部&足球&篮球&综合',       //静态分类名称拼接
-    class_url:'/&live/zuqiu&live/lanqiu&live/tiyu',    //静态分类标识拼接
+    class_url:'/&/live/zuqiu&/live/lanqiu&/live/tiyu',    //静态分类标识拼接
     //class_name:'赛事直播✨注意时间',
    // class_url:'/',
     //headers:{
