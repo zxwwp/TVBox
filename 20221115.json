@@ -31,7 +31,7 @@
 //{"key":"dr_926直播","name":"🏀926直播✨备用","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/926直播.js"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
-{"key":"drpy_js_人人影视",	"name":"人人影视",	"type":3,	"api":"https://notabug.org/li5bo5/dr_py/raw/master/libs/drpy2.min.js","ext":"https://notabug.org/li5bo5/dr_py/raw/master/js/人人影视.js","jar":"https://notabug.org/li5bo5/CatVodSpider/raw/main/jar/custom_spider.jar"},
+{"key":"drpy_js_人人影视",	"name":"人人影视",	"type":3,	"api":"https://notabug.org/li5bo5/dr_py/raw/master/libs/drpy2.min.js","ext":"https://notabug.org/li5bo5/dr_py/raw/master/js/人人影视.js"},
 
 {"key":"csp_xbb_茶杯狐","name":"茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/li5bo5/liubox/raw/main/sub/MeowXB/茶杯狐.json"},
 {"key":"dr_茶杯狐","name":"📌茶杯狐热播","type":3,"api":"./js/drpy.min.js","ext":"./js/茶杯狐.js"},
