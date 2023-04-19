@@ -274,13 +274,13 @@ var rule={
   {"n":"2011","v":"/year/2011"},
   {"n":"2010","v":"/year/2010"}]}]
     },
-    filter_def:{
-        1:{by:'/by/time'},
-        2:{by:'/by/time'},
-        3:{by:'/by/time'},
-        4:{by:'/by/time'},
-        5:{by:'/by/time'}
-    },
+    //filter_def:{
+     //   1:{by:'/by/time'},
+   //     2:{by:'/by/time'},
+   //     3:{by:'/by/time'},
+   //     4:{by:'/by/time'},
+   //     5:{by:'/by/time'}
+  //  },
     searchUrl:'/vodsearch/{wd}----------fypage---/',
     //searchUrl:'/vodsearch/**----------fypage---/',
     searchable:2,//是否启用全局搜索,
