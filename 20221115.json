@@ -9,7 +9,7 @@
 // 配置直播地址
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
 
-"lives":[{"name":"live","type":0,"url":"https://notabug.org/qizhen15800/My9394/raw/master/live/tv.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"./TV.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 
 /*-----------------------配置数据接口源-----------------------*/
