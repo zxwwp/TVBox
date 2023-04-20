@@ -11,5 +11,5 @@ var rule = {
     searchable: 0,
 	class_parse:'.head-nav li:gt(0):lt(6);a&&Text;a&&href;/\\w+-(\\d+)/',
 	lazy:"",
-	一级:'.vodlist .pack-ykpack;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
+	一级:'.vodlist.hotgrow.size.listdh.list-a1 .pack-ykpack;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
 }
