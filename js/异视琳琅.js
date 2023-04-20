@@ -196,9 +196,12 @@ var rule = {
   {"n":"2010","v":"/year/2010"}]}]
     },
     searchUrl: '/so/page/fypage/wd/**/',
-    searchable: 0,
-	class_parse:'.nav-channel a;a&&Text;a&&href;/\\w+-(\\d+)/',
-   lazy:"",
+    searchable:2,//是否启用全局搜索,
+    quickSearch:1,//是否启用快速搜索,
+    class_name:'电影&电视剧&动漫&综艺&记录片',       //静态分类名称拼接
+    class_url:'1&2&3&4&5',    //静态分类标识拼接
+    推荐:'',
+    double:true,
    一级:'.vodlist.hotgrow.size.listdh.list-a1 .pack-ykpack;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
    二级:{
           title:'h2&&Text;.hl-ma0&&Text',  //片名;类型 时间
