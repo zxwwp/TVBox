@@ -202,7 +202,7 @@ var rule = {
     },
     searchUrl: '/so/page/fypage/wd/**/',
     searchable: 0,
-	//class_parse:'.nav-channel a;a&&Text;a&&href;/\\w+-(\\d+)/',
+	class_parse:'.nav-channel a;a&&Text;a&&href;/\\w+-(\\d+)/',
 	lazy:"",
 	一级:'.vodlist.hotgrow.size.listdh.list-a1 .pack-ykpack;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
 }
