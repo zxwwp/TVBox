@@ -1,10 +1,10 @@
 muban.mxpro.二级.desc = '.module-info-item:eq(4)&&Text;;;.detailinfo.r p:eq(4)&&Text;.detailinfo.r p:eq(3)&&Text';
-muban.mxpro.二级.tabs = 'li.this';
+muban.mxpro.二级.tabs = '#play&&.this';
 var rule={
     title:'麻衣呀呼',
     模板:'mxpro',
     host:'https://www.mayiyahu.com/',
-    url:'/s/id-fyclass/page/fypage',
+    url:'/s/id-fyclass/page/fypage.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.class}}{{fl.year}}',
     filter:{
@@ -198,7 +198,8 @@ var rule={
   {"n":"2011","v":"/year/2011"},
   {"n":"2010","v":"/year/2010"}]}]
     },
-    class_name:'电影&电视剧&国产剧&香港剧&韩国剧&泰国剧&动漫&综艺',       //静态分类名称拼接
-    class_url:'a&b&b/area/中国大陆&b/area/香港&b/area/韩国&b/area/泰国&c&d',    //静态分类标识拼接
+   // class_name:'电影&电视剧&国产剧&香港剧&韩国剧&泰国剧&动漫&综艺',       //静态分类名称拼接
+   // class_url:'a&b&b/area/中国大陆&b/area/香港&b/area/韩国&b/area/泰国&c&d',    //静态分类标识拼接
+    class_parse: '.swiper-wrapper&&li:gt(1):lt(4);a&&Text;a&&href;/id-(\\d+).html', //静态分类名称拼接
     //detailUrl:'/v/id-fyid.html',   //播放视频网址
     }
