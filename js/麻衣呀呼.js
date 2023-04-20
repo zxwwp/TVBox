@@ -1,6 +1,8 @@
+muban.mxpro.二级.desc = '.module-info-item:eq(4)&&Text;;;.detailinfo.r p:eq(4)&&Text;.detailinfo.r p:eq(3)&&Text';
+muban.mxpro.二级.tabs = 'li.this';
 var rule={
     title:'麻衣呀呼',
-    模板:'短视2',
+    模板:'mxpro',
     host:'https://www.mayiyahu.com/',
     url:'/s/id-fyclass/page/fypage',
     filterable:1,//是否启用分类筛选,
@@ -198,5 +200,5 @@ var rule={
     },
     class_name:'电影&电视剧&国产剧&香港剧&韩国剧&泰国剧&动漫&综艺',       //静态分类名称拼接
     class_url:'a&b&b/area/中国大陆&b/area/香港&b/area/韩国&b/area/泰国&c&d',    //静态分类标识拼接
-    detailUrl:'/v/id-fyid.html',   //播放视频网址
+    //detailUrl:'/v/id-fyid.html',   //播放视频网址
     }
