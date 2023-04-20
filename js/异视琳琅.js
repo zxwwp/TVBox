@@ -1,10 +1,5 @@
-muban.短视2.二级.title = 'h2&&Text;.hl-ma0&&Text';
-muban.短视2.二级.img = '.lazy:eq(0)&&data-original';
-muban.短视2.二级.desc = 'p:eq(1)&&Text;;;p:eq(2)&&Text;p:eq(1)&&Text';
-muban.短视2.二级.content = '.card-text&&Text';
 var rule = {
     title:'异视琳琅',
-    模板:'短视2',
     host:'https://www.14ll.tv/',
 	url: '/vodshow-fyclassfyfilter/',
     filterable:1,//是否启用分类筛选,
@@ -203,6 +198,16 @@ var rule = {
     searchUrl: '/so/page/fypage/wd/**/',
     searchable: 0,
 	class_parse:'.nav-channel a;a&&Text;a&&href;/\\w+-(\\d+)/',
-	lazy:"",
-	一级:'.vodlist.hotgrow.size.listdh.list-a1 .pack-ykpack;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
+   lazy:"",
+   一级:'.vodlist.hotgrow.size.listdh.list-a1 .pack-ykpack;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
+   二级:{
+          title:'h2&&Text;.hl-ma0&&Text',  //片名;类型 时间
+          img:".lazy:eq(0)&&data-original",
+          desc:'p:eq(1)&&Text;;;p:eq(2)&&Text;p:eq(1)&&Text',  //// 演员;导演
+          content:".card-text&&Text", //主要信息
+          tabs:"li.this",
+          lists:'.videolist.cf:eq(#id)&&a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
+          list_url:'a&&href'
+         },
+    搜索:'',
 }
