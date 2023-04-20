@@ -198,9 +198,8 @@ var rule={
     searchUrl:'/c/wd/**.html',  //搜索影片,
     searchable:2,//是否启用全局搜索,
     quickSearch:1,//是否启用快速搜索,
-    //class_name:'电影&电视剧&国产剧&香港剧&韩国剧&泰国剧&动漫&综艺',       //静态分类名称拼接
-   // class_url:'a&b&b/area/中国大陆&b/area/香港&b/area/韩国&b/area/泰国&c&d',    //静态分类标识拼接
-    class_parse: '.filter_line&&a;a&&Text;a&&href',
+    class_name:'电影&电视剧&国产剧&香港剧&韩国剧&泰国剧&美国剧&动漫&综艺&纪录',       //静态分类名称拼接
+    class_url:'1&2&2/area/内地&2/area/香港&2/area/韩国&2/area/泰国&2/area/美国&3&4&5',    //静态分类标识拼接
     推荐:'',
     double:true,
     一级:'.modulemod&&.cf.listwap&&.gcol.l;a.plusclk&&Text;.inlist.ec-jabj.eclazy&&data-original;span.packscore&&Text;a&&href',
