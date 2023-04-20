@@ -202,7 +202,7 @@ var rule = {
     class_url:'1&2&3&4&5',    //静态分类标识拼接
     推荐:'',
     double:true,
-   一级:'.wwp&&.vodlist.hotgrow.size.listdh.list-a1&&.pack-ykpack;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
+   //一级:'.wwp&&.vodlist.hotgrow.size.listdh.list-a1&&.pack-ykpack;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
    二级:{
           title:'h2&&Text;.hl-ma0&&Text',  //片名;类型 时间
           img:".lazy:eq(0)&&data-original",
