@@ -10,12 +10,9 @@ var rule = {
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.zhiboDiv.News&&ul&&li');tabs.forEach(function(it){var  pz=pdfh(it,'a&&title');var ps=pdfh(it,'.fright&&Text');var img=pd(it,'img:eq(1)&&src');var timer=pdfh(it,'.zb_neirong span:gt(0)&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
-          title:'p.timeP&&Text;.score_name a&&Text',  //片名;类型 时间
-          img:'img&&src',
-          desc:';;;.score_name_left h3&&Text;.score_name_left.score_name_right h3&&Text',  //// 演员;导演
-          //content:"style h1&Text", //主要信息
+          title:'.ah h1&&Text;.score_name a&&Text',  //片名;类型 时间
           tabs:"js:TABS=['【直播源】']",
-          lists:'.sig-list a:gt(0)',
+          lists:'.ar_body p',
           list_text:'a&&Text',
           list_url:'a&&href'
          },
