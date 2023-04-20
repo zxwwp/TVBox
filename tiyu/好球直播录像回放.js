@@ -1,7 +1,7 @@
 var rule = {
     title:'好球直播录像回放',
     host:'https://www.haoqiuzhibo.com/',
-    url:'/luxiang/index-2.html',     //网站的分类页面链接
+    url:'/luxiang/fyclass/index-fypage.html',     //网站的分类页面链接
     class_name:'足球录像&篮球录像&综合录像',       //静态分类名称拼接
     class_url:'zuqiu&lanqiu&tiyu',    //静态分类标识拼接
     double:false,    //是否双层列表定位,默认false
