@@ -13,7 +13,7 @@ var rule = {
           title:'.ah h1&&Text;.score_name a&&Text',  //片名;类型 时间
            content:".ah span:eq(0)&&Text", //主要信息
           tabs:"js:TABS=['【直播源】']",
-          lists:'.ar_body p',
+          lists:'.ar_body:eq(#id)&&p',
           list_text:'a&&Text',
           list_url:'a&&href'
          },
