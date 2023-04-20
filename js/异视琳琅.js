@@ -9,7 +9,7 @@ var rule={
     class_url:'1&2&2/area/内地&2/area/香港&2/area/韩国&2/area/泰国&2/area/美国&3&4&5',    //静态分类标识拼接
     推荐:'',
     double:true,
-    一级:'.vodlist.hotgrow.size.listdh.top20.wow.fadeInUp.animated&&div&&a;a&&title;div&&data-original;span.pack-prb.hidden&&Text;a&&href',
+    一级:'.vodlist.hotgrow.size.listdh.top20.wow.fadeInUp.animated&&.pack-ykpack&&.pack-packcover.returl.list-top-b;a&&title;div&&data-original;span.pack-prb.hidden&&Text;a&&href',
    二级:{
           title:'.detailinfo.r h1&&Text;p.hide a&&Text',  //片名;类型 时间
           img:".detailpic.l&&img&&src",
