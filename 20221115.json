@@ -12,7 +12,7 @@
 "sites":[
 //体育直播
 //{"key":"T4直播","name":"📡广播频道","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ="}, 
-{"key":"dr_5播体育","name":"🏀5播体育✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/5播体育.js"}, 
+{"key":"dr_5播体育","name":"🏀5播体育✨","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./tiyu/5播体育.js"}, 
 {"key":"dr_直播迷","name":"🏀直播迷✨","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./tiyu/直播迷.js"},
 {"key":"dr_JRS低调看球","name":"🏀JRS低调看球✨","type":"3","api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./tiyu/JRS低调看球.js"},
 {"key":"dr_88看球","name":"🏀88看球✨","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./tiyu/88看球.js"},
@@ -47,7 +47,7 @@
 {"key":"量子资源","name":"👔量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1},
 {"key":"新浪资源","name":"🆗新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","m3u8ads": "hd.youyhn.com","playUrl":"","searchable":1,"quickSearch":1},
 
-{"key":"drpy_异视琳琅","name":"👓异视琳琅✨","type":3,"api":"./js//drpy.min.js","ext":"./js/异视琳琅.js"},
+{"key":"drpy_异视琳琅","name":"👓异视琳琅✨","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./js/异视琳琅.js"},
 {"key":"drpy_爱看影院","name":"👓爱看影院✨","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./js/爱看影院.js"},
 {"key":"drpy_纽约影院","name":"👓纽约影院✨","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./js/纽约影院.js"},
 {"key":"drpy_看看剧","name":"🧥看看剧✨","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./js/看看剧.js"},
