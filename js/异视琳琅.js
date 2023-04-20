@@ -8,7 +8,7 @@ var rule = {
     host:'https://www.14ll.tv/',
 	url: '/vodshow-fyclassfyfilter/',
     filterable:1,//是否启用分类筛选,
-    filter_url:'{{fl.area}}{{fl.class}}{{fl.year}}',
+    filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
     filter:{
        "1":[
   {"key":"class","name":"类型","value":[
