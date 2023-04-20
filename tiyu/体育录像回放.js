@@ -11,6 +11,7 @@ var rule = {
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
           title:'.ah h1&&Text;.score_name a&&Text',  //片名;类型 时间
+           content:".ah span:eq(0)&&Text", //主要信息
           tabs:"js:TABS=['【直播源】']",
           lists:'.ar_body p',
           list_text:'a&&Text',
