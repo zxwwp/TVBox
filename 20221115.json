@@ -12,7 +12,7 @@
 "sites":[
 //体育直播
 //{"key":"T4直播","name":"📡广播频道","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ="}, 
-{"key":"dr_5播体育","name":"🏀5播体育✨","type":3,"api":"https://gitee.com/jhzone/TVbox/raw/TVbox/Yoursmile7/js/lib/drpy2.min.js","ext":"./tiyu/5播体育.js"}, 
+{"key":"dr_5播体育","name":"🏀5播体育✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/5播体育.js"}, 
 {"key":"dr_直播迷","name":"🏀直播迷✨","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./tiyu/直播迷.js"},
 {"key":"dr_JRS低调看球","name":"🏀JRS低调看球✨","type":"3","api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./tiyu/JRS低调看球.js"},
 {"key":"dr_88看球","name":"🏀88看球✨","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./tiyu/88看球.js"},
