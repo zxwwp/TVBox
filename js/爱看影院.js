@@ -4,7 +4,8 @@ var rule = {
     title:'爱看影院',
         模板:'mxpro',
     host:'https://www.2wyy.com/',
-    url:'/vodshow/fyclass--------fypage---.html',
+    url:'/vodshow/fyfilter.html',
+    //url:'/vodshow/fyclass--------fypage---.html',
      filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}-{{fl.area}}-------fypage---',
     filter:{
@@ -28,7 +29,7 @@ var rule = {
             {"n":"理伦片","v":"46"}]},
   {"key":"area","name":"地区","value":[
   {"n":"全部","v":"1"},
-  {"n":"大陆","v":"/area/大陆"},
+  {"n":"大陆","v":"大陆"},
   {"n":"香港","v":"/area/香港"},
   {"n":"台湾","v":"/area/台湾"},
   {"n":"美国","v":"/area/美国"},
@@ -56,7 +57,7 @@ var rule = {
   
   {"key":"area","name":"地区","value":[
   {"n":"全部","v":"2"},
-  {"n":"内地","v":"/area/内地"},
+  {"n":"内地","v":"内地"},
   {"n":"韩国","v":"/area/韩国"},
   {"n":"香港","v":"/area/香港"},
   {"n":"台湾","v":"/area/台湾"},
