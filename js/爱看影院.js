@@ -8,7 +8,7 @@ var rule = {
      url:'/vodshow/fyclassfyfilter.html',
     //url:'/vodshow/fyclass--------fypage---.html',
      filterable:1,//是否启用分类筛选,
-    filter_url:'-{{fl.cateId}}-{{fl.area}}-------fypage---',
+    filter_url:'{{fl.cateId}}-{{fl.area}}-------fypage---',
     filter:{
        "1":[
  {"key":"cateId","name":"类型","value":[
@@ -100,5 +100,5 @@ var rule = {
  
     },
    class_parse: '.navbar-items&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
-   searchUrl:'/vodsearch/**----------fypage---.html',
+
 }
