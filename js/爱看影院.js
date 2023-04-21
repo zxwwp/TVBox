@@ -4,8 +4,8 @@ var rule = {
     title:'爱看影院',
         模板:'mxpro',
     host:'https://www.2wyy.com/',
-   //url:'/vodshow/fyclassfyfilter.html',
-   url:'/vodshow/fyclass--------fypage---.html',
+   url:'/vodshow/fyclassfyfilter.html',
+   //url:'/vodshow/fyclass--------fypage---.html',
     filterable:1,//是否启用分类筛选,
    filter_url:'{{fl.cateId}}-{{fl.area}}--------fypage----',
     filter:{
