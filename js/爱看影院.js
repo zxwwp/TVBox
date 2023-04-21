@@ -7,7 +7,7 @@ var rule = {
 
      //url:'/vodshow/fyclassfyfilter.html',
         //url:'/vodshow/fyclass--------fypage---.html',
-    url:'/vodtype/fyclass-----------.html',
+    url:'/vodshow/fyclass-----------.html',
      filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}-{{fl.area}}-------fypage---',
     filter:{
