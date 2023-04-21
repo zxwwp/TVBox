@@ -218,7 +218,7 @@ var rule = {
     推荐:'',
     double:true,
    //一级:'.wwp&&.vodlist.hotgrow.size.listdh.list-a1&&.pack-ykpack;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
-   一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.pack-ykpack div');tabs.forEach(function(it){var  pz=pdfh(it,'a&&title');var ps=pdfh(it,'.pack-prb.hidden&&Text');var img=pd(it,'div&&data-original');var timer=pdfh(it,'.pack-subtitle&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
+   一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.pack-ykpack');tabs.forEach(function(it){var  pz=pdfh(it,'a&&title');var ps=pdfh(it,'.pack-prb.hidden&&Text');var img=pd(it,'div&&data-original');var timer=pdfh(it,'.pack-subtitle&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
    二级:{
           title:'h2&&Text;.hl-ma0&&Text',  //片名;类型 时间
           img:".lazy:eq(0)&&data-original",
