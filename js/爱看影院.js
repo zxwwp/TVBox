@@ -6,7 +6,7 @@ var rule = {
     host:'https://www.2wyy.com/',
     url:'/vodshow/fyclass--------fypage---.html',
      filterable:1,//是否启用分类筛选,
-    filter_url:'{{fl.cateId}}-{{fl.area}}-------fypage---{{fl.year}}',
+    filter_url:'-{{fl.cateId}}-{{fl.area}}-------fypage---{{fl.year}}',
     filter:{
        "1":[
  {"key":"cateId","name":"类型","value":[
