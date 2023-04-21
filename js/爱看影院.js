@@ -98,7 +98,7 @@ var rule = {
   {"n":"其他","v":"其他"}]}]
  
     },
-    class_name:'电影&电视剧&综艺&动漫',       //静态分类名称拼接
-    class_url:'1&2&3&4',    //静态分类标识拼接
-   // class_parse: '.navbar-items&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
+    //class_name:'电影&电视剧&综艺&动漫',       //静态分类名称拼接
+   // class_url:'1&2&3&4',    //静态分类标识拼接
+   class_parse: '.navbar-items&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
 }
