@@ -8,8 +8,8 @@ var rule={
     // url:'/vodshow/fyclass--------fypage---.html',
     url:'/vodshow/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
-    //filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
-    filter_url:'{{fl.area}}---fypage---',
+    filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
+
     
     filter:{
         "1":[{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"内地","v":"内地"},{"n":"香港","v":"香港"},{"n":"台湾","v":"台湾"},{"n":"日本","v":"日本"},{"n":"韩国","v":"韩国"},{"n":"泰国","v":"泰国"},{"n":"美国","v":"美国"},{"n":"印度","v":"印度"},{"n":"法国","v":"法国"},{"n":"英国","v":"英国"},{"n":"俄罗斯","v":"俄罗斯"},{"n":"德国","v":"德国"},{"n":"西班牙","v":"西班牙"},{"n":"意大利","v":"意大利"},{"n":"澳大利亚","v":"澳大利亚"},{"n":"荷兰","v":"荷兰"}]}],
