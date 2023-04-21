@@ -2,11 +2,9 @@
 //muban.mxpro.二级.tabs = '#y-playList&&.tab-item';
 var rule = {
     title:'爱看影院',
-     模板:'短视2',
-        //模板:'mxpro',
+    模板:'mxpro',
     host:'https://www.2wyy.com/',
-    url: '/index.php/api/vod#type=fyfilter&page=fypage',
-   //url:'/vodshow/fyclass--------fypage---.html',
+    url:'/vodshow/fyclass--------fypage---.html',
     filterable:1,//是否启用分类筛选,
    filter_url:'{{fl.cateId}}--------fypage----',
     filter:{
@@ -99,8 +97,6 @@ var rule = {
   {"n":"其他","v":"其他"}]}]
  
     },
-    class_name:'电影&电视剧&综艺&动漫',
-    class_url:'1&2&3&4',
-   //class_parse: '.navbar-items&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
+    class_parse: '.navbar-items&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
 
 }
