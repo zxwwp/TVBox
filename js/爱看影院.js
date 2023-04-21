@@ -100,4 +100,5 @@ var rule = {
  
     },
    class_parse: '.navbar-items&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
+   searchUrl:'/vodsearch/**----------fypage---.html',
 }
