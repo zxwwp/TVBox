@@ -97,6 +97,6 @@ var rule = {
   {"n":"其他","v":"其他"}]}]
  
     },
-    class_parse: '.navbar-items&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+)-----.html',
+    class_parse: '.navbar-items&&li:gt(1):lt(6);a&&title;a&&href;/(\\d+).html',
 
 }
