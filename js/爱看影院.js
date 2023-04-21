@@ -7,8 +7,7 @@ var rule = {
    //url:'/vodshow/fyclassfyfilter.html',
    url:'/vodshow/fyclass--------fypage---.html',
     filterable:1,//是否启用分类筛选,
-   // filter_url:'{{fl.cateId}}-{{fl.area}}-------fypage---',
-    	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}-------fypage---{{fl.year}}',
+   filter_url:'{{fl.cateId}}-{{fl.area}}-------fypage---',
     filter:{
        "1":[
  {"key":"cateId","name":"类型","value":[
@@ -29,7 +28,7 @@ var rule = {
             {"n":"奇幻片","v":"44"},
             {"n":"理伦片","v":"46"}]},
   {"key":"area","name":"地区","value":[
-  {"n":"全部","v":"1"},
+  {"n":"全部","v":""},
   {"n":"大陆","v":"大陆"},
   {"n":"香港","v":"香港"},
   {"n":"台湾","v":"台湾"},
@@ -57,7 +56,7 @@ var rule = {
             {"n":"海外剧","v":"52"}]},
   
   {"key":"area","name":"地区","value":[
-  {"n":"全部","v":"2"},
+  {"n":"全部","v":""},
   {"n":"内地","v":"内地"},
   {"n":"韩国","v":"韩国"},
   {"n":"香港","v":"香港"},
@@ -78,7 +77,7 @@ var rule = {
             {"n":"欧美综艺","v":"23"}]},
  
   {"key":"area","name":"地区","value":[
-  {"n":"全部","v":"3"},
+  {"n":"全部","v":""},
   {"n":"内地","v":"内地"},
   {"n":"港台","v":"港台"},
   {"n":"日韩","v":"日韩"},
@@ -92,7 +91,7 @@ var rule = {
             {"n":"欧美动漫","v":"34"}]},
  
   {"key":"area","name":"地区","value":[
-  {"n":"全部","v":"4"},
+  {"n":"全部","v":""},
   {"n":"国产","v":"国产"},
   {"n":"日本","v":"日本"},
   {"n":"欧美","v":"欧美"},
