@@ -1,0 +1,35 @@
+{
+  "作者": "晨龙",
+  "站名": "5播体育",
+  "主页url": "https://cctv5bo.com/",
+  "热门": "电视剧$20",
+  
+  "分类": "全部$/#足球$zuqiu#篮球$lanqiu#综合$zonghe",
+  
+  "分类url": "https://cctv5bo.com/fyclass",
+  
+  "数组": "item.cd=\"2\">&&</a>",
+  "图片": "data-original=\"&&\"",
+  "标题": "name\">&&</span>",
+  "链接": "href=\"/voddetail&&/\"",
+  "副标题": "title*>&&</span>",
+  "链接前缀": "https://blssv.com/vodplay",
+  "链接后缀": "-1-1/",
+  
+  "搜索模式": "1",
+  "搜索url": "/vodsearch/{wd}----------1---/",
+  "搜索数组": "data-key=\"2\">&&</a>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "mdui-p-t-1\">&&</span>",
+  "搜索链接": "href=\"/voddetail&&/\"",
+  "搜索副标题": "title*>&&</span>",
+  "搜索链接前缀": "https://blssv.com/vodplay",
+  "搜索链接后缀": "-1-1/",
+  
+  "主演": "主演：&&</div>",
+  "简介": "<p>&&</p>",
+  
+  "线路数组": "mdui-panel-item-title&&/div>",
+  "线路标题": ">&&<",
+  
+  "播放数组": "mdui-panel-item-body\">&&<div",
