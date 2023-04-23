@@ -13,7 +13,7 @@ var rule = {
           desc:';;;.live-left-team-sj&&Text;.live-right-team-sj&&Text',
           content:'.col-12.live-title&&Text',
           tabs:"js:TABS=['【直播源】']",
-          lists:'li#signalone.live-link-item:gt(-1):lt(3)', //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
+          lists:'ul#col-12 li:gt(-1):lt(2)', //显示直播信号数量。gt直播信号数量从第几个开始，li直播信号数量总共有几个。
           //list_text:'li&&Text',
           list_url:'li&&data-url'
          },
