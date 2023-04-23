@@ -34,7 +34,7 @@
 {"key":"dr_高清直播","name":"🏀高清直播✨备用","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./tiyu/高清直播.js"},
 {"key":"5播体育","name":"⚽5播体育✨备用","type":3,"api":"csp_XBPQ","ext":"./tiyu/5播体育.json"},
 {"key":"csp_xp_qiumi","name":"⚽JRKAN直播✨备用","type": 3,"api": "csp_XPath","ext": "./tiyu/JRKAN直播.json"},
-{"key":"csp_XYQBiu_310直播","name":"⚽310直播✨备用","type":3,"api":"csp_XYQBiu","ext":"./tiyu/310直播.json"},
+{"key":"csp_XYQBiu","name":"⚽310直播✨备用","type":3,"api":"csp_XYQBiu","ext":"./tiyu/310直播.json"},
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
 {"key":"dr_茶杯狐","name":"📌茶杯狐热播","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./js/茶杯狐.js"},
