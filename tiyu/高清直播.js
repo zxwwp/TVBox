@@ -7,11 +7,11 @@ var rule = {
     headers:{
         'User-Agent':'MOBILE_UA'
     },
-    timeout:5000,
-    play_parse:true,
-    lazy:'',
-    limit:6,
-    double:false,
+   // timeout:5000,
+   // play_parse:true,
+  //  lazy:'',
+    //limit:6,
+  //  double:false,
     推荐:'*',
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&tr.against:eq(#id)');tabs.forEach(function(it){var pz=pdfh(it,'strong:eq(0)&&Text');var ps=pdfh(it,'a&&Text');var pk=pdfh(it,'strong:eq(1)&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'.status_live&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
     二级:{
