@@ -2,8 +2,8 @@
 // 壁纸 
 //"wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
-"spider":"./Yoursmile.jar",
-
+//"spider":"./Yoursmile.jar",
+ "spider": "https://gitee.com/guohuowang/tvbox/blob/master/jar/custom_spider.jar",
 // 配置直播地址
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
 "lives":[{
