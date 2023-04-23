@@ -2,8 +2,8 @@
 // 壁纸 
 //"wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
-//"spider":"./Yoursmile.jar",
-"spider": "https://gitee.com/guohuowang/tvbox/blob/master/jar/Yoursmile.jar",
+"spider":"./Yoursmile.jar",
+
 
 // 配置直播地址
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9UVi50eHQ="]}]}],
@@ -18,16 +18,6 @@
  
 /*-----------------------配置数据接口源-----------------------*/
 "sites":[
-
-//网盘py接口
-        {"key":"py_douban","name":"Py|纸条","type":3,"api":"py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_gitcafe.py"},
-        {"key":"py_douban","name":"Py|易搜","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_yiso.py"},
-        {"key":"py_zhaozy","name":"🔍找资源py","type":3,"api":"py_zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_zhaozy.py"},
-        {"key":"py_pansou","name":"📀盘搜py","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_pansou.py"},
-        {"key":"py_alist","name":"🗂Alistpy","type":3,"api":"py_alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_alist.py"},
-        {"key":"push_agent2","name":"📂阿里py","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_ali.py"},
-	
-
 //体育直播
 //{"key":"T4直播","name":"📡广播频道","type":4,"api":"http://120.53.102.254/live?url=aHR0cHM6Ly9naXRlZS5jb20veGwwNHd5MjIvdHZib3gvcmF3L21hc3Rlci9OQkFUVi50eHQ="}, 
 {"key":"dr_5播体育","name":"🏀5播体育✨","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"./tiyu/5播体育.js"}, 
