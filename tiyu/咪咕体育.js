@@ -1,7 +1,7 @@
 var rule = {
     title:'咪咕体育',
-    host:'https://www.migu.cn/index.html',
-    url:'/mgs/website/prd/sportMatchDetail.html',
+    host:'https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html',
+    url:'/',
     //url:'/fyclass',
     class_name:'赛事直播✨注意时间',
     class_url:'/',
