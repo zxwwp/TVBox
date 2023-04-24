@@ -2,7 +2,7 @@
 // 壁纸 
 //"wallpaper":"./jpg/W-.jpg",
 /*-----------------------JAR包接口-----------------------*/    
-"spider":"https://github.com/zxwwp/TVBox/blob/master/Yoursmile.jar",
+"spider":"./Yoursmile.jar",
 
 
 // 配置直播地址
