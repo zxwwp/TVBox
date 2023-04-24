@@ -6,7 +6,7 @@ var rule = {
     class_url:'/&zuqiu&lanqiu&lanqiu/nba&zuqiu/yingchao',    //静态分类标识拼接
     推荐:'*',
       // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
-      一级:'dd.clearfix.list_wrap_new_dd&&a;.once-game&&Text;.lazy&&data-original;.zban_wrap p:gt(0):lt(2)&&Text;a&&href',
+      一级:'.bor-box live-cont-foot&&dl#one.list_wrap_new&&dd.clearfix.list_wrap_new_dd&&a;.once-game&&Text;.lazy&&data-original;.zban_wrap p:gt(0):lt(2)&&Text;a&&href',
     // 一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&dl#one.list_wrap_new dd');tabs.forEach(function(it){var  pz=pdfh(it,'.once-game&&Text');var ps=pdfh(it,'.once-event&&Text');var img=pd(it,'img&&data-original');var timer=pdfh(it,'.once-time&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  '+ps,title:pz,pic_url:img,url:url})});setResult(items);",
     // 二级可以是*,表示规则无二级,直接拿一级的链接进行嗅探
      二级:{
