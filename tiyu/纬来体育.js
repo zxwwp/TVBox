@@ -2,8 +2,9 @@ var rule = {
     title:'纬来体育',
     host:'https://www.xiangsuke.com/',
     url:'/fyclass',     //网站的分类页面链接
-    class_name:'全部&足球&篮球&综合',       //静态分类名称拼接
-    class_url:'/&zuqiu&lanqiu&zonghe',    //静态分类标识拼接
+    class_parse: '.fl head-nav&&li:gt(1):lt(5);a&&Text;a&&href;/(\\d+).html',
+   // class_name:'全部&足球&篮球&综合',       //静态分类名称拼接
+   // class_url:'/&zuqiu&lanqiu&zonghe',    //静态分类标识拼接
     推荐:'*',
       // 类似海阔一级 列表;标题;图片;描述;链接;详情 其中最后一个参数选填
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&ul.item.cd');tabs.forEach(function(it){var  pz=pdfh(it,'.name:eq(0)&&Text');var ps=pdfh(it,'.league&&Text');var pk=pdfh(it,'.name:eq(1)&&Text');var img=pd(it,'img&&data-original');var timer=pdfh(it,'.time&&Text');var url=pd(it,'li.play a&&href');items.push({desc:timer+'  '+ps,title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
