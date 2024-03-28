@@ -1,5 +1,5 @@
 {
-"spider":"./jar/Yoursmile.jar",
+"spider":"./Yoursmile.jar",
 "lives":[
 	{
     "name":"自建直播",
@@ -26,7 +26,7 @@
 {"key":"优直播","name":"⛹️优直播✨","type":3,"api":"./js/drpy.min.js","ext":"./tiyu/优直播.js"},
 {"key":"量子体育", "name":"⛹️量子体育回看✨", "type":0, "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","categories":["篮球","足球","网球","斯诺克"]}, 
 
-{"key": "哔嘀","name": "🥇哔嘀","type": 3,"api": "csp_Bdys", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/wyog1.jar"},
+{"key": "哔嘀","name": "🥇哔嘀","type": 3,"api": "csp_Bdys", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./wyog1.jar"},
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key": "csp_Mp4Mov","name": "🧲 Mp4","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
 {"key": "鑫鑫影视","name": "🍩鑫鑫","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
@@ -59,7 +59,7 @@
 {"key":"臭蛋蛋","name":"🥚臭蛋蛋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/臭蛋蛋.json"},
 {"key":"drpy_奇优影院","name":"🎀奇优影院✨","type":3,"api":"./js/drpy.min.js","ext":"./js/奇优影院.js"},
 
-{"key": "Kuaikan","name": "🦋快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/wogg.jar"},
+{"key": "Kuaikan","name": "🦋快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./wogg.jar"},
 {"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/Bili.json"}
 ],
 
