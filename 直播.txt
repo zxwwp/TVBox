@@ -1,0 +1,24 @@
+{
+    "spider": "",
+    "lives": [{
+            "name": "直播",
+            "type": 0,
+            "url":"./IPV6.txt",
+    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
+        }, {
+            "group": "redirect",
+            "channels": [{
+                    "name": "live",
+                    "urls": []
+                }
+            ],
+            "epg": "https://epg.112114.xyz/"
+        }
+    ],
+    "rules": [],
+    "sites": [],
+    "parses": [],
+    "flags": [],
+    "wallpaper": ""
+}
