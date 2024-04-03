@@ -7,9 +7,8 @@
     "playerType": 1,
 	"boot":false,
 	"ua":"okhttp/3.15",
-	"url":"./TV.txt",
-    //"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-	"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+	"url":"./IPV6.txt",
+        "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 	"logo":"https://epg.112114.xyz/logo/{name}.png"
     }
 	],
