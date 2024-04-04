@@ -1,7 +1,7 @@
 {
 
 	"classes": [
-                     {
+        {
 			"type_name": "PS后期制作",
 			"type_id": "PS后期制作"
 		},
@@ -9,21 +9,21 @@
 			"type_name": "抓取电信直播源",
 			"type_id": "抓取电信直播源"
 		},
-{
-			"type_name": "tvbox jar包制作",
-			"type_id": "tvbox jar包制作"
+        {
+			"type_name": "吉他教学",
+			"type_id": "吉他教学"
 		},
 		{
-			"type_name": "wireshark",
-			"type_id": "wireshark"
+			"type_name": "学吉他",
+			"type_id": "学吉他"
 		},
 		{
 			"type_name": "八段锦",
 			"type_id": "八段锦"
 		},
-	{
-			"type_name": "jar包制作",
-			"type_id": "jar包制作"
+		{
+			"type_name": "wireshark",
+			"type_id": "wireshark"
 		},
 		{
 			"type_name": "平面设计教学",
