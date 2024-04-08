@@ -1,21 +1,68 @@
 {
-
-	"classes": [
+"classes": [
         {
-			"type_name": "PS后期制作",
-			"type_id": "PS后期制作"
+			"type_name": "小学三年级语文上册",
+			"type_id": "小学三年级语文上册"
 		},
 		{
-			"type_name": "抓取电信直播源",
-			"type_id": "抓取电信直播源"
+			"type_name": "小学三年级数学上册",
+			"type_id": "小学三年级数学上册"
 		},
-        {
+		   {  
+			"type_name": "小学三年级英语上册",
+			"type_id": "小学三年级英语上册"
+		},
+				{
+			"type_name": "小学三年级语文下册",
+			"type_id": "小学三年级语文下册"
+		},
+				{
+			"type_name": "小学三年级数学下册",
+			"type_id": "小学三年级数学下册"
+		},
+        {  
+			"type_name": "小学三年级英语下册",
+			"type_id": "小学三年级英语下册"
+		},
+		{
+			"type_name": "小学四年级语文上册",
+			"type_id": "小学四年级语文上册"
+		},
+		{
+			"type_name": "小学四年级数学上册",
+			"type_id": "小学四年级数学上册"
+		},
+        {  
+			"type_name": "小学四年级英语上册",
+			"type_id": "小学四年级英语上册"
+		},
+		{
+			"type_name": "小学四年级语文下册",
+			"type_id": "小学四年级语文下册"
+		},
+		{
+			"type_name": "小学四年级数学下册",
+			"type_id": "小学四年级数学下册"
+		},
+        {  
+			"type_name": "小学四年级英语下册",
+			"type_id": "小学四年级英语下册"
+		},
+		{
 			"type_name": "吉他教学",
 			"type_id": "吉他教学"
 		},
 		{
 			"type_name": "学吉他",
 			"type_id": "学吉他"
+		},
+		{
+			"type_name": "PS后期制作",
+			"type_id": "PS后期制作"
+		},
+		{
+			"type_name": "股票",
+			"type_id": "股票"
 		},
 		{
 			"type_name": "八段锦",
@@ -25,18 +72,7 @@
 			"type_name": "wireshark",
 			"type_id": "wireshark"
 		},
-		{
-			"type_name": "平面设计教学",
-			"type_id": "平面设计教学"
-		},
-		{
-			"type_name": "软件教程",
-			"type_id": "软件教程"
-		},
-           {  
-			"type_name": "沙雕动漫",
-			"type_id": "一口气沙雕动漫"
-		},
+
 		{
 			"type_name": "美食",
 			"type_id": "美食超清"
