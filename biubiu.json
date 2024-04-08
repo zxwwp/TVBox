@@ -1,9 +1,9 @@
 {
 "Home": [
 {"key":"历史","title":"历史","pic":"https://agit.ai/zxwwp/TVBox/raw/branch/master/jpg/5.jpg"},
-{"key":"网页","title":"网页","pic":"https://agit.ai/zxwwp/TVBox/raw/branch/master/jpg/13.jpg"},
-{"key":"APP","title":"APP","pic":"https://agit.ai/zxwwp/TVBox/raw/branch/master/jpg/15.jpg"},
-{"key":"采集","title":"采集","pic":"https://agit.ai/zxwwp/TVBox/raw/branch/master/jpg/14.jpg"},
+{"key":"网页","title":"电影网站嗅探","pic":"https://agit.ai/zxwwp/TVBox/raw/branch/master/jpg/13.jpg"},
+{"key":"APP","title":"影视APP解析","pic":"https://agit.ai/zxwwp/TVBox/raw/branch/master/jpg/15.jpg"},
+{"key":"采集","title":"电影网站采集","pic":"https://agit.ai/zxwwp/TVBox/raw/branch/master/jpg/14.jpg"},
 
 {"key": "自选网页",
 "title": "🏀JRKAN直播✨","pic": "https://agit.ai/zxwwp/TVBox/raw/branch/master/jpg/9.jpg","custom": "eyLnvZHnq5nlkI3lrZciOiAiSlJLQU7nm7Tmkq0iLAoi572R56uZ5Zyw5Z2AIjogImh0dHA6Ly93d3cuanJza2FuLmNvbSIsCiLliJfooajmmL7npLoiOiAiMSIsCiLliJfooajotbflp4vpobUiOiAi56m6IiwKIuWIl+ihqOWIhuexuyI6ICLlhajpg6jotZvkuosk56m6IiwKIuWIl+ihqOWQjue8gCI6ICIiLAoi5YiX6KGo5LqM5qyh5oiq5Y+WIjogIuepuiIsCiLliJfooajmiKrlj5bmlbDnu4QiOiAiPHVsIGNsYXNzPVwiaXRlbSBwbGF5JCQ8L3VsPiIsCiLliJfooajlm77niYfliY3nvIAiOiAi56m6IiwKIuWIl+ihqOWbvueJhyI6ICJzcmM9XCIkJFwiIiwKIuWIl+ihqOagh+mimCI6ICJjbGFzcz1cImxhYl90ZWFtX2hvbWVcIj4kJDxsaSBjbGFzcz1cImxhYl9iY1wiIiwKIuWIl+ihqOWJr+agh+mimCI6ICI8c3BhbiBjbGFzcz1cIm5hbWVcIj4kJDxsaSBjbGFzcz1cImxhYl90ZWFtX2hvbWVcIiIsCiLliJfooajpk77mjqUiOiAiZGF0YS1wbGF5PVwiaHR0cDovL3BsYXkuc3BvcnRzdGVhbTY4NS5jb20kJFwiIiwKIuWIl+ihqOmTvuaOpeWJjee8gCI6ICJodHRwOi8vcGxheS5zcG9ydHN0ZWFtNjg1LmNvbSIsCiLmkq3mlL7pobXnirbmgIEiOiAiPHNwYW4gY2xhc3M9XCJuYW1lXCI+JCQ8bGkgY2xhc3M9XCJsYWJfdGVhbV9ob21lXCIiLAoi5pKt5pS+6aG15a+85ryUIjogImNsYXNzPVwibGFiX3RlYW1faG9tZVwiPiQkPC9saT4iLAoi5pKt5pS+6aG15ryU5ZGYIjogImNsYXNzPVwibGFiX3RlYW1fYXdheVwiPiQkPC9saT4iLAoi5pKt5pS+6aG15Ymn5oOFIjoiY2xhc3M9XCJsYWJfdGVhbV9ob21lXCI+JCQ8bGkgY2xhc3M9XCJsYWJfYmNcIiIsCiLmkq3mlL7pobXkuozmrKHmiKrlj5YiOiAi56m6IiwKIuaSreaUvumhteaIquWPluaVsOe7hCI6ICJjbGFzcz1cInN1Yl9wbGF5bGlzdFwiJCQ8L2Rpdj4iLAoi5pKt5pS+5Ymn6ZuG5LqM5qyh5oiq5Y+WIjogIuepuiIsCiLmkq3mlL7liafpm4bmiKrlj5bmlbDnu4QiOiAiPGEkJC9hPiIsCiLmkq3mlL7liafpm4bmoIfpopgiOiAiPHN0cm9uZz4kJDwvc3Ryb25nPiIsCiLmkq3mlL7liafpm4bpk77mjqUiOiAiZGF0YS1wbGF5PVwiJCRcIiIsCiLmkq3mlL7liafpm4bpk77mjqXliY3nvIAiOiAiaHR0cDovL3BsYXkuc3BvcnRzdGVhbTY4NS5jb20ifQ=="},
@@ -45,6 +45,8 @@
 
 // 采集站接口
 "caijizhan": [
+{"name":"七七","url":"http://api.tyun77.cn/api.php"},
+{"name":"白嫖","url":"https://www.baipiaotv.com/api.php/"},
 {"name":"非凡资源","url": "http://cj.ffzyapi.com/api.php"},
 {"name":"四九采集","url": "https://49zyw.com/api.php"},
 {"name":"火狐资源","url": "https://hhzyapi.com/api.php"},
@@ -53,7 +55,18 @@
 {"name":"天翼采集","url": "https://www.911ysw.top/tianyi.php"},
 {"name":"索尼资源","url": "https://suoniapi.com/api.php"},
 {"name":"暴风资源","url": "https://bfzyapi.com/api.php"},
-{"name":"虎牙资源","url": "https://www.huyaapi.com/api.php"}
+{"name":"虎牙资源","url": "https://www.huyaapi.com/api.php"},
+{"name":"susong（采集）","url":"http://150.158.102.76/api.php/"},
+{"name":"哆咪（采集）","url":"https://www.vbuyu.cn/api.php/"},
+{"name":"龙腾（采集）","url":"http://175.178.7.35:2020/api.php"},
+{"name":"遇见（采集）","url":"https://yjtv.top/api.php/"}, 
+{"name":"西瓜（采集）","url":"https://www.xiguazx.com/api.php/"},
+{"name":"土豪（采集）","url":"https://www.tuhao.tv/api.php/"},
+{"name":"大白（采集）","url":"https://www.554346.com/api.php/"},
+{"name":"斑马（采集）","url":"http://www.banmays.com/api.php/"}, 
+{"name":"开乐（采集）","url":"http://server.sztuotai.com/api.php/Chengcheng/vod/"},
+{"name":"速播（采集）","url":"https://subocaiji.com/api.php/"},
+{"name":"KK（采集）","url":"https://www.kplay.top/api.php/"}
 
 ],
 
@@ -73,6 +86,7 @@
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=#.mkv",
 
 "guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#m3u8.pw",
+
 
 "zidingyi": [
 
