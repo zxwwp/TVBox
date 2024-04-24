@@ -8,12 +8,10 @@
 	"boot":false,
 	"ua":"okhttp/3.15",
 	"url":"./IPV6.txt",
-	//"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-	//"logo":"https://epg.112114.xyz/logo/{name}.png"
-	      "epg": "https://epg.imxd.top/api/diyp/?ch={name}&date={date}",
+      "epg": "https://epg.imxd.top/api/diyp/?ch={name}&date={date}",
       "logo": "https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/{name}.png"
     }
-	],
+	],  
 
 "sites":[
 
@@ -24,7 +22,7 @@
 
 {"key":"JRKAN直播","name":"⛹️JRKAN直播✨","type":"3","api":"./js/drpy2.min.js","ext":"./tiyu/JRKAN直播.js"},
 {"key":"csp_Kanqiu","name":"⛹️88看球✨","type":3,"api":"csp_Kanqiu"},
-{"key":"直播迷","name":"⛹️直播迷✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/直播迷.js"},
+{"key":"高清直播","name":"⛹️高清直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/高清直播.js"},
 {"key":"优直播","name":"⛹️优直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/优直播.js"},
 {"key":"量子体育", "name":"⛹️量子体育回看✨", "type":0, "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","categories":["篮球","足球","网球","斯诺克"]}, 
 
