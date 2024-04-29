@@ -26,6 +26,7 @@
 {"key":"优直播","name":"⛹️优直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/优直播.js"},
 {"key":"量子体育", "name":"⛹️量子体育回看✨", "type":0, "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","categories":["篮球","足球","网球","斯诺克"]}, 
 
+{"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czys.top/"},
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key": "鑫鑫影视","name": "🍩鑫鑫","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
 {"key":"萌米","name":"👀萌米","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="},
@@ -47,7 +48,6 @@
 {"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key": "Auete","name": "💘特特","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://auete.pro/"},
 
-{"key": "厂长","name":"💘厂长","type": 3,"api": "./js/drpy2.min.js","ext": "./js/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"},
 {"key": "骚火电影","name": "💘骚火","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./js/drpy2.min.js","ext": "./js/saohuo.js"},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
