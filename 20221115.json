@@ -8,10 +8,10 @@
 	"boot":false,
 	"ua":"okhttp/3.15",
 	"url":"./IPV6.txt",
-      "epg": "https://epg.imxd.top/api/diyp/?ch={name}&date={date}",
-      "logo": "https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/{name}.png"
+	"epg": "https://epg.imxd.top/api/diyp/?ch={name}&date={date}",
+    "logo": "https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/{name}.png"
     }
-	],  
+	],
 
 "sites":[
 
@@ -20,21 +20,19 @@
 {"key":"歌曲","name":"🎙️歌曲","type":3,"api":"csp_Bili","ext":"./json/bili歌曲.json"},
 {"key":"轻音乐","name":"🎸轻音乐","type":3,"api":"csp_Bili","ext":"./json/Bili轻音乐.json"},
 
-{"key":"JRKAN直播","name":"⛹️JRKAN直播✨","type":"3","api":"./js/drpy2.min.js","ext":"./tiyu/JRKAN直播.js"},
+{"key":"JRKAN直播","name":"⛹️JRKAN直播✨","type":"3","api":"./js/drpy.min.js","ext":"./tiyu/JRKAN直播.js"},
+{"key":"高清直播","name":"⛹️高清直播✨","type":"3","api":"./js/drpy2.min.js","ext":"./tiyu/高清直播.js"},
 {"key":"csp_Kanqiu","name":"⛹️88看球✨","type":3,"api":"csp_Kanqiu"},
-{"key":"高清直播","name":"⛹️高清直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/高清直播.js"},
 {"key":"优直播","name":"⛹️优直播✨","type":3,"api":"./js/drpy2.min.js","ext":"./tiyu/优直播.js"},
 {"key":"量子体育", "name":"⛹️量子体育回看✨", "type":0, "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","categories":["篮球","足球","网球","斯诺克"]}, 
 
-{"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czys.top/"},
+{"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czys.top/"},
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key": "鑫鑫影视","name": "🍩鑫鑫","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
-{"key":"萌米","name":"👀萌米","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="},
+{"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_BaiPiao","name":"👻白飘","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"宅腐APP","name":"🦄宅腐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
 
-{"key": "zy_iKun资源","name": "🐰iKun资源","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1, "filterable": 1,"changeable": 1},
 {"key":"csp_非凡资源","name":"🍁非凡资源","type":1,"style": {"type": "rect","ratio": 0.8},"api":"http://ffzy3.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable": 1},
 {"key": "火狐","name": "🦊火狐资源","type": 1,"style": {"type": "rect","ratio": 0.8},"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "filterable": 1,"changeable": 1},
 {"key": "xinlangapi","name": "新浪资源","type": 1,"style": {"type": "rect","ratio": 0.8},"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1,"quickSearch": 1, "filterable": 1,"changeable": 1},
