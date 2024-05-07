@@ -32,7 +32,8 @@
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_BaiPiao","name":"👻白飘","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-
+{"key":"csp_Xdys","name":"💥小点","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+	
 {"key":"csp_非凡资源","name":"🍁非凡资源","type":1,"style": {"type": "rect","ratio": 0.8},"api":"http://ffzy3.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable": 1},
 {"key": "火狐","name": "🦊火狐资源","type": 1,"style": {"type": "rect","ratio": 0.8},"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "filterable": 1,"changeable": 1},
 {"key": "xinlangapi","name": "新浪资源","type": 1,"style": {"type": "rect","ratio": 0.8},"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1,"quickSearch": 1, "filterable": 1,"changeable": 1},
