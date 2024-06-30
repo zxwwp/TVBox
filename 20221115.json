@@ -22,7 +22,7 @@
 
 {"key":"JRKAN直播","name":"⛹️JRKAN直播✨","type":"3","api":"http://cdn.teyonds.com/js/drpy2.min.js","ext":"./tiyu/JRKAN直播.js"},
 {"key":"高清直播","name":"⛹️高清直播✨","type":"3","api":"http://cdn.teyonds.com/js/drpy2.min.js","ext":"./tiyu/高清直播.js"},
-{"key":"csp_Kanqiu","name":"⛹️88看球✨","type":3,"api":"csp_Kanqiu"},
+{"key":"88看球","name":"⛹️88看球✨","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","ext":"./tiyu/88看球.js"},
 {"key":"优直播","name":"⛹️优直播✨","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","ext":"./tiyu/优直播.js"},
 {"key":"量子体育", "name":"⛹️量子体育回看✨", "type":0, "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","categories":["篮球","足球","网球","斯诺克"]}, 
 
