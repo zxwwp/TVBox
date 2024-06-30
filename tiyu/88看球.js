@@ -18,11 +18,23 @@ var rule = {
 	    //"desc":";;;div.team-name:eq(0)&&Text;div.team-name:eq(1)&&Text",
 	    //"content":"div.game-time&&Text",
 	    "tabs":"js:TABS=['【直播源】']",
-	    //"lists":"js:LISTS=[];input=input+'-url';let html=request(input);let data=JSON.parse(html);TABS.forEach(function(tab){let m3u=data.links;let d=m3u.map(function(it){return it.name+'$'+it.url});LISTS.push(d)});"
+	    lists: `js:
+            LISTS=[];
+            let html = request(input);
+            let pdata = jsp.pdfh(html, "#t&&value");
+            pdata = pdata.substring(6, pdata.length);
+            pdata = pdata.substring(0, (pdata.length) - 2)
+            pdata = base64Decode(pdata);
+            let jo = JSON.parse(pdata).links;
+            let d = jo.map(function(it){
+                return it.name + '$' + urlencode(it.url)
+            });
+            LISTS.push(d)
+        `,
 	
-                 lists:'.game-videos-btn-container a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
-                 list_text:'a&&Text',
-                 list_url:'a&&href'
+          //lists:'.game-videos-btn-container a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
+           //list_text:'a&&Text',
+         //list_url:'a&&href'
         },
     搜索:'',
 }
