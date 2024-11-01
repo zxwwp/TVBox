@@ -1,5 +1,5 @@
 {
-"spider":"https://3276.kstore.space/jar/Yoursmile.jar",
+"spider":"./Yoursmile.jar",
 "lives":[
 	{
     "name":"自建直播",
@@ -8,7 +8,7 @@
 	"boot":false,
 	"ua":"okhttp/3.15",
 	"url":"./IPV6.txt",
-	"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+	"epg":"https://diyp10.112114.xyz/?ch={name}&date={date}",
 	"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	//"logo": "https://live.fanmingming.com/tv/{name}.png"
     }
@@ -32,7 +32,7 @@
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 
 {"key": "火狐","name": "🕹️火狐|采集","type": 1,"style": {"type": "rect","ratio": 0.8},"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","changeable": 1},
-{"key": "快看资源","name": "🧸快看|采集","type": 1,"style": {"type": "rect","ratio": 0.8},"playerType": "2","api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/","searchable": 1,"quickSearch": 1， "filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","changeable": 1},
+{"key": "快看资源","name": "🧸快看|采集","type": 1,"style": {"type": "rect","ratio": 0.8},"playerType": "2","api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/","searchable": 1,"quickSearch": 1， "filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url="，"changeable": 1},
 {"key": "豪华资源","name": "♠️豪华|采集","type": 1,"style": {"type": "rect","ratio": 0.8},"playerType": "2","api": "https://hhzyapi.com/api.php/provide/vod/?","searchable": 1,"quickSearch": 1, "filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url="，"changeable": 1},
 {"key": "高清资源","name": "🪀高清|采集","type": 1,"style": {"type": "rect","ratio": 0.8},"playerType": "2","api": " https://api.1080zyku.com/inc/apijson.php","searchable": 1,"quickSearch": 1, "filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","changeable": 1},
 {"key":"非凡资源","name":"🎮非凡|采集","type":1,"style": {"type": "rect","ratio": 0.8},"playerType": "2","api":"http://ffzy3.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","changeable": 1},
