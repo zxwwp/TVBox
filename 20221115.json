@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/1107.jar",
+  "spider": "./1107.jar",
   "lives": [
     {
       "name": "自建直播",
@@ -32,7 +32,7 @@
 {"key": "真心影视","name": "🍎真心影视","type": 3,"api": "csp_WebGZ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
 {"key": "机器人","name": "🍎机器人影视", "type": 3,"api": "csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
 {"key":"360kan","name":"360影视","type":3,"api":"./js/360.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0},
-{"key":"星辰xBPQ","name":"🔥星辰影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}","分类":"电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju"}},
+{"key":"星辰xBPQ","name":"🔥星辰影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}"，"分类":"电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju"}},
 
 {"key":"小熊弹幕","name":"✨小熊影视","type":3,"api":"http://uk.frp.one:29999/1107lib/drpy2.min.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"./js/%E5%B0%8F%E7%86%8A.js"},
 {"key": "111tv_js","name": "✨111tv","type": 3,"api": "./js/drpy2.min.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext": "./js/111tv.js"},
