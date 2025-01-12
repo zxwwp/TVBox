@@ -19,7 +19,7 @@
 
 {"key":"豆瓣","name":"🌻 豆瓣┃追剧","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
  
-{"key":"客星","name":"🍎客星影视","type":3,"api":"csp_Xdai","playerType":2,"ext":"caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==","jar":"./jar/qj.jar"},   
+{"key":"客星","name":"🍎客星影视","type":3,"api":"csp_Xdai","playerType":2,"ext":"caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==","jar":"./qj.jar"},   
 {"key": "洽洽影视","name": "🍎洽洽影视","type": 3,"api": "csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
 {"key": "忍者影视","name": "🍎忍者影视","type": 3,"api": "csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
 {"key":"csp_Kuaikan","name":"🍎快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
