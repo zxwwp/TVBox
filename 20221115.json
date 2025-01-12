@@ -13,9 +13,6 @@
     }
   ],
   "sites": [
-    {"key": "广播频道","name": "📡广播", "type": 3,"api": "./js/live2mv.js","changeable": 0,"ext": "广播$./广播频道.txt" },
-    {"key": "音乐频道","name": "📡轻音乐", "type": 3,"api": "./js/live2mv.js","changeable": 0, "ext": "轻音乐$./轻音乐.txt"},
-    {"key": "影院频道","name": "📺影院","type": 3,"api": "./js/live2mv.js","changeable": 0,"ext": "影院$./影院.txt"},
     {"key": "JRKAN直播","name": "⛹️JRKAN直播","type": "3","api": "./js/drpy2.min.js","ext": "./tiyu/JRKAN直播.js","playerType": 1,"style": {"type": "list"},"ua": "okhttp/3.15","jar": "./tiyu/fan.txt"},
     {"key": "88看球","name": "⛹️88看球","type": 3,"api": "./js/drpy2.min.js","ext": "./tiyu/88看球.js","playerType": 1,"style":  {"type": "list"},"ua": "okhttp/3.15","jar": "./tiyu/fan.txt"},
     {"key": "直播迷","name": "⛹️直播迷","type": 3,"api": "./js/drpy2.min.js","ext": "./tiyu/直播迷.js","playerType": 1,"style": {"type": "list"},"ua": "okhttp/3.15","jar": "./tiyu/fan.txt"},
@@ -29,8 +26,6 @@
 {"key":"文才","name":"🍎文才影视","type": 3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
 {"key":"小苹果弹幕版","name":"🍎苹果影视","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
 {"key":"天天弹幕版","name":"🍎天天影视","type": 3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
-{"key": "真心影视","name": "🍎真心影视","type": 3,"api": "csp_WebGZ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
-{"key": "机器人","name": "🍎机器人影视", "type": 3,"api": "csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
 {"key":"360kan","name":"360影视","type":3,"api":"./js/360.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0},
 {"key":"星辰xBPQ","name":"🔥星辰影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}"，"分类":"电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju"}},
 
@@ -41,19 +36,12 @@
 {"key": "茶杯狐","name": "✨茶杯狐","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/茶杯狐js"},
 {"key": "饺子影院","name": "✨饺子影院","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/饺子影院.js"},
 
-{"key": "sbys","name": "💖素白白影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=sbys","jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"},
-{"key": "mmys","name": "💖萌米影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 1,"timeout": 15,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"},
-{"key": "pgys","name": "💖苹果影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"},
 {"key": "gzys","name": "💖瓜子影视","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"timeout": 30,"jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
 {"key": "sxys","name": "💖师兄影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=sxys"},
 
-{"key":"junjun1","name":"🥭奈飞影视","playerType": 1,"type":3,"searchable":1,"quickSearch":1,"api":"./js/appys.js","ext":{"host":"https://yanetflix.me/api.php/app/","*":["https://zy.qiaoji8.com/gouzi.php?url=","https://zy.qiaoji8.com/neibu.php?url=","https://jxjson.icu/neibu.php?url=","http://pan.qiaoji8.com/tvbox/neibu.php?url=","http://43.248.100.147:6068/bba/bbajson.php?url=","http://112.74.124.75:8899/jiexi/api.php?url="]}},
 {"key":"腐剧TV","name":"🥭腐剧TV","playerType": 1,"type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod"},
 {"key": "小马影视","name": "🥭小马影视","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://mas.szyyds.cn/api.php/app/"},
 {"key": "酷影视","name": "🥭酷影视","playerType": 1,"type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
-{"key": "NRTFIY星球","name": "🥭NETFIY","playerType": 1,"type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.netfly.tv/api.php/app/"},
-{"key": "1080影视","name": "🥭1080影视","playerType": 1,"type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.1080dyw.xyz/api.php/v1.vod"},
-{"key": "小舞姐影视","name": "🥭小舞姐专线","playerType": 2,"type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://影视.龙伊.top/api.php/app/"},
 
 {"key": "优质资源","name": "🐧优质","type": 1,"style": {"type": "rect","ratio": 0.8},"playerType": "2","api": "https://www.1080zyk11.com/inc/apijson.php","jar": "http://192.168.110.126:5212/f/W6fA/ttkx.jar","searchable": 1,"quickSearch": 1, "filterable":1,"timeout":20,"changeable": 1,"playurl": "json:https://vip.zykbf.com/?url=","categories": ["国产剧","韩国剧","欧美剧","泰国剧","动作片","战争片","大陆综艺","国产动漫"],"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"} },
 {"key": "卧龙资源","name": "🐧卧龙","type": 1,"style": {"type": "rect","ratio": 0.8},"playerType": "2","api":"https://collect.wolongzy.cc/api.php/provide/vod/?ac=list","jar": "http://192.168.110.126:5212/f/W6fA/ttkx.jar","searchable": 1,"quickSearch": 1,"timeout":20,"filterable": 1,"changeable": 1,"playurl": "json:https://jx.wolongzywcdn.com:65/m3u8.php?url=","categories": ["国产剧","韩国剧","欧美剧","海外剧","动作片","战争片","大陆综艺","国产动漫"],"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"} },
