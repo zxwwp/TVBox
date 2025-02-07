@@ -19,15 +19,17 @@
 
 {"key":"豆瓣","name":"🌻 豆瓣┃追剧","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
  
-{"key":"客星","name":"🍎客星影视","type":3,"api":"csp_Xdai","playerType":2,"ext":"caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==","jar":"./qj.jar"},   
-{"key": "洽洽影视","name": "🍎洽洽影视","type": 3,"api": "csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
-{"key": "忍者影视","name": "🍎忍者影视","type": 3,"api": "csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
-{"key":"csp_Kuaikan","name":"🍎快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
-{"key":"文才","name":"🍎文才影视","type": 3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
-{"key":"小苹果弹幕版","name":"🍎苹果影视","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
-{"key":"天天弹幕版","name":"🍎天天影视","type": 3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
-{"key":"360kan","name":"360影视","type":3,"api":"./js/360.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0},
-{"key":"星辰xBPQ","name":"🔥星辰影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}"，"分类":"电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju"}},
+{"key": "gzys","name": "☄️瓜子影视","type": 3,"api": "csp_Gz360","style":{"type":"list"},"ua": "okhttp/3.15","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"timeout": 30,"jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
+{"key": "zxys","name": "☄️真心影视","type": 3,"api": "csp_WebGZ","style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"playerType": 2,"timeout": 30},
+{"key": "zcys","name": "☄️客星影视","type":3,"api":"csp_Xdai","style":{"type":"list"},"ua": "okhttp/3.15","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1, "timeout": 30,"ext":"caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==","jar":"http://ld.frp.one:36803/f/oVofP/qj.jar"},
+{"key": "qqys","name": "☄️洽洽影视","type": 3,"api": "csp_AppGZ","style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 30},
+
+{"key":"wcys","name":"🍎文才影视","type": 3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
+{"key": "nzys","name": "🍎忍者影视","type": 3,"api": "csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
+{"key":"kkys","name":"🍎快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
+{"key":"pgys","name":"🍎苹果影视","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
+//{"key":"天天弹幕版","name":"🍎天天影视","type": 3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
+{"key":"xcys","name":"🔥星辰影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}","分类":"电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju"}},
 
 {"key":"小熊弹幕","name":"✨小熊影视","type":3,"api":"./js/drpy2.min.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"./js/%E5%B0%8F%E7%86%8A.js"},
 {"key": "111tv_js","name": "✨111tv","type": 3,"api": "./js/drpy2.min.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext": "./js/111tv.js"},
@@ -36,7 +38,6 @@
 {"key": "茶杯狐","name": "✨茶杯狐","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/茶杯狐js"},
 {"key": "饺子影院","name": "✨饺子影院","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/饺子影院.js"},
 
-{"key": "gzys","name": "💖瓜子影视","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"timeout": 30,"jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
 {"key": "sxys","name": "💖师兄影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=sxys"},
 
 {"key":"腐剧TV","name":"🥭腐剧TV","playerType": 1,"type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod"},
