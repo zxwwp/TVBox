@@ -123,6 +123,13 @@
 Tvbs新闻台,http://125.229.9.67:8543/http/220.130.87.218:8081/hls/75/817/ch059.m3u8
 東森新闻台,http://125.229.9.67:8539/http/220.130.87.218:8081/hls/63/805/ch010.m3u8
 
+鳯凰資訊台,http://211.75.171.121:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
+鳯凰中文台,http://211.75.171.121:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
+寰宇新聞台,http://211.75.171.121:8520/http/61.67.128.137:8081/hls/76/818/ch062.m3u8
+東森新聞台,http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8
+中天新聞台,http://211.75.171.121:8534/http/61.67.128.137:8081/hls/78/80/ch063max.m3u8
+Tvbs新闻台,http://211.75.171.121:8543/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
+
 凤凰资讯,http://6v.nx.tc/smrt.php?playurl=http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://6v.nx.tc/smrt.php?playurl=http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://6v.nx.tc/smrt.php?playurl=https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
