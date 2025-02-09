@@ -1,7 +1,6 @@
 {
   "spider": "./pg.jar",
   "lives": [
-
     {
       "name": "自建直播",
       "type": 0,
@@ -11,7 +10,7 @@
       "url": "./IPV6.txt",
       "epg": "https://diyp10.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp10.112114.xyz/logo/{name}.png"
-    }
+    },
   ],
   "sites": [
     {"key": "JRKAN直播","name": "⛹️JRKAN直播","type": "3","api": "./js/drpy2.min.js","ext": "./tiyu/JRKAN直播.js","playerType": 1,"style": {"type": "list"},"ua": "okhttp/3.15","jar": "./tiyu/fan.txt"},
