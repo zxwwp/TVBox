@@ -53,7 +53,7 @@
                 "tgsearch_media_url": "http://tg.fish2018.us.kg",
                 "channellist": "tgsearchers,alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx",
                 "proxy": "noproxy",
-                "danmu": true
+                "danmu": true }
             },
                {
             "key": "Jrsjs",
@@ -62,7 +62,7 @@
             "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
             "style": {
-                "type": "list"
+                "type": "list" }
             },
          {
             "key": "FourKFM",
