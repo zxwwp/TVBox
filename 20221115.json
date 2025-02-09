@@ -38,22 +38,28 @@
             "api": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/live2vod.js",
             "ext": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/feimaolive.json"
         },
-     {
+{
             "key": "TGYunPan",
             "name": "TG群组搜索",
             "type": 3,
             "api": "csp_TGYunPan",
             "timeout": 120,
             "ext": {
-                "token": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
-                "json": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tgsearch.json",
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://tg.fish2018.us.kg",
                 "tgsearch_media_url": "http://tg.fish2018.us.kg",
                 "channellist": "tgsearchers,alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx",
                 "proxy": "noproxy",
-                "danmu": true }
+                "danmu": true
             },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+
                {
             "key": "Jrsjs",
             "name": "Jrsjs┃看球",
