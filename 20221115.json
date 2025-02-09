@@ -79,7 +79,7 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$http://4kfm.com/$$$noproxy$$$1$$$./lib/4kfm.txt$$$4KFM"
-        }，
+        },
          {
             "key": "Gaoqing",
             "name": "中国高清网|网盘",
@@ -90,7 +90,7 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"
-        }，  
+        },
             {
             "key": "新6V",
             "name": "新6V|网盘",
@@ -126,7 +126,7 @@
             "filterable": 1,
             "timeout": 60,
             "ext": ""
-        },   
+        },
           {
             "key": "黑木耳",
             "name": "黑木耳",
