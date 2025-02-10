@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar",
+  "spider": "./1107.jar",
   "lives": [
     {
       "name": "自建直播",
@@ -19,35 +19,7 @@
 
 {"key":"豆瓣","name":"🌻 豆瓣┃追剧","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
 
-{"key": "Guazi","name": "瓜子|App","type": 3,"api": "csp_Guazi","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": ""},
-       
-         {
-            "key": "天天",
-            "name": "天天┃App",
-            "type": 3,
-            "api": "csp_TTian",
-            "ext": "http://op.ysdqjs.cn$$$null$$$1"
-        },
-        {
-            "key": "追剧",
-            "name": "追剧┃App",
-            "type": 3,
-            "api": "csp_TTian",
-            "ext": "http://app.kzjtv.com$$$null$$$1"
-        },
-        {
-            "key": "Ikanbot",
-            "name": "爱看机器人",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://v.aikanbot.com$$$proxy"
-        },
-    
-   
+{"key": "Guazi","name": "☄️瓜子|App","type": 3,"api": "csp_Guazi","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": ""},
 {"key": "gzys","name": "☄️瓜子影视","type": 3,"api": "csp_Gz360","style":{"type":"list"},"ua": "okhttp/3.15","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"timeout": 30,"jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
 {"key": "zxys","name": "☄️真心影视","type": 3,"api": "csp_WebGZ","style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"playerType": 2,"timeout": 30},
 {"key": "zcys","name": "☄️客星影视","type":3,"api":"csp_Xdai","style":{"type":"list"},"ua": "okhttp/3.15","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1, "timeout": 30,"ext":"caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==","jar":"http://ld.frp.one:36803/f/oVofP/qj.jar"},
