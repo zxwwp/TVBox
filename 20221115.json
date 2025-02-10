@@ -1,5 +1,5 @@
 {
-  "spider": "./1107.jar",
+  "spider": "./pg.jar",
   "lives": [
     {
       "name": "自建直播",
@@ -31,7 +31,7 @@
 {"key":"pgys","name":"🍎苹果影视","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
 {"key":"xcys","name":"🔥星辰影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}","分类":"电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju"}},
 
-{"key":"小熊弹幕","name":"✨小熊影视","type":3,"api":"./js/drpy2.min.js"，"playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"./js/%E5%B0%8F%E7%86%8A.js"},
+{"key":"小熊弹幕","name":"✨小熊影视","type":3,"api":"./js/drpy2.min.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"./js/%E5%B0%8F%E7%86%8A.js"},
 {"key": "111tv_js","name": "✨111tv","type": 3,"api": "./js/drpy2.min.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext": "./js/111tv.js"},
   {"key": "七新电影网","name": "✨七新电影网","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/七新电影网.js"},
 {"key": "宝片视频","name": "✨宝片视频","type": 3,"api": "http://./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/宝片视频.js"},
