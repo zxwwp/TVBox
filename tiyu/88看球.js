@@ -1,40 +1,54 @@
 var rule = {
     title:'88看球',
-    host:'http://www.88kanqiu.one',
+    // host:'http://www.88kanqiu.cc',
+    host:'http://www.88kanqiu.bar/',
     url:'/fyclass',
     class_name:'赛事直播✨注意时间',
     class_url:'/',
-    //url:'/match/fyclass/live',
-    //class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',
-    推荐:'*',
-    一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.group-game-item');tabs.forEach(function(it){var pz=pdfh(it,'.team-name&&Text');var pk=pdfh(it,'.d-none div:gt(1):lt(9)&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'.d-none div:eq(3)&&Text');var url=pd(it,'a&&href');items.push({desc:timer+'  ',title:pz+'🆚'+pk,pic_url:img,url:url})});setResult(items);",
-    二级:{
-	    "title":".game-info-container&&Text;.customer-navbar-nav li&&Text",
+    pagecount:{"1":1,"2":1,"4":1,"22":1,"8":1,"9":1,"10":1,"14":1,"15":1,"12":1,"13":1,"16":1,"28":1,"7":1,"11":1,"33":1,"27":1,"23":1,"26":1,"3":1,"21":1,"18":1},
+    lazy: `js:
+        if(/embed=/.test(input)) {
+            let url = input.match(/embed=(.*?)&/)[1];
+            url = base64Decode(url);
+            input = {
+                jx:0,
+                url: url.split('#')[0],
+                parse: 0
+            }
+        } else if (/\?url=/.test(input)){
+            input = {
+                jx:0,
+                url: input.split('?url=')[1].split('#')[0],
+                parse: 0
+            }
+        } else {
+            input
+        }
+    `,
+    limit: 6,
+    double: false,
+    推荐: "*",
+    一级: ".list-group .group-game-item;.d-none&&Text;img&&src;.btn&&Text;a&&href",
+    二级: {
+        "title":".game-info-container&&Text;.customer-navbar-nav li&&Text",
         img:".img-responsive.center-block.team-logo&&src",
         desc:";;;.game-info-container div:eq(0)&&Text;.game-info-container div:eq(2)&&Text",
 	    content:".game-info-container&&Text",
-        //"title":".game-info-container&&Text;.customer-navbar-nav li&&Text",
-	    //"img":"img&&src",
-	    //"desc":";;;div.team-name:eq(0)&&Text;div.team-name:eq(1)&&Text",
-	    //"content":"div.game-time&&Text",
-	    "tabs":"js:TABS=['【直播源】']",
-	    lists: `js:
-            LISTS=[];
-            let html = request(input);
-            let pdata = jsp.pdfh(html, "#t&&value");
-            pdata = pdata.substring(6, pdata.length);
-            pdata = pdata.substring(0, (pdata.length) - 2)
+        tabs: "js:TABS=['直播源']",
+        lists: `js:
+            LISTS = [];
+            let html = request(input.replace('play', 'play-url'));
+            let pdata = JSON.parse(html).data;
+            pdata = pdata.slice(6);
+            pdata = pdata.slice(0, -2);
             pdata = base64Decode(pdata);
+            // log(pdata);
             let jo = JSON.parse(pdata).links;
-            let d = jo.map(function(it){
+            let d = jo.map(function (it) {
                 return it.name + '$' + urlencode(it.url)
             });
             LISTS.push(d)
         `,
-	
-          //lists:'.game-videos-btn-container a',   //显示直播信号数量。gt是指直播信号数量从-1开始第几个，li是指直播信号数量总共有几个。
-           //list_text:'a&&Text',
-         //list_url:'a&&href'
-        },
-    搜索:'',
-}
+    },
+    搜索: "",
+};
