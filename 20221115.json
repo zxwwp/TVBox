@@ -93,7 +93,7 @@
     },
  {
       "key": "4k live",
-      "name": "接口教程论坛http://fzl8877.uidc.top/",
+      "name": "丰之玲",
       "type": 3,
       "jar": "https://gitee.com/yiwu369/6758/raw/master/朱雀/jars/4K.jar",
       "api": "csp_XBPQ",
@@ -1011,7 +1011,7 @@
     }
   ],
   "proxy": [
-    "raw.githubusercontent.com"
+    "raw.bgithub.xyz"
   ],
   "hosts": [
     "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
